@@ -128,17 +128,32 @@
       function opts(v) {
         if (v == null) return [{ v: null, cost: 0 }];
         var o = [{ v: v, cost: 0 }], s = String(Math.abs(v));
-        if (s.length > 1) o.push({ v: parseInt(s.slice(1), 10), cost: 1 });  // drop glue digit
+        if (s.length > 1) o.push({ v: parseInt(s.slice(1), 10), cost: 1 });  // drop ₹-glue digit
         return o;
+      }
+      // A ₹-glued discount is ambiguous: BOTH "de-glue the discount" and "de-glue the
+      // total" can satisfy subtotal+taxes−discount=total with one digit dropped — but
+      // one yields an absurd 81% discount. So we don't pick by de-glue COUNT; we pick by
+      // BUSINESS plausibility, which is universal for every UC quote:
+      //   • discount is a small % of subtotal (slabs are 5%/8%)
+      //   • taxes are a small % of subtotal
+      //   • total sits close to the subtotal
+      // Lower penalty = more plausible. This is a general rule, not tuned to any quote.
+      function penalty(s, t, d, g, cost) {
+        if (s <= 0 || d < 0) return 1e9;
+        var dr = d / s, tr = t / s, gr = g / s;
+        return cost                                   // prefer fewer edits (weak)
+          + Math.max(0, dr - 0.15) * 300              // discount over ~15% → implausible
+          + Math.max(0, tr - 0.15) * 200              // taxes over ~15% → implausible
+          + Math.abs(gr - 1) * 100;                   // total should be ≈ subtotal
       }
       var S = opts(subtotal), T = opts(taxes),
           D = (discount == null ? [{ v: 0, cost: 0 }] : opts(discount)), G = opts(total), best = null;
       S.forEach(function (s) { T.forEach(function (t) { D.forEach(function (d) { G.forEach(function (g) {
         if (s.v == null || t.v == null || g.v == null || g.v <= 0) return;
-        if (s.v + t.v - d.v === g.v) {
-          var cost = s.cost + t.cost + d.cost + g.cost;
-          if (!best || cost < best.cost) best = { s: s.v, t: t.v, d: d.v, g: g.v, cost: cost };
-        }
+        if (s.v + t.v - d.v !== g.v) return;          // must satisfy the exact identity
+        var p = penalty(s.v, t.v, d.v, g.v, s.cost + t.cost + d.cost + g.cost);
+        if (!best || p < best.p) best = { s: s.v, t: t.v, d: d.v, g: g.v, p: p };
       }); }); }); });
       if (best) { subtotal = best.s; taxes = best.t; discount = best.d; total = best.g; reconciled = true; }
       else if (total != null && taxes != null) {                        // fallback: derive subtotal
