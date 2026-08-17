@@ -137,10 +137,12 @@
     // token (e.g. "5083", "0G29", "183S", "0952/0414"). Accessories like Polyfix,
     // Silicon glue, Copper wire start with a plain word → excluded here.
     function looksLikePanel(name) {
-      var t = (name.split(/\s+/)[0] || '');
-      // must start with a code-like token (has a digit): panels & coded beadings do,
-      // plain accessories (Silicon glue, Polyfix, Visible H Trim, J Trim) do not.
-      return /\d/.test(t) && t.length <= 10 && /^[0-9A-Za-z/]+$/.test(t);
+      // Code tokens may carry a "*" footnote marker (catalog has X905*, 9472*, 9382*…)
+      // which OCR sometimes renders as "°" — strip such symbols before testing.
+      var t = (name.split(/\s+/)[0] || '').replace(/[^0-9A-Za-z/]/g, '');
+      // must be a code-like token (has a digit): panels & coded beadings do; plain
+      // accessories (Silicon glue, Polyfix, Metal clips, Visible H Trim) do not.
+      return /\d/.test(t) && t.length >= 2 && t.length <= 10;
     }
     var items = [], accessories = [];
     lines.forEach(function (l) {
@@ -487,16 +489,30 @@
       review.accessories.push(a);
     });
 
-    // match + dedupe by catalog code, keeping the best name-match. When both a real
-    // panel line and its beading map to the same code, the panel line wins (higher
-    // overlap); a design present ONLY via its beading is flagged fromBeading.
-    var byCode = {}, unmatched = [];
+    // Match lines to the catalog. A design's leading code token (e.g. "X905",
+    // stripped of the "*" marker) identifies it. Real PANEL lines are matched first;
+    // a beading/trim line is only kept if NO real panel already covers that design
+    // (so "X905* L Bidding Wood" doesn't spawn a phantom panel next to the real
+    // "X905* Small square Wood"). A design present ONLY via its beading (e.g. D164)
+    // is still captured, flagged fromBeading so its qty can be verified.
+    function leadCode(name) { return (name.split(/\s+/)[0] || '').replace(/[^0-9A-Za-z]/g, '').toUpperCase(); }
+    function isBeadingLine(name) { return /bidding|beading|\btrim\b/i.test(name); }
+    var byCode = {}, leadSeen = {}, unmatched = [], beadingLines = [];
     parsed.items.forEach(function (it) {
+      if (isBeadingLine(it.name)) { beadingLines.push(it); return; }   // defer beadings
       var m = matchPanel(it.name);
       if (!m) { if (unmatched.indexOf(it.name) < 0) unmatched.push(it.name); return; }
       var code = m.panel.code, sc = wordOverlap(it.name, m.panel.name);
-      var isBeading = /bidding|beading|\btrim\b/i.test(it.name);
-      if (!byCode[code] || sc > byCode[code].sc) byCode[code] = { panel: m.panel, qty: it.qty, sc: sc, fromBeading: isBeading };
+      if (!byCode[code] || sc > byCode[code].sc) byCode[code] = { panel: m.panel, qty: it.qty, sc: sc, fromBeading: false };
+      leadSeen[leadCode(it.name)] = true;
+    });
+    beadingLines.forEach(function (it) {
+      if (leadSeen[leadCode(it.name)]) return;                          // redundant trim for a real panel
+      var m = matchPanel(it.name);
+      if (!m) { if (unmatched.indexOf(it.name) < 0) unmatched.push(it.name); return; }
+      var code = m.panel.code, sc = wordOverlap(it.name, m.panel.name);
+      if (!byCode[code] || sc > byCode[code].sc) byCode[code] = { panel: m.panel, qty: it.qty, sc: sc, fromBeading: true };
+      leadSeen[leadCode(it.name)] = true;
     });
     var beadingOnly = [];
     Object.keys(byCode).forEach(function (code) {
