@@ -118,14 +118,32 @@
     var total = amountFor(/total\s*amount/i);
     if (total == null) total = amountFor(/\btotal\b/i);  // fallback
 
-    // The ₹ glyph often OCRs as a glued digit (e.g. "₹18,319" → "318,319"),
-    // corrupting the subtotal. The quote identity is exact and glue-proof:
-    //   total = subtotal + taxes − discount  ⇒  subtotal = total − taxes + discount
-    // (verified across all sample quotes). Prefer it whenever total & taxes read.
-    if (total != null && taxes != null) {
-      var derived = total - taxes + (discount || 0);
-      if (derived > 0) subtotal = derived;
-    }
+    // The ₹ glyph frequently OCRs as a leading "glue" digit on ANY amount
+    // (e.g. "₹18,319"→"318,319" on subtotal, "₹3,117"→"23,117" on discount).
+    // The quote identity is exact:  subtotal + taxes − discount = total.
+    // Reconcile all four against it, "de-gluing" (dropping the spurious leading
+    // digit) whichever field breaks the identity — pick the fix with fewest changes.
+    (function reconcile() {
+      function opts(v) {
+        if (v == null) return [{ v: null, cost: 0 }];
+        var o = [{ v: v, cost: 0 }], s = String(Math.abs(v));
+        if (s.length > 1) o.push({ v: parseInt(s.slice(1), 10), cost: 1 });  // drop glue digit
+        return o;
+      }
+      var S = opts(subtotal), T = opts(taxes),
+          D = (discount == null ? [{ v: 0, cost: 0 }] : opts(discount)), G = opts(total), best = null;
+      S.forEach(function (s) { T.forEach(function (t) { D.forEach(function (d) { G.forEach(function (g) {
+        if (s.v == null || t.v == null || g.v == null || g.v <= 0) return;
+        if (s.v + t.v - d.v === g.v) {
+          var cost = s.cost + t.cost + d.cost + g.cost;
+          if (!best || cost < best.cost) best = { s: s.v, t: t.v, d: d.v, g: g.v, cost: cost };
+        }
+      }); }); }); });
+      if (best) { subtotal = best.s; taxes = best.t; discount = best.d; total = best.g; }
+      else if (total != null && taxes != null) {                        // fallback: derive subtotal
+        var dv = total - taxes + (discount || 0); if (dv > 0) subtotal = dv;
+      }
+    })();
 
     var customer = '';
     lines.forEach(function (l) {
