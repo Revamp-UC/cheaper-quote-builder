@@ -9,3 +9,6 @@ test-quotes/
 # Dev-only scripts & scratch (not needed for the live site)
 tools/
 *.log
+
+# local ship helper (may hold a Render deploy hook)
+ship.sh
