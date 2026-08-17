@@ -1,0 +1,10 @@
+# Render Blueprint — pure static site, no build step.
+# Render serves the repo root; `/` opens index.html (the Quote Builder tool),
+# `/catalog.html` is the panel catalog.
+services:
+  - type: web
+    name: cheaper-quote-builder
+    runtime: static
+    buildCommand: ""
+    staticPublishPath: .
+    pullRequestPreviewsEnabled: false

@@ -1,0 +1,11 @@
+# OS junk
+.DS_Store
+**/.DS_Store
+"untitled folder/"
+
+# Real customer quotations — DO NOT publish
+test-quotes/
+
+# Dev-only scripts & scratch (not needed for the live site)
+tools/
+*.log
