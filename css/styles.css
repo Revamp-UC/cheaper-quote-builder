@@ -264,3 +264,4 @@ body.cheap-mode .card:not(.is-cheaper){display:none}
 
 /* ---- dropzone AI note ---- */
 .qb-drop-ai-note{margin-top:10px;font-size:12px;color:var(--blue);opacity:.8}
+.qb-warn-strong{background:rgba(248,113,113,.12);border:1px solid rgba(248,113,113,.4);color:#fca5a5;font-weight:600;padding:9px 12px;border-radius:9px;margin-bottom:12px;font-size:12.5px}

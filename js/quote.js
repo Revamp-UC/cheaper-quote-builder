@@ -15,7 +15,7 @@
 
   // ---------- state ----------
   var CATALOG = [];
-  var review = { customer: '', subtotal: 0, taxes: 0, total: 0, panels: [], accessories: [] };
+  var review = { customer: '', subtotal: 0, taxes: 0, total: 0, panels: [], accessories: [], numbersOk: true };
   var ocrWorker = null;
 
   // ---------- tiny helpers ----------
@@ -123,6 +123,7 @@
     // The quote identity is exact:  subtotal + taxes − discount = total.
     // Reconcile all four against it, "de-gluing" (dropping the spurious leading
     // digit) whichever field breaks the identity — pick the fix with fewest changes.
+    var reconciled = false;   // did the four amounts satisfy the identity (after de-glue)?
     (function reconcile() {
       function opts(v) {
         if (v == null) return [{ v: null, cost: 0 }];
@@ -139,7 +140,7 @@
           if (!best || cost < best.cost) best = { s: s.v, t: t.v, d: d.v, g: g.v, cost: cost };
         }
       }); }); }); });
-      if (best) { subtotal = best.s; taxes = best.t; discount = best.d; total = best.g; }
+      if (best) { subtotal = best.s; taxes = best.t; discount = best.d; total = best.g; reconciled = true; }
       else if (total != null && taxes != null) {                        // fallback: derive subtotal
         var dv = total - taxes + (discount || 0); if (dv > 0) subtotal = dv;
       }
@@ -173,7 +174,7 @@
       if (looksLikePanel(name)) items.push({ name: name, qty: qty });
       else accessories.push({ name: name, qty: qty });   // glue, clips, trims, shelf, light…
     });
-    return { customer: customer, subtotal: subtotal, taxes: taxes, total: total, items: items, accessories: accessories };
+    return { customer: customer, subtotal: subtotal, taxes: taxes, total: total, items: items, accessories: accessories, reconciled: reconciled };
   }
 
   // ---------- match extracted name → catalog panel ----------
@@ -328,7 +329,12 @@
     var panelCost = review.panels.reduce(function (s, r) { return s + r.qty * r.panel.perPanel; }, 0);
     var resid = (review.subtotal || 0) - panelCost;
     var withCheaper = review.panels.filter(function (r) { return r.cheaper.length; }).length;
+    // Layer-2 guard: the four amounts MUST satisfy  subtotal + taxes − discount = total.
+    var identityOff = (review.subtotal && review.total) &&
+      (review.subtotal + review.taxes - review.total < 0 || review.subtotal + review.taxes - review.total > review.subtotal);
+    var numbersBad = review.numbersOk === false || identityOff;
     $('residual').innerHTML =
+      (numbersBad ? '<div class="qb-warn qb-warn-strong">⚠ Numbers don\'t add up — the reader may have mis-read a figure. Please check Sub&nbsp;total, Taxes &amp; Total above before generating.</div>' : '') +
       '<div class="qb-label" style="margin:0 0 6px">Sanity check</div>' +
       'Panels added: <b>' + review.panels.length + '</b> · with cheaper option: <b>' + withCheaper + '</b><br>' +
       'Catalog panel cost: <b>' + rupee(panelCost) + '</b> · implied accessories: <b class="' + (resid < 0 ? 'qb-neg' : '') + '">' + rupee(resid) + '</b>' +
@@ -499,6 +505,7 @@
     review.subtotal = parsed.subtotal || 0;
     review.taxes = parsed.taxes || 0;
     review.total = parsed.total || 0;
+    review.numbersOk = parsed.reconciled !== false;   // did the amounts add up?
     review.panels = [];
     // dedupe accessories by normalized name (PDFs repeat line items across pages)
     var accSeen = {}; review.accessories = [];
@@ -567,11 +574,13 @@
       applyExtraction(parsed);
       hideLoading();
 
-      // Auto-advance: if we got usable data, jump straight to cheaper quotes.
-      if (review.panels.length && review.subtotal && review.total) {
+      // Auto-advance ONLY when data is usable AND the amounts add up. If the numbers
+      // don't reconcile, never silently generate — route to the review screen where
+      // updateResidual() shows a clear warning for the human to fix first.
+      if (review.panels.length && review.subtotal && review.total && review.numbersOk) {
         renderResults(generateQuotes());
       } else {
-        toBuild();  // needs a human fix
+        toBuild();  // needs a human check/fix
       }
     }).catch(function (e) {
       hideLoading();
@@ -582,7 +591,7 @@
   }
 
   function resetAll() {
-    review = { customer: '', subtotal: 0, taxes: 0, total: 0, panels: [], accessories: [] };
+    review = { customer: '', subtotal: 0, taxes: 0, total: 0, panels: [], accessories: [], numbersOk: true };
     $('pdfPages').innerHTML = '<div class="qb-pdf-empty">No PDF uploaded — enter details manually on the right.</div>';
     ['fCustomer', 'fSubtotal', 'fTaxes', 'fTotal'].forEach(function (id) { $(id).value = ''; });
     hide('buildState'); hide('resultState'); show('dropState');
