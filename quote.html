@@ -1,0 +1,108 @@
+<!doctype html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Cheaper Quote Builder</title>
+<link rel="stylesheet" href="css/styles.css?v=11"></head><body>
+
+<!-- Loading overlay (AI reading state) -->
+<div id="loadingOverlay" class="qb-loading-overlay" hidden>
+  <div class="qb-loading-box">
+    <div class="qb-spinner"></div>
+    <div id="loadingMsg" class="qb-loading-msg">Working…</div>
+  </div>
+</div>
+
+<header>
+<div class="qb-topbar">
+  <button id="uploadBtn" class="qb-btn qb-btn-primary qb-btn-lg">⬆ Upload Quote</button>
+  <div style="display:flex;gap:10px;align-items:center">
+    <a id="changeCityBtn" class="qb-btn qb-btn-ghost qb-btn-lg" href="index.html">← City</a>
+    <a class="qb-btn qb-btn-catalog qb-btn-lg" href="catalog.html">🌐 Catalog</a>
+  </div>
+</div>
+<h1>Make Alternative Cheaper Quote — <span id="cityLabel" style="color:#4a9eff"></span></h1>
+</header>
+
+<main>
+  <input id="pdfInput" type="file" accept="application/pdf" hidden>
+
+  <!-- STATE 1: landing / dropzone -->
+  <section id="dropState" class="qb-state">
+    <div id="dropzone" class="qb-dropzone">
+      <div class="qb-drop-ic">📄</div>
+      <button class="qb-drop-btn">⬆ Upload Quote</button>
+      <div id="dropStatus" class="qb-drop-status"></div>
+    </div>
+  </section>
+
+  <!-- STATE 2: build (PDF viewer + editable entry) -->
+  <section id="buildState" class="qb-state" hidden>
+    <div class="qb-panel-head">
+      <div>
+        <h2 class="qb-h2">Review extracted quote</h2>
+        <div class="qb-sub2">Check the panels and totals, then generate cheaper quotes</div>
+      </div>
+      <div class="qb-actions">
+        <button id="reuploadBtn" class="qb-btn qb-btn-ghost qb-btn-lg">← Back</button>
+        <button id="generateBtn" class="qb-btn qb-btn-primary qb-btn-lg">Generate Quotes →</button>
+      </div>
+    </div>
+
+    <div class="qb-build-grid">
+      <div class="qb-viewer">
+        <div class="qb-label">Original quotation (reference)</div>
+        <div id="pdfPages" class="qb-pdf-pages"><div class="qb-pdf-empty">No PDF uploaded — enter details manually on the right.</div></div>
+      </div>
+
+      <div class="qb-entry">
+        <div class="qb-label">Quote figures</div>
+        <div class="qb-field"><label>Customer</label><input id="fCustomer" type="text" placeholder="Customer name"></div>
+        <div class="qb-3">
+          <div class="qb-field"><label>Sub total ₹</label><input id="fSubtotal" type="number" inputmode="numeric" placeholder="0"></div>
+          <div class="qb-field"><label>Taxes &amp; fees ₹</label><input id="fTaxes" type="number" inputmode="numeric" placeholder="0"></div>
+          <div class="qb-field"><label>Total ₹</label><input id="fTotal" type="number" inputmode="numeric" placeholder="0"></div>
+        </div>
+
+        <div class="qb-label" style="margin-top:14px">Panels in this quote <span class="qb-hint">(add or fix below)</span></div>
+        <div class="qb-ac">
+          <input id="acInput" type="text" placeholder="Search catalog to add a panel…" autocomplete="off">
+          <div id="acList" class="qb-ac-list" hidden></div>
+        </div>
+        <table class="qb-table" id="panelTable">
+          <thead><tr><th>Qty</th><th>Panel</th><th>₹/panel</th><th>Cheaper alts</th><th></th></tr></thead>
+          <tbody></tbody>
+        </table>
+        <div id="panelEmpty" class="qb-mini-empty">No panels added yet.</div>
+        <div class="qb-residual" id="residual"></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- STATE 3: results (quote cards) -->
+  <section id="resultState" class="qb-state" hidden>
+    <div class="qb-panel-head">
+      <div>
+        <h2 class="qb-h2">Cheaper alternative quotes</h2>
+        <div class="qb-sub2" id="resultMeta"></div>
+      </div>
+      <div class="qb-actions">
+        <button id="backToBuild" class="qb-btn qb-btn-ghost qb-btn-lg">← Back</button>
+        <button id="newQuoteBtn" class="qb-btn qb-btn-primary qb-btn-lg">⬆ New Quote</button>
+      </div>
+    </div>
+    <div id="quoteGrid" class="qb-grid"></div>
+    <div id="noQuotes" class="qb-empty" hidden></div>
+  </section>
+</main>
+
+<!-- Full-quote detail modal -->
+<div id="quoteModal" class="qb-modal" hidden>
+  <div class="qb-modal-backdrop" id="modalBackdrop"></div>
+  <div class="qb-modal-box">
+    <button id="modalClose" class="qb-modal-x" title="Close">✕</button>
+    <div id="modalBody"></div>
+  </div>
+</div>
+
+<script src="assets/vendor/pdf.min.js"></script>
+<script src="assets/vendor/tesseract/tesseract.min.js"></script>
+<script src="js/quote.js?v=13"></script>
+</body></html>

@@ -35,10 +35,19 @@
     return hits / Math.max(aw.length, bw.length);
   }
 
+  // ---------- city from URL ----------
+  var CITY = (new URLSearchParams(window.location.search).get('city') || 'delhi').toLowerCase();
+  var CITY_LABELS = { delhi: 'Delhi', mumbai: 'Mumbai', bengaluru: 'Bengaluru', hyderabad: 'Hyderabad' };
+  var cityLabel = document.getElementById('cityLabel');
+  if (cityLabel) cityLabel.textContent = CITY_LABELS[CITY] || CITY;
+
   // ---------- load catalog ----------
   function loadCatalog() {
-    return fetch('assets/data/panels.json')
-      .then(function (r) { if (!r.ok) throw new Error('panels.json ' + r.status); return r.json(); })
+    var file = ['delhi','mumbai','bengaluru','hyderabad'].indexOf(CITY) >= 0
+      ? 'assets/data/' + CITY + '.json'
+      : 'assets/data/panels.json';
+    return fetch(file)
+      .then(function (r) { if (!r.ok) throw new Error(file + ' ' + r.status); return r.json(); })
       .then(function (j) { CATALOG = j.panels || []; });
   }
 
