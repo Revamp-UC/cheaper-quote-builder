@@ -92,13 +92,78 @@ h1{
 .city-name{font-size:17px;font-weight:700;color:#fff;margin-bottom:3px}
 .city-ct{font-size:13px;color:#A8B3C7}
 .city-arr{font-size:22px;color:#4DA3FF;line-height:1}
+
+/* ── Password gate ── */
+#gate{
+  display:flex;flex-direction:column;align-items:center;
+  gap:20px;
+}
+#gate .lock-icon{
+  width:64px;height:64px;border-radius:18px;
+  background:rgba(77,163,255,0.12);
+  display:flex;align-items:center;justify-content:center;
+  font-size:30px;
+}
+#gate h2{
+  font-size:24px;font-weight:700;color:#fff;
+  text-align:center;letter-spacing:-0.5px;
+}
+#gate p{font-size:14px;color:#A8B3C7;text-align:center}
+.pin-wrap{
+  display:flex;gap:10px;justify-content:center;
+}
+.pin-wrap input{
+  width:52px;height:62px;
+  background:#1B2436;
+  border:1.5px solid rgba(255,255,255,0.10);
+  border-radius:12px;
+  color:#fff;
+  font-size:26px;font-weight:700;
+  text-align:center;
+  outline:none;
+  caret-color:transparent;
+  transition:border-color .15s;
+  -webkit-text-security:disc;
+}
+.pin-wrap input:focus{border-color:#4DA3FF;}
+.pin-wrap input.err{border-color:#FF453A;animation:shake .3s;}
+@keyframes shake{0%,100%{transform:translateX(0)}25%{transform:translateX(-5px)}75%{transform:translateX(5px)}}
+#gateErr{
+  font-size:13px;color:#FF453A;
+  min-height:18px;text-align:center;
+}
 </style>
 </head><body>
 
 <div class="blob blob-tl"></div>
 <div class="blob blob-br"></div>
 
-<div class="wrap">
+<!-- PASSWORD GATE -->
+<div class="wrap" id="gateWrap">
+  <div class="logo-outer">
+    <div class="logo-inner">
+      <div class="uc-badge">uc</div>
+      <div class="uc-name"><span>Urban</span><span>Company</span></div>
+    </div>
+  </div>
+
+  <div id="gate">
+    <div class="lock-icon">🔒</div>
+    <h2>Enter PIN to continue</h2>
+    <p>This tool is for internal use only.</p>
+
+    <div class="pin-wrap" id="pinWrap">
+      <input id="p0" type="tel" maxlength="1" inputmode="numeric" pattern="[0-9]">
+      <input id="p1" type="tel" maxlength="1" inputmode="numeric" pattern="[0-9]">
+      <input id="p2" type="tel" maxlength="1" inputmode="numeric" pattern="[0-9]">
+      <input id="p3" type="tel" maxlength="1" inputmode="numeric" pattern="[0-9]">
+    </div>
+    <div id="gateErr"></div>
+  </div>
+</div>
+
+<!-- MAIN APP (hidden until unlocked) -->
+<div class="wrap" id="appWrap" hidden>
 
   <!-- Logo -->
   <div class="logo-outer">
@@ -223,4 +288,49 @@ h1{
 
   </div>
 </div>
+
+<script>
+(function(){
+  var CORRECT = '1402';
+  var inputs = [document.getElementById('p0'),document.getElementById('p1'),document.getElementById('p2'),document.getElementById('p3')];
+  var errEl  = document.getElementById('gateErr');
+
+  // Auto-focus first box
+  inputs[0].focus();
+
+  function val(){ return inputs.map(function(i){return i.value}).join(''); }
+
+  function showErr(){
+    errEl.textContent = 'Wrong PIN — try again';
+    inputs.forEach(function(i){ i.value=''; i.classList.add('err'); });
+    inputs[0].focus();
+    setTimeout(function(){ inputs.forEach(function(i){ i.classList.remove('err'); }); errEl.textContent=''; },800);
+  }
+
+  function unlock(){
+    sessionStorage.setItem('qb_auth','1');
+    document.getElementById('gateWrap').hidden = true;
+    document.getElementById('appWrap').hidden  = false;
+  }
+
+  // Check on each keystroke
+  inputs.forEach(function(inp, idx){
+    inp.addEventListener('input', function(){
+      // keep only last digit typed (handles paste-over)
+      inp.value = inp.value.replace(/\D/g,'').slice(-1);
+      if(inp.value && idx < 3) inputs[idx+1].focus();
+      if(val().length === 4){
+        if(val() === CORRECT){ unlock(); }
+        else { showErr(); }
+      }
+    });
+    inp.addEventListener('keydown', function(e){
+      if(e.key==='Backspace' && !inp.value && idx > 0){ inputs[idx-1].focus(); }
+    });
+  });
+
+  // Already unlocked this session
+  if(sessionStorage.getItem('qb_auth')==='1'){ unlock(); }
+})();
+</script>
 </body></html>
