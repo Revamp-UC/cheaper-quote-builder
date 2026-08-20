@@ -1,0 +1,6039 @@
+{
+ "UC/D1/PPG/W0414": {
+  "name": "0952/0414 PVC Grooved Wood",
+  "alts": [
+   {
+    "code": "UC/D1/PPG/W0952",
+    "name": "0952/0414* PVC Grooved Wood",
+    "pct": 91
+   }
+  ]
+ },
+ "UC/D1/PPG/W0952": {
+  "name": "0952/0414* PVC Grooved Wood",
+  "alts": [
+   {
+    "code": "UC/D1/PPG/W0414",
+    "name": "0952/0414 PVC Grooved Wood",
+    "pct": 91
+   }
+  ]
+ },
+ "UC/D1/PPG/W0953": {
+  "name": "0953 PVC Grooved Wood",
+  "alts": []
+ },
+ "UC/D1/PPP/F0150": {
+  "name": "0150 PVC Plain Floral",
+  "alts": []
+ },
+ "UC/D1/PPP/G0273": {
+  "name": "0273 PVC Plain Abstract",
+  "alts": []
+ },
+ "UC/D1/PPP/J0168": {
+  "name": "0168 PVC Plain Gold",
+  "alts": [
+   {
+    "code": "UC/R1/PPP/J9472",
+    "name": "0168* PVC Plain Gold",
+    "pct": 91
+   },
+   {
+    "code": "UC/P1/PPP/K9472",
+    "name": "9472 Nio Plain Gold",
+    "pct": 77
+   },
+   {
+    "code": "UC/P1/PPN/K9472",
+    "name": "9472* Nio Plain Gold",
+    "pct": 76
+   }
+  ]
+ },
+ "UC/D1/PPP/S0229": {
+  "name": "0229 PVC Plain Gold",
+  "alts": [
+   {
+    "code": "UC/M2/SS0/M0HXL",
+    "name": "0HXL SPC Sheet Marble | 3 mm",
+    "pct": 75
+   }
+  ]
+ },
+ "UC/D1/PPP/S0426": {
+  "name": "9382* PVC Plain Stone",
+  "alts": []
+ },
+ "UC/D1/PPP/T0127": {
+  "name": "1218* PVC Plain Floral",
+  "alts": []
+ },
+ "UC/D1/PPP/W0414": {
+  "name": "0414 PVC Plain Wood",
+  "alts": [
+   {
+    "code": "UC/P1/PPN/W9204",
+    "name": "9204* Nio Plain Wood",
+    "pct": 78
+   },
+   {
+    "code": "UC/P1/PPP/W9204",
+    "name": "9204 Nio Plain Wood",
+    "pct": 78
+   }
+  ]
+ },
+ "UC/D1/PPP/W0620": {
+  "name": "0620 PVC Plain Wood",
+  "alts": [
+   {
+    "code": "UC/I2/SPG/WX905",
+    "name": "X905 WPC Sheet Wood | 7 mm",
+    "pct": 73
+   },
+   {
+    "code": "UC/M2/SP0/WX905",
+    "name": "X905 WPC Sheet Wood | 5 mm",
+    "pct": 72
+   }
+  ]
+ },
+ "UC/D1/PPP/W0817": {
+  "name": "0620* PVC Plain Wood",
+  "alts": []
+ },
+ "UC/D1/PPP/W0952": {
+  "name": "0414* PVC Plain Wood",
+  "alts": []
+ },
+ "UC/D1/PPP/W0953": {
+  "name": "9371* PVC Plain Wood",
+  "alts": []
+ },
+ "UC/D1/PPP/X0253": {
+  "name": "1456* PVC Plain Abstract",
+  "alts": [
+   {
+    "code": "UC/P1/PPN/T1456",
+    "name": "1456* Nio Plain Traditional",
+    "pct": 77
+   },
+   {
+    "code": "UC/P1/PPP/T1456",
+    "name": "1456 Nio Plain Traditional",
+    "pct": 77
+   },
+   {
+    "code": "UC/R1/PPP/X1456",
+    "name": "1456 PVC Plain Abstract",
+    "pct": 76
+   }
+  ]
+ },
+ "UC/D1/PPP/X0635": {
+  "name": "0650* PVC Plain Abstract",
+  "alts": [
+   {
+    "code": "UC/D1/PPP/X0650",
+    "name": "0650 PVC Plain Abstract",
+    "pct": 91
+   },
+   {
+    "code": "UC/R1/PPP/X9380",
+    "name": "9380 PVC Plain Gold",
+    "pct": 81
+   }
+  ]
+ },
+ "UC/D1/PPP/X0650": {
+  "name": "0650 PVC Plain Abstract",
+  "alts": [
+   {
+    "code": "UC/D1/PPP/X0635",
+    "name": "0650* PVC Plain Abstract",
+    "pct": 91
+   },
+   {
+    "code": "UC/R1/PPP/X9380",
+    "name": "9380 PVC Plain Gold",
+    "pct": 81
+   }
+  ]
+ },
+ "UC/I2/PCC/S0G29": {
+  "name": "0G29 Charcoal Ceramic Stone",
+  "alts": [
+   {
+    "code": "UC/I2/PCV/S0519",
+    "name": "0519 Charcoal Slats Stone",
+    "pct": 80
+   },
+   {
+    "code": "UC/I2/PCR/S0519",
+    "name": "0519 Charcoal Mini rectangle Stone",
+    "pct": 78
+   },
+   {
+    "code": "UC/R1/PPF/O2048",
+    "name": "2048 PVC Fluted Neutral",
+    "pct": 76
+   },
+   {
+    "code": "UC/I2/PCR/S0643",
+    "name": "0643 Charcoal Mini rectangle Stone",
+    "pct": 75
+   }
+  ]
+ },
+ "UC/I2/PCD/R1987": {
+  "name": "1987 Charcoal Classic Rattan",
+  "alts": [
+   {
+    "code": "UC/I2/PCD/RA901",
+    "name": "A901 Charcoal Classic Rattan",
+    "pct": 79
+   }
+  ]
+ },
+ "UC/I2/PCD/RA901": {
+  "name": "A901 Charcoal Classic Rattan",
+  "alts": [
+   {
+    "code": "UC/I2/PCD/R1987",
+    "name": "1987 Charcoal Classic Rattan",
+    "pct": 79
+   }
+  ]
+ },
+ "UC/I2/PCF/W7333": {
+  "name": "7333 Charcoal Fluted Wood",
+  "alts": [
+   {
+    "code": "UC/M2/PCF/W7333",
+    "name": "7333* Charcoal Fluted Wood",
+    "pct": 91
+   },
+   {
+    "code": "UC/I2/PPE/WS685",
+    "name": "S685 WPC Small square Wood",
+    "pct": 85
+   },
+   {
+    "code": "UC/R1/PPF/W0352",
+    "name": "0352 PVC Fluted Wood",
+    "pct": 84
+   },
+   {
+    "code": "UC/M2/PCF/W7331",
+    "name": "7331 Charcoal Fluted Wood",
+    "pct": 84
+   },
+   {
+    "code": "UC/M2/PPE/WS685",
+    "name": "S685* WPC Small square Wood",
+    "pct": 84
+   },
+   {
+    "code": "UC/I2/PPE/W4P03",
+    "name": "4P03 WPC Small square Wood",
+    "pct": 82
+   },
+   {
+    "code": "UC/I2/PPD/WS685",
+    "name": "S685 WPC Classic Wood",
+    "pct": 81
+   },
+   {
+    "code": "UC/M2/PCR/W3623",
+    "name": "3623 Charcoal Mini rectangle Wood",
+    "pct": 81
+   },
+   {
+    "code": "UC/I2/PCF/W7334",
+    "name": "7334 Charcoal Fluted Wood",
+    "pct": 77
+   },
+   {
+    "code": "UC/M2/PCF/W7334",
+    "name": "7334* Charcoal Fluted Wood",
+    "pct": 77
+   }
+  ]
+ },
+ "UC/I2/PCF/W7334": {
+  "name": "7334 Charcoal Fluted Wood",
+  "alts": [
+   {
+    "code": "UC/M2/PCF/W7334",
+    "name": "7334* Charcoal Fluted Wood",
+    "pct": 91
+   },
+   {
+    "code": "UC/I2/PPD/WX905",
+    "name": "X905 WPC Classic Wood",
+    "pct": 81
+   },
+   {
+    "code": "UC/M2/PPD/WX905",
+    "name": "X905* WPC Classic Wood",
+    "pct": 80
+   },
+   {
+    "code": "UC/M2/PCF/W7333",
+    "name": "7333* Charcoal Fluted Wood",
+    "pct": 78
+   },
+   {
+    "code": "UC/I2/PCF/W7333",
+    "name": "7333 Charcoal Fluted Wood",
+    "pct": 77
+   },
+   {
+    "code": "UC/M2/PPE/WX905",
+    "name": "X905* WPC Small square Wood",
+    "pct": 77
+   },
+   {
+    "code": "UC/I2/PPD/W7073",
+    "name": "7073 WPC Classic Wood",
+    "pct": 76
+   },
+   {
+    "code": "UC/M2/PPD/W7073",
+    "name": "7073* WPC Classic Wood",
+    "pct": 76
+   },
+   {
+    "code": "UC/I2/PPE/W8360",
+    "name": "8360 WPC Small square Wood",
+    "pct": 76
+   },
+   {
+    "code": "UC/M2/PPE/W8360",
+    "name": "8360* WPC Small square Wood",
+    "pct": 76
+   },
+   {
+    "code": "UC/R1/PPF/W0352",
+    "name": "0352 PVC Fluted Wood",
+    "pct": 76
+   }
+  ]
+ },
+ "UC/I2/PCI/G0037": {
+  "name": "0037 Charcoal Embossed White",
+  "alts": []
+ },
+ "UC/I2/PCI/G0066": {
+  "name": "0066 Charcoal Embossed Pastel",
+  "alts": [
+   {
+    "code": "UC/I2/PCI/G8461",
+    "name": "8461 Charcoal Embossed Pastel",
+    "pct": 81
+   }
+  ]
+ },
+ "UC/I2/PCI/G1831": {
+  "name": "1831 Charcoal Embossed Geometric",
+  "alts": []
+ },
+ "UC/I2/PCI/G1975": {
+  "name": "1975 Charcoal Embossed Geometric",
+  "alts": []
+ },
+ "UC/I2/PCI/G8461": {
+  "name": "8461 Charcoal Embossed Pastel",
+  "alts": [
+   {
+    "code": "UC/I2/PCI/G0066",
+    "name": "0066 Charcoal Embossed Pastel",
+    "pct": 81
+   }
+  ]
+ },
+ "UC/I2/PCI/R02QY": {
+  "name": "02QY Charcoal Embossed Rattan",
+  "alts": []
+ },
+ "UC/I2/PCI/R78CM": {
+  "name": "78CM Charcoal Embossed Rattan",
+  "alts": []
+ },
+ "UC/I2/PCI/RB232": {
+  "name": "B232 Charcoal Embossed Rattan",
+  "alts": [
+   {
+    "code": "UC/I2/SPH/F0Z18",
+    "name": "0Z18 WPC Sheet Fabric | 7 mm",
+    "pct": 73
+   }
+  ]
+ },
+ "UC/I2/PCM/W183S": {
+  "name": "183S Charcoal Flat rib Wood",
+  "alts": [
+   {
+    "code": "UC/I2/PCM/W5249",
+    "name": "5249 Charcoal Flat rib Wood",
+    "pct": 86
+   },
+   {
+    "code": "UC/M2/PPC/N0112",
+    "name": "0112* WPC Ceramic Neutral",
+    "pct": 81
+   },
+   {
+    "code": "UC/I2/PPC/N0112",
+    "name": "0112 WPC Ceramic Neutral",
+    "pct": 81
+   },
+   {
+    "code": "UC/M2/PPC/N0102",
+    "name": "0102* WPC Ceramic Neutral",
+    "pct": 78
+   },
+   {
+    "code": "UC/I2/PPD/WX913",
+    "name": "X913 WPC Classic Wood",
+    "pct": 77
+   },
+   {
+    "code": "UC/M2/PCS/K5081",
+    "name": "5081 Charcoal Concave Gold",
+    "pct": 77
+   },
+   {
+    "code": "UC/R1/PPF/W0333",
+    "name": "0333 PVC Fluted Wood",
+    "pct": 76
+   }
+  ]
+ },
+ "UC/I2/PCM/W5249": {
+  "name": "5249 Charcoal Flat rib Wood",
+  "alts": [
+   {
+    "code": "UC/I2/PCM/W183S",
+    "name": "183S Charcoal Flat rib Wood",
+    "pct": 86
+   },
+   {
+    "code": "UC/M2/PPC/N0112",
+    "name": "0112* WPC Ceramic Neutral",
+    "pct": 79
+   },
+   {
+    "code": "UC/I2/PPC/N0112",
+    "name": "0112 WPC Ceramic Neutral",
+    "pct": 78
+   },
+   {
+    "code": "UC/I2/PPD/WX913",
+    "name": "X913 WPC Classic Wood",
+    "pct": 78
+   },
+   {
+    "code": "UC/R1/PPF/O0160",
+    "name": "0160 PVC Fluted Neutral",
+    "pct": 76
+   }
+  ]
+ },
+ "UC/I2/PCR/S0519": {
+  "name": "0519 Charcoal Mini rectangle Stone",
+  "alts": [
+   {
+    "code": "UC/I2/PCR/S0643",
+    "name": "0643 Charcoal Mini rectangle Stone",
+    "pct": 86
+   },
+   {
+    "code": "UC/I2/PCV/S0519",
+    "name": "0519 Charcoal Slats Stone",
+    "pct": 82
+   },
+   {
+    "code": "UC/I2/PCV/SS061",
+    "name": "S061 Charcoal Slats Stone",
+    "pct": 78
+   },
+   {
+    "code": "UC/I2/PCC/S0G29",
+    "name": "0G29 Charcoal Ceramic Stone",
+    "pct": 78
+   },
+   {
+    "code": "UC/M2/PC0/S9572",
+    "name": "9572 Charcoal Basic Stone",
+    "pct": 76
+   },
+   {
+    "code": "UC/M2/PCU/K5537",
+    "name": "5537 Charcoal Mini concave Gold",
+    "pct": 76
+   },
+   {
+    "code": "UC/M2/PPC/N0102",
+    "name": "0102* WPC Ceramic Neutral",
+    "pct": 76
+   }
+  ]
+ },
+ "UC/I2/PCR/S0643": {
+  "name": "0643 Charcoal Mini rectangle Stone",
+  "alts": [
+   {
+    "code": "UC/I2/PCR/S0519",
+    "name": "0519 Charcoal Mini rectangle Stone",
+    "pct": 86
+   },
+   {
+    "code": "UC/I2/PCV/SS061",
+    "name": "S061 Charcoal Slats Stone",
+    "pct": 80
+   },
+   {
+    "code": "UC/I2/PCV/S0519",
+    "name": "0519 Charcoal Slats Stone",
+    "pct": 76
+   },
+   {
+    "code": "UC/I2/PCC/S0G29",
+    "name": "0G29 Charcoal Ceramic Stone",
+    "pct": 75
+   }
+  ]
+ },
+ "UC/I2/PCR/W3622": {
+  "name": "3622 Charcoal Mini rectangle Wood",
+  "alts": [
+   {
+    "code": "UC/M2/PCR/W3622",
+    "name": "3622* Charcoal Mini rectangle Wood",
+    "pct": 91
+   },
+   {
+    "code": "UC/M2/PCR/W3623",
+    "name": "3623 Charcoal Mini rectangle Wood",
+    "pct": 86
+   },
+   {
+    "code": "UC/M2/PCR/W3621",
+    "name": "3621 Charcoal Mini rectangle Wood",
+    "pct": 83
+   },
+   {
+    "code": "UC/M2/PCF/W7331",
+    "name": "7331 Charcoal Fluted Wood",
+    "pct": 82
+   },
+   {
+    "code": "UC/I2/PPE/WS685",
+    "name": "S685 WPC Small square Wood",
+    "pct": 82
+   },
+   {
+    "code": "UC/M2/PPE/WS685",
+    "name": "S685* WPC Small square Wood",
+    "pct": 82
+   },
+   {
+    "code": "UC/M2/PPE/W4P03",
+    "name": "4P03* WPC Small square Wood",
+    "pct": 81
+   },
+   {
+    "code": "UC/I2/PPD/WX921",
+    "name": "X921 WPC Classic Wood",
+    "pct": 81
+   },
+   {
+    "code": "UC/M2/PCR/W3624",
+    "name": "3624 Charcoal Mini rectangle Wood",
+    "pct": 81
+   }
+  ]
+ },
+ "UC/I2/PCU/H006G": {
+  "name": "006G Charcoal Mini concave White",
+  "alts": [
+   {
+    "code": "UC/I2/PPC/N0072",
+    "name": "0072 WPC Ceramic Neutral",
+    "pct": 81
+   },
+   {
+    "code": "UC/M2/PPC/N0072",
+    "name": "0072* WPC Ceramic Neutral",
+    "pct": 81
+   },
+   {
+    "code": "UC/I2/PCU/P012G",
+    "name": "012G Charcoal Mini concave Pastel",
+    "pct": 77
+   },
+   {
+    "code": "UC/M2/PPV/P0202",
+    "name": "0202 WPC Convex Pastel",
+    "pct": 75
+   },
+   {
+    "code": "UC/I2/PCU/P8461",
+    "name": "8461 Charcoal Mini concave Pastel",
+    "pct": 74
+   }
+  ]
+ },
+ "UC/I2/PCU/P012G": {
+  "name": "012G Charcoal Mini concave Pastel",
+  "alts": [
+   {
+    "code": "UC/I2/PCU/PM090",
+    "name": "M090 Charcoal Mini concave Pastel",
+    "pct": 87
+   },
+   {
+    "code": "UC/M2/PPV/P0292",
+    "name": "0292 WPC Convex Pastel",
+    "pct": 85
+   },
+   {
+    "code": "UC/M2/PPV/P0202",
+    "name": "0202 WPC Convex Pastel",
+    "pct": 80
+   },
+   {
+    "code": "UC/M2/PPC/N0102",
+    "name": "0102* WPC Ceramic Neutral",
+    "pct": 78
+   },
+   {
+    "code": "UC/M2/PPV/H2022",
+    "name": "2022 WPC Convex White",
+    "pct": 77
+   },
+   {
+    "code": "UC/M2/PPV/P0212",
+    "name": "0212 WPC Convex Pastel",
+    "pct": 77
+   },
+   {
+    "code": "UC/I2/PCU/H006G",
+    "name": "006G Charcoal Mini concave White",
+    "pct": 77
+   },
+   {
+    "code": "UC/I2/PCU/P8461",
+    "name": "8461 Charcoal Mini concave Pastel",
+    "pct": 76
+   },
+   {
+    "code": "UC/M2/PCR/W3624",
+    "name": "3624 Charcoal Mini rectangle Wood",
+    "pct": 74
+   }
+  ]
+ },
+ "UC/I2/PCU/P8461": {
+  "name": "8461 Charcoal Mini concave Pastel",
+  "alts": [
+   {
+    "code": "UC/M2/PPV/P0292",
+    "name": "0292 WPC Convex Pastel",
+    "pct": 76
+   },
+   {
+    "code": "UC/M2/PPV/P0202",
+    "name": "0202 WPC Convex Pastel",
+    "pct": 76
+   },
+   {
+    "code": "UC/I2/PCU/P012G",
+    "name": "012G Charcoal Mini concave Pastel",
+    "pct": 76
+   },
+   {
+    "code": "UC/M2/PPV/P0212",
+    "name": "0212 WPC Convex Pastel",
+    "pct": 75
+   },
+   {
+    "code": "UC/M2/PPC/N0102",
+    "name": "0102* WPC Ceramic Neutral",
+    "pct": 75
+   },
+   {
+    "code": "UC/I2/PCU/PM090",
+    "name": "M090 Charcoal Mini concave Pastel",
+    "pct": 74
+   },
+   {
+    "code": "UC/I2/PCU/H006G",
+    "name": "006G Charcoal Mini concave White",
+    "pct": 74
+   }
+  ]
+ },
+ "UC/I2/PCU/PM090": {
+  "name": "M090 Charcoal Mini concave Pastel",
+  "alts": [
+   {
+    "code": "UC/I2/PCU/P012G",
+    "name": "012G Charcoal Mini concave Pastel",
+    "pct": 87
+   },
+   {
+    "code": "UC/M2/PPV/P0292",
+    "name": "0292 WPC Convex Pastel",
+    "pct": 84
+   },
+   {
+    "code": "UC/M2/PPV/P0202",
+    "name": "0202 WPC Convex Pastel",
+    "pct": 83
+   },
+   {
+    "code": "UC/M2/PPV/H2022",
+    "name": "2022 WPC Convex White",
+    "pct": 79
+   },
+   {
+    "code": "UC/I2/PPC/N2025",
+    "name": "2025 WPC Ceramic Neutral",
+    "pct": 78
+   },
+   {
+    "code": "UC/M2/PPC/N2025",
+    "name": "2025* WPC Ceramic Neutral",
+    "pct": 78
+   },
+   {
+    "code": "UC/M2/PPV/P0212",
+    "name": "0212 WPC Convex Pastel",
+    "pct": 77
+   },
+   {
+    "code": "UC/I2/PCU/P8461",
+    "name": "8461 Charcoal Mini concave Pastel",
+    "pct": 74
+   },
+   {
+    "code": "UC/M2/PCR/W3624",
+    "name": "3624 Charcoal Mini rectangle Wood",
+    "pct": 74
+   }
+  ]
+ },
+ "UC/I2/PCV/S0519": {
+  "name": "0519 Charcoal Slats Stone",
+  "alts": [
+   {
+    "code": "UC/I2/PCV/SS061",
+    "name": "S061 Charcoal Slats Stone",
+    "pct": 82
+   },
+   {
+    "code": "UC/I2/PCR/S0519",
+    "name": "0519 Charcoal Mini rectangle Stone",
+    "pct": 82
+   },
+   {
+    "code": "UC/I2/PCC/S0G29",
+    "name": "0G29 Charcoal Ceramic Stone",
+    "pct": 80
+   },
+   {
+    "code": "UC/M2/PCU/K5537",
+    "name": "5537 Charcoal Mini concave Gold",
+    "pct": 78
+   },
+   {
+    "code": "UC/M2/PC0/S9572",
+    "name": "9572 Charcoal Basic Stone",
+    "pct": 77
+   },
+   {
+    "code": "UC/I2/PCR/S0643",
+    "name": "0643 Charcoal Mini rectangle Stone",
+    "pct": 76
+   },
+   {
+    "code": "UC/I2/PPS/LA235",
+    "name": "A235 WPC Concave Texture",
+    "pct": 74
+   }
+  ]
+ },
+ "UC/I2/PCV/SS061": {
+  "name": "S061 Charcoal Slats Stone",
+  "alts": [
+   {
+    "code": "UC/I2/PCV/S0519",
+    "name": "0519 Charcoal Slats Stone",
+    "pct": 82
+   },
+   {
+    "code": "UC/I2/PCR/S0643",
+    "name": "0643 Charcoal Mini rectangle Stone",
+    "pct": 80
+   },
+   {
+    "code": "UC/I2/PCR/S0519",
+    "name": "0519 Charcoal Mini rectangle Stone",
+    "pct": 78
+   }
+  ]
+ },
+ "UC/I2/PPC/H2022": {
+  "name": "2022 WPC Ceramic White",
+  "alts": [
+   {
+    "code": "UC/M2/PPC/H2022",
+    "name": "2022* WPC Ceramic White",
+    "pct": 91
+   },
+   {
+    "code": "UC/M2/PPD/H2022",
+    "name": "2022* WPC Classic White",
+    "pct": 87
+   },
+   {
+    "code": "UC/I2/PPD/H2022",
+    "name": "2022 WPC Classic White",
+    "pct": 87
+   },
+   {
+    "code": "UC/I2/PPC/N2025",
+    "name": "2025 WPC Ceramic Neutral",
+    "pct": 86
+   },
+   {
+    "code": "UC/M2/PPC/N2025",
+    "name": "2025* WPC Ceramic Neutral",
+    "pct": 86
+   },
+   {
+    "code": "UC/M2/PPV/H2022",
+    "name": "2022 WPC Convex White",
+    "pct": 84
+   },
+   {
+    "code": "UC/M2/PPV/P0212",
+    "name": "0212 WPC Convex Pastel",
+    "pct": 84
+   },
+   {
+    "code": "UC/M2/PPS/H2022",
+    "name": "2022 WPC Concave White",
+    "pct": 84
+   },
+   {
+    "code": "UC/M2/PPC/N0102",
+    "name": "0102* WPC Ceramic Neutral",
+    "pct": 84
+   }
+  ]
+ },
+ "UC/I2/PPC/N0072": {
+  "name": "0072 WPC Ceramic Neutral",
+  "alts": [
+   {
+    "code": "UC/M2/PPC/N0072",
+    "name": "0072* WPC Ceramic Neutral",
+    "pct": 91
+   },
+   {
+    "code": "UC/M2/PPC/N0102",
+    "name": "0102* WPC Ceramic Neutral",
+    "pct": 83
+   },
+   {
+    "code": "UC/I2/PCU/H006G",
+    "name": "006G Charcoal Mini concave White",
+    "pct": 81
+   },
+   {
+    "code": "UC/I2/PPC/N2025",
+    "name": "2025 WPC Ceramic Neutral",
+    "pct": 78
+   },
+   {
+    "code": "UC/M2/PPC/N2025",
+    "name": "2025* WPC Ceramic Neutral",
+    "pct": 78
+   },
+   {
+    "code": "UC/M2/PPC/N0112",
+    "name": "0112* WPC Ceramic Neutral",
+    "pct": 78
+   },
+   {
+    "code": "UC/I2/PPC/N0112",
+    "name": "0112 WPC Ceramic Neutral",
+    "pct": 77
+   }
+  ]
+ },
+ "UC/I2/PPC/N0102": {
+  "name": "0102 WPC Ceramic Neutral",
+  "alts": [
+   {
+    "code": "UC/M2/PPC/N0102",
+    "name": "0102* WPC Ceramic Neutral",
+    "pct": 83
+   },
+   {
+    "code": "UC/M2/PPC/N2025",
+    "name": "2025* WPC Ceramic Neutral",
+    "pct": 82
+   },
+   {
+    "code": "UC/I2/PPC/N2025",
+    "name": "2025 WPC Ceramic Neutral",
+    "pct": 82
+   },
+   {
+    "code": "UC/M2/PPD/H2022",
+    "name": "2022* WPC Classic White",
+    "pct": 79
+   },
+   {
+    "code": "UC/I2/PPD/H2022",
+    "name": "2022 WPC Classic White",
+    "pct": 79
+   },
+   {
+    "code": "UC/M2/PCS/K5081",
+    "name": "5081 Charcoal Concave Gold",
+    "pct": 78
+   }
+  ]
+ },
+ "UC/I2/PPC/N0112": {
+  "name": "0112 WPC Ceramic Neutral",
+  "alts": [
+   {
+    "code": "UC/M2/PPC/N0112",
+    "name": "0112* WPC Ceramic Neutral",
+    "pct": 91
+   },
+   {
+    "code": "UC/M2/PPC/N0102",
+    "name": "0102* WPC Ceramic Neutral",
+    "pct": 85
+   },
+   {
+    "code": "UC/I2/PCM/W183S",
+    "name": "183S Charcoal Flat rib Wood",
+    "pct": 81
+   },
+   {
+    "code": "UC/M2/PPC/N2025",
+    "name": "2025* WPC Ceramic Neutral",
+    "pct": 80
+   },
+   {
+    "code": "UC/I2/PPD/WS685",
+    "name": "S685 WPC Classic Wood",
+    "pct": 80
+   },
+   {
+    "code": "UC/I2/PPC/N2025",
+    "name": "2025 WPC Ceramic Neutral",
+    "pct": 79
+   },
+   {
+    "code": "UC/I2/PPD/WX913",
+    "name": "X913 WPC Classic Wood",
+    "pct": 79
+   },
+   {
+    "code": "UC/M2/PC0/P9552",
+    "name": "9552 Charcoal Basic Neutral",
+    "pct": 78
+   },
+   {
+    "code": "UC/I2/PCM/W5249",
+    "name": "5249 Charcoal Flat rib Wood",
+    "pct": 78
+   },
+   {
+    "code": "UC/I2/PPC/N0072",
+    "name": "0072 WPC Ceramic Neutral",
+    "pct": 77
+   },
+   {
+    "code": "UC/M2/PPC/N0072",
+    "name": "0072* WPC Ceramic Neutral",
+    "pct": 77
+   },
+   {
+    "code": "UC/R1/PPF/O0160",
+    "name": "0160 PVC Fluted Neutral",
+    "pct": 77
+   }
+  ]
+ },
+ "UC/I2/PPC/N2025": {
+  "name": "2025 WPC Ceramic Neutral",
+  "alts": [
+   {
+    "code": "UC/M2/PPC/N2025",
+    "name": "2025* WPC Ceramic Neutral",
+    "pct": 91
+   },
+   {
+    "code": "UC/M2/PPC/N0102",
+    "name": "0102* WPC Ceramic Neutral",
+    "pct": 87
+   },
+   {
+    "code": "UC/I2/PPD/H2022",
+    "name": "2022 WPC Classic White",
+    "pct": 87
+   },
+   {
+    "code": "UC/M2/PPD/H2022",
+    "name": "2022* WPC Classic White",
+    "pct": 87
+   },
+   {
+    "code": "UC/I2/PPC/H2022",
+    "name": "2022 WPC Ceramic White",
+    "pct": 86
+   },
+   {
+    "code": "UC/M2/PPC/H2022",
+    "name": "2022* WPC Ceramic White",
+    "pct": 86
+   },
+   {
+    "code": "UC/M2/PPV/P0202",
+    "name": "0202 WPC Convex Pastel",
+    "pct": 85
+   },
+   {
+    "code": "UC/M2/PPV/H2022",
+    "name": "2022 WPC Convex White",
+    "pct": 84
+   },
+   {
+    "code": "UC/M2/PPV/P0292",
+    "name": "0292 WPC Convex Pastel",
+    "pct": 83
+   },
+   {
+    "code": "UC/I2/PPC/N0102",
+    "name": "0102 WPC Ceramic Neutral",
+    "pct": 82
+   },
+   {
+    "code": "UC/M2/PPC/N0112",
+    "name": "0112* WPC Ceramic Neutral",
+    "pct": 81
+   },
+   {
+    "code": "UC/M2/PCS/K5081",
+    "name": "5081 Charcoal Concave Gold",
+    "pct": 80
+   },
+   {
+    "code": "UC/I2/PPC/N0112",
+    "name": "0112 WPC Ceramic Neutral",
+    "pct": 79
+   },
+   {
+    "code": "UC/I2/PPC/N0072",
+    "name": "0072 WPC Ceramic Neutral",
+    "pct": 78
+   },
+   {
+    "code": "UC/M2/PPC/N0072",
+    "name": "0072* WPC Ceramic Neutral",
+    "pct": 78
+   },
+   {
+    "code": "UC/I2/PCU/PM090",
+    "name": "M090 Charcoal Mini concave Pastel",
+    "pct": 78
+   },
+   {
+    "code": "UC/M2/PCS/K5084",
+    "name": "5084 Charcoal Concave Gold",
+    "pct": 78
+   }
+  ]
+ },
+ "UC/I2/PPD/H2022": {
+  "name": "2022 WPC Classic White",
+  "alts": [
+   {
+    "code": "UC/M2/PPD/H2022",
+    "name": "2022* WPC Classic White",
+    "pct": 91
+   },
+   {
+    "code": "UC/M2/PPC/H2022",
+    "name": "2022* WPC Ceramic White",
+    "pct": 87
+   },
+   {
+    "code": "UC/I2/PPC/H2022",
+    "name": "2022 WPC Ceramic White",
+    "pct": 87
+   },
+   {
+    "code": "UC/I2/PPC/N2025",
+    "name": "2025 WPC Ceramic Neutral",
+    "pct": 87
+   },
+   {
+    "code": "UC/M2/PPV/H2022",
+    "name": "2022 WPC Convex White",
+    "pct": 86
+   },
+   {
+    "code": "UC/M2/PPC/N2025",
+    "name": "2025* WPC Ceramic Neutral",
+    "pct": 86
+   },
+   {
+    "code": "UC/M2/PPV/P0212",
+    "name": "0212 WPC Convex Pastel",
+    "pct": 85
+   },
+   {
+    "code": "UC/M2/PPS/H2022",
+    "name": "2022 WPC Concave White",
+    "pct": 85
+   },
+   {
+    "code": "UC/M2/PPC/N0102",
+    "name": "0102* WPC Ceramic Neutral",
+    "pct": 83
+   },
+   {
+    "code": "UC/M2/PCS/K5084",
+    "name": "5084 Charcoal Concave Gold",
+    "pct": 83
+   },
+   {
+    "code": "UC/M2/PPV/P0292",
+    "name": "0292 WPC Convex Pastel",
+    "pct": 81
+   },
+   {
+    "code": "UC/M2/PCS/K5081",
+    "name": "5081 Charcoal Concave Gold",
+    "pct": 80
+   },
+   {
+    "code": "UC/I2/PPC/N0102",
+    "name": "0102 WPC Ceramic Neutral",
+    "pct": 79
+   },
+   {
+    "code": "UC/M2/PPV/S0852",
+    "name": "0852 WPC Convex Stone",
+    "pct": 79
+   },
+   {
+    "code": "UC/M2/PCS/K5083",
+    "name": "5083 Charcoal Concave Gold",
+    "pct": 78
+   },
+   {
+    "code": "UC/M2/PCU/K5537",
+    "name": "5537 Charcoal Mini concave Gold",
+    "pct": 78
+   },
+   {
+    "code": "UC/M2/PCS/K5082",
+    "name": "5082 Charcoal Concave Gold",
+    "pct": 77
+   }
+  ]
+ },
+ "UC/I2/PPD/K3731": {
+  "name": "3731 WPC Classic Gold",
+  "alts": [
+   {
+    "code": "UC/M2/PPD/K3731",
+    "name": "3731* WPC Classic Gold",
+    "pct": 91
+   }
+  ]
+ },
+ "UC/I2/PPD/R0132": {
+  "name": "0132 WPC Classic Neutral",
+  "alts": [
+   {
+    "code": "UC/M2/PPD/R0P61",
+    "name": "0P61 WPC Classic Neutral",
+    "pct": 88
+   },
+   {
+    "code": "UC/M2/PCF/R7332",
+    "name": "7332 Charcoal Fluted Neutral",
+    "pct": 83
+   },
+   {
+    "code": "UC/P1/PPF/RD164",
+    "name": "D164 Nio Fluted Neutral",
+    "pct": 81
+   },
+   {
+    "code": "UC/M2/PCF/W7331",
+    "name": "7331 Charcoal Fluted Wood",
+    "pct": 78
+   },
+   {
+    "code": "UC/R1/PPF/O0160",
+    "name": "0160 PVC Fluted Neutral",
+    "pct": 78
+   },
+   {
+    "code": "UC/I2/PPD/WX921",
+    "name": "X921 WPC Classic Wood",
+    "pct": 76
+   }
+  ]
+ },
+ "UC/I2/PPD/W7073": {
+  "name": "7073 WPC Classic Wood",
+  "alts": [
+   {
+    "code": "UC/M2/PPD/W7073",
+    "name": "7073* WPC Classic Wood",
+    "pct": 91
+   },
+   {
+    "code": "UC/I2/PPD/WX919",
+    "name": "X919 WPC Classic Wood",
+    "pct": 78
+   },
+   {
+    "code": "UC/M2/PPD/WX919",
+    "name": "X919* WPC Classic Wood",
+    "pct": 78
+   },
+   {
+    "code": "UC/M2/PPD/WX905",
+    "name": "X905* WPC Classic Wood",
+    "pct": 78
+   },
+   {
+    "code": "UC/I2/PPD/WX905",
+    "name": "X905 WPC Classic Wood",
+    "pct": 77
+   },
+   {
+    "code": "UC/I2/PCF/W7334",
+    "name": "7334 Charcoal Fluted Wood",
+    "pct": 76
+   },
+   {
+    "code": "UC/I2/PPD/WS685",
+    "name": "S685 WPC Classic Wood",
+    "pct": 76
+   }
+  ]
+ },
+ "UC/I2/PPD/WS685": {
+  "name": "S685 WPC Classic Wood",
+  "alts": [
+   {
+    "code": "UC/I2/PPE/W4P03",
+    "name": "4P03 WPC Small square Wood",
+    "pct": 86
+   },
+   {
+    "code": "UC/I2/PPE/WS685",
+    "name": "S685 WPC Small square Wood",
+    "pct": 86
+   },
+   {
+    "code": "UC/M2/PPE/W4P03",
+    "name": "4P03* WPC Small square Wood",
+    "pct": 85
+   },
+   {
+    "code": "UC/M2/PPE/WS685",
+    "name": "S685* WPC Small square Wood",
+    "pct": 84
+   },
+   {
+    "code": "UC/R1/PPF/W0352",
+    "name": "0352 PVC Fluted Wood",
+    "pct": 83
+   },
+   {
+    "code": "UC/I2/PCF/W7333",
+    "name": "7333 Charcoal Fluted Wood",
+    "pct": 81
+   },
+   {
+    "code": "UC/M2/PCF/W7333",
+    "name": "7333* Charcoal Fluted Wood",
+    "pct": 81
+   },
+   {
+    "code": "UC/M2/PCD/K5064",
+    "name": "5064 Charcoal Classic Gold",
+    "pct": 81
+   },
+   {
+    "code": "UC/I2/PPC/N0112",
+    "name": "0112 WPC Ceramic Neutral",
+    "pct": 80
+   },
+   {
+    "code": "UC/M2/PPC/N0112",
+    "name": "0112* WPC Ceramic Neutral",
+    "pct": 80
+   },
+   {
+    "code": "UC/M2/PPD/W7073",
+    "name": "7073* WPC Classic Wood",
+    "pct": 77
+   },
+   {
+    "code": "UC/I2/PPD/W7073",
+    "name": "7073 WPC Classic Wood",
+    "pct": 76
+   }
+  ]
+ },
+ "UC/I2/PPD/WX905": {
+  "name": "X905 WPC Classic Wood",
+  "alts": [
+   {
+    "code": "UC/M2/PPD/WX905",
+    "name": "X905* WPC Classic Wood",
+    "pct": 91
+   },
+   {
+    "code": "UC/M2/PPE/WX905",
+    "name": "X905* WPC Small square Wood",
+    "pct": 81
+   },
+   {
+    "code": "UC/I2/PCF/W7334",
+    "name": "7334 Charcoal Fluted Wood",
+    "pct": 81
+   },
+   {
+    "code": "UC/M2/PCF/W7334",
+    "name": "7334* Charcoal Fluted Wood",
+    "pct": 81
+   },
+   {
+    "code": "UC/I2/PPD/WX919",
+    "name": "X919 WPC Classic Wood",
+    "pct": 80
+   },
+   {
+    "code": "UC/I2/PPD/WX913",
+    "name": "X913 WPC Classic Wood",
+    "pct": 79
+   },
+   {
+    "code": "UC/M2/PPD/WX919",
+    "name": "X919* WPC Classic Wood",
+    "pct": 79
+   },
+   {
+    "code": "UC/M2/PPD/W7073",
+    "name": "7073* WPC Classic Wood",
+    "pct": 78
+   },
+   {
+    "code": "UC/I2/PPD/W7073",
+    "name": "7073 WPC Classic Wood",
+    "pct": 77
+   },
+   {
+    "code": "UC/M2/PPE/W8360",
+    "name": "8360* WPC Small square Wood",
+    "pct": 77
+   },
+   {
+    "code": "UC/P1/PPF/W8360",
+    "name": "8360 Nio Fluted Wood",
+    "pct": 76
+   },
+   {
+    "code": "UC/I2/PPE/W8360",
+    "name": "8360 WPC Small square Wood",
+    "pct": 76
+   }
+  ]
+ },
+ "UC/I2/PPD/WX913": {
+  "name": "X913 WPC Classic Wood",
+  "alts": [
+   {
+    "code": "UC/M2/PCS/K5081",
+    "name": "5081 Charcoal Concave Gold",
+    "pct": 81
+   },
+   {
+    "code": "UC/I2/PPD/WX905",
+    "name": "X905 WPC Classic Wood",
+    "pct": 79
+   },
+   {
+    "code": "UC/I2/PPC/N0112",
+    "name": "0112 WPC Ceramic Neutral",
+    "pct": 79
+   },
+   {
+    "code": "UC/M2/PPD/WX905",
+    "name": "X905* WPC Classic Wood",
+    "pct": 79
+   },
+   {
+    "code": "UC/M2/PPC/N0112",
+    "name": "0112* WPC Ceramic Neutral",
+    "pct": 79
+   },
+   {
+    "code": "UC/R1/PPX/W0103",
+    "name": "0103 PVC Fluted wide Wood",
+    "pct": 79
+   },
+   {
+    "code": "UC/R1/PPF/O0160",
+    "name": "0160 PVC Fluted Neutral",
+    "pct": 78
+   },
+   {
+    "code": "UC/I2/PCM/W5249",
+    "name": "5249 Charcoal Flat rib Wood",
+    "pct": 78
+   },
+   {
+    "code": "UC/I2/PPD/WX921",
+    "name": "X921 WPC Classic Wood",
+    "pct": 77
+   },
+   {
+    "code": "UC/I2/PCM/W183S",
+    "name": "183S Charcoal Flat rib Wood",
+    "pct": 77
+   }
+  ]
+ },
+ "UC/I2/PPD/WX919": {
+  "name": "X919 WPC Classic Wood",
+  "alts": [
+   {
+    "code": "UC/M2/PPD/WX919",
+    "name": "X919* WPC Classic Wood",
+    "pct": 91
+   },
+   {
+    "code": "UC/M2/PPE/WX905",
+    "name": "X905* WPC Small square Wood",
+    "pct": 82
+   },
+   {
+    "code": "UC/I2/PPD/WX905",
+    "name": "X905 WPC Classic Wood",
+    "pct": 80
+   },
+   {
+    "code": "UC/M2/PPD/WX905",
+    "name": "X905* WPC Classic Wood",
+    "pct": 80
+   },
+   {
+    "code": "UC/I2/PPD/W7073",
+    "name": "7073 WPC Classic Wood",
+    "pct": 78
+   },
+   {
+    "code": "UC/M2/PPD/W7073",
+    "name": "7073* WPC Classic Wood",
+    "pct": 78
+   },
+   {
+    "code": "UC/I2/PPE/W8360",
+    "name": "8360 WPC Small square Wood",
+    "pct": 78
+   },
+   {
+    "code": "UC/M2/PPE/W8360",
+    "name": "8360* WPC Small square Wood",
+    "pct": 78
+   }
+  ]
+ },
+ "UC/I2/PPD/WX921": {
+  "name": "X921 WPC Classic Wood",
+  "alts": [
+   {
+    "code": "UC/R1/PPX/W0114",
+    "name": "0114 PVC Fluted wide Wood",
+    "pct": 86
+   },
+   {
+    "code": "UC/I2/PPE/WX921",
+    "name": "X921 WPC Small square Wood",
+    "pct": 86
+   },
+   {
+    "code": "UC/M2/PCF/W7331",
+    "name": "7331 Charcoal Fluted Wood",
+    "pct": 86
+   },
+   {
+    "code": "UC/R1/PPX/W0103",
+    "name": "0103 PVC Fluted wide Wood",
+    "pct": 84
+   },
+   {
+    "code": "UC/I2/PPE/WS685",
+    "name": "S685 WPC Small square Wood",
+    "pct": 82
+   },
+   {
+    "code": "UC/M2/PPE/WS685",
+    "name": "S685* WPC Small square Wood",
+    "pct": 82
+   },
+   {
+    "code": "UC/I2/PCR/W3622",
+    "name": "3622 Charcoal Mini rectangle Wood",
+    "pct": 81
+   },
+   {
+    "code": "UC/M2/PCR/W3622",
+    "name": "3622* Charcoal Mini rectangle Wood",
+    "pct": 81
+   },
+   {
+    "code": "UC/P1/PPF/W9204",
+    "name": "9204 Nio Fluted Wood",
+    "pct": 79
+   },
+   {
+    "code": "UC/I2/PPD/WX913",
+    "name": "X913 WPC Classic Wood",
+    "pct": 77
+   },
+   {
+    "code": "UC/M2/PCR/W3621",
+    "name": "3621 Charcoal Mini rectangle Wood",
+    "pct": 77
+   },
+   {
+    "code": "UC/R1/PPF/O0160",
+    "name": "0160 PVC Fluted Neutral",
+    "pct": 76
+   },
+   {
+    "code": "UC/I2/PPD/R0132",
+    "name": "0132 WPC Classic Neutral",
+    "pct": 76
+   }
+  ]
+ },
+ "UC/I2/PPE/W4P03": {
+  "name": "4P03 WPC Small square Wood",
+  "alts": [
+   {
+    "code": "UC/M2/PPE/W4P03",
+    "name": "4P03* WPC Small square Wood",
+    "pct": 91
+   },
+   {
+    "code": "UC/M2/PPE/WS685",
+    "name": "S685* WPC Small square Wood",
+    "pct": 86
+   },
+   {
+    "code": "UC/I2/PPE/WS685",
+    "name": "S685 WPC Small square Wood",
+    "pct": 86
+   },
+   {
+    "code": "UC/I2/PPD/WS685",
+    "name": "S685 WPC Classic Wood",
+    "pct": 86
+   },
+   {
+    "code": "UC/M2/PCD/K5064",
+    "name": "5064 Charcoal Classic Gold",
+    "pct": 84
+   },
+   {
+    "code": "UC/R1/PPF/W0352",
+    "name": "0352 PVC Fluted Wood",
+    "pct": 83
+   },
+   {
+    "code": "UC/M2/PCR/W3622",
+    "name": "3622* Charcoal Mini rectangle Wood",
+    "pct": 82
+   },
+   {
+    "code": "UC/I2/PCF/W7333",
+    "name": "7333 Charcoal Fluted Wood",
+    "pct": 82
+   },
+   {
+    "code": "UC/M2/PCF/W7333",
+    "name": "7333* Charcoal Fluted Wood",
+    "pct": 81
+   },
+   {
+    "code": "UC/I2/PPE/WX921",
+    "name": "X921 WPC Small square Wood",
+    "pct": 79
+   },
+   {
+    "code": "UC/R1/PPF/W0333",
+    "name": "0333 PVC Fluted Wood",
+    "pct": 77
+   }
+  ]
+ },
+ "UC/I2/PPE/W8360": {
+  "name": "8360 WPC Small square Wood",
+  "alts": [
+   {
+    "code": "UC/M2/PPE/W8360",
+    "name": "8360* WPC Small square Wood",
+    "pct": 91
+   },
+   {
+    "code": "UC/M2/PPE/WX905",
+    "name": "X905* WPC Small square Wood",
+    "pct": 82
+   },
+   {
+    "code": "UC/I2/PPD/WX919",
+    "name": "X919 WPC Classic Wood",
+    "pct": 78
+   },
+   {
+    "code": "UC/M2/PPD/WX919",
+    "name": "X919* WPC Classic Wood",
+    "pct": 78
+   },
+   {
+    "code": "UC/M2/PPD/WX905",
+    "name": "X905* WPC Classic Wood",
+    "pct": 77
+   },
+   {
+    "code": "UC/I2/PPD/WX905",
+    "name": "X905 WPC Classic Wood",
+    "pct": 76
+   },
+   {
+    "code": "UC/I2/PCF/W7334",
+    "name": "7334 Charcoal Fluted Wood",
+    "pct": 76
+   }
+  ]
+ },
+ "UC/I2/PPE/WS685": {
+  "name": "S685 WPC Small square Wood",
+  "alts": [
+   {
+    "code": "UC/M2/PPE/WS685",
+    "name": "S685* WPC Small square Wood",
+    "pct": 91
+   },
+   {
+    "code": "UC/M2/PPE/W4P03",
+    "name": "4P03* WPC Small square Wood",
+    "pct": 86
+   },
+   {
+    "code": "UC/I2/PPE/W4P03",
+    "name": "4P03 WPC Small square Wood",
+    "pct": 86
+   },
+   {
+    "code": "UC/R1/PPF/W0352",
+    "name": "0352 PVC Fluted Wood",
+    "pct": 86
+   },
+   {
+    "code": "UC/I2/PPD/WS685",
+    "name": "S685 WPC Classic Wood",
+    "pct": 86
+   },
+   {
+    "code": "UC/I2/PCF/W7333",
+    "name": "7333 Charcoal Fluted Wood",
+    "pct": 85
+   },
+   {
+    "code": "UC/M2/PCF/W7333",
+    "name": "7333* Charcoal Fluted Wood",
+    "pct": 85
+   },
+   {
+    "code": "UC/I2/PPD/WX921",
+    "name": "X921 WPC Classic Wood",
+    "pct": 82
+   },
+   {
+    "code": "UC/M2/PCD/K5064",
+    "name": "5064 Charcoal Classic Gold",
+    "pct": 82
+   },
+   {
+    "code": "UC/I2/PCR/W3622",
+    "name": "3622 Charcoal Mini rectangle Wood",
+    "pct": 82
+   },
+   {
+    "code": "UC/M2/PCR/W3622",
+    "name": "3622* Charcoal Mini rectangle Wood",
+    "pct": 82
+   },
+   {
+    "code": "UC/R1/PPX/W0103",
+    "name": "0103 PVC Fluted wide Wood",
+    "pct": 81
+   },
+   {
+    "code": "UC/I2/PPE/WX921",
+    "name": "X921 WPC Small square Wood",
+    "pct": 80
+   },
+   {
+    "code": "UC/P1/PPF/W9204",
+    "name": "9204 Nio Fluted Wood",
+    "pct": 73
+   }
+  ]
+ },
+ "UC/I2/PPE/WX921": {
+  "name": "X921 WPC Small square Wood",
+  "alts": [
+   {
+    "code": "UC/I2/PPD/WX921",
+    "name": "X921 WPC Classic Wood",
+    "pct": 86
+   },
+   {
+    "code": "UC/R1/PPX/W0114",
+    "name": "0114 PVC Fluted wide Wood",
+    "pct": 82
+   },
+   {
+    "code": "UC/I2/PPE/WS685",
+    "name": "S685 WPC Small square Wood",
+    "pct": 80
+   },
+   {
+    "code": "UC/M2/PPE/WS685",
+    "name": "S685* WPC Small square Wood",
+    "pct": 79
+   },
+   {
+    "code": "UC/M2/PCF/W7331",
+    "name": "7331 Charcoal Fluted Wood",
+    "pct": 79
+   },
+   {
+    "code": "UC/I2/PPE/W4P03",
+    "name": "4P03 WPC Small square Wood",
+    "pct": 79
+   }
+  ]
+ },
+ "UC/I2/PPS/LA235": {
+  "name": "A235 WPC Concave Texture",
+  "alts": [
+   {
+    "code": "UC/M2/PPV/S0852",
+    "name": "0852 WPC Convex Stone",
+    "pct": 74
+   },
+   {
+    "code": "UC/M2/PPC/N0102",
+    "name": "0102* WPC Ceramic Neutral",
+    "pct": 74
+   },
+   {
+    "code": "UC/I2/PCV/S0519",
+    "name": "0519 Charcoal Slats Stone",
+    "pct": 74
+   }
+  ]
+ },
+ "UC/I2/SPG/H2022": {
+  "name": "2022 WPC Sheet White | 7 mm",
+  "alts": [
+   {
+    "code": "UC/M2/SP0/H2022",
+    "name": "2022 WPC Sheet White | 5 mm",
+    "pct": 91
+   },
+   {
+    "code": "UC/I2/SPG/N2025",
+    "name": "2025 WPC Sheet Neutral | 7 mm",
+    "pct": 83
+   },
+   {
+    "code": "UC/M2/SP0/N2025",
+    "name": "2025 WPC Sheet Neutral | 5 mm",
+    "pct": 83
+   },
+   {
+    "code": "UC/I2/SPG/N0102",
+    "name": "0102 WPC Sheet Neutral | 7 mm",
+    "pct": 77
+   },
+   {
+    "code": "UC/I2/SPG/N0072",
+    "name": "0072 WPC Sheet Neutral | 7 mm",
+    "pct": 71
+   }
+  ]
+ },
+ "UC/I2/SPG/N0072": {
+  "name": "0072 WPC Sheet Neutral | 7 mm",
+  "alts": [
+   {
+    "code": "UC/M2/SP0/N0112",
+    "name": "0112 WPC Sheet Neutral | 5 mm",
+    "pct": 78
+   },
+   {
+    "code": "UC/I2/SPG/N0112",
+    "name": "0112 WPC Sheet Neutral | 7 mm",
+    "pct": 78
+   },
+   {
+    "code": "UC/M2/SP0/H2022",
+    "name": "2022 WPC Sheet White | 5 mm",
+    "pct": 76
+   },
+   {
+    "code": "UC/I2/SPG/N0102",
+    "name": "0102 WPC Sheet Neutral | 7 mm",
+    "pct": 76
+   },
+   {
+    "code": "UC/I2/SPG/H2022",
+    "name": "2022 WPC Sheet White | 7 mm",
+    "pct": 71
+   }
+  ]
+ },
+ "UC/I2/SPG/N0102": {
+  "name": "0102 WPC Sheet Neutral | 7 mm",
+  "alts": [
+   {
+    "code": "UC/I2/SPG/N2025",
+    "name": "2025 WPC Sheet Neutral | 7 mm",
+    "pct": 81
+   },
+   {
+    "code": "UC/I2/SPG/N0112",
+    "name": "0112 WPC Sheet Neutral | 7 mm",
+    "pct": 80
+   },
+   {
+    "code": "UC/M2/SP0/N2025",
+    "name": "2025 WPC Sheet Neutral | 5 mm",
+    "pct": 80
+   },
+   {
+    "code": "UC/M2/SP0/N0112",
+    "name": "0112 WPC Sheet Neutral | 5 mm",
+    "pct": 79
+   },
+   {
+    "code": "UC/M2/SP0/H2022",
+    "name": "2022 WPC Sheet White | 5 mm",
+    "pct": 78
+   },
+   {
+    "code": "UC/I2/SPG/H2022",
+    "name": "2022 WPC Sheet White | 7 mm",
+    "pct": 77
+   },
+   {
+    "code": "UC/I2/SPG/N0072",
+    "name": "0072 WPC Sheet Neutral | 7 mm",
+    "pct": 76
+   }
+  ]
+ },
+ "UC/I2/SPG/N0112": {
+  "name": "0112 WPC Sheet Neutral | 7 mm",
+  "alts": [
+   {
+    "code": "UC/M2/SP0/N0112",
+    "name": "0112 WPC Sheet Neutral | 5 mm",
+    "pct": 91
+   },
+   {
+    "code": "UC/I2/SPG/N0102",
+    "name": "0102 WPC Sheet Neutral | 7 mm",
+    "pct": 80
+   },
+   {
+    "code": "UC/I2/SPG/N0072",
+    "name": "0072 WPC Sheet Neutral | 7 mm",
+    "pct": 78
+   },
+   {
+    "code": "UC/I2/SPG/N2025",
+    "name": "2025 WPC Sheet Neutral | 7 mm",
+    "pct": 76
+   },
+   {
+    "code": "UC/M2/SP0/N2025",
+    "name": "2025 WPC Sheet Neutral | 5 mm",
+    "pct": 75
+   }
+  ]
+ },
+ "UC/I2/SPG/N2025": {
+  "name": "2025 WPC Sheet Neutral | 7 mm",
+  "alts": [
+   {
+    "code": "UC/M2/SP0/N2025",
+    "name": "2025 WPC Sheet Neutral | 5 mm",
+    "pct": 91
+   },
+   {
+    "code": "UC/I2/SPG/H2022",
+    "name": "2022 WPC Sheet White | 7 mm",
+    "pct": 83
+   },
+   {
+    "code": "UC/M2/SP0/H2022",
+    "name": "2022 WPC Sheet White | 5 mm",
+    "pct": 83
+   },
+   {
+    "code": "UC/I2/SPG/N0102",
+    "name": "0102 WPC Sheet Neutral | 7 mm",
+    "pct": 81
+   },
+   {
+    "code": "UC/I2/SPG/N0112",
+    "name": "0112 WPC Sheet Neutral | 7 mm",
+    "pct": 76
+   },
+   {
+    "code": "UC/M2/SP0/N0112",
+    "name": "0112 WPC Sheet Neutral | 5 mm",
+    "pct": 75
+   }
+  ]
+ },
+ "UC/I2/SPG/W4P03": {
+  "name": "4P03 WPC Sheet Wood | 7 mm",
+  "alts": [
+   {
+    "code": "UC/M2/SP0/W4P03",
+    "name": "4P03 WPC Sheet Wood | 5 mm",
+    "pct": 91
+   },
+   {
+    "code": "UC/I2/SPG/WX913",
+    "name": "X913 WPC Sheet Wood | 7 mm",
+    "pct": 75
+   }
+  ]
+ },
+ "UC/I2/SPG/W7073": {
+  "name": "7073 WPC Sheet Wood | 7 mm",
+  "alts": [
+   {
+    "code": "UC/I2/SPG/WS685",
+    "name": "S685 WPC Sheet Wood | 7 mm",
+    "pct": 81
+   }
+  ]
+ },
+ "UC/I2/SPG/W8360": {
+  "name": "8360 WPC Sheet Wood | 7 mm",
+  "alts": [
+   {
+    "code": "UC/M2/SP0/W8360",
+    "name": "8360 WPC Sheet Wood | 5 mm",
+    "pct": 91
+   },
+   {
+    "code": "UC/M2/SP0/WX905",
+    "name": "X905 WPC Sheet Wood | 5 mm",
+    "pct": 78
+   },
+   {
+    "code": "UC/I2/SPG/WX905",
+    "name": "X905 WPC Sheet Wood | 7 mm",
+    "pct": 76
+   }
+  ]
+ },
+ "UC/I2/SPG/WS685": {
+  "name": "S685 WPC Sheet Wood | 7 mm",
+  "alts": [
+   {
+    "code": "UC/I2/SPG/W7073",
+    "name": "7073 WPC Sheet Wood | 7 mm",
+    "pct": 81
+   },
+   {
+    "code": "UC/I2/SPG/WX913",
+    "name": "X913 WPC Sheet Wood | 7 mm",
+    "pct": 74
+   }
+  ]
+ },
+ "UC/I2/SPG/WX905": {
+  "name": "X905 WPC Sheet Wood | 7 mm",
+  "alts": [
+   {
+    "code": "UC/M2/SP0/WX905",
+    "name": "X905 WPC Sheet Wood | 5 mm",
+    "pct": 91
+   },
+   {
+    "code": "UC/M2/SP0/W8360",
+    "name": "8360 WPC Sheet Wood | 5 mm",
+    "pct": 78
+   },
+   {
+    "code": "UC/I2/SPG/WX913",
+    "name": "X913 WPC Sheet Wood | 7 mm",
+    "pct": 77
+   },
+   {
+    "code": "UC/I2/SPG/W8360",
+    "name": "8360 WPC Sheet Wood | 7 mm",
+    "pct": 76
+   },
+   {
+    "code": "UC/D1/PPP/W0620",
+    "name": "0620 PVC Plain Wood",
+    "pct": 73
+   }
+  ]
+ },
+ "UC/I2/SPG/WX913": {
+  "name": "X913 WPC Sheet Wood | 7 mm",
+  "alts": [
+   {
+    "code": "UC/I2/SPG/WX905",
+    "name": "X905 WPC Sheet Wood | 7 mm",
+    "pct": 77
+   },
+   {
+    "code": "UC/M2/SP0/WX905",
+    "name": "X905 WPC Sheet Wood | 5 mm",
+    "pct": 77
+   },
+   {
+    "code": "UC/I2/SPG/WX921",
+    "name": "X921 WPC Sheet Wood | 7 mm",
+    "pct": 75
+   },
+   {
+    "code": "UC/I2/SPG/W4P03",
+    "name": "4P03 WPC Sheet Wood | 7 mm",
+    "pct": 75
+   },
+   {
+    "code": "UC/I2/SPG/WS685",
+    "name": "S685 WPC Sheet Wood | 7 mm",
+    "pct": 74
+   },
+   {
+    "code": "UC/P1/PPN/W9204",
+    "name": "9204* Nio Plain Wood",
+    "pct": 74
+   },
+   {
+    "code": "UC/M2/SP0/W4P03",
+    "name": "4P03 WPC Sheet Wood | 5 mm",
+    "pct": 72
+   },
+   {
+    "code": "UC/P1/PPP/W9204",
+    "name": "9204 Nio Plain Wood",
+    "pct": 72
+   }
+  ]
+ },
+ "UC/I2/SPG/WX921": {
+  "name": "X921 WPC Sheet Wood | 7 mm",
+  "alts": [
+   {
+    "code": "UC/P1/PPN/W9204",
+    "name": "9204* Nio Plain Wood",
+    "pct": 80
+   },
+   {
+    "code": "UC/P1/PPP/W9204",
+    "name": "9204 Nio Plain Wood",
+    "pct": 79
+   },
+   {
+    "code": "UC/I2/SPG/WX913",
+    "name": "X913 WPC Sheet Wood | 7 mm",
+    "pct": 75
+   }
+  ]
+ },
+ "UC/I2/SPH/F0Z18": {
+  "name": "0Z18 WPC Sheet Fabric | 7 mm",
+  "alts": [
+   {
+    "code": "UC/I2/SPH/F2027",
+    "name": "2027 WPC Sheet Fabric | 7 mm",
+    "pct": 83
+   },
+   {
+    "code": "UC/P1/PPP/F7695",
+    "name": "7695 Nio Plain Fabric",
+    "pct": 81
+   },
+   {
+    "code": "UC/P1/PPN/F7695",
+    "name": "7695* Nio Plain Fabric",
+    "pct": 80
+   },
+   {
+    "code": "UC/I2/PCI/RB232",
+    "name": "B232 Charcoal Embossed Rattan",
+    "pct": 73
+   }
+  ]
+ },
+ "UC/I2/SPH/F2025": {
+  "name": "2025 WPC Sheet Fabric | 7 mm",
+  "alts": [
+   {
+    "code": "UC/I2/SPH/F2027",
+    "name": "2027 WPC Sheet Fabric | 7 mm",
+    "pct": 80
+   }
+  ]
+ },
+ "UC/I2/SPH/F2027": {
+  "name": "2027 WPC Sheet Fabric | 7 mm",
+  "alts": [
+   {
+    "code": "UC/I2/SPH/F0Z18",
+    "name": "0Z18 WPC Sheet Fabric | 7 mm",
+    "pct": 83
+   },
+   {
+    "code": "UC/I2/SPH/F2025",
+    "name": "2025 WPC Sheet Fabric | 7 mm",
+    "pct": 80
+   },
+   {
+    "code": "UC/P1/PPN/F7695",
+    "name": "7695* Nio Plain Fabric",
+    "pct": 79
+   },
+   {
+    "code": "UC/P1/PPP/F7695",
+    "name": "7695 Nio Plain Fabric",
+    "pct": 79
+   }
+  ]
+ },
+ "UC/I2/SPH/L2203": {
+  "name": "2203 WPC Sheet Texture | 7 mm",
+  "alts": [
+   {
+    "code": "UC/P1/PPN/S9001",
+    "name": "9001* Nio Plain Stone",
+    "pct": 78
+   },
+   {
+    "code": "UC/P1/PPP/S9001",
+    "name": "9001 Nio Plain Stone",
+    "pct": 78
+   },
+   {
+    "code": "UC/I2/SPH/L9952",
+    "name": "9952 WPC Sheet Texture | 7 mm",
+    "pct": 78
+   }
+  ]
+ },
+ "UC/I2/SPH/L9952": {
+  "name": "9952 WPC Sheet Texture | 7 mm",
+  "alts": [
+   {
+    "code": "UC/I2/SPH/LCZ07",
+    "name": "CZ07 WPC Sheet Texture | 7 mm",
+    "pct": 81
+   },
+   {
+    "code": "UC/P1/PPN/S9001",
+    "name": "9001* Nio Plain Stone",
+    "pct": 80
+   },
+   {
+    "code": "UC/P1/PPP/S9001",
+    "name": "9001 Nio Plain Stone",
+    "pct": 80
+   },
+   {
+    "code": "UC/I2/SPH/L2203",
+    "name": "2203 WPC Sheet Texture | 7 mm",
+    "pct": 78
+   },
+   {
+    "code": "UC/I2/SPH/LCZ08",
+    "name": "CZ08 WPC Sheet Texture | 7 mm",
+    "pct": 77
+   },
+   {
+    "code": "UC/P1/PPN/LES84",
+    "name": "ES84* Nio Plain Texture",
+    "pct": 75
+   },
+   {
+    "code": "UC/P1/PPP/LES84",
+    "name": "ES84 Nio Plain Texture",
+    "pct": 75
+   }
+  ]
+ },
+ "UC/I2/SPH/LA191": {
+  "name": "A191 WPC Sheet Texture | 7 mm",
+  "alts": []
+ },
+ "UC/I2/SPH/LA235": {
+  "name": "A235 WPC Sheet Texture | 7 mm",
+  "alts": [
+   {
+    "code": "UC/P1/PPN/LES84",
+    "name": "ES84* Nio Plain Texture",
+    "pct": 85
+   },
+   {
+    "code": "UC/P1/PPP/LES84",
+    "name": "ES84 Nio Plain Texture",
+    "pct": 85
+   },
+   {
+    "code": "UC/P1/PPP/LD193",
+    "name": "D193 Nio Plain Texture",
+    "pct": 78
+   },
+   {
+    "code": "UC/P1/PPN/LD193",
+    "name": "D193* Nio Plain Texture",
+    "pct": 77
+   },
+   {
+    "code": "UC/I2/SPH/LCZ08",
+    "name": "CZ08 WPC Sheet Texture | 7 mm",
+    "pct": 76
+   },
+   {
+    "code": "UC/P1/PPN/K9380",
+    "name": "9380* Nio Plain Gold",
+    "pct": 75
+   },
+   {
+    "code": "UC/P1/PPP/K9380",
+    "name": "9380 Nio Plain Gold",
+    "pct": 75
+   },
+   {
+    "code": "UC/I2/SPH/LCZ07",
+    "name": "CZ07 WPC Sheet Texture | 7 mm",
+    "pct": 75
+   }
+  ]
+ },
+ "UC/I2/SPH/LCZ07": {
+  "name": "CZ07 WPC Sheet Texture | 7 mm",
+  "alts": [
+   {
+    "code": "UC/I2/SPH/LCZ08",
+    "name": "CZ08 WPC Sheet Texture | 7 mm",
+    "pct": 84
+   },
+   {
+    "code": "UC/I2/SPH/L9952",
+    "name": "9952 WPC Sheet Texture | 7 mm",
+    "pct": 81
+   },
+   {
+    "code": "UC/P1/PPN/LES84",
+    "name": "ES84* Nio Plain Texture",
+    "pct": 78
+   },
+   {
+    "code": "UC/P1/PPP/LES84",
+    "name": "ES84 Nio Plain Texture",
+    "pct": 78
+   },
+   {
+    "code": "UC/P1/PPN/S9001",
+    "name": "9001* Nio Plain Stone",
+    "pct": 77
+   },
+   {
+    "code": "UC/P1/PPP/S9001",
+    "name": "9001 Nio Plain Stone",
+    "pct": 77
+   },
+   {
+    "code": "UC/P1/PPN/K9380",
+    "name": "9380* Nio Plain Gold",
+    "pct": 77
+   },
+   {
+    "code": "UC/P1/PPP/K9380",
+    "name": "9380 Nio Plain Gold",
+    "pct": 77
+   },
+   {
+    "code": "UC/I2/SPH/LA235",
+    "name": "A235 WPC Sheet Texture | 7 mm",
+    "pct": 75
+   }
+  ]
+ },
+ "UC/I2/SPH/LCZ08": {
+  "name": "CZ08 WPC Sheet Texture | 7 mm",
+  "alts": [
+   {
+    "code": "UC/I2/SPH/LCZ07",
+    "name": "CZ07 WPC Sheet Texture | 7 mm",
+    "pct": 84
+   },
+   {
+    "code": "UC/P1/PPN/LES84",
+    "name": "ES84* Nio Plain Texture",
+    "pct": 80
+   },
+   {
+    "code": "UC/P1/PPP/LES84",
+    "name": "ES84 Nio Plain Texture",
+    "pct": 80
+   },
+   {
+    "code": "UC/P1/PPN/K9380",
+    "name": "9380* Nio Plain Gold",
+    "pct": 78
+   },
+   {
+    "code": "UC/P1/PPP/K9380",
+    "name": "9380 Nio Plain Gold",
+    "pct": 78
+   },
+   {
+    "code": "UC/I2/SPH/L9952",
+    "name": "9952 WPC Sheet Texture | 7 mm",
+    "pct": 77
+   },
+   {
+    "code": "UC/I2/SPH/LA235",
+    "name": "A235 WPC Sheet Texture | 7 mm",
+    "pct": 76
+   },
+   {
+    "code": "UC/P1/PPN/S9001",
+    "name": "9001* Nio Plain Stone",
+    "pct": 76
+   },
+   {
+    "code": "UC/P1/PPP/S9001",
+    "name": "9001 Nio Plain Stone",
+    "pct": 76
+   }
+  ]
+ },
+ "UC/I2/SPK/K0001": {
+  "name": "0001 WPC Sheet Metallic gold | 7 mm",
+  "alts": [
+   {
+    "code": "UC/I2/SPK/Q0002",
+    "name": "0002 WPC Sheet Metallic bronze | 7 mm",
+    "pct": 75
+   }
+  ]
+ },
+ "UC/I2/SPK/Q0002": {
+  "name": "0002 WPC Sheet Metallic bronze | 7 mm",
+  "alts": [
+   {
+    "code": "UC/I2/SPK/K0001",
+    "name": "0001 WPC Sheet Metallic gold | 7 mm",
+    "pct": 75
+   }
+  ]
+ },
+ "UC/L1/SL0/K0156": {
+  "name": "0156 Laminate Sheet Metallic gold | 0.8 mm",
+  "alts": []
+ },
+ "UC/L1/SL0/Q0155": {
+  "name": "0155 Laminate Sheet Metallic bronze | 0.8 mm",
+  "alts": []
+ },
+ "UC/M2/PC0/P9552": {
+  "name": "9552 Charcoal Basic Neutral",
+  "alts": [
+   {
+    "code": "UC/I2/PPC/N0112",
+    "name": "0112 WPC Ceramic Neutral",
+    "pct": 78
+   },
+   {
+    "code": "UC/M2/PPC/N0112",
+    "name": "0112* WPC Ceramic Neutral",
+    "pct": 77
+   },
+   {
+    "code": "UC/M2/PCD/K5064",
+    "name": "5064 Charcoal Classic Gold",
+    "pct": 76
+   }
+  ]
+ },
+ "UC/M2/PC0/S9571": {
+  "name": "9571 Charcoal Basic Gold",
+  "alts": []
+ },
+ "UC/M2/PC0/S9572": {
+  "name": "9572 Charcoal Basic Stone",
+  "alts": [
+   {
+    "code": "UC/I2/PCV/S0519",
+    "name": "0519 Charcoal Slats Stone",
+    "pct": 77
+   },
+   {
+    "code": "UC/I2/PCR/S0519",
+    "name": "0519 Charcoal Mini rectangle Stone",
+    "pct": 76
+   }
+  ]
+ },
+ "UC/M2/PCD/K5061": {
+  "name": "5061 Charcoal Classic Gold",
+  "alts": []
+ },
+ "UC/M2/PCD/K5062": {
+  "name": "5062 Charcoal Classic Gold",
+  "alts": [
+   {
+    "code": "UC/M2/PCD/K5063",
+    "name": "5063 Charcoal Classic Gold",
+    "pct": 78
+   }
+  ]
+ },
+ "UC/M2/PCD/K5063": {
+  "name": "5063 Charcoal Classic Gold",
+  "alts": [
+   {
+    "code": "UC/M2/PCD/K5062",
+    "name": "5062 Charcoal Classic Gold",
+    "pct": 78
+   }
+  ]
+ },
+ "UC/M2/PCD/K5064": {
+  "name": "5064 Charcoal Classic Gold",
+  "alts": [
+   {
+    "code": "UC/I2/PPE/W4P03",
+    "name": "4P03 WPC Small square Wood",
+    "pct": 84
+   },
+   {
+    "code": "UC/M2/PPE/W4P03",
+    "name": "4P03* WPC Small square Wood",
+    "pct": 84
+   },
+   {
+    "code": "UC/I2/PPE/WS685",
+    "name": "S685 WPC Small square Wood",
+    "pct": 82
+   },
+   {
+    "code": "UC/I2/PPD/WS685",
+    "name": "S685 WPC Classic Wood",
+    "pct": 81
+   },
+   {
+    "code": "UC/M2/PPE/WS685",
+    "name": "S685* WPC Small square Wood",
+    "pct": 79
+   },
+   {
+    "code": "UC/M2/PC0/P9552",
+    "name": "9552 Charcoal Basic Neutral",
+    "pct": 76
+   }
+  ]
+ },
+ "UC/M2/PCF/R7332": {
+  "name": "7332 Charcoal Fluted Neutral",
+  "alts": [
+   {
+    "code": "UC/M2/PPD/R0P61",
+    "name": "0P61 WPC Classic Neutral",
+    "pct": 85
+   },
+   {
+    "code": "UC/R1/PPF/O0160",
+    "name": "0160 PVC Fluted Neutral",
+    "pct": 84
+   },
+   {
+    "code": "UC/I2/PPD/R0132",
+    "name": "0132 WPC Classic Neutral",
+    "pct": 83
+   },
+   {
+    "code": "UC/P1/PPF/RD164",
+    "name": "D164 Nio Fluted Neutral",
+    "pct": 80
+   },
+   {
+    "code": "UC/M2/PCR/W3621",
+    "name": "3621 Charcoal Mini rectangle Wood",
+    "pct": 77
+   },
+   {
+    "code": "UC/M2/PCR/W3624",
+    "name": "3624 Charcoal Mini rectangle Wood",
+    "pct": 75
+   }
+  ]
+ },
+ "UC/M2/PCF/W7331": {
+  "name": "7331 Charcoal Fluted Wood",
+  "alts": [
+   {
+    "code": "UC/I2/PPD/WX921",
+    "name": "X921 WPC Classic Wood",
+    "pct": 86
+   },
+   {
+    "code": "UC/I2/PCF/W7333",
+    "name": "7333 Charcoal Fluted Wood",
+    "pct": 84
+   },
+   {
+    "code": "UC/M2/PCF/W7333",
+    "name": "7333* Charcoal Fluted Wood",
+    "pct": 84
+   },
+   {
+    "code": "UC/I2/PCR/W3622",
+    "name": "3622 Charcoal Mini rectangle Wood",
+    "pct": 82
+   },
+   {
+    "code": "UC/M2/PCR/W3622",
+    "name": "3622* Charcoal Mini rectangle Wood",
+    "pct": 82
+   },
+   {
+    "code": "UC/R1/PPX/W0114",
+    "name": "0114 PVC Fluted wide Wood",
+    "pct": 81
+   },
+   {
+    "code": "UC/I2/PPE/WX921",
+    "name": "X921 WPC Small square Wood",
+    "pct": 79
+   },
+   {
+    "code": "UC/I2/PPD/R0132",
+    "name": "0132 WPC Classic Neutral",
+    "pct": 78
+   },
+   {
+    "code": "UC/P1/PPF/W9204",
+    "name": "9204 Nio Fluted Wood",
+    "pct": 78
+   },
+   {
+    "code": "UC/M2/PPD/R0P61",
+    "name": "0P61 WPC Classic Neutral",
+    "pct": 77
+   },
+   {
+    "code": "UC/M2/PCR/W3621",
+    "name": "3621 Charcoal Mini rectangle Wood",
+    "pct": 77
+   }
+  ]
+ },
+ "UC/M2/PCF/W7333": {
+  "name": "7333* Charcoal Fluted Wood",
+  "alts": [
+   {
+    "code": "UC/I2/PCF/W7333",
+    "name": "7333 Charcoal Fluted Wood",
+    "pct": 91
+   },
+   {
+    "code": "UC/I2/PPE/WS685",
+    "name": "S685 WPC Small square Wood",
+    "pct": 85
+   },
+   {
+    "code": "UC/M2/PPE/WS685",
+    "name": "S685* WPC Small square Wood",
+    "pct": 85
+   },
+   {
+    "code": "UC/R1/PPF/W0352",
+    "name": "0352 PVC Fluted Wood",
+    "pct": 84
+   },
+   {
+    "code": "UC/M2/PCF/W7331",
+    "name": "7331 Charcoal Fluted Wood",
+    "pct": 84
+   },
+   {
+    "code": "UC/I2/PPD/WS685",
+    "name": "S685 WPC Classic Wood",
+    "pct": 81
+   },
+   {
+    "code": "UC/M2/PCR/W3623",
+    "name": "3623 Charcoal Mini rectangle Wood",
+    "pct": 81
+   },
+   {
+    "code": "UC/I2/PPE/W4P03",
+    "name": "4P03 WPC Small square Wood",
+    "pct": 81
+   },
+   {
+    "code": "UC/I2/PCF/W7334",
+    "name": "7334 Charcoal Fluted Wood",
+    "pct": 78
+   },
+   {
+    "code": "UC/M2/PCF/W7334",
+    "name": "7334* Charcoal Fluted Wood",
+    "pct": 78
+   }
+  ]
+ },
+ "UC/M2/PCF/W7334": {
+  "name": "7334* Charcoal Fluted Wood",
+  "alts": [
+   {
+    "code": "UC/I2/PCF/W7334",
+    "name": "7334 Charcoal Fluted Wood",
+    "pct": 91
+   },
+   {
+    "code": "UC/I2/PPD/WX905",
+    "name": "X905 WPC Classic Wood",
+    "pct": 81
+   },
+   {
+    "code": "UC/M2/PPD/WX905",
+    "name": "X905* WPC Classic Wood",
+    "pct": 81
+   },
+   {
+    "code": "UC/M2/PCF/W7333",
+    "name": "7333* Charcoal Fluted Wood",
+    "pct": 78
+   },
+   {
+    "code": "UC/I2/PCF/W7333",
+    "name": "7333 Charcoal Fluted Wood",
+    "pct": 77
+   },
+   {
+    "code": "UC/M2/PPE/WX905",
+    "name": "X905* WPC Small square Wood",
+    "pct": 77
+   },
+   {
+    "code": "UC/R1/PPF/W0352",
+    "name": "0352 PVC Fluted Wood",
+    "pct": 76
+   }
+  ]
+ },
+ "UC/M2/PCR/W3621": {
+  "name": "3621 Charcoal Mini rectangle Wood",
+  "alts": [
+   {
+    "code": "UC/I2/PCR/W3622",
+    "name": "3622 Charcoal Mini rectangle Wood",
+    "pct": 83
+   },
+   {
+    "code": "UC/M2/PCR/W3623",
+    "name": "3623 Charcoal Mini rectangle Wood",
+    "pct": 80
+   },
+   {
+    "code": "UC/M2/PCR/W3622",
+    "name": "3622* Charcoal Mini rectangle Wood",
+    "pct": 80
+   },
+   {
+    "code": "UC/I2/PPD/WX921",
+    "name": "X921 WPC Classic Wood",
+    "pct": 77
+   },
+   {
+    "code": "UC/M2/PCF/R7332",
+    "name": "7332 Charcoal Fluted Neutral",
+    "pct": 77
+   },
+   {
+    "code": "UC/M2/PCF/W7331",
+    "name": "7331 Charcoal Fluted Wood",
+    "pct": 77
+   }
+  ]
+ },
+ "UC/M2/PCR/W3622": {
+  "name": "3622* Charcoal Mini rectangle Wood",
+  "alts": [
+   {
+    "code": "UC/I2/PCR/W3622",
+    "name": "3622 Charcoal Mini rectangle Wood",
+    "pct": 91
+   },
+   {
+    "code": "UC/M2/PCR/W3623",
+    "name": "3623 Charcoal Mini rectangle Wood",
+    "pct": 86
+   },
+   {
+    "code": "UC/M2/PCF/W7331",
+    "name": "7331 Charcoal Fluted Wood",
+    "pct": 82
+   },
+   {
+    "code": "UC/I2/PPE/W4P03",
+    "name": "4P03 WPC Small square Wood",
+    "pct": 82
+   },
+   {
+    "code": "UC/I2/PPE/WS685",
+    "name": "S685 WPC Small square Wood",
+    "pct": 82
+   },
+   {
+    "code": "UC/M2/PPE/WS685",
+    "name": "S685* WPC Small square Wood",
+    "pct": 82
+   },
+   {
+    "code": "UC/I2/PPD/WX921",
+    "name": "X921 WPC Classic Wood",
+    "pct": 81
+   },
+   {
+    "code": "UC/M2/PCR/W3621",
+    "name": "3621 Charcoal Mini rectangle Wood",
+    "pct": 80
+   },
+   {
+    "code": "UC/M2/PCR/W3624",
+    "name": "3624 Charcoal Mini rectangle Wood",
+    "pct": 79
+   }
+  ]
+ },
+ "UC/M2/PCR/W3623": {
+  "name": "3623 Charcoal Mini rectangle Wood",
+  "alts": [
+   {
+    "code": "UC/M2/PCR/W3624",
+    "name": "3624 Charcoal Mini rectangle Wood",
+    "pct": 86
+   },
+   {
+    "code": "UC/M2/PCR/W3622",
+    "name": "3622* Charcoal Mini rectangle Wood",
+    "pct": 86
+   },
+   {
+    "code": "UC/I2/PCR/W3622",
+    "name": "3622 Charcoal Mini rectangle Wood",
+    "pct": 86
+   },
+   {
+    "code": "UC/I2/PCF/W7333",
+    "name": "7333 Charcoal Fluted Wood",
+    "pct": 81
+   },
+   {
+    "code": "UC/M2/PCF/W7333",
+    "name": "7333* Charcoal Fluted Wood",
+    "pct": 81
+   },
+   {
+    "code": "UC/M2/PCR/W3621",
+    "name": "3621 Charcoal Mini rectangle Wood",
+    "pct": 80
+   }
+  ]
+ },
+ "UC/M2/PCR/W3624": {
+  "name": "3624 Charcoal Mini rectangle Wood",
+  "alts": [
+   {
+    "code": "UC/M2/PCR/W3623",
+    "name": "3623 Charcoal Mini rectangle Wood",
+    "pct": 86
+   },
+   {
+    "code": "UC/I2/PCR/W3622",
+    "name": "3622 Charcoal Mini rectangle Wood",
+    "pct": 81
+   },
+   {
+    "code": "UC/M2/PCR/W3622",
+    "name": "3622* Charcoal Mini rectangle Wood",
+    "pct": 79
+   },
+   {
+    "code": "UC/M2/PCF/R7332",
+    "name": "7332 Charcoal Fluted Neutral",
+    "pct": 75
+   },
+   {
+    "code": "UC/I2/PCU/PM090",
+    "name": "M090 Charcoal Mini concave Pastel",
+    "pct": 74
+   },
+   {
+    "code": "UC/I2/PCU/P012G",
+    "name": "012G Charcoal Mini concave Pastel",
+    "pct": 74
+   }
+  ]
+ },
+ "UC/M2/PCS/K5081": {
+  "name": "5081 Charcoal Concave Gold",
+  "alts": [
+   {
+    "code": "UC/M2/PPC/N0102",
+    "name": "0102* WPC Ceramic Neutral",
+    "pct": 83
+   },
+   {
+    "code": "UC/I2/PPD/WX913",
+    "name": "X913 WPC Classic Wood",
+    "pct": 81
+   },
+   {
+    "code": "UC/M2/PPC/N2025",
+    "name": "2025* WPC Ceramic Neutral",
+    "pct": 80
+   },
+   {
+    "code": "UC/I2/PPC/N2025",
+    "name": "2025 WPC Ceramic Neutral",
+    "pct": 80
+   },
+   {
+    "code": "UC/I2/PPD/H2022",
+    "name": "2022 WPC Classic White",
+    "pct": 80
+   },
+   {
+    "code": "UC/M2/PCS/K5084",
+    "name": "5084 Charcoal Concave Gold",
+    "pct": 80
+   },
+   {
+    "code": "UC/M2/PPD/H2022",
+    "name": "2022* WPC Classic White",
+    "pct": 80
+   },
+   {
+    "code": "UC/I2/PPC/N0102",
+    "name": "0102 WPC Ceramic Neutral",
+    "pct": 78
+   },
+   {
+    "code": "UC/R1/PPF/W0333",
+    "name": "0333 PVC Fluted Wood",
+    "pct": 78
+   },
+   {
+    "code": "UC/I2/PCM/W183S",
+    "name": "183S Charcoal Flat rib Wood",
+    "pct": 77
+   },
+   {
+    "code": "UC/M2/PCS/K5083",
+    "name": "5083 Charcoal Concave Gold",
+    "pct": 76
+   }
+  ]
+ },
+ "UC/M2/PCS/K5082": {
+  "name": "5082 Charcoal Concave Gold",
+  "alts": [
+   {
+    "code": "UC/M2/PCS/K5083",
+    "name": "5083 Charcoal Concave Gold",
+    "pct": 79
+   },
+   {
+    "code": "UC/I2/PPD/H2022",
+    "name": "2022 WPC Classic White",
+    "pct": 77
+   },
+   {
+    "code": "UC/M2/PPV/S0852",
+    "name": "0852 WPC Convex Stone",
+    "pct": 77
+   },
+   {
+    "code": "UC/M2/PCS/K5084",
+    "name": "5084 Charcoal Concave Gold",
+    "pct": 76
+   },
+   {
+    "code": "UC/M2/PPD/H2022",
+    "name": "2022* WPC Classic White",
+    "pct": 76
+   }
+  ]
+ },
+ "UC/M2/PCS/K5083": {
+  "name": "5083 Charcoal Concave Gold",
+  "alts": [
+   {
+    "code": "UC/M2/PCS/K5084",
+    "name": "5084 Charcoal Concave Gold",
+    "pct": 81
+   },
+   {
+    "code": "UC/M2/PCS/K5082",
+    "name": "5082 Charcoal Concave Gold",
+    "pct": 79
+   },
+   {
+    "code": "UC/M2/PCU/K5537",
+    "name": "5537 Charcoal Mini concave Gold",
+    "pct": 79
+   },
+   {
+    "code": "UC/I2/PPD/H2022",
+    "name": "2022 WPC Classic White",
+    "pct": 78
+   },
+   {
+    "code": "UC/M2/PPD/H2022",
+    "name": "2022* WPC Classic White",
+    "pct": 78
+   },
+   {
+    "code": "UC/M2/PCS/K5081",
+    "name": "5081 Charcoal Concave Gold",
+    "pct": 76
+   }
+  ]
+ },
+ "UC/M2/PCS/K5084": {
+  "name": "5084 Charcoal Concave Gold",
+  "alts": [
+   {
+    "code": "UC/M2/PPD/H2022",
+    "name": "2022* WPC Classic White",
+    "pct": 83
+   },
+   {
+    "code": "UC/I2/PPD/H2022",
+    "name": "2022 WPC Classic White",
+    "pct": 83
+   },
+   {
+    "code": "UC/M2/PCS/K5083",
+    "name": "5083 Charcoal Concave Gold",
+    "pct": 81
+   },
+   {
+    "code": "UC/M2/PCS/K5081",
+    "name": "5081 Charcoal Concave Gold",
+    "pct": 80
+   },
+   {
+    "code": "UC/I2/PPC/N2025",
+    "name": "2025 WPC Ceramic Neutral",
+    "pct": 78
+   },
+   {
+    "code": "UC/M2/PPC/N2025",
+    "name": "2025* WPC Ceramic Neutral",
+    "pct": 78
+   },
+   {
+    "code": "UC/M2/PCU/K5537",
+    "name": "5537 Charcoal Mini concave Gold",
+    "pct": 77
+   },
+   {
+    "code": "UC/M2/PCS/K5082",
+    "name": "5082 Charcoal Concave Gold",
+    "pct": 76
+   }
+  ]
+ },
+ "UC/M2/PCU/K5537": {
+  "name": "5537 Charcoal Mini concave Gold",
+  "alts": [
+   {
+    "code": "UC/M2/PCS/K5083",
+    "name": "5083 Charcoal Concave Gold",
+    "pct": 79
+   },
+   {
+    "code": "UC/M2/PPD/H2022",
+    "name": "2022* WPC Classic White",
+    "pct": 79
+   },
+   {
+    "code": "UC/I2/PPD/H2022",
+    "name": "2022 WPC Classic White",
+    "pct": 78
+   },
+   {
+    "code": "UC/I2/PCV/S0519",
+    "name": "0519 Charcoal Slats Stone",
+    "pct": 78
+   },
+   {
+    "code": "UC/M2/PPC/N0102",
+    "name": "0102* WPC Ceramic Neutral",
+    "pct": 77
+   },
+   {
+    "code": "UC/M2/PCS/K5084",
+    "name": "5084 Charcoal Concave Gold",
+    "pct": 77
+   },
+   {
+    "code": "UC/I2/PCR/S0519",
+    "name": "0519 Charcoal Mini rectangle Stone",
+    "pct": 76
+   }
+  ]
+ },
+ "UC/M2/PPC/H2022": {
+  "name": "2022* WPC Ceramic White",
+  "alts": [
+   {
+    "code": "UC/I2/PPC/H2022",
+    "name": "2022 WPC Ceramic White",
+    "pct": 91
+   },
+   {
+    "code": "UC/I2/PPD/H2022",
+    "name": "2022 WPC Classic White",
+    "pct": 87
+   },
+   {
+    "code": "UC/M2/PPD/H2022",
+    "name": "2022* WPC Classic White",
+    "pct": 87
+   },
+   {
+    "code": "UC/M2/PPC/N2025",
+    "name": "2025* WPC Ceramic Neutral",
+    "pct": 86
+   },
+   {
+    "code": "UC/I2/PPC/N2025",
+    "name": "2025 WPC Ceramic Neutral",
+    "pct": 86
+   },
+   {
+    "code": "UC/M2/PPV/H2022",
+    "name": "2022 WPC Convex White",
+    "pct": 84
+   },
+   {
+    "code": "UC/M2/PPV/P0212",
+    "name": "0212 WPC Convex Pastel",
+    "pct": 84
+   },
+   {
+    "code": "UC/M2/PPS/H2022",
+    "name": "2022 WPC Concave White",
+    "pct": 84
+   },
+   {
+    "code": "UC/M2/PPC/N0102",
+    "name": "0102* WPC Ceramic Neutral",
+    "pct": 83
+   }
+  ]
+ },
+ "UC/M2/PPC/N0072": {
+  "name": "0072* WPC Ceramic Neutral",
+  "alts": [
+   {
+    "code": "UC/I2/PPC/N0072",
+    "name": "0072 WPC Ceramic Neutral",
+    "pct": 91
+   },
+   {
+    "code": "UC/M2/PPC/N0102",
+    "name": "0102* WPC Ceramic Neutral",
+    "pct": 83
+   },
+   {
+    "code": "UC/I2/PCU/H006G",
+    "name": "006G Charcoal Mini concave White",
+    "pct": 81
+   },
+   {
+    "code": "UC/M2/PPC/N2025",
+    "name": "2025* WPC Ceramic Neutral",
+    "pct": 78
+   },
+   {
+    "code": "UC/I2/PPC/N2025",
+    "name": "2025 WPC Ceramic Neutral",
+    "pct": 78
+   },
+   {
+    "code": "UC/I2/PPC/N0112",
+    "name": "0112 WPC Ceramic Neutral",
+    "pct": 77
+   },
+   {
+    "code": "UC/M2/PPC/N0112",
+    "name": "0112* WPC Ceramic Neutral",
+    "pct": 77
+   }
+  ]
+ },
+ "UC/M2/PPC/N0102": {
+  "name": "0102* WPC Ceramic Neutral",
+  "alts": [
+   {
+    "code": "UC/I2/PPC/N2025",
+    "name": "2025 WPC Ceramic Neutral",
+    "pct": 87
+   },
+   {
+    "code": "UC/M2/PPC/N2025",
+    "name": "2025* WPC Ceramic Neutral",
+    "pct": 87
+   },
+   {
+    "code": "UC/I2/PPC/N0112",
+    "name": "0112 WPC Ceramic Neutral",
+    "pct": 85
+   },
+   {
+    "code": "UC/M2/PPC/N0112",
+    "name": "0112* WPC Ceramic Neutral",
+    "pct": 85
+   },
+   {
+    "code": "UC/I2/PPC/H2022",
+    "name": "2022 WPC Ceramic White",
+    "pct": 84
+   },
+   {
+    "code": "UC/I2/PPC/N0102",
+    "name": "0102 WPC Ceramic Neutral",
+    "pct": 83
+   },
+   {
+    "code": "UC/I2/PPC/N0072",
+    "name": "0072 WPC Ceramic Neutral",
+    "pct": 83
+   },
+   {
+    "code": "UC/M2/PCS/K5081",
+    "name": "5081 Charcoal Concave Gold",
+    "pct": 83
+   },
+   {
+    "code": "UC/I2/PPD/H2022",
+    "name": "2022 WPC Classic White",
+    "pct": 83
+   },
+   {
+    "code": "UC/M2/PPC/H2022",
+    "name": "2022* WPC Ceramic White",
+    "pct": 83
+   },
+   {
+    "code": "UC/M2/PPC/N0072",
+    "name": "0072* WPC Ceramic Neutral",
+    "pct": 83
+   },
+   {
+    "code": "UC/M2/PPD/H2022",
+    "name": "2022* WPC Classic White",
+    "pct": 82
+   },
+   {
+    "code": "UC/M2/PPV/P0202",
+    "name": "0202 WPC Convex Pastel",
+    "pct": 81
+   },
+   {
+    "code": "UC/I2/PCM/W183S",
+    "name": "183S Charcoal Flat rib Wood",
+    "pct": 78
+   },
+   {
+    "code": "UC/I2/PCU/P012G",
+    "name": "012G Charcoal Mini concave Pastel",
+    "pct": 78
+   },
+   {
+    "code": "UC/M2/PCU/K5537",
+    "name": "5537 Charcoal Mini concave Gold",
+    "pct": 77
+   },
+   {
+    "code": "UC/I2/PCR/S0519",
+    "name": "0519 Charcoal Mini rectangle Stone",
+    "pct": 76
+   },
+   {
+    "code": "UC/R1/PPF/W0333",
+    "name": "0333 PVC Fluted Wood",
+    "pct": 75
+   },
+   {
+    "code": "UC/I2/PCU/P8461",
+    "name": "8461 Charcoal Mini concave Pastel",
+    "pct": 75
+   },
+   {
+    "code": "UC/I2/PPS/LA235",
+    "name": "A235 WPC Concave Texture",
+    "pct": 74
+   }
+  ]
+ },
+ "UC/M2/PPC/N0112": {
+  "name": "0112* WPC Ceramic Neutral",
+  "alts": [
+   {
+    "code": "UC/I2/PPC/N0112",
+    "name": "0112 WPC Ceramic Neutral",
+    "pct": 91
+   },
+   {
+    "code": "UC/M2/PPC/N0102",
+    "name": "0102* WPC Ceramic Neutral",
+    "pct": 85
+   },
+   {
+    "code": "UC/M2/PPC/N2025",
+    "name": "2025* WPC Ceramic Neutral",
+    "pct": 82
+   },
+   {
+    "code": "UC/I2/PPC/N2025",
+    "name": "2025 WPC Ceramic Neutral",
+    "pct": 81
+   },
+   {
+    "code": "UC/I2/PCM/W183S",
+    "name": "183S Charcoal Flat rib Wood",
+    "pct": 81
+   },
+   {
+    "code": "UC/I2/PPD/WS685",
+    "name": "S685 WPC Classic Wood",
+    "pct": 80
+   },
+   {
+    "code": "UC/I2/PCM/W5249",
+    "name": "5249 Charcoal Flat rib Wood",
+    "pct": 79
+   },
+   {
+    "code": "UC/I2/PPD/WX913",
+    "name": "X913 WPC Classic Wood",
+    "pct": 79
+   },
+   {
+    "code": "UC/I2/PPC/N0072",
+    "name": "0072 WPC Ceramic Neutral",
+    "pct": 78
+   },
+   {
+    "code": "UC/M2/PPC/N0072",
+    "name": "0072* WPC Ceramic Neutral",
+    "pct": 77
+   },
+   {
+    "code": "UC/M2/PC0/P9552",
+    "name": "9552 Charcoal Basic Neutral",
+    "pct": 77
+   }
+  ]
+ },
+ "UC/M2/PPC/N2025": {
+  "name": "2025* WPC Ceramic Neutral",
+  "alts": [
+   {
+    "code": "UC/I2/PPC/N2025",
+    "name": "2025 WPC Ceramic Neutral",
+    "pct": 91
+   },
+   {
+    "code": "UC/M2/PPC/N0102",
+    "name": "0102* WPC Ceramic Neutral",
+    "pct": 87
+   },
+   {
+    "code": "UC/I2/PPD/H2022",
+    "name": "2022 WPC Classic White",
+    "pct": 86
+   },
+   {
+    "code": "UC/M2/PPC/H2022",
+    "name": "2022* WPC Ceramic White",
+    "pct": 86
+   },
+   {
+    "code": "UC/I2/PPC/H2022",
+    "name": "2022 WPC Ceramic White",
+    "pct": 86
+   },
+   {
+    "code": "UC/M2/PPD/H2022",
+    "name": "2022* WPC Classic White",
+    "pct": 86
+   },
+   {
+    "code": "UC/M2/PPV/P0202",
+    "name": "0202 WPC Convex Pastel",
+    "pct": 86
+   },
+   {
+    "code": "UC/M2/PPV/H2022",
+    "name": "2022 WPC Convex White",
+    "pct": 85
+   },
+   {
+    "code": "UC/I2/PPC/N0102",
+    "name": "0102 WPC Ceramic Neutral",
+    "pct": 82
+   },
+   {
+    "code": "UC/M2/PPV/P0292",
+    "name": "0292 WPC Convex Pastel",
+    "pct": 82
+   },
+   {
+    "code": "UC/M2/PPC/N0112",
+    "name": "0112* WPC Ceramic Neutral",
+    "pct": 82
+   },
+   {
+    "code": "UC/M2/PCS/K5081",
+    "name": "5081 Charcoal Concave Gold",
+    "pct": 80
+   },
+   {
+    "code": "UC/I2/PPC/N0112",
+    "name": "0112 WPC Ceramic Neutral",
+    "pct": 80
+   },
+   {
+    "code": "UC/M2/PPC/N0072",
+    "name": "0072* WPC Ceramic Neutral",
+    "pct": 78
+   },
+   {
+    "code": "UC/I2/PPC/N0072",
+    "name": "0072 WPC Ceramic Neutral",
+    "pct": 78
+   },
+   {
+    "code": "UC/I2/PCU/PM090",
+    "name": "M090 Charcoal Mini concave Pastel",
+    "pct": 78
+   },
+   {
+    "code": "UC/M2/PCS/K5084",
+    "name": "5084 Charcoal Concave Gold",
+    "pct": 78
+   }
+  ]
+ },
+ "UC/M2/PPD/H2022": {
+  "name": "2022* WPC Classic White",
+  "alts": [
+   {
+    "code": "UC/I2/PPD/H2022",
+    "name": "2022 WPC Classic White",
+    "pct": 91
+   },
+   {
+    "code": "UC/I2/PPC/H2022",
+    "name": "2022 WPC Ceramic White",
+    "pct": 87
+   },
+   {
+    "code": "UC/M2/PPC/H2022",
+    "name": "2022* WPC Ceramic White",
+    "pct": 87
+   },
+   {
+    "code": "UC/I2/PPC/N2025",
+    "name": "2025 WPC Ceramic Neutral",
+    "pct": 87
+   },
+   {
+    "code": "UC/M2/PPV/H2022",
+    "name": "2022 WPC Convex White",
+    "pct": 86
+   },
+   {
+    "code": "UC/M2/PPC/N2025",
+    "name": "2025* WPC Ceramic Neutral",
+    "pct": 86
+   },
+   {
+    "code": "UC/M2/PPV/P0212",
+    "name": "0212 WPC Convex Pastel",
+    "pct": 86
+   },
+   {
+    "code": "UC/M2/PPS/H2022",
+    "name": "2022 WPC Concave White",
+    "pct": 85
+   },
+   {
+    "code": "UC/M2/PCS/K5084",
+    "name": "5084 Charcoal Concave Gold",
+    "pct": 83
+   },
+   {
+    "code": "UC/M2/PPC/N0102",
+    "name": "0102* WPC Ceramic Neutral",
+    "pct": 82
+   },
+   {
+    "code": "UC/M2/PCS/K5081",
+    "name": "5081 Charcoal Concave Gold",
+    "pct": 80
+   },
+   {
+    "code": "UC/I2/PPC/N0102",
+    "name": "0102 WPC Ceramic Neutral",
+    "pct": 79
+   },
+   {
+    "code": "UC/M2/PCU/K5537",
+    "name": "5537 Charcoal Mini concave Gold",
+    "pct": 79
+   },
+   {
+    "code": "UC/M2/PCS/K5083",
+    "name": "5083 Charcoal Concave Gold",
+    "pct": 78
+   },
+   {
+    "code": "UC/M2/PCS/K5082",
+    "name": "5082 Charcoal Concave Gold",
+    "pct": 76
+   },
+   {
+    "code": "UC/M2/PPD/R0P61",
+    "name": "0P61 WPC Classic Neutral",
+    "pct": 74
+   }
+  ]
+ },
+ "UC/M2/PPD/K3731": {
+  "name": "3731* WPC Classic Gold",
+  "alts": [
+   {
+    "code": "UC/I2/PPD/K3731",
+    "name": "3731 WPC Classic Gold",
+    "pct": 91
+   }
+  ]
+ },
+ "UC/M2/PPD/R0P61": {
+  "name": "0P61 WPC Classic Neutral",
+  "alts": [
+   {
+    "code": "UC/I2/PPD/R0132",
+    "name": "0132 WPC Classic Neutral",
+    "pct": 88
+   },
+   {
+    "code": "UC/M2/PCF/R7332",
+    "name": "7332 Charcoal Fluted Neutral",
+    "pct": 85
+   },
+   {
+    "code": "UC/R1/PPF/O0160",
+    "name": "0160 PVC Fluted Neutral",
+    "pct": 81
+   },
+   {
+    "code": "UC/P1/PPF/RD164",
+    "name": "D164 Nio Fluted Neutral",
+    "pct": 80
+   },
+   {
+    "code": "UC/M2/PCF/W7331",
+    "name": "7331 Charcoal Fluted Wood",
+    "pct": 77
+   },
+   {
+    "code": "UC/M2/PPD/H2022",
+    "name": "2022* WPC Classic White",
+    "pct": 74
+   }
+  ]
+ },
+ "UC/M2/PPD/W7073": {
+  "name": "7073* WPC Classic Wood",
+  "alts": [
+   {
+    "code": "UC/I2/PPD/W7073",
+    "name": "7073 WPC Classic Wood",
+    "pct": 91
+   },
+   {
+    "code": "UC/M2/PPD/WX919",
+    "name": "X919* WPC Classic Wood",
+    "pct": 78
+   },
+   {
+    "code": "UC/I2/PPD/WX919",
+    "name": "X919 WPC Classic Wood",
+    "pct": 78
+   },
+   {
+    "code": "UC/I2/PPD/WX905",
+    "name": "X905 WPC Classic Wood",
+    "pct": 78
+   },
+   {
+    "code": "UC/M2/PPD/WX905",
+    "name": "X905* WPC Classic Wood",
+    "pct": 77
+   },
+   {
+    "code": "UC/I2/PPD/WS685",
+    "name": "S685 WPC Classic Wood",
+    "pct": 77
+   },
+   {
+    "code": "UC/I2/PCF/W7334",
+    "name": "7334 Charcoal Fluted Wood",
+    "pct": 76
+   }
+  ]
+ },
+ "UC/M2/PPD/WX905": {
+  "name": "X905* WPC Classic Wood",
+  "alts": [
+   {
+    "code": "UC/I2/PPD/WX905",
+    "name": "X905 WPC Classic Wood",
+    "pct": 91
+   },
+   {
+    "code": "UC/M2/PPE/WX905",
+    "name": "X905* WPC Small square Wood",
+    "pct": 81
+   },
+   {
+    "code": "UC/M2/PCF/W7334",
+    "name": "7334* Charcoal Fluted Wood",
+    "pct": 81
+   },
+   {
+    "code": "UC/I2/PCF/W7334",
+    "name": "7334 Charcoal Fluted Wood",
+    "pct": 80
+   },
+   {
+    "code": "UC/I2/PPD/WX919",
+    "name": "X919 WPC Classic Wood",
+    "pct": 80
+   },
+   {
+    "code": "UC/M2/PPD/WX919",
+    "name": "X919* WPC Classic Wood",
+    "pct": 79
+   },
+   {
+    "code": "UC/I2/PPD/WX913",
+    "name": "X913 WPC Classic Wood",
+    "pct": 79
+   },
+   {
+    "code": "UC/I2/PPD/W7073",
+    "name": "7073 WPC Classic Wood",
+    "pct": 78
+   },
+   {
+    "code": "UC/M2/PPD/W7073",
+    "name": "7073* WPC Classic Wood",
+    "pct": 77
+   },
+   {
+    "code": "UC/I2/PPE/W8360",
+    "name": "8360 WPC Small square Wood",
+    "pct": 77
+   },
+   {
+    "code": "UC/P1/PPF/W8360",
+    "name": "8360 Nio Fluted Wood",
+    "pct": 76
+   },
+   {
+    "code": "UC/M2/PPE/W8360",
+    "name": "8360* WPC Small square Wood",
+    "pct": 76
+   }
+  ]
+ },
+ "UC/M2/PPD/WX919": {
+  "name": "X919* WPC Classic Wood",
+  "alts": [
+   {
+    "code": "UC/I2/PPD/WX919",
+    "name": "X919 WPC Classic Wood",
+    "pct": 91
+   },
+   {
+    "code": "UC/M2/PPE/WX905",
+    "name": "X905* WPC Small square Wood",
+    "pct": 82
+   },
+   {
+    "code": "UC/M2/PPD/WX905",
+    "name": "X905* WPC Classic Wood",
+    "pct": 79
+   },
+   {
+    "code": "UC/I2/PPD/WX905",
+    "name": "X905 WPC Classic Wood",
+    "pct": 79
+   },
+   {
+    "code": "UC/M2/PPD/W7073",
+    "name": "7073* WPC Classic Wood",
+    "pct": 78
+   },
+   {
+    "code": "UC/M2/PPE/W8360",
+    "name": "8360* WPC Small square Wood",
+    "pct": 78
+   },
+   {
+    "code": "UC/I2/PPD/W7073",
+    "name": "7073 WPC Classic Wood",
+    "pct": 78
+   },
+   {
+    "code": "UC/I2/PPE/W8360",
+    "name": "8360 WPC Small square Wood",
+    "pct": 78
+   }
+  ]
+ },
+ "UC/M2/PPE/W4P03": {
+  "name": "4P03* WPC Small square Wood",
+  "alts": [
+   {
+    "code": "UC/I2/PPE/W4P03",
+    "name": "4P03 WPC Small square Wood",
+    "pct": 91
+   },
+   {
+    "code": "UC/M2/PPE/WS685",
+    "name": "S685* WPC Small square Wood",
+    "pct": 86
+   },
+   {
+    "code": "UC/I2/PPE/WS685",
+    "name": "S685 WPC Small square Wood",
+    "pct": 86
+   },
+   {
+    "code": "UC/I2/PPD/WS685",
+    "name": "S685 WPC Classic Wood",
+    "pct": 85
+   },
+   {
+    "code": "UC/M2/PCD/K5064",
+    "name": "5064 Charcoal Classic Gold",
+    "pct": 84
+   },
+   {
+    "code": "UC/R1/PPF/W0352",
+    "name": "0352 PVC Fluted Wood",
+    "pct": 83
+   },
+   {
+    "code": "UC/I2/PCR/W3622",
+    "name": "3622 Charcoal Mini rectangle Wood",
+    "pct": 81
+   },
+   {
+    "code": "UC/R1/PPF/W0333",
+    "name": "0333 PVC Fluted Wood",
+    "pct": 73
+   }
+  ]
+ },
+ "UC/M2/PPE/W8360": {
+  "name": "8360* WPC Small square Wood",
+  "alts": [
+   {
+    "code": "UC/I2/PPE/W8360",
+    "name": "8360 WPC Small square Wood",
+    "pct": 91
+   },
+   {
+    "code": "UC/M2/PPE/WX905",
+    "name": "X905* WPC Small square Wood",
+    "pct": 82
+   },
+   {
+    "code": "UC/M2/PPD/WX919",
+    "name": "X919* WPC Classic Wood",
+    "pct": 78
+   },
+   {
+    "code": "UC/I2/PPD/WX919",
+    "name": "X919 WPC Classic Wood",
+    "pct": 78
+   },
+   {
+    "code": "UC/I2/PPD/WX905",
+    "name": "X905 WPC Classic Wood",
+    "pct": 77
+   },
+   {
+    "code": "UC/M2/PPD/WX905",
+    "name": "X905* WPC Classic Wood",
+    "pct": 76
+   },
+   {
+    "code": "UC/I2/PCF/W7334",
+    "name": "7334 Charcoal Fluted Wood",
+    "pct": 76
+   }
+  ]
+ },
+ "UC/M2/PPE/WS685": {
+  "name": "S685* WPC Small square Wood",
+  "alts": [
+   {
+    "code": "UC/I2/PPE/WS685",
+    "name": "S685 WPC Small square Wood",
+    "pct": 91
+   },
+   {
+    "code": "UC/M2/PPE/W4P03",
+    "name": "4P03* WPC Small square Wood",
+    "pct": 86
+   },
+   {
+    "code": "UC/I2/PPE/W4P03",
+    "name": "4P03 WPC Small square Wood",
+    "pct": 86
+   },
+   {
+    "code": "UC/R1/PPF/W0352",
+    "name": "0352 PVC Fluted Wood",
+    "pct": 86
+   },
+   {
+    "code": "UC/M2/PCF/W7333",
+    "name": "7333* Charcoal Fluted Wood",
+    "pct": 85
+   },
+   {
+    "code": "UC/I2/PCF/W7333",
+    "name": "7333 Charcoal Fluted Wood",
+    "pct": 84
+   },
+   {
+    "code": "UC/I2/PPD/WS685",
+    "name": "S685 WPC Classic Wood",
+    "pct": 84
+   },
+   {
+    "code": "UC/R1/PPX/W0103",
+    "name": "0103 PVC Fluted wide Wood",
+    "pct": 82
+   },
+   {
+    "code": "UC/I2/PCR/W3622",
+    "name": "3622 Charcoal Mini rectangle Wood",
+    "pct": 82
+   },
+   {
+    "code": "UC/M2/PCR/W3622",
+    "name": "3622* Charcoal Mini rectangle Wood",
+    "pct": 82
+   },
+   {
+    "code": "UC/I2/PPD/WX921",
+    "name": "X921 WPC Classic Wood",
+    "pct": 82
+   },
+   {
+    "code": "UC/M2/PCD/K5064",
+    "name": "5064 Charcoal Classic Gold",
+    "pct": 79
+   },
+   {
+    "code": "UC/I2/PPE/WX921",
+    "name": "X921 WPC Small square Wood",
+    "pct": 79
+   }
+  ]
+ },
+ "UC/M2/PPE/WX905": {
+  "name": "X905* WPC Small square Wood",
+  "alts": [
+   {
+    "code": "UC/I2/PPE/W8360",
+    "name": "8360 WPC Small square Wood",
+    "pct": 82
+   },
+   {
+    "code": "UC/I2/PPD/WX919",
+    "name": "X919 WPC Classic Wood",
+    "pct": 82
+   },
+   {
+    "code": "UC/M2/PPD/WX919",
+    "name": "X919* WPC Classic Wood",
+    "pct": 82
+   },
+   {
+    "code": "UC/M2/PPE/W8360",
+    "name": "8360* WPC Small square Wood",
+    "pct": 82
+   },
+   {
+    "code": "UC/I2/PPD/WX905",
+    "name": "X905 WPC Classic Wood",
+    "pct": 81
+   },
+   {
+    "code": "UC/M2/PPD/WX905",
+    "name": "X905* WPC Classic Wood",
+    "pct": 81
+   },
+   {
+    "code": "UC/P1/PPF/W8360",
+    "name": "8360 Nio Fluted Wood",
+    "pct": 78
+   },
+   {
+    "code": "UC/I2/PCF/W7334",
+    "name": "7334 Charcoal Fluted Wood",
+    "pct": 77
+   },
+   {
+    "code": "UC/M2/PCF/W7334",
+    "name": "7334* Charcoal Fluted Wood",
+    "pct": 77
+   }
+  ]
+ },
+ "UC/M2/PPS/H2022": {
+  "name": "2022 WPC Concave White",
+  "alts": [
+   {
+    "code": "UC/M2/PPV/P0212",
+    "name": "0212 WPC Convex Pastel",
+    "pct": 86
+   },
+   {
+    "code": "UC/M2/PPV/H2022",
+    "name": "2022 WPC Convex White",
+    "pct": 86
+   },
+   {
+    "code": "UC/I2/PPD/H2022",
+    "name": "2022 WPC Classic White",
+    "pct": 85
+   },
+   {
+    "code": "UC/M2/PPD/H2022",
+    "name": "2022* WPC Classic White",
+    "pct": 85
+   },
+   {
+    "code": "UC/M2/PPC/H2022",
+    "name": "2022* WPC Ceramic White",
+    "pct": 84
+   },
+   {
+    "code": "UC/I2/PPC/H2022",
+    "name": "2022 WPC Ceramic White",
+    "pct": 84
+   }
+  ]
+ },
+ "UC/M2/PPS/RA209": {
+  "name": "A209 WPC Concave Neutral",
+  "alts": [
+   {
+    "code": "UC/M2/PPV/S0852",
+    "name": "0852 WPC Convex Stone",
+    "pct": 76
+   }
+  ]
+ },
+ "UC/M2/PPS/S9065": {
+  "name": "9065 WPC Concave Stone",
+  "alts": []
+ },
+ "UC/M2/PPV/H2022": {
+  "name": "2022 WPC Convex White",
+  "alts": [
+   {
+    "code": "UC/M2/PPV/P0212",
+    "name": "0212 WPC Convex Pastel",
+    "pct": 89
+   },
+   {
+    "code": "UC/M2/PPV/P0292",
+    "name": "0292 WPC Convex Pastel",
+    "pct": 86
+   },
+   {
+    "code": "UC/I2/PPD/H2022",
+    "name": "2022 WPC Classic White",
+    "pct": 86
+   },
+   {
+    "code": "UC/M2/PPD/H2022",
+    "name": "2022* WPC Classic White",
+    "pct": 86
+   },
+   {
+    "code": "UC/M2/PPV/P0202",
+    "name": "0202 WPC Convex Pastel",
+    "pct": 86
+   },
+   {
+    "code": "UC/M2/PPS/H2022",
+    "name": "2022 WPC Concave White",
+    "pct": 86
+   },
+   {
+    "code": "UC/M2/PPC/N2025",
+    "name": "2025* WPC Ceramic Neutral",
+    "pct": 85
+   },
+   {
+    "code": "UC/I2/PPC/N2025",
+    "name": "2025 WPC Ceramic Neutral",
+    "pct": 84
+   },
+   {
+    "code": "UC/I2/PPC/H2022",
+    "name": "2022 WPC Ceramic White",
+    "pct": 84
+   },
+   {
+    "code": "UC/M2/PPC/H2022",
+    "name": "2022* WPC Ceramic White",
+    "pct": 84
+   },
+   {
+    "code": "UC/M2/PPV/S0852",
+    "name": "0852 WPC Convex Stone",
+    "pct": 82
+   },
+   {
+    "code": "UC/I2/PCU/PM090",
+    "name": "M090 Charcoal Mini concave Pastel",
+    "pct": 79
+   },
+   {
+    "code": "UC/I2/PCU/P012G",
+    "name": "012G Charcoal Mini concave Pastel",
+    "pct": 77
+   }
+  ]
+ },
+ "UC/M2/PPV/P0202": {
+  "name": "0202 WPC Convex Pastel",
+  "alts": [
+   {
+    "code": "UC/M2/PPV/P0292",
+    "name": "0292 WPC Convex Pastel",
+    "pct": 88
+   },
+   {
+    "code": "UC/M2/PPV/P0212",
+    "name": "0212 WPC Convex Pastel",
+    "pct": 86
+   },
+   {
+    "code": "UC/M2/PPV/H2022",
+    "name": "2022 WPC Convex White",
+    "pct": 86
+   },
+   {
+    "code": "UC/M2/PPC/N2025",
+    "name": "2025* WPC Ceramic Neutral",
+    "pct": 86
+   },
+   {
+    "code": "UC/I2/PPC/N2025",
+    "name": "2025 WPC Ceramic Neutral",
+    "pct": 85
+   },
+   {
+    "code": "UC/I2/PCU/PM090",
+    "name": "M090 Charcoal Mini concave Pastel",
+    "pct": 83
+   },
+   {
+    "code": "UC/M2/PPC/N0102",
+    "name": "0102* WPC Ceramic Neutral",
+    "pct": 81
+   },
+   {
+    "code": "UC/I2/PCU/P012G",
+    "name": "012G Charcoal Mini concave Pastel",
+    "pct": 80
+   },
+   {
+    "code": "UC/M2/PPV/S0852",
+    "name": "0852 WPC Convex Stone",
+    "pct": 79
+   },
+   {
+    "code": "UC/I2/PCU/P8461",
+    "name": "8461 Charcoal Mini concave Pastel",
+    "pct": 76
+   },
+   {
+    "code": "UC/I2/PCU/H006G",
+    "name": "006G Charcoal Mini concave White",
+    "pct": 75
+   }
+  ]
+ },
+ "UC/M2/PPV/P0212": {
+  "name": "0212 WPC Convex Pastel",
+  "alts": [
+   {
+    "code": "UC/M2/PPV/H2022",
+    "name": "2022 WPC Convex White",
+    "pct": 89
+   },
+   {
+    "code": "UC/M2/PPS/H2022",
+    "name": "2022 WPC Concave White",
+    "pct": 86
+   },
+   {
+    "code": "UC/M2/PPV/P0202",
+    "name": "0202 WPC Convex Pastel",
+    "pct": 86
+   },
+   {
+    "code": "UC/M2/PPD/H2022",
+    "name": "2022* WPC Classic White",
+    "pct": 86
+   },
+   {
+    "code": "UC/I2/PPD/H2022",
+    "name": "2022 WPC Classic White",
+    "pct": 85
+   },
+   {
+    "code": "UC/I2/PPC/H2022",
+    "name": "2022 WPC Ceramic White",
+    "pct": 84
+   },
+   {
+    "code": "UC/M2/PPC/H2022",
+    "name": "2022* WPC Ceramic White",
+    "pct": 84
+   },
+   {
+    "code": "UC/M2/PPV/P0292",
+    "name": "0292 WPC Convex Pastel",
+    "pct": 83
+   },
+   {
+    "code": "UC/M2/PPV/S0852",
+    "name": "0852 WPC Convex Stone",
+    "pct": 80
+   },
+   {
+    "code": "UC/I2/PCU/PM090",
+    "name": "M090 Charcoal Mini concave Pastel",
+    "pct": 77
+   },
+   {
+    "code": "UC/I2/PCU/P012G",
+    "name": "012G Charcoal Mini concave Pastel",
+    "pct": 77
+   },
+   {
+    "code": "UC/I2/PCU/P8461",
+    "name": "8461 Charcoal Mini concave Pastel",
+    "pct": 75
+   }
+  ]
+ },
+ "UC/M2/PPV/P0292": {
+  "name": "0292 WPC Convex Pastel",
+  "alts": [
+   {
+    "code": "UC/M2/PPV/P0202",
+    "name": "0202 WPC Convex Pastel",
+    "pct": 88
+   },
+   {
+    "code": "UC/M2/PPV/H2022",
+    "name": "2022 WPC Convex White",
+    "pct": 86
+   },
+   {
+    "code": "UC/I2/PCU/P012G",
+    "name": "012G Charcoal Mini concave Pastel",
+    "pct": 85
+   },
+   {
+    "code": "UC/I2/PCU/PM090",
+    "name": "M090 Charcoal Mini concave Pastel",
+    "pct": 84
+   },
+   {
+    "code": "UC/M2/PPV/P0212",
+    "name": "0212 WPC Convex Pastel",
+    "pct": 83
+   },
+   {
+    "code": "UC/I2/PPC/N2025",
+    "name": "2025 WPC Ceramic Neutral",
+    "pct": 83
+   },
+   {
+    "code": "UC/M2/PPC/N2025",
+    "name": "2025* WPC Ceramic Neutral",
+    "pct": 82
+   },
+   {
+    "code": "UC/I2/PPD/H2022",
+    "name": "2022 WPC Classic White",
+    "pct": 81
+   },
+   {
+    "code": "UC/M2/PPV/S0852",
+    "name": "0852 WPC Convex Stone",
+    "pct": 78
+   },
+   {
+    "code": "UC/I2/PCU/P8461",
+    "name": "8461 Charcoal Mini concave Pastel",
+    "pct": 76
+   }
+  ]
+ },
+ "UC/M2/PPV/S0852": {
+  "name": "0852 WPC Convex Stone",
+  "alts": [
+   {
+    "code": "UC/M2/PPV/H2022",
+    "name": "2022 WPC Convex White",
+    "pct": 82
+   },
+   {
+    "code": "UC/M2/PPV/P0212",
+    "name": "0212 WPC Convex Pastel",
+    "pct": 80
+   },
+   {
+    "code": "UC/M2/PPV/P0202",
+    "name": "0202 WPC Convex Pastel",
+    "pct": 79
+   },
+   {
+    "code": "UC/I2/PPD/H2022",
+    "name": "2022 WPC Classic White",
+    "pct": 79
+   },
+   {
+    "code": "UC/M2/PPV/P0292",
+    "name": "0292 WPC Convex Pastel",
+    "pct": 78
+   },
+   {
+    "code": "UC/M2/PCS/K5082",
+    "name": "5082 Charcoal Concave Gold",
+    "pct": 77
+   },
+   {
+    "code": "UC/M2/PPS/RA209",
+    "name": "A209 WPC Concave Neutral",
+    "pct": 76
+   },
+   {
+    "code": "UC/I2/PPS/LA235",
+    "name": "A235 WPC Concave Texture",
+    "pct": 74
+   }
+  ]
+ },
+ "UC/M2/SP0/H2022": {
+  "name": "2022 WPC Sheet White | 5 mm",
+  "alts": [
+   {
+    "code": "UC/I2/SPG/H2022",
+    "name": "2022 WPC Sheet White | 7 mm",
+    "pct": 91
+   },
+   {
+    "code": "UC/I2/SPG/N2025",
+    "name": "2025 WPC Sheet Neutral | 7 mm",
+    "pct": 83
+   },
+   {
+    "code": "UC/M2/SP0/N2025",
+    "name": "2025 WPC Sheet Neutral | 5 mm",
+    "pct": 83
+   },
+   {
+    "code": "UC/I2/SPG/N0102",
+    "name": "0102 WPC Sheet Neutral | 7 mm",
+    "pct": 78
+   },
+   {
+    "code": "UC/I2/SPG/N0072",
+    "name": "0072 WPC Sheet Neutral | 7 mm",
+    "pct": 76
+   }
+  ]
+ },
+ "UC/M2/SP0/N0112": {
+  "name": "0112 WPC Sheet Neutral | 5 mm",
+  "alts": [
+   {
+    "code": "UC/I2/SPG/N0112",
+    "name": "0112 WPC Sheet Neutral | 7 mm",
+    "pct": 91
+   },
+   {
+    "code": "UC/I2/SPG/N0102",
+    "name": "0102 WPC Sheet Neutral | 7 mm",
+    "pct": 79
+   },
+   {
+    "code": "UC/I2/SPG/N0072",
+    "name": "0072 WPC Sheet Neutral | 7 mm",
+    "pct": 78
+   },
+   {
+    "code": "UC/I2/SPG/N2025",
+    "name": "2025 WPC Sheet Neutral | 7 mm",
+    "pct": 75
+   },
+   {
+    "code": "UC/M2/SP0/N2025",
+    "name": "2025 WPC Sheet Neutral | 5 mm",
+    "pct": 75
+   }
+  ]
+ },
+ "UC/M2/SP0/N2025": {
+  "name": "2025 WPC Sheet Neutral | 5 mm",
+  "alts": [
+   {
+    "code": "UC/I2/SPG/N2025",
+    "name": "2025 WPC Sheet Neutral | 7 mm",
+    "pct": 91
+   },
+   {
+    "code": "UC/I2/SPG/H2022",
+    "name": "2022 WPC Sheet White | 7 mm",
+    "pct": 83
+   },
+   {
+    "code": "UC/M2/SP0/H2022",
+    "name": "2022 WPC Sheet White | 5 mm",
+    "pct": 83
+   },
+   {
+    "code": "UC/I2/SPG/N0102",
+    "name": "0102 WPC Sheet Neutral | 7 mm",
+    "pct": 80
+   },
+   {
+    "code": "UC/I2/SPG/N0112",
+    "name": "0112 WPC Sheet Neutral | 7 mm",
+    "pct": 75
+   },
+   {
+    "code": "UC/M2/SP0/N0112",
+    "name": "0112 WPC Sheet Neutral | 5 mm",
+    "pct": 75
+   }
+  ]
+ },
+ "UC/M2/SP0/W4P03": {
+  "name": "4P03 WPC Sheet Wood | 5 mm",
+  "alts": [
+   {
+    "code": "UC/I2/SPG/W4P03",
+    "name": "4P03 WPC Sheet Wood | 7 mm",
+    "pct": 91
+   },
+   {
+    "code": "UC/I2/SPG/WX913",
+    "name": "X913 WPC Sheet Wood | 7 mm",
+    "pct": 72
+   }
+  ]
+ },
+ "UC/M2/SP0/W8360": {
+  "name": "8360 WPC Sheet Wood | 5 mm",
+  "alts": [
+   {
+    "code": "UC/I2/SPG/W8360",
+    "name": "8360 WPC Sheet Wood | 7 mm",
+    "pct": 91
+   },
+   {
+    "code": "UC/I2/SPG/WX905",
+    "name": "X905 WPC Sheet Wood | 7 mm",
+    "pct": 78
+   },
+   {
+    "code": "UC/M2/SP0/WX905",
+    "name": "X905 WPC Sheet Wood | 5 mm",
+    "pct": 78
+   }
+  ]
+ },
+ "UC/M2/SP0/WX905": {
+  "name": "X905 WPC Sheet Wood | 5 mm",
+  "alts": [
+   {
+    "code": "UC/I2/SPG/WX905",
+    "name": "X905 WPC Sheet Wood | 7 mm",
+    "pct": 91
+   },
+   {
+    "code": "UC/I2/SPG/W8360",
+    "name": "8360 WPC Sheet Wood | 7 mm",
+    "pct": 78
+   },
+   {
+    "code": "UC/M2/SP0/W8360",
+    "name": "8360 WPC Sheet Wood | 5 mm",
+    "pct": 78
+   },
+   {
+    "code": "UC/I2/SPG/WX913",
+    "name": "X913 WPC Sheet Wood | 7 mm",
+    "pct": 77
+   },
+   {
+    "code": "UC/D1/PPP/W0620",
+    "name": "0620 PVC Plain Wood",
+    "pct": 72
+   }
+  ]
+ },
+ "UC/M2/SS0/M0703": {
+  "name": "0703 SPC Sheet Marble | 3 mm",
+  "alts": [
+   {
+    "code": "UC/M2/SS0/M2208",
+    "name": "2208 SPC Sheet Marble | 3 mm",
+    "pct": 86
+   },
+   {
+    "code": "UC/M2/SS0/M09U2",
+    "name": "09U2 SPC Sheet Marble | 3 mm",
+    "pct": 86
+   },
+   {
+    "code": "UC/M2/SS0/M5508",
+    "name": "5508 SPC Sheet Marble | 3 mm",
+    "pct": 85
+   },
+   {
+    "code": "UC/M2/SS0/M0HXL",
+    "name": "0HXL SPC Sheet Marble | 3 mm",
+    "pct": 83
+   },
+   {
+    "code": "UC/M2/SS0/M8083",
+    "name": "8083 SPC Sheet Gold | 3 mm",
+    "pct": 81
+   },
+   {
+    "code": "UC/M2/SS0/M4501",
+    "name": "4501 SPC Sheet Marble | 3 mm",
+    "pct": 79
+   },
+   {
+    "code": "UC/R1/PPP/S9382",
+    "name": "9382 PVC Plain Stone",
+    "pct": 78
+   }
+  ]
+ },
+ "UC/M2/SS0/M0705": {
+  "name": "0705 SPC Sheet Marble | 3 mm",
+  "alts": []
+ },
+ "UC/M2/SS0/M09U2": {
+  "name": "09U2 SPC Sheet Marble | 3 mm",
+  "alts": [
+   {
+    "code": "UC/M2/SS0/M2208",
+    "name": "2208 SPC Sheet Marble | 3 mm",
+    "pct": 86
+   },
+   {
+    "code": "UC/M2/SS0/M0703",
+    "name": "0703 SPC Sheet Marble | 3 mm",
+    "pct": 86
+   },
+   {
+    "code": "UC/M2/SS0/M5508",
+    "name": "5508 SPC Sheet Marble | 3 mm",
+    "pct": 85
+   },
+   {
+    "code": "UC/M2/SS0/M0HXL",
+    "name": "0HXL SPC Sheet Marble | 3 mm",
+    "pct": 85
+   },
+   {
+    "code": "UC/R1/PPP/S9382",
+    "name": "9382 PVC Plain Stone",
+    "pct": 81
+   },
+   {
+    "code": "UC/M2/SS0/M4501",
+    "name": "4501 SPC Sheet Marble | 3 mm",
+    "pct": 79
+   },
+   {
+    "code": "UC/M2/SS0/M8083",
+    "name": "8083 SPC Sheet Gold | 3 mm",
+    "pct": 78
+   }
+  ]
+ },
+ "UC/M2/SS0/M0HXL": {
+  "name": "0HXL SPC Sheet Marble | 3 mm",
+  "alts": [
+   {
+    "code": "UC/M2/SS0/M09U2",
+    "name": "09U2 SPC Sheet Marble | 3 mm",
+    "pct": 85
+   },
+   {
+    "code": "UC/M2/SS0/M5508",
+    "name": "5508 SPC Sheet Marble | 3 mm",
+    "pct": 85
+   },
+   {
+    "code": "UC/M2/SS0/M2208",
+    "name": "2208 SPC Sheet Marble | 3 mm",
+    "pct": 84
+   },
+   {
+    "code": "UC/M2/SS0/M0703",
+    "name": "0703 SPC Sheet Marble | 3 mm",
+    "pct": 83
+   },
+   {
+    "code": "UC/R1/PPP/S9382",
+    "name": "9382 PVC Plain Stone",
+    "pct": 81
+   },
+   {
+    "code": "UC/M2/SS0/M8083",
+    "name": "8083 SPC Sheet Gold | 3 mm",
+    "pct": 80
+   },
+   {
+    "code": "UC/M2/SS0/M4501",
+    "name": "4501 SPC Sheet Marble | 3 mm",
+    "pct": 79
+   },
+   {
+    "code": "UC/D1/PPP/S0229",
+    "name": "0229 PVC Plain Gold",
+    "pct": 75
+   }
+  ]
+ },
+ "UC/M2/SS0/M2208": {
+  "name": "2208 SPC Sheet Marble | 3 mm",
+  "alts": [
+   {
+    "code": "UC/M2/SS0/M09U2",
+    "name": "09U2 SPC Sheet Marble | 3 mm",
+    "pct": 86
+   },
+   {
+    "code": "UC/M2/SS0/M0703",
+    "name": "0703 SPC Sheet Marble | 3 mm",
+    "pct": 86
+   },
+   {
+    "code": "UC/M2/SS0/M0HXL",
+    "name": "0HXL SPC Sheet Marble | 3 mm",
+    "pct": 84
+   },
+   {
+    "code": "UC/M2/SS0/M5508",
+    "name": "5508 SPC Sheet Marble | 3 mm",
+    "pct": 84
+   },
+   {
+    "code": "UC/M2/SS0/M8083",
+    "name": "8083 SPC Sheet Gold | 3 mm",
+    "pct": 77
+   },
+   {
+    "code": "UC/R1/PPP/S9382",
+    "name": "9382 PVC Plain Stone",
+    "pct": 77
+   },
+   {
+    "code": "UC/M2/SS0/M4501",
+    "name": "4501 SPC Sheet Marble | 3 mm",
+    "pct": 77
+   }
+  ]
+ },
+ "UC/M2/SS0/M4501": {
+  "name": "4501 SPC Sheet Marble | 3 mm",
+  "alts": [
+   {
+    "code": "UC/M2/SS0/M8083",
+    "name": "8083 SPC Sheet Gold | 3 mm",
+    "pct": 84
+   },
+   {
+    "code": "UC/M2/SS0/M5508",
+    "name": "5508 SPC Sheet Marble | 3 mm",
+    "pct": 83
+   },
+   {
+    "code": "UC/M2/SS0/M0HXL",
+    "name": "0HXL SPC Sheet Marble | 3 mm",
+    "pct": 79
+   },
+   {
+    "code": "UC/M2/SS0/M0703",
+    "name": "0703 SPC Sheet Marble | 3 mm",
+    "pct": 79
+   },
+   {
+    "code": "UC/M2/SS0/M09U2",
+    "name": "09U2 SPC Sheet Marble | 3 mm",
+    "pct": 79
+   },
+   {
+    "code": "UC/M2/SS0/M2208",
+    "name": "2208 SPC Sheet Marble | 3 mm",
+    "pct": 77
+   }
+  ]
+ },
+ "UC/M2/SS0/M5508": {
+  "name": "5508 SPC Sheet Marble | 3 mm",
+  "alts": [
+   {
+    "code": "UC/M2/SS0/M09U2",
+    "name": "09U2 SPC Sheet Marble | 3 mm",
+    "pct": 85
+   },
+   {
+    "code": "UC/M2/SS0/M0HXL",
+    "name": "0HXL SPC Sheet Marble | 3 mm",
+    "pct": 85
+   },
+   {
+    "code": "UC/M2/SS0/M0703",
+    "name": "0703 SPC Sheet Marble | 3 mm",
+    "pct": 85
+   },
+   {
+    "code": "UC/M2/SS0/M2208",
+    "name": "2208 SPC Sheet Marble | 3 mm",
+    "pct": 84
+   },
+   {
+    "code": "UC/M2/SS0/M8083",
+    "name": "8083 SPC Sheet Gold | 3 mm",
+    "pct": 83
+   },
+   {
+    "code": "UC/M2/SS0/M4501",
+    "name": "4501 SPC Sheet Marble | 3 mm",
+    "pct": 83
+   },
+   {
+    "code": "UC/R1/PPP/S9382",
+    "name": "9382 PVC Plain Stone",
+    "pct": 81
+   }
+  ]
+ },
+ "UC/M2/SS0/M8083": {
+  "name": "8083 SPC Sheet Gold | 3 mm",
+  "alts": [
+   {
+    "code": "UC/M2/SS0/M4501",
+    "name": "4501 SPC Sheet Marble | 3 mm",
+    "pct": 84
+   },
+   {
+    "code": "UC/M2/SS0/M5508",
+    "name": "5508 SPC Sheet Marble | 3 mm",
+    "pct": 83
+   },
+   {
+    "code": "UC/M2/SS0/M0703",
+    "name": "0703 SPC Sheet Marble | 3 mm",
+    "pct": 81
+   },
+   {
+    "code": "UC/M2/SS0/M0HXL",
+    "name": "0HXL SPC Sheet Marble | 3 mm",
+    "pct": 80
+   },
+   {
+    "code": "UC/M2/SS0/M09U2",
+    "name": "09U2 SPC Sheet Marble | 3 mm",
+    "pct": 78
+   },
+   {
+    "code": "UC/M2/SS0/M2208",
+    "name": "2208 SPC Sheet Marble | 3 mm",
+    "pct": 77
+   },
+   {
+    "code": "UC/R1/PPP/S9382",
+    "name": "9382 PVC Plain Stone",
+    "pct": 77
+   }
+  ]
+ },
+ "UC/P1/PPF/RD164": {
+  "name": "D164 Nio Fluted Neutral",
+  "alts": [
+   {
+    "code": "UC/I2/PPD/R0132",
+    "name": "0132 WPC Classic Neutral",
+    "pct": 81
+   },
+   {
+    "code": "UC/M2/PCF/R7332",
+    "name": "7332 Charcoal Fluted Neutral",
+    "pct": 80
+   },
+   {
+    "code": "UC/M2/PPD/R0P61",
+    "name": "0P61 WPC Classic Neutral",
+    "pct": 80
+   },
+   {
+    "code": "UC/R1/PPF/O0160",
+    "name": "0160 PVC Fluted Neutral",
+    "pct": 76
+   }
+  ]
+ },
+ "UC/P1/PPF/W8360": {
+  "name": "8360 Nio Fluted Wood",
+  "alts": [
+   {
+    "code": "UC/M2/PPE/WX905",
+    "name": "X905* WPC Small square Wood",
+    "pct": 78
+   },
+   {
+    "code": "UC/I2/PPD/WX905",
+    "name": "X905 WPC Classic Wood",
+    "pct": 76
+   },
+   {
+    "code": "UC/M2/PPD/WX905",
+    "name": "X905* WPC Classic Wood",
+    "pct": 76
+   }
+  ]
+ },
+ "UC/P1/PPF/W9204": {
+  "name": "9204 Nio Fluted Wood",
+  "alts": [
+   {
+    "code": "UC/R1/PPX/W0114",
+    "name": "0114 PVC Fluted wide Wood",
+    "pct": 80
+   },
+   {
+    "code": "UC/R1/PPF/W0352",
+    "name": "0352 PVC Fluted Wood",
+    "pct": 80
+   },
+   {
+    "code": "UC/I2/PPD/WX921",
+    "name": "X921 WPC Classic Wood",
+    "pct": 79
+   },
+   {
+    "code": "UC/R1/PPX/W0103",
+    "name": "0103 PVC Fluted wide Wood",
+    "pct": 79
+   },
+   {
+    "code": "UC/M2/PCF/W7331",
+    "name": "7331 Charcoal Fluted Wood",
+    "pct": 78
+   },
+   {
+    "code": "UC/I2/PPE/WS685",
+    "name": "S685 WPC Small square Wood",
+    "pct": 73
+   }
+  ]
+ },
+ "UC/P1/PPN/F7695": {
+  "name": "7695* Nio Plain Fabric",
+  "alts": [
+   {
+    "code": "UC/P1/PPP/F7695",
+    "name": "7695 Nio Plain Fabric",
+    "pct": 91
+   },
+   {
+    "code": "UC/I2/SPH/F0Z18",
+    "name": "0Z18 WPC Sheet Fabric | 7 mm",
+    "pct": 80
+   },
+   {
+    "code": "UC/I2/SPH/F2027",
+    "name": "2027 WPC Sheet Fabric | 7 mm",
+    "pct": 79
+   }
+  ]
+ },
+ "UC/P1/PPN/FX903": {
+  "name": "X903* Nio Plain Fabric",
+  "alts": [
+   {
+    "code": "UC/P1/PPP/FX903",
+    "name": "X903 Nio Plain Fabric",
+    "pct": 91
+   }
+  ]
+ },
+ "UC/P1/PPN/K0195": {
+  "name": "0195* Nio Plain Gold",
+  "alts": [
+   {
+    "code": "UC/P1/PPP/K0195",
+    "name": "0195 Nio Plain Gold",
+    "pct": 91
+   },
+   {
+    "code": "UC/P1/PPP/K9472",
+    "name": "9472 Nio Plain Gold",
+    "pct": 75
+   },
+   {
+    "code": "UC/P1/PPN/K9472",
+    "name": "9472* Nio Plain Gold",
+    "pct": 75
+   }
+  ]
+ },
+ "UC/P1/PPN/K1455": {
+  "name": "1455* Nio Plain Gold",
+  "alts": [
+   {
+    "code": "UC/P1/PPP/K1455",
+    "name": "1455 Nio Plain Gold",
+    "pct": 91
+   },
+   {
+    "code": "UC/R1/PPP/F1449",
+    "name": "1449 PVC Plain Floral",
+    "pct": 82
+   },
+   {
+    "code": "UC/P1/PPN/K9472",
+    "name": "9472* Nio Plain Gold",
+    "pct": 79
+   },
+   {
+    "code": "UC/P1/PPP/K9472",
+    "name": "9472 Nio Plain Gold",
+    "pct": 79
+   },
+   {
+    "code": "UC/P1/PPN/T0156",
+    "name": "0156* Nio Plain Traditional",
+    "pct": 77
+   },
+   {
+    "code": "UC/P1/PPP/T0156",
+    "name": "0156 Nio Plain Traditional",
+    "pct": 77
+   }
+  ]
+ },
+ "UC/P1/PPN/K9380": {
+  "name": "9380* Nio Plain Gold",
+  "alts": [
+   {
+    "code": "UC/P1/PPP/K9380",
+    "name": "9380 Nio Plain Gold",
+    "pct": 91
+   },
+   {
+    "code": "UC/R1/PPP/X9380",
+    "name": "9380 PVC Plain Gold",
+    "pct": 78
+   },
+   {
+    "code": "UC/I2/SPH/LCZ08",
+    "name": "CZ08 WPC Sheet Texture | 7 mm",
+    "pct": 78
+   },
+   {
+    "code": "UC/I2/SPH/LCZ07",
+    "name": "CZ07 WPC Sheet Texture | 7 mm",
+    "pct": 77
+   },
+   {
+    "code": "UC/I2/SPH/LA235",
+    "name": "A235 WPC Sheet Texture | 7 mm",
+    "pct": 75
+   },
+   {
+    "code": "UC/P1/PPN/LES84",
+    "name": "ES84* Nio Plain Texture",
+    "pct": 75
+   },
+   {
+    "code": "UC/P1/PPP/LES84",
+    "name": "ES84 Nio Plain Texture",
+    "pct": 75
+   }
+  ]
+ },
+ "UC/P1/PPN/K9472": {
+  "name": "9472* Nio Plain Gold",
+  "alts": [
+   {
+    "code": "UC/P1/PPP/K9472",
+    "name": "9472 Nio Plain Gold",
+    "pct": 91
+   },
+   {
+    "code": "UC/R1/PPP/T1218",
+    "name": "1218 PVC Plain Floral",
+    "pct": 81
+   },
+   {
+    "code": "UC/P1/PPN/K1455",
+    "name": "1455* Nio Plain Gold",
+    "pct": 79
+   },
+   {
+    "code": "UC/P1/PPP/K1455",
+    "name": "1455 Nio Plain Gold",
+    "pct": 79
+   },
+   {
+    "code": "UC/D1/PPP/J0168",
+    "name": "0168 PVC Plain Gold",
+    "pct": 76
+   },
+   {
+    "code": "UC/R1/PPP/J9472",
+    "name": "0168* PVC Plain Gold",
+    "pct": 76
+   },
+   {
+    "code": "UC/P1/PPP/K0195",
+    "name": "0195 Nio Plain Gold",
+    "pct": 75
+   },
+   {
+    "code": "UC/P1/PPN/K0195",
+    "name": "0195* Nio Plain Gold",
+    "pct": 75
+   }
+  ]
+ },
+ "UC/P1/PPN/KEM02": {
+  "name": "EM02* Nio Plain Gold",
+  "alts": [
+   {
+    "code": "UC/P1/PPP/KEM02",
+    "name": "EM02 Nio Plain Gold",
+    "pct": 91
+   },
+   {
+    "code": "UC/P1/PPN/W9204",
+    "name": "9204* Nio Plain Wood",
+    "pct": 83
+   },
+   {
+    "code": "UC/P1/PPP/W9204",
+    "name": "9204 Nio Plain Wood",
+    "pct": 83
+   }
+  ]
+ },
+ "UC/P1/PPN/LD193": {
+  "name": "D193* Nio Plain Texture",
+  "alts": [
+   {
+    "code": "UC/P1/PPP/LD193",
+    "name": "D193 Nio Plain Texture",
+    "pct": 91
+   },
+   {
+    "code": "UC/I2/SPH/LA235",
+    "name": "A235 WPC Sheet Texture | 7 mm",
+    "pct": 77
+   },
+   {
+    "code": "UC/P1/PPN/LES84",
+    "name": "ES84* Nio Plain Texture",
+    "pct": 75
+   },
+   {
+    "code": "UC/P1/PPP/LES84",
+    "name": "ES84 Nio Plain Texture",
+    "pct": 75
+   }
+  ]
+ },
+ "UC/P1/PPN/LES84": {
+  "name": "ES84* Nio Plain Texture",
+  "alts": [
+   {
+    "code": "UC/P1/PPP/LES84",
+    "name": "ES84 Nio Plain Texture",
+    "pct": 91
+   },
+   {
+    "code": "UC/I2/SPH/LA235",
+    "name": "A235 WPC Sheet Texture | 7 mm",
+    "pct": 85
+   },
+   {
+    "code": "UC/I2/SPH/LCZ08",
+    "name": "CZ08 WPC Sheet Texture | 7 mm",
+    "pct": 80
+   },
+   {
+    "code": "UC/I2/SPH/LCZ07",
+    "name": "CZ07 WPC Sheet Texture | 7 mm",
+    "pct": 78
+   },
+   {
+    "code": "UC/I2/SPH/L9952",
+    "name": "9952 WPC Sheet Texture | 7 mm",
+    "pct": 75
+   },
+   {
+    "code": "UC/P1/PPN/LD193",
+    "name": "D193* Nio Plain Texture",
+    "pct": 75
+   },
+   {
+    "code": "UC/P1/PPN/K9380",
+    "name": "9380* Nio Plain Gold",
+    "pct": 75
+   },
+   {
+    "code": "UC/P1/PPP/K9380",
+    "name": "9380 Nio Plain Gold",
+    "pct": 75
+   },
+   {
+    "code": "UC/P1/PPP/LD193",
+    "name": "D193 Nio Plain Texture",
+    "pct": 75
+   }
+  ]
+ },
+ "UC/P1/PPN/S5021": {
+  "name": "5021* Nio Plain Stone",
+  "alts": [
+   {
+    "code": "UC/P1/PPP/S5021",
+    "name": "5021 Nio Plain Stone",
+    "pct": 91
+   },
+   {
+    "code": "UC/R1/PPP/S9382",
+    "name": "9382 PVC Plain Stone",
+    "pct": 76
+   }
+  ]
+ },
+ "UC/P1/PPN/S9001": {
+  "name": "9001* Nio Plain Stone",
+  "alts": [
+   {
+    "code": "UC/P1/PPP/S9001",
+    "name": "9001 Nio Plain Stone",
+    "pct": 91
+   },
+   {
+    "code": "UC/I2/SPH/L9952",
+    "name": "9952 WPC Sheet Texture | 7 mm",
+    "pct": 80
+   },
+   {
+    "code": "UC/I2/SPH/L2203",
+    "name": "2203 WPC Sheet Texture | 7 mm",
+    "pct": 78
+   },
+   {
+    "code": "UC/I2/SPH/LCZ07",
+    "name": "CZ07 WPC Sheet Texture | 7 mm",
+    "pct": 77
+   },
+   {
+    "code": "UC/I2/SPH/LCZ08",
+    "name": "CZ08 WPC Sheet Texture | 7 mm",
+    "pct": 76
+   }
+  ]
+ },
+ "UC/P1/PPN/T0129": {
+  "name": "0129* Nio Plain Traditional",
+  "alts": [
+   {
+    "code": "UC/P1/PPP/T0129",
+    "name": "0129 Nio Plain Traditional",
+    "pct": 91
+   }
+  ]
+ },
+ "UC/P1/PPN/T0156": {
+  "name": "0156* Nio Plain Traditional",
+  "alts": [
+   {
+    "code": "UC/P1/PPP/T0156",
+    "name": "0156 Nio Plain Traditional",
+    "pct": 91
+   },
+   {
+    "code": "UC/P1/PPN/K1455",
+    "name": "1455* Nio Plain Gold",
+    "pct": 77
+   },
+   {
+    "code": "UC/P1/PPP/K1455",
+    "name": "1455 Nio Plain Gold",
+    "pct": 77
+   }
+  ]
+ },
+ "UC/P1/PPN/T1456": {
+  "name": "1456* Nio Plain Traditional",
+  "alts": [
+   {
+    "code": "UC/P1/PPP/T1456",
+    "name": "1456 Nio Plain Traditional",
+    "pct": 91
+   },
+   {
+    "code": "UC/R1/PPP/X1456",
+    "name": "1456 PVC Plain Abstract",
+    "pct": 88
+   },
+   {
+    "code": "UC/D1/PPP/X0253",
+    "name": "1456* PVC Plain Abstract",
+    "pct": 77
+   }
+  ]
+ },
+ "UC/P1/PPN/W8360": {
+  "name": "8360* Nio Plain Wood",
+  "alts": [
+   {
+    "code": "UC/P1/PPP/W8360",
+    "name": "8360 Nio Plain Wood",
+    "pct": 91
+   }
+  ]
+ },
+ "UC/P1/PPN/W9204": {
+  "name": "9204* Nio Plain Wood",
+  "alts": [
+   {
+    "code": "UC/P1/PPP/W9204",
+    "name": "9204 Nio Plain Wood",
+    "pct": 91
+   },
+   {
+    "code": "UC/P1/PPN/KEM02",
+    "name": "EM02* Nio Plain Gold",
+    "pct": 83
+   },
+   {
+    "code": "UC/P1/PPP/KEM02",
+    "name": "EM02 Nio Plain Gold",
+    "pct": 83
+   },
+   {
+    "code": "UC/I2/SPG/WX921",
+    "name": "X921 WPC Sheet Wood | 7 mm",
+    "pct": 80
+   },
+   {
+    "code": "UC/D1/PPP/W0414",
+    "name": "0414 PVC Plain Wood",
+    "pct": 78
+   },
+   {
+    "code": "UC/R1/PPX/W0103",
+    "name": "0103 PVC Fluted wide Wood",
+    "pct": 75
+   },
+   {
+    "code": "UC/I2/SPG/WX913",
+    "name": "X913 WPC Sheet Wood | 7 mm",
+    "pct": 74
+   }
+  ]
+ },
+ "UC/P1/PPN/WEM54": {
+  "name": "EM54* Nio Plain Wood",
+  "alts": [
+   {
+    "code": "UC/P1/PPP/WEM54",
+    "name": "EM54 Nio Plain Wood",
+    "pct": 91
+   }
+  ]
+ },
+ "UC/P1/PPP/F7695": {
+  "name": "7695 Nio Plain Fabric",
+  "alts": [
+   {
+    "code": "UC/P1/PPN/F7695",
+    "name": "7695* Nio Plain Fabric",
+    "pct": 91
+   },
+   {
+    "code": "UC/I2/SPH/F0Z18",
+    "name": "0Z18 WPC Sheet Fabric | 7 mm",
+    "pct": 81
+   },
+   {
+    "code": "UC/I2/SPH/F2027",
+    "name": "2027 WPC Sheet Fabric | 7 mm",
+    "pct": 79
+   }
+  ]
+ },
+ "UC/P1/PPP/FX903": {
+  "name": "X903 Nio Plain Fabric",
+  "alts": [
+   {
+    "code": "UC/P1/PPN/FX903",
+    "name": "X903* Nio Plain Fabric",
+    "pct": 91
+   }
+  ]
+ },
+ "UC/P1/PPP/K0195": {
+  "name": "0195 Nio Plain Gold",
+  "alts": [
+   {
+    "code": "UC/P1/PPN/K0195",
+    "name": "0195* Nio Plain Gold",
+    "pct": 91
+   },
+   {
+    "code": "UC/P1/PPN/K9472",
+    "name": "9472* Nio Plain Gold",
+    "pct": 75
+   },
+   {
+    "code": "UC/P1/PPP/K9472",
+    "name": "9472 Nio Plain Gold",
+    "pct": 75
+   }
+  ]
+ },
+ "UC/P1/PPP/K1455": {
+  "name": "1455 Nio Plain Gold",
+  "alts": [
+   {
+    "code": "UC/P1/PPN/K1455",
+    "name": "1455* Nio Plain Gold",
+    "pct": 91
+   },
+   {
+    "code": "UC/R1/PPP/F1449",
+    "name": "1449 PVC Plain Floral",
+    "pct": 82
+   },
+   {
+    "code": "UC/P1/PPP/K9472",
+    "name": "9472 Nio Plain Gold",
+    "pct": 79
+   },
+   {
+    "code": "UC/P1/PPN/K9472",
+    "name": "9472* Nio Plain Gold",
+    "pct": 79
+   },
+   {
+    "code": "UC/P1/PPP/T0156",
+    "name": "0156 Nio Plain Traditional",
+    "pct": 77
+   },
+   {
+    "code": "UC/P1/PPN/T0156",
+    "name": "0156* Nio Plain Traditional",
+    "pct": 77
+   }
+  ]
+ },
+ "UC/P1/PPP/K9380": {
+  "name": "9380 Nio Plain Gold",
+  "alts": [
+   {
+    "code": "UC/P1/PPN/K9380",
+    "name": "9380* Nio Plain Gold",
+    "pct": 91
+   },
+   {
+    "code": "UC/R1/PPP/X9380",
+    "name": "9380 PVC Plain Gold",
+    "pct": 78
+   },
+   {
+    "code": "UC/I2/SPH/LCZ08",
+    "name": "CZ08 WPC Sheet Texture | 7 mm",
+    "pct": 78
+   },
+   {
+    "code": "UC/I2/SPH/LCZ07",
+    "name": "CZ07 WPC Sheet Texture | 7 mm",
+    "pct": 77
+   },
+   {
+    "code": "UC/I2/SPH/LA235",
+    "name": "A235 WPC Sheet Texture | 7 mm",
+    "pct": 75
+   },
+   {
+    "code": "UC/P1/PPP/LES84",
+    "name": "ES84 Nio Plain Texture",
+    "pct": 75
+   },
+   {
+    "code": "UC/P1/PPN/LES84",
+    "name": "ES84* Nio Plain Texture",
+    "pct": 75
+   }
+  ]
+ },
+ "UC/P1/PPP/K9472": {
+  "name": "9472 Nio Plain Gold",
+  "alts": [
+   {
+    "code": "UC/P1/PPN/K9472",
+    "name": "9472* Nio Plain Gold",
+    "pct": 91
+   },
+   {
+    "code": "UC/P1/PPP/K1455",
+    "name": "1455 Nio Plain Gold",
+    "pct": 79
+   },
+   {
+    "code": "UC/P1/PPN/K1455",
+    "name": "1455* Nio Plain Gold",
+    "pct": 79
+   },
+   {
+    "code": "UC/R1/PPP/T1218",
+    "name": "1218 PVC Plain Floral",
+    "pct": 79
+   },
+   {
+    "code": "UC/D1/PPP/J0168",
+    "name": "0168 PVC Plain Gold",
+    "pct": 77
+   },
+   {
+    "code": "UC/R1/PPP/J9472",
+    "name": "0168* PVC Plain Gold",
+    "pct": 77
+   },
+   {
+    "code": "UC/P1/PPN/K0195",
+    "name": "0195* Nio Plain Gold",
+    "pct": 75
+   },
+   {
+    "code": "UC/P1/PPP/K0195",
+    "name": "0195 Nio Plain Gold",
+    "pct": 75
+   }
+  ]
+ },
+ "UC/P1/PPP/KEM02": {
+  "name": "EM02 Nio Plain Gold",
+  "alts": [
+   {
+    "code": "UC/P1/PPN/KEM02",
+    "name": "EM02* Nio Plain Gold",
+    "pct": 91
+   },
+   {
+    "code": "UC/P1/PPN/W9204",
+    "name": "9204* Nio Plain Wood",
+    "pct": 83
+   },
+   {
+    "code": "UC/P1/PPP/W9204",
+    "name": "9204 Nio Plain Wood",
+    "pct": 83
+   }
+  ]
+ },
+ "UC/P1/PPP/LD193": {
+  "name": "D193 Nio Plain Texture",
+  "alts": [
+   {
+    "code": "UC/P1/PPN/LD193",
+    "name": "D193* Nio Plain Texture",
+    "pct": 91
+   },
+   {
+    "code": "UC/I2/SPH/LA235",
+    "name": "A235 WPC Sheet Texture | 7 mm",
+    "pct": 78
+   },
+   {
+    "code": "UC/P1/PPP/LES84",
+    "name": "ES84 Nio Plain Texture",
+    "pct": 75
+   },
+   {
+    "code": "UC/P1/PPN/LES84",
+    "name": "ES84* Nio Plain Texture",
+    "pct": 75
+   }
+  ]
+ },
+ "UC/P1/PPP/LES84": {
+  "name": "ES84 Nio Plain Texture",
+  "alts": [
+   {
+    "code": "UC/P1/PPN/LES84",
+    "name": "ES84* Nio Plain Texture",
+    "pct": 91
+   },
+   {
+    "code": "UC/I2/SPH/LA235",
+    "name": "A235 WPC Sheet Texture | 7 mm",
+    "pct": 85
+   },
+   {
+    "code": "UC/I2/SPH/LCZ08",
+    "name": "CZ08 WPC Sheet Texture | 7 mm",
+    "pct": 80
+   },
+   {
+    "code": "UC/I2/SPH/LCZ07",
+    "name": "CZ07 WPC Sheet Texture | 7 mm",
+    "pct": 78
+   },
+   {
+    "code": "UC/I2/SPH/L9952",
+    "name": "9952 WPC Sheet Texture | 7 mm",
+    "pct": 75
+   },
+   {
+    "code": "UC/P1/PPP/K9380",
+    "name": "9380 Nio Plain Gold",
+    "pct": 75
+   },
+   {
+    "code": "UC/P1/PPN/K9380",
+    "name": "9380* Nio Plain Gold",
+    "pct": 75
+   },
+   {
+    "code": "UC/P1/PPP/LD193",
+    "name": "D193 Nio Plain Texture",
+    "pct": 75
+   },
+   {
+    "code": "UC/P1/PPN/LD193",
+    "name": "D193* Nio Plain Texture",
+    "pct": 75
+   }
+  ]
+ },
+ "UC/P1/PPP/S5021": {
+  "name": "5021 Nio Plain Stone",
+  "alts": [
+   {
+    "code": "UC/P1/PPN/S5021",
+    "name": "5021* Nio Plain Stone",
+    "pct": 91
+   },
+   {
+    "code": "UC/R1/PPP/S9382",
+    "name": "9382 PVC Plain Stone",
+    "pct": 77
+   }
+  ]
+ },
+ "UC/P1/PPP/S9001": {
+  "name": "9001 Nio Plain Stone",
+  "alts": [
+   {
+    "code": "UC/P1/PPN/S9001",
+    "name": "9001* Nio Plain Stone",
+    "pct": 91
+   },
+   {
+    "code": "UC/I2/SPH/L9952",
+    "name": "9952 WPC Sheet Texture | 7 mm",
+    "pct": 80
+   },
+   {
+    "code": "UC/I2/SPH/L2203",
+    "name": "2203 WPC Sheet Texture | 7 mm",
+    "pct": 78
+   },
+   {
+    "code": "UC/I2/SPH/LCZ07",
+    "name": "CZ07 WPC Sheet Texture | 7 mm",
+    "pct": 77
+   },
+   {
+    "code": "UC/I2/SPH/LCZ08",
+    "name": "CZ08 WPC Sheet Texture | 7 mm",
+    "pct": 76
+   }
+  ]
+ },
+ "UC/P1/PPP/T0129": {
+  "name": "0129 Nio Plain Traditional",
+  "alts": [
+   {
+    "code": "UC/P1/PPN/T0129",
+    "name": "0129* Nio Plain Traditional",
+    "pct": 91
+   }
+  ]
+ },
+ "UC/P1/PPP/T0156": {
+  "name": "0156 Nio Plain Traditional",
+  "alts": [
+   {
+    "code": "UC/P1/PPN/T0156",
+    "name": "0156* Nio Plain Traditional",
+    "pct": 91
+   },
+   {
+    "code": "UC/P1/PPP/K1455",
+    "name": "1455 Nio Plain Gold",
+    "pct": 77
+   },
+   {
+    "code": "UC/P1/PPN/K1455",
+    "name": "1455* Nio Plain Gold",
+    "pct": 77
+   }
+  ]
+ },
+ "UC/P1/PPP/T1456": {
+  "name": "1456 Nio Plain Traditional",
+  "alts": [
+   {
+    "code": "UC/P1/PPN/T1456",
+    "name": "1456* Nio Plain Traditional",
+    "pct": 91
+   },
+   {
+    "code": "UC/R1/PPP/X1456",
+    "name": "1456 PVC Plain Abstract",
+    "pct": 88
+   },
+   {
+    "code": "UC/D1/PPP/X0253",
+    "name": "1456* PVC Plain Abstract",
+    "pct": 77
+   }
+  ]
+ },
+ "UC/P1/PPP/W8360": {
+  "name": "8360 Nio Plain Wood",
+  "alts": [
+   {
+    "code": "UC/P1/PPN/W8360",
+    "name": "8360* Nio Plain Wood",
+    "pct": 91
+   }
+  ]
+ },
+ "UC/P1/PPP/W9204": {
+  "name": "9204 Nio Plain Wood",
+  "alts": [
+   {
+    "code": "UC/P1/PPN/W9204",
+    "name": "9204* Nio Plain Wood",
+    "pct": 91
+   },
+   {
+    "code": "UC/P1/PPN/KEM02",
+    "name": "EM02* Nio Plain Gold",
+    "pct": 83
+   },
+   {
+    "code": "UC/P1/PPP/KEM02",
+    "name": "EM02 Nio Plain Gold",
+    "pct": 83
+   },
+   {
+    "code": "UC/I2/SPG/WX921",
+    "name": "X921 WPC Sheet Wood | 7 mm",
+    "pct": 79
+   },
+   {
+    "code": "UC/D1/PPP/W0414",
+    "name": "0414 PVC Plain Wood",
+    "pct": 78
+   },
+   {
+    "code": "UC/R1/PPX/W0103",
+    "name": "0103 PVC Fluted wide Wood",
+    "pct": 75
+   },
+   {
+    "code": "UC/I2/SPG/WX913",
+    "name": "X913 WPC Sheet Wood | 7 mm",
+    "pct": 72
+   }
+  ]
+ },
+ "UC/P1/PPP/WEM54": {
+  "name": "EM54 Nio Plain Wood",
+  "alts": [
+   {
+    "code": "UC/P1/PPN/WEM54",
+    "name": "EM54* Nio Plain Wood",
+    "pct": 91
+   }
+  ]
+ },
+ "UC/R1/PPF/O0160": {
+  "name": "0160 PVC Fluted Neutral",
+  "alts": [
+   {
+    "code": "UC/M2/PCF/R7332",
+    "name": "7332 Charcoal Fluted Neutral",
+    "pct": 84
+   },
+   {
+    "code": "UC/M2/PPD/R0P61",
+    "name": "0P61 WPC Classic Neutral",
+    "pct": 81
+   },
+   {
+    "code": "UC/I2/PPD/WX913",
+    "name": "X913 WPC Classic Wood",
+    "pct": 78
+   },
+   {
+    "code": "UC/I2/PPD/R0132",
+    "name": "0132 WPC Classic Neutral",
+    "pct": 78
+   },
+   {
+    "code": "UC/I2/PPC/N0112",
+    "name": "0112 WPC Ceramic Neutral",
+    "pct": 77
+   },
+   {
+    "code": "UC/I2/PCM/W5249",
+    "name": "5249 Charcoal Flat rib Wood",
+    "pct": 76
+   },
+   {
+    "code": "UC/P1/PPF/RD164",
+    "name": "D164 Nio Fluted Neutral",
+    "pct": 76
+   },
+   {
+    "code": "UC/I2/PPD/WX921",
+    "name": "X921 WPC Classic Wood",
+    "pct": 76
+   }
+  ]
+ },
+ "UC/R1/PPF/O2048": {
+  "name": "2048 PVC Fluted Neutral",
+  "alts": [
+   {
+    "code": "UC/I2/PCC/S0G29",
+    "name": "0G29 Charcoal Ceramic Stone",
+    "pct": 76
+   }
+  ]
+ },
+ "UC/R1/PPF/W0333": {
+  "name": "0333 PVC Fluted Wood",
+  "alts": [
+   {
+    "code": "UC/M2/PCS/K5081",
+    "name": "5081 Charcoal Concave Gold",
+    "pct": 78
+   },
+   {
+    "code": "UC/I2/PPE/W4P03",
+    "name": "4P03 WPC Small square Wood",
+    "pct": 77
+   },
+   {
+    "code": "UC/I2/PCM/W183S",
+    "name": "183S Charcoal Flat rib Wood",
+    "pct": 76
+   },
+   {
+    "code": "UC/R1/PPF/W0352",
+    "name": "0352 PVC Fluted Wood",
+    "pct": 75
+   },
+   {
+    "code": "UC/M2/PPC/N0102",
+    "name": "0102* WPC Ceramic Neutral",
+    "pct": 75
+   },
+   {
+    "code": "UC/M2/PPE/W4P03",
+    "name": "4P03* WPC Small square Wood",
+    "pct": 73
+   },
+   {
+    "code": "UC/R1/PPX/W0103",
+    "name": "0103 PVC Fluted wide Wood",
+    "pct": 70
+   }
+  ]
+ },
+ "UC/R1/PPF/W0352": {
+  "name": "0352 PVC Fluted Wood",
+  "alts": [
+   {
+    "code": "UC/I2/PPE/WS685",
+    "name": "S685 WPC Small square Wood",
+    "pct": 86
+   },
+   {
+    "code": "UC/M2/PPE/WS685",
+    "name": "S685* WPC Small square Wood",
+    "pct": 86
+   },
+   {
+    "code": "UC/R1/PPX/W0103",
+    "name": "0103 PVC Fluted wide Wood",
+    "pct": 84
+   },
+   {
+    "code": "UC/I2/PCF/W7333",
+    "name": "7333 Charcoal Fluted Wood",
+    "pct": 84
+   },
+   {
+    "code": "UC/M2/PCF/W7333",
+    "name": "7333* Charcoal Fluted Wood",
+    "pct": 84
+   },
+   {
+    "code": "UC/M2/PPE/W4P03",
+    "name": "4P03* WPC Small square Wood",
+    "pct": 83
+   },
+   {
+    "code": "UC/I2/PPE/W4P03",
+    "name": "4P03 WPC Small square Wood",
+    "pct": 83
+   },
+   {
+    "code": "UC/I2/PPD/WS685",
+    "name": "S685 WPC Classic Wood",
+    "pct": 83
+   },
+   {
+    "code": "UC/R1/PPX/W0114",
+    "name": "0114 PVC Fluted wide Wood",
+    "pct": 81
+   },
+   {
+    "code": "UC/P1/PPF/W9204",
+    "name": "9204 Nio Fluted Wood",
+    "pct": 80
+   },
+   {
+    "code": "UC/M2/PCF/W7334",
+    "name": "7334* Charcoal Fluted Wood",
+    "pct": 76
+   },
+   {
+    "code": "UC/I2/PCF/W7334",
+    "name": "7334 Charcoal Fluted Wood",
+    "pct": 76
+   },
+   {
+    "code": "UC/R1/PPF/W0333",
+    "name": "0333 PVC Fluted Wood",
+    "pct": 75
+   }
+  ]
+ },
+ "UC/R1/PPP/F1449": {
+  "name": "1449 PVC Plain Floral",
+  "alts": [
+   {
+    "code": "UC/P1/PPP/K1455",
+    "name": "1455 Nio Plain Gold",
+    "pct": 82
+   },
+   {
+    "code": "UC/P1/PPN/K1455",
+    "name": "1455* Nio Plain Gold",
+    "pct": 82
+   }
+  ]
+ },
+ "UC/R1/PPP/G0818": {
+  "name": "0818 PVC Plain Gold",
+  "alts": [
+   {
+    "code": "UC/R1/PPP/T1218",
+    "name": "1218 PVC Plain Floral",
+    "pct": 78
+   }
+  ]
+ },
+ "UC/R1/PPP/J9472": {
+  "name": "0168* PVC Plain Gold",
+  "alts": [
+   {
+    "code": "UC/D1/PPP/J0168",
+    "name": "0168 PVC Plain Gold",
+    "pct": 91
+   },
+   {
+    "code": "UC/P1/PPP/K9472",
+    "name": "9472 Nio Plain Gold",
+    "pct": 77
+   },
+   {
+    "code": "UC/P1/PPN/K9472",
+    "name": "9472* Nio Plain Gold",
+    "pct": 76
+   }
+  ]
+ },
+ "UC/R1/PPP/S9382": {
+  "name": "9382 PVC Plain Stone",
+  "alts": [
+   {
+    "code": "UC/M2/SS0/M0HXL",
+    "name": "0HXL SPC Sheet Marble | 3 mm",
+    "pct": 81
+   },
+   {
+    "code": "UC/M2/SS0/M5508",
+    "name": "5508 SPC Sheet Marble | 3 mm",
+    "pct": 81
+   },
+   {
+    "code": "UC/M2/SS0/M09U2",
+    "name": "09U2 SPC Sheet Marble | 3 mm",
+    "pct": 81
+   },
+   {
+    "code": "UC/M2/SS0/M0703",
+    "name": "0703 SPC Sheet Marble | 3 mm",
+    "pct": 78
+   },
+   {
+    "code": "UC/M2/SS0/M2208",
+    "name": "2208 SPC Sheet Marble | 3 mm",
+    "pct": 77
+   },
+   {
+    "code": "UC/P1/PPP/S5021",
+    "name": "5021 Nio Plain Stone",
+    "pct": 77
+   },
+   {
+    "code": "UC/M2/SS0/M8083",
+    "name": "8083 SPC Sheet Gold | 3 mm",
+    "pct": 77
+   },
+   {
+    "code": "UC/P1/PPN/S5021",
+    "name": "5021* Nio Plain Stone",
+    "pct": 76
+   }
+  ]
+ },
+ "UC/R1/PPP/T1218": {
+  "name": "1218 PVC Plain Floral",
+  "alts": [
+   {
+    "code": "UC/P1/PPN/K9472",
+    "name": "9472* Nio Plain Gold",
+    "pct": 81
+   },
+   {
+    "code": "UC/P1/PPP/K9472",
+    "name": "9472 Nio Plain Gold",
+    "pct": 79
+   },
+   {
+    "code": "UC/R1/PPP/G0818",
+    "name": "0818 PVC Plain Gold",
+    "pct": 78
+   }
+  ]
+ },
+ "UC/R1/PPP/W9371": {
+  "name": "9371 PVC Plain Wood",
+  "alts": []
+ },
+ "UC/R1/PPP/X1456": {
+  "name": "1456 PVC Plain Abstract",
+  "alts": [
+   {
+    "code": "UC/P1/PPP/T1456",
+    "name": "1456 Nio Plain Traditional",
+    "pct": 88
+   },
+   {
+    "code": "UC/P1/PPN/T1456",
+    "name": "1456* Nio Plain Traditional",
+    "pct": 88
+   },
+   {
+    "code": "UC/D1/PPP/X0253",
+    "name": "1456* PVC Plain Abstract",
+    "pct": 76
+   }
+  ]
+ },
+ "UC/R1/PPP/X9380": {
+  "name": "9380 PVC Plain Gold",
+  "alts": [
+   {
+    "code": "UC/D1/PPP/X0635",
+    "name": "0650* PVC Plain Abstract",
+    "pct": 81
+   },
+   {
+    "code": "UC/D1/PPP/X0650",
+    "name": "0650 PVC Plain Abstract",
+    "pct": 81
+   },
+   {
+    "code": "UC/P1/PPN/K9380",
+    "name": "9380* Nio Plain Gold",
+    "pct": 78
+   },
+   {
+    "code": "UC/P1/PPP/K9380",
+    "name": "9380 Nio Plain Gold",
+    "pct": 78
+   }
+  ]
+ },
+ "UC/R1/PPX/J9005": {
+  "name": "9005 PVC Fluted wide Gold",
+  "alts": []
+ },
+ "UC/R1/PPX/W0103": {
+  "name": "0103 PVC Fluted wide Wood",
+  "alts": [
+   {
+    "code": "UC/R1/PPF/W0352",
+    "name": "0352 PVC Fluted Wood",
+    "pct": 84
+   },
+   {
+    "code": "UC/R1/PPX/W0114",
+    "name": "0114 PVC Fluted wide Wood",
+    "pct": 84
+   },
+   {
+    "code": "UC/I2/PPD/WX921",
+    "name": "X921 WPC Classic Wood",
+    "pct": 84
+   },
+   {
+    "code": "UC/M2/PPE/WS685",
+    "name": "S685* WPC Small square Wood",
+    "pct": 82
+   },
+   {
+    "code": "UC/I2/PPE/WS685",
+    "name": "S685 WPC Small square Wood",
+    "pct": 81
+   },
+   {
+    "code": "UC/P1/PPF/W9204",
+    "name": "9204 Nio Fluted Wood",
+    "pct": 79
+   },
+   {
+    "code": "UC/I2/PPD/WX913",
+    "name": "X913 WPC Classic Wood",
+    "pct": 79
+   },
+   {
+    "code": "UC/P1/PPP/W9204",
+    "name": "9204 Nio Plain Wood",
+    "pct": 75
+   },
+   {
+    "code": "UC/P1/PPN/W9204",
+    "name": "9204* Nio Plain Wood",
+    "pct": 75
+   },
+   {
+    "code": "UC/R1/PPF/W0333",
+    "name": "0333 PVC Fluted Wood",
+    "pct": 70
+   }
+  ]
+ },
+ "UC/R1/PPX/W0114": {
+  "name": "0114 PVC Fluted wide Wood",
+  "alts": [
+   {
+    "code": "UC/I2/PPD/WX921",
+    "name": "X921 WPC Classic Wood",
+    "pct": 86
+   },
+   {
+    "code": "UC/R1/PPX/W0103",
+    "name": "0103 PVC Fluted wide Wood",
+    "pct": 84
+   },
+   {
+    "code": "UC/I2/PPE/WX921",
+    "name": "X921 WPC Small square Wood",
+    "pct": 82
+   },
+   {
+    "code": "UC/M2/PCF/W7331",
+    "name": "7331 Charcoal Fluted Wood",
+    "pct": 81
+   },
+   {
+    "code": "UC/R1/PPF/W0352",
+    "name": "0352 PVC Fluted Wood",
+    "pct": 81
+   },
+   {
+    "code": "UC/P1/PPF/W9204",
+    "name": "9204 Nio Fluted Wood",
+    "pct": 80
+   }
+  ]
+ },
+ "UC/R2/PCU/P5055": {
+  "name": "5055 Charcoal Mini concave Pastel",
+  "alts": [
+   {
+    "code": "UC/R2/PCU/P5062",
+    "name": "5062 Charcoal Mini concave Pastel",
+    "pct": 85
+   },
+   {
+    "code": "UC/R2/PCU/P5065",
+    "name": "5065 Charcoal Mini concave Pastel",
+    "pct": 81
+   }
+  ]
+ },
+ "UC/R2/PCU/P5057": {
+  "name": "5057 Charcoal Mini concave Pastel",
+  "alts": []
+ },
+ "UC/R2/PCU/P5062": {
+  "name": "5062 Charcoal Mini concave Pastel",
+  "alts": [
+   {
+    "code": "UC/R2/PCU/P5055",
+    "name": "5055 Charcoal Mini concave Pastel",
+    "pct": 85
+   }
+  ]
+ },
+ "UC/R2/PCU/P5065": {
+  "name": "5065 Charcoal Mini concave Pastel",
+  "alts": [
+   {
+    "code": "UC/R2/PCU/P5055",
+    "name": "5055 Charcoal Mini concave Pastel",
+    "pct": 81
+   }
+  ]
+ }
+}

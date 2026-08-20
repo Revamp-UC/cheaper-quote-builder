@@ -1,0 +1,56 @@
+name: Refresh City Catalogs
+
+on:
+  schedule:
+    - cron: '0 2 * * *'   # 2:00 AM UTC = 7:30 AM IST, daily
+  workflow_dispatch:       # manual trigger from GitHub Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Fetch latest live status from Google Sheet
+        env:
+          SHEET_LIVE_CSV_URL: ${{ secrets.SHEET_LIVE_CSV_URL }}
+        run: python3 scripts/update_live.py
+
+      - name: Rebuild per-city catalog JSONs
+        run: python3 scripts/build_cities.py
+
+      - name: Commit if anything changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/data/master.json assets/data/delhi.json assets/data/mumbai.json assets/data/bengaluru.json assets/data/hyderabad.json
+          if git diff --cached --quiet; then
+            echo "No changes — catalogs already up to date."
+          else
+            git commit -m "auto: refresh city catalogs $(date -u '+%Y-%m-%d')"
+            git push
+            echo "Changes pushed."
+          fi
+
+      - name: Trigger Render deploy
+        if: success()
+        env:
+          RENDER_DEPLOY_HOOK: ${{ secrets.RENDER_DEPLOY_HOOK }}
+        run: |
+          if [ -n "$RENDER_DEPLOY_HOOK" ]; then
+            curl -fsS "$RENDER_DEPLOY_HOOK" && echo "Render deploy triggered."
+          else
+            echo "RENDER_DEPLOY_HOOK not set — skipping (Render auto-deploys on push)."
+          fi

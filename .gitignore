@@ -12,3 +12,6 @@ tools/
 
 # local ship helper (may hold a Render deploy hook)
 ship.sh
+
+# ML pipeline working dir (durable, not for the site)
+pipeline/

@@ -1,0 +1,5462 @@
+[
+ {
+  "code": "UC/L1/SL0/Q0155",
+  "name": "0155 Laminate Sheet Metallic bronze | 0.8 mm",
+  "dims": {
+   "L_ft": 8,
+   "W_in": 24,
+   "T_mm": 0.8,
+   "raw": "8 ft × 24 in × 0.8 mm"
+  },
+  "price": {
+   "delhi": 2100,
+   "mumbai": 2100,
+   "bangalore": 2100,
+   "hyderabad": 2100
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1747147696050-85e7a2.jpeg",
+  "material": "Laminate",
+  "sub": "Sheet",
+  "live": {
+   "delhi": false,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/L1/SL0/K0156",
+  "name": "0156 Laminate Sheet Metallic gold | 0.8 mm",
+  "dims": {
+   "L_ft": 8,
+   "W_in": 24,
+   "T_mm": 0.8,
+   "raw": "8 ft × 24 in × 0.8 mm"
+  },
+  "price": {
+   "delhi": 2100,
+   "mumbai": 2100,
+   "bangalore": 2100,
+   "hyderabad": 2100
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1747147698724-f93a9b.jpeg",
+  "material": "Laminate",
+  "sub": "Sheet",
+  "live": {
+   "delhi": false,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/D1/PPP/F0150",
+  "name": "0150 PVC Plain Floral",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 9.8,
+   "T_mm": 5,
+   "raw": "9.5 ft × 9.8 in × 5 mm"
+  },
+  "price": {
+   "delhi": 650,
+   "mumbai": 650,
+   "bangalore": 800,
+   "hyderabad": 800
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324490809-f4922b.jpeg",
+  "material": "PVC",
+  "sub": "Panel",
+  "live": {
+   "delhi": false,
+   "mumbai": false,
+   "bangalore": true,
+   "hyderabad": true
+  }
+ },
+ {
+  "code": "UC/R1/PPP/F1449",
+  "name": "1449 PVC Plain Floral",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 9.8,
+   "T_mm": 5,
+   "raw": "9.5 ft × 9.8 in × 5 mm"
+  },
+  "price": {
+   "delhi": 650,
+   "mumbai": 650,
+   "bangalore": 800,
+   "hyderabad": 800
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323634349-3469cb.jpeg",
+  "material": "PVC",
+  "sub": "Panel",
+  "live": {
+   "delhi": false,
+   "mumbai": true,
+   "bangalore": true,
+   "hyderabad": true
+  }
+ },
+ {
+  "code": "UC/D1/PPP/G0273",
+  "name": "0273 PVC Plain Abstract",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 9.8,
+   "T_mm": 5,
+   "raw": "9.5 ft × 9.8 in × 5 mm"
+  },
+  "price": {
+   "delhi": 650,
+   "mumbai": 650,
+   "bangalore": 800,
+   "hyderabad": 800
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324481135-6a876e.jpeg",
+  "material": "PVC",
+  "sub": "Panel",
+  "live": {
+   "delhi": true,
+   "mumbai": true,
+   "bangalore": true,
+   "hyderabad": true
+  }
+ },
+ {
+  "code": "UC/R1/PPP/G0818",
+  "name": "0818 PVC Plain Gold",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 9.8,
+   "T_mm": 5,
+   "raw": "9.5 ft × 9.8 in × 5 mm"
+  },
+  "price": {
+   "delhi": 650,
+   "mumbai": 650,
+   "bangalore": 800,
+   "hyderabad": 800
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324468549-07209b.jpeg",
+  "material": "PVC",
+  "sub": "Panel",
+  "live": {
+   "delhi": true,
+   "mumbai": true,
+   "bangalore": true,
+   "hyderabad": true
+  }
+ },
+ {
+  "code": "UC/M2/PPC/H2022",
+  "name": "2022* WPC Ceramic White",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 5.8,
+   "T_mm": 7.5,
+   "raw": "9.5 ft × 5.8 in × 7.5 mm"
+  },
+  "price": {
+   "delhi": 1100,
+   "mumbai": 1250,
+   "bangalore": 1250,
+   "hyderabad": 1250
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324201892-f83dba.jpeg",
+  "material": "WPC",
+  "sub": "Panel",
+  "live": {
+   "delhi": false,
+   "mumbai": true,
+   "bangalore": true,
+   "hyderabad": true
+  }
+ },
+ {
+  "code": "UC/M2/PPD/H2022",
+  "name": "2022* WPC Classic White",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 7.68,
+   "T_mm": 12,
+   "raw": "9.5 ft × 7.68 in × 12 mm"
+  },
+  "price": {
+   "delhi": 1300,
+   "mumbai": 1500,
+   "bangalore": 1600,
+   "hyderabad": 1600
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324160451-1fc135.jpeg",
+  "material": "WPC",
+  "sub": "Panel",
+  "live": {
+   "delhi": false,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/M2/PPS/H2022",
+  "name": "2022 WPC Concave White",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 7.64,
+   "T_mm": 12,
+   "raw": "9.5 ft × 7.64 in × 12 mm"
+  },
+  "price": {
+   "delhi": 1300,
+   "mumbai": 1450,
+   "bangalore": 1550,
+   "hyderabad": 1550
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324081200-f6d545.jpeg",
+  "material": "WPC",
+  "sub": "Panel",
+  "live": {
+   "delhi": false,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/M2/PPV/H2022",
+  "name": "2022 WPC Convex White",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 7.68,
+   "T_mm": 12,
+   "raw": "9.5 ft × 7.68 in × 12 mm"
+  },
+  "price": {
+   "delhi": 1300,
+   "mumbai": 1450,
+   "bangalore": 1550,
+   "hyderabad": 1550
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324046782-014ff8.jpeg",
+  "material": "WPC",
+  "sub": "Panel",
+  "live": {
+   "delhi": false,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/M2/SP0/H2022",
+  "name": "2022 WPC Sheet White | 5 mm",
+  "dims": {
+   "L_ft": 9.2,
+   "W_in": 23.48,
+   "T_mm": 5,
+   "raw": "9.2 ft × 23.48 in × 5 mm"
+  },
+  "price": {
+   "delhi": 2700,
+   "mumbai": 3250,
+   "bangalore": 3250,
+   "hyderabad": 3250
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323995033-b6e01a.jpeg",
+  "material": "WPC",
+  "sub": "Sheet",
+  "live": {
+   "delhi": false,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/R1/PPX/J9005",
+  "name": "9005 PVC Fluted wide Gold",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 11.8,
+   "T_mm": 10.2,
+   "raw": "9.5 ft × 11.8 in × 10.2 mm"
+  },
+  "price": {
+   "delhi": 1450,
+   "mumbai": 1500,
+   "bangalore": 1550,
+   "hyderabad": 1500
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323620737-3e2c5f.jpeg",
+  "material": "PVC",
+  "sub": "Panel",
+  "live": {
+   "delhi": false,
+   "mumbai": true,
+   "bangalore": true,
+   "hyderabad": true
+  }
+ },
+ {
+  "code": "UC/R1/PPP/J9472",
+  "name": "0168* PVC Plain Gold",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 9.8,
+   "T_mm": 5,
+   "raw": "9.5 ft × 9.8 in × 5 mm"
+  },
+  "price": {
+   "delhi": 650,
+   "mumbai": 650,
+   "bangalore": 800,
+   "hyderabad": 800
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/customer-app-supply/1722246688722-ec328b.jpeg",
+  "material": "PVC",
+  "sub": "Panel",
+  "live": {
+   "delhi": false,
+   "mumbai": true,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/M2/PPD/K3731",
+  "name": "3731* WPC Classic Gold",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 5.9,
+   "T_mm": 9,
+   "raw": "9.5 ft × 5.9 in × 9 mm"
+  },
+  "price": {
+   "delhi": 1300,
+   "mumbai": 1500,
+   "bangalore": 1600,
+   "hyderabad": 1600
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324152426-20f472.jpeg",
+  "material": "WPC",
+  "sub": "Panel",
+  "live": {
+   "delhi": false,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/M2/PCU/K5537",
+  "name": "5537 Charcoal Mini concave Gold",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 11.7,
+   "T_mm": 7,
+   "raw": "9.5 ft × 11.7 in × 7 mm"
+  },
+  "price": {
+   "delhi": 3700,
+   "mumbai": 3700,
+   "bangalore": 3700,
+   "hyderabad": 3700
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323891459-9d1f95.jpeg",
+  "material": "Charcoal",
+  "sub": "Panel",
+  "live": {
+   "delhi": true,
+   "mumbai": true,
+   "bangalore": true,
+   "hyderabad": true
+  }
+ },
+ {
+  "code": "UC/M2/PCD/K5062",
+  "name": "5062 Charcoal Classic Gold",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 4.5,
+   "T_mm": 11,
+   "raw": "9.5 ft × 4.5 in × 11 mm"
+  },
+  "price": {
+   "delhi": 1200,
+   "mumbai": 1200,
+   "bangalore": 1300,
+   "hyderabad": 1300
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324598521-a4e12d.jpeg",
+  "material": "Charcoal",
+  "sub": "Panel",
+  "live": {
+   "delhi": false,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/M2/PCD/K5063",
+  "name": "5063 Charcoal Classic Gold",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 4.5,
+   "T_mm": 11,
+   "raw": "9.5 ft × 4.5 in × 11 mm"
+  },
+  "price": {
+   "delhi": 1200,
+   "mumbai": 1200,
+   "bangalore": 1300,
+   "hyderabad": 1300
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324590538-02f70d.jpeg",
+  "material": "Charcoal",
+  "sub": "Panel",
+  "live": {
+   "delhi": false,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/M2/PCD/K5064",
+  "name": "5064 Charcoal Classic Gold",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 4.5,
+   "T_mm": 11,
+   "raw": "9.5 ft × 4.5 in × 11 mm"
+  },
+  "price": {
+   "delhi": 1200,
+   "mumbai": 1200,
+   "bangalore": 1300,
+   "hyderabad": 1300
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324580509-cd42d3.jpeg",
+  "material": "Charcoal",
+  "sub": "Panel",
+  "live": {
+   "delhi": false,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/M2/PCS/K5082",
+  "name": "5082 Charcoal Concave Gold",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 5.5,
+   "T_mm": 11,
+   "raw": "9.5 ft × 5.5 in × 11 mm"
+  },
+  "price": {
+   "delhi": 1500,
+   "mumbai": 1500,
+   "bangalore": 1700,
+   "hyderabad": 1700
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324227958-666a55.jpeg",
+  "material": "Charcoal",
+  "sub": "Panel",
+  "live": {
+   "delhi": true,
+   "mumbai": true,
+   "bangalore": true,
+   "hyderabad": true
+  }
+ },
+ {
+  "code": "UC/M2/PCR/W3621",
+  "name": "3621 Charcoal Mini rectangle Wood",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 11.6,
+   "T_mm": 6,
+   "raw": "9.5 ft × 11.6 in × 6 mm"
+  },
+  "price": {
+   "delhi": 2000,
+   "mumbai": 2000,
+   "bangalore": 2000,
+   "hyderabad": 2000
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324254770-c71488.jpeg",
+  "material": "Charcoal",
+  "sub": "Panel",
+  "live": {
+   "delhi": true,
+   "mumbai": true,
+   "bangalore": true,
+   "hyderabad": true
+  }
+ },
+ {
+  "code": "UC/M2/PCR/W3624",
+  "name": "3624 Charcoal Mini rectangle Wood",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 11.6,
+   "T_mm": 6,
+   "raw": "9.5 ft × 11.6 in × 6 mm"
+  },
+  "price": {
+   "delhi": 2000,
+   "mumbai": 2000,
+   "bangalore": 2000,
+   "hyderabad": 2000
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323747075-a04ac2.jpeg",
+  "material": "Charcoal",
+  "sub": "Panel",
+  "live": {
+   "delhi": true,
+   "mumbai": true,
+   "bangalore": true,
+   "hyderabad": true
+  }
+ },
+ {
+  "code": "UC/M2/PCS/K5084",
+  "name": "5084 Charcoal Concave Gold",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 5.5,
+   "T_mm": 11,
+   "raw": "9.5 ft × 5.5 in × 11 mm"
+  },
+  "price": {
+   "delhi": 1200,
+   "mumbai": 1200,
+   "bangalore": 1200,
+   "hyderabad": 1200
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324209974-0313bc.jpeg",
+  "material": "Charcoal",
+  "sub": "Panel",
+  "live": {
+   "delhi": true,
+   "mumbai": true,
+   "bangalore": true,
+   "hyderabad": true
+  }
+ },
+ {
+  "code": "UC/M2/SP0/N0112",
+  "name": "0112 WPC Sheet Neutral | 5 mm",
+  "dims": {
+   "L_ft": 9.2,
+   "W_in": 23.48,
+   "T_mm": 5,
+   "raw": "9.2 ft × 23.48 in × 5 mm"
+  },
+  "price": {
+   "delhi": 2700,
+   "mumbai": 3250,
+   "bangalore": 3250,
+   "hyderabad": 3250
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323973227-5c8e8d.jpeg",
+  "material": "WPC",
+  "sub": "Sheet",
+  "live": {
+   "delhi": false,
+   "mumbai": false,
+   "bangalore": true,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/M2/SS0/M0703",
+  "name": "0703 SPC Sheet Marble | 3 mm",
+  "dims": {
+   "L_ft": 9.2,
+   "W_in": 48,
+   "T_mm": 3,
+   "raw": "9.2 ft × 48 in × 3 mm"
+  },
+  "price": {
+   "delhi": 9000,
+   "mumbai": 9000,
+   "bangalore": 9000,
+   "hyderabad": 9000
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323686269-5822f7.jpeg",
+  "material": "SPC",
+  "sub": "Sheet",
+  "live": {
+   "delhi": true,
+   "mumbai": true,
+   "bangalore": true,
+   "hyderabad": true
+  }
+ },
+ {
+  "code": "UC/M2/SS0/M0705",
+  "name": "0705 SPC Sheet Marble | 3 mm",
+  "dims": {
+   "L_ft": 9.2,
+   "W_in": 48,
+   "T_mm": 3,
+   "raw": "9.2 ft × 48 in × 3 mm"
+  },
+  "price": {
+   "delhi": 9000,
+   "mumbai": 9000,
+   "bangalore": 9000,
+   "hyderabad": 9000
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323666702-8fbe8c.jpeg",
+  "material": "SPC",
+  "sub": "Sheet",
+  "live": {
+   "delhi": true,
+   "mumbai": true,
+   "bangalore": true,
+   "hyderabad": true
+  }
+ },
+ {
+  "code": "UC/M2/SS0/M09U2",
+  "name": "09U2 SPC Sheet Marble | 3 mm",
+  "dims": {
+   "L_ft": 9.2,
+   "W_in": 48,
+   "T_mm": 3,
+   "raw": "9.2 ft × 48 in × 3 mm"
+  },
+  "price": {
+   "delhi": 9000,
+   "mumbai": 9000,
+   "bangalore": 9000,
+   "hyderabad": 9000
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323468383-4a7d75.jpeg",
+  "material": "SPC",
+  "sub": "Sheet",
+  "live": {
+   "delhi": true,
+   "mumbai": true,
+   "bangalore": true,
+   "hyderabad": true
+  }
+ },
+ {
+  "code": "UC/M2/SS0/M0HXL",
+  "name": "0HXL SPC Sheet Marble | 3 mm",
+  "dims": {
+   "L_ft": 9.2,
+   "W_in": 48,
+   "T_mm": 3,
+   "raw": "9.2 ft × 48 in × 3 mm"
+  },
+  "price": {
+   "delhi": 6000,
+   "mumbai": 6000,
+   "bangalore": 6000,
+   "hyderabad": 6000
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323482814-f22070.jpeg",
+  "material": "SPC",
+  "sub": "Sheet",
+  "live": {
+   "delhi": true,
+   "mumbai": true,
+   "bangalore": true,
+   "hyderabad": true
+  }
+ },
+ {
+  "code": "UC/M2/SS0/M2208",
+  "name": "2208 SPC Sheet Marble | 3 mm",
+  "dims": {
+   "L_ft": 9.2,
+   "W_in": 48,
+   "T_mm": 3,
+   "raw": "9.2 ft × 48 in × 3 mm"
+  },
+  "price": {
+   "delhi": 9000,
+   "mumbai": 9000,
+   "bangalore": 9000,
+   "hyderabad": 9000
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323656946-04cef4.jpeg",
+  "material": "SPC",
+  "sub": "Sheet",
+  "live": {
+   "delhi": true,
+   "mumbai": true,
+   "bangalore": true,
+   "hyderabad": true
+  }
+ },
+ {
+  "code": "UC/M2/SS0/M4501",
+  "name": "4501 SPC Sheet Marble | 3 mm",
+  "dims": {
+   "L_ft": 9.2,
+   "W_in": 48,
+   "T_mm": 3,
+   "raw": "9.2 ft × 48 in × 3 mm"
+  },
+  "price": {
+   "delhi": 9000,
+   "mumbai": 9000,
+   "bangalore": 9000,
+   "hyderabad": 9000
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323951757-fa5431.jpeg",
+  "material": "SPC",
+  "sub": "Sheet",
+  "live": {
+   "delhi": true,
+   "mumbai": true,
+   "bangalore": true,
+   "hyderabad": true
+  }
+ },
+ {
+  "code": "UC/M2/SS0/M5508",
+  "name": "5508 SPC Sheet Marble | 3 mm",
+  "dims": {
+   "L_ft": 9.2,
+   "W_in": 48,
+   "T_mm": 3,
+   "raw": "9.2 ft × 48 in × 3 mm"
+  },
+  "price": {
+   "delhi": 9000,
+   "mumbai": 9000,
+   "bangalore": 9000,
+   "hyderabad": 9000
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323930350-5811eb.jpeg",
+  "material": "SPC",
+  "sub": "Sheet",
+  "live": {
+   "delhi": true,
+   "mumbai": true,
+   "bangalore": true,
+   "hyderabad": true
+  }
+ },
+ {
+  "code": "UC/M2/SS0/M8083",
+  "name": "8083 SPC Sheet Gold | 3 mm",
+  "dims": {
+   "L_ft": 9.2,
+   "W_in": 48,
+   "T_mm": 3,
+   "raw": "9.2 ft × 48 in × 3 mm"
+  },
+  "price": {
+   "delhi": 9000,
+   "mumbai": 9000,
+   "bangalore": 9000,
+   "hyderabad": 9000
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323939936-9eb8d8.jpeg",
+  "material": "SPC",
+  "sub": "Sheet",
+  "live": {
+   "delhi": true,
+   "mumbai": true,
+   "bangalore": true,
+   "hyderabad": true
+  }
+ },
+ {
+  "code": "UC/M2/PPC/N0072",
+  "name": "0072* WPC Ceramic Neutral",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 5.8,
+   "T_mm": 7.5,
+   "raw": "9.5 ft × 5.8 in × 7.5 mm"
+  },
+  "price": {
+   "delhi": 1100,
+   "mumbai": 1250,
+   "bangalore": 1250,
+   "hyderabad": 1250
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324193498-7a9fec.jpeg",
+  "material": "WPC",
+  "sub": "Panel",
+  "live": {
+   "delhi": false,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/M2/PPC/N0102",
+  "name": "0102* WPC Ceramic Neutral",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 5.8,
+   "T_mm": 7.5,
+   "raw": "9.5 ft × 5.8 in × 7.5 mm"
+  },
+  "price": {
+   "delhi": 1100,
+   "mumbai": 1250,
+   "bangalore": 1250,
+   "hyderabad": 1250
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324184926-f4096a.jpeg",
+  "material": "WPC",
+  "sub": "Panel",
+  "live": {
+   "delhi": false,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/M2/PCR/W3623",
+  "name": "3623 Charcoal Mini rectangle Wood",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 11.6,
+   "T_mm": 6,
+   "raw": "9.5 ft × 11.6 in × 6 mm"
+  },
+  "price": {
+   "delhi": 2800,
+   "mumbai": 3000,
+   "bangalore": 3000,
+   "hyderabad": 3000
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323763523-c95780.jpeg",
+  "material": "Charcoal",
+  "sub": "Panel",
+  "live": {
+   "delhi": true,
+   "mumbai": true,
+   "bangalore": true,
+   "hyderabad": true
+  }
+ },
+ {
+  "code": "UC/M2/PCS/K5081",
+  "name": "5081 Charcoal Concave Gold",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 5.5,
+   "T_mm": 11,
+   "raw": "9.5 ft × 5.5 in × 11 mm"
+  },
+  "price": {
+   "delhi": 1200,
+   "mumbai": 1200,
+   "bangalore": 1200,
+   "hyderabad": 1200
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324236440-f726c2.jpeg",
+  "material": "Charcoal",
+  "sub": "Panel",
+  "live": {
+   "delhi": true,
+   "mumbai": true,
+   "bangalore": true,
+   "hyderabad": true
+  }
+ },
+ {
+  "code": "UC/M2/PPC/N2025",
+  "name": "2025* WPC Ceramic Neutral",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 5.8,
+   "T_mm": 7.5,
+   "raw": "9.5 ft × 5.8 in × 7.5 mm"
+  },
+  "price": {
+   "delhi": 1100,
+   "mumbai": 1250,
+   "bangalore": 1250,
+   "hyderabad": 1250
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324168617-538a58.jpeg",
+  "material": "WPC",
+  "sub": "Panel",
+  "live": {
+   "delhi": false,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/M2/SP0/N2025",
+  "name": "2025 WPC Sheet Neutral | 5 mm",
+  "dims": {
+   "L_ft": 9.2,
+   "W_in": 23.48,
+   "T_mm": 5,
+   "raw": "9.2 ft × 23.48 in × 5 mm"
+  },
+  "price": {
+   "delhi": 2700,
+   "mumbai": 3250,
+   "bangalore": 3250,
+   "hyderabad": 3250
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323962027-b948b3.jpeg",
+  "material": "WPC",
+  "sub": "Sheet",
+  "live": {
+   "delhi": false,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/R1/PPF/O0160",
+  "name": "0160 PVC Fluted Neutral",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 11.8,
+   "T_mm": 10.2,
+   "raw": "9.5 ft × 11.8 in × 10.2 mm"
+  },
+  "price": {
+   "delhi": 1450,
+   "mumbai": 1500,
+   "bangalore": 1550,
+   "hyderabad": 1500
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323919693-da7d96.jpeg",
+  "material": "PVC",
+  "sub": "Panel",
+  "live": {
+   "delhi": false,
+   "mumbai": true,
+   "bangalore": true,
+   "hyderabad": true
+  }
+ },
+ {
+  "code": "UC/R1/PPF/O2048",
+  "name": "2048 PVC Fluted Neutral",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 11.8,
+   "T_mm": 10.2,
+   "raw": "9.5 ft × 11.8 in × 10.2 mm"
+  },
+  "price": {
+   "delhi": 1450,
+   "mumbai": 1500,
+   "bangalore": 1550,
+   "hyderabad": 1500
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323646678-614516.jpeg",
+  "material": "PVC",
+  "sub": "Panel",
+  "live": {
+   "delhi": false,
+   "mumbai": true,
+   "bangalore": true,
+   "hyderabad": true
+  }
+ },
+ {
+  "code": "UC/M2/PPV/P0202",
+  "name": "0202 WPC Convex Pastel",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 7.68,
+   "T_mm": 12,
+   "raw": "9.5 ft × 7.68 in × 12 mm"
+  },
+  "price": {
+   "delhi": 1300,
+   "mumbai": 1450,
+   "bangalore": 1550,
+   "hyderabad": 1550
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324038099-12b760.jpeg",
+  "material": "WPC",
+  "sub": "Panel",
+  "live": {
+   "delhi": false,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/M2/PPV/P0212",
+  "name": "0212 WPC Convex Pastel",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 7.68,
+   "T_mm": 12,
+   "raw": "9.5 ft × 7.68 in × 12 mm"
+  },
+  "price": {
+   "delhi": 1300,
+   "mumbai": 1450,
+   "bangalore": 1550,
+   "hyderabad": 1550
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324029496-4c1434.jpeg",
+  "material": "WPC",
+  "sub": "Panel",
+  "live": {
+   "delhi": false,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/M2/PPV/P0292",
+  "name": "0292 WPC Convex Pastel",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 7.68,
+   "T_mm": 12,
+   "raw": "9.5 ft × 7.68 in × 12 mm"
+  },
+  "price": {
+   "delhi": 1300,
+   "mumbai": 1450,
+   "bangalore": 1550,
+   "hyderabad": 1550
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324015223-8bf55a.jpeg",
+  "material": "WPC",
+  "sub": "Panel",
+  "live": {
+   "delhi": false,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/R2/PCU/P5055",
+  "name": "5055 Charcoal Mini concave Pastel",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 4.6,
+   "T_mm": 7,
+   "raw": "9.5 ft × 4.6 in × 7 mm"
+  },
+  "price": {
+   "delhi": 650,
+   "mumbai": 700,
+   "bangalore": 750,
+   "hyderabad": 700
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1754903565180-80bf8a.jpeg",
+  "material": "Charcoal",
+  "sub": "Panel",
+  "live": {
+   "delhi": false,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/R2/PCU/P5057",
+  "name": "5057 Charcoal Mini concave Pastel",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 4.6,
+   "T_mm": 7,
+   "raw": "9.5 ft × 4.6 in × 7 mm"
+  },
+  "price": {
+   "delhi": 650,
+   "mumbai": 700,
+   "bangalore": 750,
+   "hyderabad": 700
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1754903561930-918c2f.jpeg",
+  "material": "Charcoal",
+  "sub": "Panel",
+  "live": {
+   "delhi": false,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": true
+  }
+ },
+ {
+  "code": "UC/R2/PCU/P5062",
+  "name": "5062 Charcoal Mini concave Pastel",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 4.6,
+   "T_mm": 7,
+   "raw": "9.5 ft × 4.6 in × 7 mm"
+  },
+  "price": {
+   "delhi": 650,
+   "mumbai": 700,
+   "bangalore": 750,
+   "hyderabad": 700
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1754903558577-6f1151.jpeg",
+  "material": "Charcoal",
+  "sub": "Panel",
+  "live": {
+   "delhi": false,
+   "mumbai": false,
+   "bangalore": true,
+   "hyderabad": true
+  }
+ },
+ {
+  "code": "UC/R2/PCU/P5065",
+  "name": "5065 Charcoal Mini concave Pastel",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 4.6,
+   "T_mm": 7,
+   "raw": "9.5 ft × 4.6 in × 7 mm"
+  },
+  "price": {
+   "delhi": 650,
+   "mumbai": 700,
+   "bangalore": 750,
+   "hyderabad": 700
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1754903553795-5ab4ea.jpeg",
+  "material": "Charcoal",
+  "sub": "Panel",
+  "live": {
+   "delhi": false,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/M2/PPD/R0P61",
+  "name": "0P61 WPC Classic Neutral",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 7.68,
+   "T_mm": 12,
+   "raw": "9.5 ft × 7.68 in × 12 mm"
+  },
+  "price": {
+   "delhi": 1300,
+   "mumbai": 1500,
+   "bangalore": 1600,
+   "hyderabad": 1600
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324570384-025e19.jpeg",
+  "material": "WPC",
+  "sub": "Panel",
+  "live": {
+   "delhi": false,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/M2/PCF/R7332",
+  "name": "7332 Charcoal Fluted Neutral",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 11.3,
+   "T_mm": 6,
+   "raw": "9.5 ft × 11.3 in × 6 mm"
+  },
+  "price": {
+   "delhi": 1600,
+   "mumbai": 1600,
+   "bangalore": 1600,
+   "hyderabad": 1600
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324278772-fba231.jpeg",
+  "material": "Charcoal",
+  "sub": "Panel",
+  "live": {
+   "delhi": true,
+   "mumbai": true,
+   "bangalore": true,
+   "hyderabad": true
+  }
+ },
+ {
+  "code": "UC/M2/PPE/W8360",
+  "name": "8360* WPC Small square Wood",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 6.4,
+   "T_mm": 19.5,
+   "raw": "9.5 ft × 6.4 in × 19.5 mm"
+  },
+  "price": {
+   "delhi": 950,
+   "mumbai": 1250,
+   "bangalore": 1350,
+   "hyderabad": 1350
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324102555-78b518.jpeg",
+  "material": "WPC",
+  "sub": "Panel",
+  "live": {
+   "delhi": false,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/D1/PPP/S0229",
+  "name": "0229 PVC Plain Gold",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 9.8,
+   "T_mm": 5,
+   "raw": "9.5 ft × 9.8 in × 5 mm"
+  },
+  "price": {
+   "delhi": 650,
+   "mumbai": 650,
+   "bangalore": 800,
+   "hyderabad": 800
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324423801-f1e96b.jpeg",
+  "material": "PVC",
+  "sub": "Panel",
+  "live": {
+   "delhi": false,
+   "mumbai": true,
+   "bangalore": true,
+   "hyderabad": true
+  }
+ },
+ {
+  "code": "UC/D1/PPP/S0426",
+  "name": "9382* PVC Plain Stone",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 9.8,
+   "T_mm": 5,
+   "raw": "9.5 ft × 9.8 in × 5 mm"
+  },
+  "price": {
+   "delhi": 650,
+   "mumbai": 650,
+   "bangalore": 800,
+   "hyderabad": 800
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1721825127505-2132e8.jpeg",
+  "material": "PVC",
+  "sub": "Panel",
+  "live": {
+   "delhi": false,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/M2/PPV/S0852",
+  "name": "0852 WPC Convex Stone",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 7.68,
+   "T_mm": 12,
+   "raw": "9.5 ft × 7.68 in × 12 mm"
+  },
+  "price": {
+   "delhi": 1300,
+   "mumbai": 1450,
+   "bangalore": 1550,
+   "hyderabad": 1550
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324005384-93eb9b.jpeg",
+  "material": "WPC",
+  "sub": "Panel",
+  "live": {
+   "delhi": false,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/M2/PPS/S9065",
+  "name": "9065 WPC Concave Stone",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 7.64,
+   "T_mm": 12,
+   "raw": "9.5 ft × 7.64 in × 12 mm"
+  },
+  "price": {
+   "delhi": 1300,
+   "mumbai": 1450,
+   "bangalore": 1550,
+   "hyderabad": 1550
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324060454-d1d4d7.jpeg",
+  "material": "WPC",
+  "sub": "Panel",
+  "live": {
+   "delhi": false,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/M2/PC0/S9571",
+  "name": "9571 Charcoal Basic Gold",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 4.5,
+   "T_mm": 12,
+   "raw": "9.5 ft × 4.5 in × 12 mm"
+  },
+  "price": {
+   "delhi": 800,
+   "mumbai": 800,
+   "bangalore": 900,
+   "hyderabad": 800
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1723027714698-0077f1.jpeg",
+  "material": "Charcoal",
+  "sub": "Panel",
+  "live": {
+   "delhi": false,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/D1/PPP/T0127",
+  "name": "1218* PVC Plain Floral",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 9.8,
+   "T_mm": 5,
+   "raw": "9.5 ft × 9.8 in × 5 mm"
+  },
+  "price": {
+   "delhi": 650,
+   "mumbai": 650,
+   "bangalore": 800,
+   "hyderabad": 800
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1721849056376-966039.jpeg",
+  "material": "PVC",
+  "sub": "Panel",
+  "live": {
+   "delhi": false,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/R1/PPX/W0103",
+  "name": "0103 PVC Fluted wide Wood",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 11.8,
+   "T_mm": 10.2,
+   "raw": "9.5 ft × 11.8 in × 10.2 mm"
+  },
+  "price": {
+   "delhi": 1450,
+   "mumbai": 1500,
+   "bangalore": 1550,
+   "hyderabad": 1500
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323672473-c60a93.jpeg",
+  "material": "PVC",
+  "sub": "Panel",
+  "live": {
+   "delhi": false,
+   "mumbai": false,
+   "bangalore": true,
+   "hyderabad": true
+  }
+ },
+ {
+  "code": "UC/R1/PPX/W0114",
+  "name": "0114 PVC Fluted wide Wood",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 11.8,
+   "T_mm": 10.2,
+   "raw": "9.5 ft × 11.8 in × 10.2 mm"
+  },
+  "price": {
+   "delhi": 1450,
+   "mumbai": 1500,
+   "bangalore": 1550,
+   "hyderabad": 1500
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323587148-34371a.jpeg",
+  "material": "PVC",
+  "sub": "Panel",
+  "live": {
+   "delhi": false,
+   "mumbai": true,
+   "bangalore": true,
+   "hyderabad": true
+  }
+ },
+ {
+  "code": "UC/R1/PPF/W0333",
+  "name": "0333 PVC Fluted Wood",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 11.8,
+   "T_mm": 10.2,
+   "raw": "9.5 ft × 11.8 in × 10.2 mm"
+  },
+  "price": {
+   "delhi": 1450,
+   "mumbai": 1500,
+   "bangalore": 1550,
+   "hyderabad": 1500
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323910461-b473c2.jpeg",
+  "material": "PVC",
+  "sub": "Panel",
+  "live": {
+   "delhi": false,
+   "mumbai": false,
+   "bangalore": true,
+   "hyderabad": true
+  }
+ },
+ {
+  "code": "UC/R1/PPF/W0352",
+  "name": "0352 PVC Fluted Wood",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 11.8,
+   "T_mm": 10.2,
+   "raw": "9.5 ft × 11.8 in × 10.2 mm"
+  },
+  "price": {
+   "delhi": 1450,
+   "mumbai": 1500,
+   "bangalore": 1550,
+   "hyderabad": 1500
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323901497-50e5a1.jpeg",
+  "material": "PVC",
+  "sub": "Panel",
+  "live": {
+   "delhi": false,
+   "mumbai": true,
+   "bangalore": true,
+   "hyderabad": true
+  }
+ },
+ {
+  "code": "UC/D1/PPP/W0817",
+  "name": "0620* PVC Plain Wood",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 9.8,
+   "T_mm": 5,
+   "raw": "9.5 ft × 9.8 in × 5 mm"
+  },
+  "price": {
+   "delhi": 650,
+   "mumbai": 650,
+   "bangalore": 800,
+   "hyderabad": 800
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1711968755529-ec38ae.jpeg",
+  "material": "PVC",
+  "sub": "Panel",
+  "live": {
+   "delhi": false,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/D1/PPG/W0952",
+  "name": "0952/0414* PVC Grooved Wood",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 9.5,
+   "T_mm": 8,
+   "raw": "9.5 ft × 9.5 in × 8 mm"
+  },
+  "price": {
+   "delhi": 650,
+   "mumbai": 650,
+   "bangalore": 800,
+   "hyderabad": 800
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324511998-07f41c.jpeg",
+  "material": "PVC",
+  "sub": "Panel",
+  "live": {
+   "delhi": false,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/D1/PPP/W0952",
+  "name": "0414* PVC Plain Wood",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 9.8,
+   "T_mm": 5,
+   "raw": "9.5 ft × 9.8 in × 5 mm"
+  },
+  "price": {
+   "delhi": 650,
+   "mumbai": 650,
+   "bangalore": 800,
+   "hyderabad": 800
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1755192405385-0d7ac0.jpeg",
+  "material": "PVC",
+  "sub": "Panel",
+  "live": {
+   "delhi": false,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/D1/PPG/W0953",
+  "name": "0953 PVC Grooved Wood",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 9.5,
+   "T_mm": 8,
+   "raw": "9.5 ft × 9.5 in × 8 mm"
+  },
+  "price": {
+   "delhi": 650,
+   "mumbai": 650,
+   "bangalore": 800,
+   "hyderabad": 800
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324501235-cc9776.jpeg",
+  "material": "PVC",
+  "sub": "Panel",
+  "live": {
+   "delhi": false,
+   "mumbai": true,
+   "bangalore": true,
+   "hyderabad": true
+  }
+ },
+ {
+  "code": "UC/D1/PPP/W0953",
+  "name": "9371* PVC Plain Wood",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 9.8,
+   "T_mm": 5,
+   "raw": "9.5 ft × 9.8 in × 5 mm"
+  },
+  "price": {
+   "delhi": 650,
+   "mumbai": 650,
+   "bangalore": 800,
+   "hyderabad": 800
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1755192401646-a65325.jpeg",
+  "material": "PVC",
+  "sub": "Panel",
+  "live": {
+   "delhi": true,
+   "mumbai": false,
+   "bangalore": true,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/M2/PCS/K5083",
+  "name": "5083 Charcoal Concave Gold",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 5.5,
+   "T_mm": 11,
+   "raw": "9.5 ft × 5.5 in × 11 mm"
+  },
+  "price": {
+   "delhi": 1200,
+   "mumbai": 1200,
+   "bangalore": 1200,
+   "hyderabad": 1200
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324218592-76c4ee.jpeg",
+  "material": "Charcoal",
+  "sub": "Panel",
+  "live": {
+   "delhi": true,
+   "mumbai": true,
+   "bangalore": true,
+   "hyderabad": true
+  }
+ },
+ {
+  "code": "UC/M2/PCR/W3622",
+  "name": "3622* Charcoal Mini rectangle Wood",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 11.6,
+   "T_mm": 6,
+   "raw": "9.5 ft × 11.6 in × 6 mm"
+  },
+  "price": {
+   "delhi": 2800,
+   "mumbai": 3000,
+   "bangalore": 3000,
+   "hyderabad": 3000
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324245463-5602e5.jpeg",
+  "material": "Charcoal",
+  "sub": "Panel",
+  "live": {
+   "delhi": true,
+   "mumbai": true,
+   "bangalore": true,
+   "hyderabad": true
+  }
+ },
+ {
+  "code": "UC/M2/PPS/RA209",
+  "name": "A209 WPC Concave Neutral",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 7.64,
+   "T_mm": 12,
+   "raw": "9.5 ft × 7.64 in × 12 mm"
+  },
+  "price": {
+   "delhi": 1300,
+   "mumbai": 1450,
+   "bangalore": 1550,
+   "hyderabad": 1550
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324072204-1ab777.jpeg",
+  "material": "WPC",
+  "sub": "Panel",
+  "live": {
+   "delhi": true,
+   "mumbai": true,
+   "bangalore": true,
+   "hyderabad": true
+  }
+ },
+ {
+  "code": "UC/M2/PPC/N0112",
+  "name": "0112* WPC Ceramic Neutral",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 5.8,
+   "T_mm": 7.5,
+   "raw": "9.5 ft × 5.8 in × 7.5 mm"
+  },
+  "price": {
+   "delhi": 1100,
+   "mumbai": 1250,
+   "bangalore": 1250,
+   "hyderabad": 1250
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324176359-51ad97.jpeg",
+  "material": "WPC",
+  "sub": "Panel",
+  "live": {
+   "delhi": false,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/M2/PPE/W4P03",
+  "name": "4P03* WPC Small square Wood",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 6.4,
+   "T_mm": 19.5,
+   "raw": "9.5 ft × 6.4 in × 19.5 mm"
+  },
+  "price": {
+   "delhi": 950,
+   "mumbai": 1250,
+   "bangalore": 1350,
+   "hyderabad": 1350
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324111441-4d97f1.jpeg",
+  "material": "WPC",
+  "sub": "Panel",
+  "live": {
+   "delhi": false,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": true
+  }
+ },
+ {
+  "code": "UC/M2/SP0/W4P03",
+  "name": "4P03 WPC Sheet Wood | 5 mm",
+  "dims": {
+   "L_ft": 9.2,
+   "W_in": 23.48,
+   "T_mm": 5,
+   "raw": "9.2 ft × 23.48 in × 5 mm"
+  },
+  "price": {
+   "delhi": 2700,
+   "mumbai": 3250,
+   "bangalore": 3250,
+   "hyderabad": 3250
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323712377-bebf32.jpeg",
+  "material": "WPC",
+  "sub": "Sheet",
+  "live": {
+   "delhi": false,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/M2/PPD/W7073",
+  "name": "7073* WPC Classic Wood",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 7.68,
+   "T_mm": 12,
+   "raw": "9.5 ft × 7.68 in × 12 mm"
+  },
+  "price": {
+   "delhi": 1300,
+   "mumbai": 1500,
+   "bangalore": 1600,
+   "hyderabad": 1600
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323735993-f2980d.jpeg",
+  "material": "WPC",
+  "sub": "Panel",
+  "live": {
+   "delhi": false,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/M2/PCF/W7331",
+  "name": "7331 Charcoal Fluted Wood",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 11.3,
+   "T_mm": 6,
+   "raw": "9.5 ft × 11.3 in × 6 mm"
+  },
+  "price": {
+   "delhi": 1600,
+   "mumbai": 1600,
+   "bangalore": 1600,
+   "hyderabad": 1600
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324271389-8e9997.jpeg",
+  "material": "Charcoal",
+  "sub": "Panel",
+  "live": {
+   "delhi": true,
+   "mumbai": true,
+   "bangalore": true,
+   "hyderabad": true
+  }
+ },
+ {
+  "code": "UC/M2/PCF/W7333",
+  "name": "7333* Charcoal Fluted Wood",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 11.3,
+   "T_mm": 6,
+   "raw": "9.5 ft × 11.3 in × 6 mm"
+  },
+  "price": {
+   "delhi": 2500,
+   "mumbai": 2500,
+   "bangalore": 2700,
+   "hyderabad": 2700
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324263537-a3c2ea.jpeg",
+  "material": "Charcoal",
+  "sub": "Panel",
+  "live": {
+   "delhi": false,
+   "mumbai": true,
+   "bangalore": true,
+   "hyderabad": true
+  }
+ },
+ {
+  "code": "UC/M2/PCF/W7334",
+  "name": "7334* Charcoal Fluted Wood",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 11.3,
+   "T_mm": 6,
+   "raw": "9.5 ft × 11.3 in × 6 mm"
+  },
+  "price": {
+   "delhi": 2500,
+   "mumbai": 2500,
+   "bangalore": 2700,
+   "hyderabad": 2700
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323774170-af8a9c.jpeg",
+  "material": "Charcoal",
+  "sub": "Panel",
+  "live": {
+   "delhi": false,
+   "mumbai": true,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/M2/PCD/K5061",
+  "name": "5061 Charcoal Classic Gold",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 4.5,
+   "T_mm": 11,
+   "raw": "9.5 ft × 4.5 in × 11 mm"
+  },
+  "price": {
+   "delhi": 1200,
+   "mumbai": 1200,
+   "bangalore": 1300,
+   "hyderabad": 1300
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324286783-7fee9b.jpeg",
+  "material": "Charcoal",
+  "sub": "Panel",
+  "live": {
+   "delhi": false,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/M2/SP0/W8360",
+  "name": "8360 WPC Sheet Wood | 5 mm",
+  "dims": {
+   "L_ft": 9.2,
+   "W_in": 23.48,
+   "T_mm": 5,
+   "raw": "9.2 ft × 23.48 in × 5 mm"
+  },
+  "price": {
+   "delhi": 2700,
+   "mumbai": 3250,
+   "bangalore": 3250,
+   "hyderabad": 3250
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323520523-bc589a.jpeg",
+  "material": "WPC",
+  "sub": "Sheet",
+  "live": {
+   "delhi": false,
+   "mumbai": false,
+   "bangalore": true,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/M2/PPE/WS685",
+  "name": "S685* WPC Small square Wood",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 6.4,
+   "T_mm": 19.5,
+   "raw": "9.5 ft × 6.4 in × 19.5 mm"
+  },
+  "price": {
+   "delhi": 950,
+   "mumbai": 1250,
+   "bangalore": 1350,
+   "hyderabad": 1350
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323367770-f26680.jpeg",
+  "material": "WPC",
+  "sub": "Panel",
+  "live": {
+   "delhi": false,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/M2/PPD/WX905",
+  "name": "X905* WPC Classic Wood",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 7.68,
+   "T_mm": 12,
+   "raw": "9.5 ft × 7.68 in × 12 mm"
+  },
+  "price": {
+   "delhi": 1300,
+   "mumbai": 1500,
+   "bangalore": 1600,
+   "hyderabad": 1600
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324143124-7557ea.jpeg",
+  "material": "WPC",
+  "sub": "Panel",
+  "live": {
+   "delhi": true,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/M2/PPE/WX905",
+  "name": "X905* WPC Small square Wood",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 6.4,
+   "T_mm": 19.5,
+   "raw": "9.5 ft × 6.4 in × 19.5 mm"
+  },
+  "price": {
+   "delhi": 810,
+   "mumbai": 810,
+   "bangalore": 810,
+   "hyderabad": 810
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324093359-1440b0.jpeg",
+  "material": "WPC",
+  "sub": "Panel",
+  "live": {
+   "delhi": true,
+   "mumbai": true,
+   "bangalore": true,
+   "hyderabad": true
+  }
+ },
+ {
+  "code": "UC/M2/SP0/WX905",
+  "name": "X905 WPC Sheet Wood | 5 mm",
+  "dims": {
+   "L_ft": 9.2,
+   "W_in": 23.48,
+   "T_mm": 5,
+   "raw": "9.2 ft × 23.48 in × 5 mm"
+  },
+  "price": {
+   "delhi": 2700,
+   "mumbai": 3250,
+   "bangalore": 3250,
+   "hyderabad": 3250
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323509340-81fb63.jpeg",
+  "material": "WPC",
+  "sub": "Sheet",
+  "live": {
+   "delhi": false,
+   "mumbai": false,
+   "bangalore": true,
+   "hyderabad": true
+  }
+ },
+ {
+  "code": "UC/M2/PPD/WX919",
+  "name": "X919* WPC Classic Wood",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 7.68,
+   "T_mm": 12,
+   "raw": "9.5 ft × 7.68 in × 12 mm"
+  },
+  "price": {
+   "delhi": 1300,
+   "mumbai": 1500,
+   "bangalore": 1600,
+   "hyderabad": 1600
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323723526-953d46.jpeg",
+  "material": "WPC",
+  "sub": "Panel",
+  "live": {
+   "delhi": false,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/D1/PPP/X0253",
+  "name": "1456* PVC Plain Abstract",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 9.8,
+   "T_mm": 5,
+   "raw": "9.5 ft × 9.8 in × 5 mm"
+  },
+  "price": {
+   "delhi": 650,
+   "mumbai": 650,
+   "bangalore": 800,
+   "hyderabad": 800
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1719914492160-c65b17.jpeg",
+  "material": "PVC",
+  "sub": "Panel",
+  "live": {
+   "delhi": false,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/D1/PPP/X0635",
+  "name": "0650* PVC Plain Abstract",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 9.8,
+   "T_mm": 5,
+   "raw": "9.5 ft × 9.8 in × 5 mm"
+  },
+  "price": {
+   "delhi": 650,
+   "mumbai": 650,
+   "bangalore": 800,
+   "hyderabad": 800
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1773385250432-63eb89.jpeg",
+  "material": "PVC",
+  "sub": "Panel",
+  "live": {
+   "delhi": false,
+   "mumbai": true,
+   "bangalore": true,
+   "hyderabad": true
+  }
+ },
+ {
+  "code": "UC/R1/PPP/X9380",
+  "name": "9380 PVC Plain Gold",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 9.8,
+   "T_mm": 5,
+   "raw": "9.5 ft × 9.8 in × 5 mm"
+  },
+  "price": {
+   "delhi": 650,
+   "mumbai": 650,
+   "bangalore": 800,
+   "hyderabad": 800
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323832824-163c21.jpeg",
+  "material": "PVC",
+  "sub": "Panel",
+  "live": {
+   "delhi": false,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/I2/PPC/H2022",
+  "name": "2022 WPC Ceramic White",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 7.68,
+   "T_mm": 7.5,
+   "raw": "9.5 ft × 7.68 in × 7.5 mm"
+  },
+  "price": {
+   "delhi": 1450,
+   "mumbai": 1650,
+   "bangalore": 1650,
+   "hyderabad": 1650
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140331001-b79537.jpeg",
+  "material": "WPC",
+  "sub": "Panel",
+  "live": {
+   "delhi": true,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/I2/PPD/W7073",
+  "name": "7073 WPC Classic Wood",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 7.68,
+   "T_mm": 12,
+   "raw": "9.5 ft × 7.68 in × 12 mm"
+  },
+  "price": {
+   "delhi": 1300,
+   "mumbai": 1500,
+   "bangalore": 1600,
+   "hyderabad": 1600
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770141128636-cea391.jpeg",
+  "material": "WPC",
+  "sub": "Panel",
+  "live": {
+   "delhi": true,
+   "mumbai": true,
+   "bangalore": true,
+   "hyderabad": true
+  }
+ },
+ {
+  "code": "UC/I2/PPD/WX905",
+  "name": "X905 WPC Classic Wood",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 7.68,
+   "T_mm": 12,
+   "raw": "9.5 ft × 7.68 in × 12 mm"
+  },
+  "price": {
+   "delhi": 1300,
+   "mumbai": 1500,
+   "bangalore": 1600,
+   "hyderabad": 1600
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140362352-3302d2.jpeg",
+  "material": "WPC",
+  "sub": "Panel",
+  "live": {
+   "delhi": false,
+   "mumbai": true,
+   "bangalore": true,
+   "hyderabad": true
+  }
+ },
+ {
+  "code": "UC/I2/PPD/WX913",
+  "name": "X913 WPC Classic Wood",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 7.68,
+   "T_mm": 12,
+   "raw": "9.5 ft × 7.68 in × 12 mm"
+  },
+  "price": {
+   "delhi": 1300,
+   "mumbai": 1500,
+   "bangalore": 1600,
+   "hyderabad": 1600
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770141006815-be0c05.jpeg",
+  "material": "WPC",
+  "sub": "Panel",
+  "live": {
+   "delhi": false,
+   "mumbai": true,
+   "bangalore": true,
+   "hyderabad": true
+  }
+ },
+ {
+  "code": "UC/I2/PPD/WX919",
+  "name": "X919 WPC Classic Wood",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 7.68,
+   "T_mm": 12,
+   "raw": "9.5 ft × 7.68 in × 12 mm"
+  },
+  "price": {
+   "delhi": 1300,
+   "mumbai": 1500,
+   "bangalore": 1600,
+   "hyderabad": 1600
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140043893-a972de.jpeg",
+  "material": "WPC",
+  "sub": "Panel",
+  "live": {
+   "delhi": true,
+   "mumbai": true,
+   "bangalore": true,
+   "hyderabad": true
+  }
+ },
+ {
+  "code": "UC/I2/PPD/WX921",
+  "name": "X921 WPC Classic Wood",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 7.68,
+   "T_mm": 12,
+   "raw": "9.5 ft × 7.68 in × 12 mm"
+  },
+  "price": {
+   "delhi": 1300,
+   "mumbai": 1500,
+   "bangalore": 1600,
+   "hyderabad": 1600
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140375832-702c05.jpeg",
+  "material": "WPC",
+  "sub": "Panel",
+  "live": {
+   "delhi": true,
+   "mumbai": true,
+   "bangalore": true,
+   "hyderabad": true
+  }
+ },
+ {
+  "code": "UC/I2/PPE/W4P03",
+  "name": "4P03 WPC Small square Wood",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 7.35,
+   "T_mm": 19.5,
+   "raw": "9.5 ft × 7.35 in × 19.5 mm"
+  },
+  "price": {
+   "delhi": 1150,
+   "mumbai": 1450,
+   "bangalore": 1600,
+   "hyderabad": 1600
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140907844-d18dab.jpeg",
+  "material": "WPC",
+  "sub": "Panel",
+  "live": {
+   "delhi": true,
+   "mumbai": true,
+   "bangalore": true,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/I2/PPE/W8360",
+  "name": "8360 WPC Small square Wood",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 7.35,
+   "T_mm": 19.5,
+   "raw": "9.5 ft × 7.35 in × 19.5 mm"
+  },
+  "price": {
+   "delhi": 1150,
+   "mumbai": 1450,
+   "bangalore": 1600,
+   "hyderabad": 1600
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140897812-4b4203.jpeg",
+  "material": "WPC",
+  "sub": "Panel",
+  "live": {
+   "delhi": true,
+   "mumbai": true,
+   "bangalore": true,
+   "hyderabad": true
+  }
+ },
+ {
+  "code": "UC/I2/PPE/WS685",
+  "name": "S685 WPC Small square Wood",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 7.35,
+   "T_mm": 19.5,
+   "raw": "9.5 ft × 7.35 in × 19.5 mm"
+  },
+  "price": {
+   "delhi": 1150,
+   "mumbai": 1450,
+   "bangalore": 1600,
+   "hyderabad": 1600
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140867672-a3ea1a.jpeg",
+  "material": "WPC",
+  "sub": "Panel",
+  "live": {
+   "delhi": false,
+   "mumbai": true,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/I2/PPE/WX921",
+  "name": "X921 WPC Small square Wood",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 7.35,
+   "T_mm": 19.5,
+   "raw": "9.5 ft × 7.35 in × 19.5 mm"
+  },
+  "price": {
+   "delhi": 1150,
+   "mumbai": 1450,
+   "bangalore": 1600,
+   "hyderabad": 1600
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140984357-dacfa2.jpeg",
+  "material": "WPC",
+  "sub": "Panel",
+  "live": {
+   "delhi": true,
+   "mumbai": true,
+   "bangalore": true,
+   "hyderabad": true
+  }
+ },
+ {
+  "code": "UC/I2/SPG/H2022",
+  "name": "2022 WPC Sheet White | 7 mm",
+  "dims": {
+   "L_ft": 9.2,
+   "W_in": 23.48,
+   "T_mm": 7,
+   "raw": "9.2 ft × 23.48 in × 7 mm"
+  },
+  "price": {
+   "delhi": 3000,
+   "mumbai": 3550,
+   "bangalore": 3550,
+   "hyderabad": 3550
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140966166-e373e9.jpeg",
+  "material": "WPC",
+  "sub": "Sheet",
+  "live": {
+   "delhi": true,
+   "mumbai": true,
+   "bangalore": true,
+   "hyderabad": true
+  }
+ },
+ {
+  "code": "UC/I2/SPG/N0072",
+  "name": "0072 WPC Sheet Neutral | 7 mm",
+  "dims": {
+   "L_ft": 9.2,
+   "W_in": 23.48,
+   "T_mm": 7,
+   "raw": "9.2 ft × 23.48 in × 7 mm"
+  },
+  "price": {
+   "delhi": 3000,
+   "mumbai": 3550,
+   "bangalore": 3550,
+   "hyderabad": 3550
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140935680-75f7e1.jpeg",
+  "material": "WPC",
+  "sub": "Sheet",
+  "live": {
+   "delhi": true,
+   "mumbai": true,
+   "bangalore": true,
+   "hyderabad": true
+  }
+ },
+ {
+  "code": "UC/I2/SPG/N0112",
+  "name": "0112 WPC Sheet Neutral | 7 mm",
+  "dims": {
+   "L_ft": 9.2,
+   "W_in": 23.48,
+   "T_mm": 7,
+   "raw": "9.2 ft × 23.48 in × 7 mm"
+  },
+  "price": {
+   "delhi": 3000,
+   "mumbai": 3550,
+   "bangalore": 3550,
+   "hyderabad": 3550
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140975392-9c1d57.jpeg",
+  "material": "WPC",
+  "sub": "Sheet",
+  "live": {
+   "delhi": true,
+   "mumbai": true,
+   "bangalore": false,
+   "hyderabad": true
+  }
+ },
+ {
+  "code": "UC/I2/SPG/N2025",
+  "name": "2025 WPC Sheet Neutral | 7 mm",
+  "dims": {
+   "L_ft": 9.2,
+   "W_in": 23.48,
+   "T_mm": 7,
+   "raw": "9.2 ft × 23.48 in × 7 mm"
+  },
+  "price": {
+   "delhi": 3000,
+   "mumbai": 3550,
+   "bangalore": 3550,
+   "hyderabad": 3550
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140915864-968177.jpeg",
+  "material": "WPC",
+  "sub": "Sheet",
+  "live": {
+   "delhi": true,
+   "mumbai": true,
+   "bangalore": true,
+   "hyderabad": true
+  }
+ },
+ {
+  "code": "UC/I2/SPG/W4P03",
+  "name": "4P03 WPC Sheet Wood | 7 mm",
+  "dims": {
+   "L_ft": 9.2,
+   "W_in": 23.48,
+   "T_mm": 7,
+   "raw": "9.2 ft × 23.48 in × 7 mm"
+  },
+  "price": {
+   "delhi": 3000,
+   "mumbai": 3550,
+   "bangalore": 3550,
+   "hyderabad": 3550
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140284177-8bba07.jpeg",
+  "material": "WPC",
+  "sub": "Sheet",
+  "live": {
+   "delhi": true,
+   "mumbai": true,
+   "bangalore": true,
+   "hyderabad": true
+  }
+ },
+ {
+  "code": "UC/I2/SPG/W8360",
+  "name": "8360 WPC Sheet Wood | 7 mm",
+  "dims": {
+   "L_ft": 9.2,
+   "W_in": 23.48,
+   "T_mm": 7,
+   "raw": "9.2 ft × 23.48 in × 7 mm"
+  },
+  "price": {
+   "delhi": 3000,
+   "mumbai": 3550,
+   "bangalore": 3550,
+   "hyderabad": 3550
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770139916980-ca6381.jpeg",
+  "material": "WPC",
+  "sub": "Sheet",
+  "live": {
+   "delhi": true,
+   "mumbai": true,
+   "bangalore": false,
+   "hyderabad": true
+  }
+ },
+ {
+  "code": "UC/I2/SPG/WX905",
+  "name": "X905 WPC Sheet Wood | 7 mm",
+  "dims": {
+   "L_ft": 9.2,
+   "W_in": 23.48,
+   "T_mm": 7,
+   "raw": "9.2 ft × 23.48 in × 7 mm"
+  },
+  "price": {
+   "delhi": 3000,
+   "mumbai": 3550,
+   "bangalore": 3550,
+   "hyderabad": 3550
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770139922872-895de7.jpeg",
+  "material": "WPC",
+  "sub": "Sheet",
+  "live": {
+   "delhi": true,
+   "mumbai": true,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/I2/SPG/WX913",
+  "name": "X913 WPC Sheet Wood | 7 mm",
+  "dims": {
+   "L_ft": 9.2,
+   "W_in": 23.48,
+   "T_mm": 7,
+   "raw": "9.2 ft × 23.48 in × 7 mm"
+  },
+  "price": {
+   "delhi": 3000,
+   "mumbai": 3550,
+   "bangalore": 3550,
+   "hyderabad": 3550
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770139929544-3f2a49.jpeg",
+  "material": "WPC",
+  "sub": "Sheet",
+  "live": {
+   "delhi": true,
+   "mumbai": true,
+   "bangalore": true,
+   "hyderabad": true
+  }
+ },
+ {
+  "code": "UC/I2/SPG/WX921",
+  "name": "X921 WPC Sheet Wood | 7 mm",
+  "dims": {
+   "L_ft": 9.2,
+   "W_in": 23.48,
+   "T_mm": 7,
+   "raw": "9.2 ft × 23.48 in × 7 mm"
+  },
+  "price": {
+   "delhi": 3000,
+   "mumbai": 3550,
+   "bangalore": 3550,
+   "hyderabad": 3550
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140294615-99bfdb.jpeg",
+  "material": "WPC",
+  "sub": "Sheet",
+  "live": {
+   "delhi": true,
+   "mumbai": true,
+   "bangalore": true,
+   "hyderabad": true
+  }
+ },
+ {
+  "code": "UC/I2/SPG/N0102",
+  "name": "0102 WPC Sheet Neutral | 7 mm",
+  "dims": {
+   "L_ft": 9.2,
+   "W_in": 23.48,
+   "T_mm": 7,
+   "raw": "9.2 ft × 23.48 in × 7 mm"
+  },
+  "price": {
+   "delhi": 3000,
+   "mumbai": 3550,
+   "bangalore": 3550,
+   "hyderabad": 3550
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324311433-d036de.jpeg",
+  "material": "WPC",
+  "sub": "Sheet",
+  "live": {
+   "delhi": false,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/I2/PPD/R0132",
+  "name": "0132 WPC Classic Neutral",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 7.68,
+   "T_mm": 12,
+   "raw": "9.5 ft × 7.68 in × 12 mm"
+  },
+  "price": {
+   "delhi": 1300,
+   "mumbai": 1500,
+   "bangalore": 1600,
+   "hyderabad": 1600
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324553354-fbb546.jpeg",
+  "material": "WPC",
+  "sub": "Panel",
+  "live": {
+   "delhi": true,
+   "mumbai": true,
+   "bangalore": true,
+   "hyderabad": true
+  }
+ },
+ {
+  "code": "UC/I2/SPK/K0001",
+  "name": "0001 WPC Sheet Metallic gold | 7 mm",
+  "dims": {
+   "L_ft": 9.2,
+   "W_in": 15.6,
+   "T_mm": 7,
+   "raw": "9.2 ft × 15.6 in × 7 mm"
+  },
+  "price": {
+   "delhi": 4100,
+   "mumbai": 4550,
+   "bangalore": 4750,
+   "hyderabad": 4550
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324613238-3e41e4.jpeg",
+  "material": "WPC",
+  "sub": "Sheet",
+  "live": {
+   "delhi": true,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": true
+  }
+ },
+ {
+  "code": "UC/I2/SPK/Q0002",
+  "name": "0002 WPC Sheet Metallic bronze | 7 mm",
+  "dims": {
+   "L_ft": 9.2,
+   "W_in": 15.6,
+   "T_mm": 7,
+   "raw": "9.2 ft × 15.6 in × 7 mm"
+  },
+  "price": {
+   "delhi": 4100,
+   "mumbai": 4550,
+   "bangalore": 4750,
+   "hyderabad": 4550
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324605262-9ebabb.jpeg",
+  "material": "WPC",
+  "sub": "Sheet",
+  "live": {
+   "delhi": true,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": true
+  }
+ },
+ {
+  "code": "UC/R1/PPP/S9382",
+  "name": "9382 PVC Plain Stone",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 9.8,
+   "T_mm": 5,
+   "raw": "9.5 ft × 9.8 in × 5 mm"
+  },
+  "price": {
+   "delhi": 650,
+   "mumbai": 650,
+   "bangalore": 800,
+   "hyderabad": 800
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324410874-896ec2.jpeg",
+  "material": "PVC",
+  "sub": "Panel",
+  "live": {
+   "delhi": false,
+   "mumbai": false,
+   "bangalore": true,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/D1/PPP/W0620",
+  "name": "0620 PVC Plain Wood",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 9.8,
+   "T_mm": 5,
+   "raw": "9.5 ft × 9.8 in × 5 mm"
+  },
+  "price": {
+   "delhi": 650,
+   "mumbai": 650,
+   "bangalore": 800,
+   "hyderabad": 800
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323855085-dd7dcf.jpeg",
+  "material": "PVC",
+  "sub": "Panel",
+  "live": {
+   "delhi": false,
+   "mumbai": true,
+   "bangalore": true,
+   "hyderabad": true
+  }
+ },
+ {
+  "code": "UC/I2/SPH/F0Z18",
+  "name": "0Z18 WPC Sheet Fabric | 7 mm",
+  "dims": {
+   "L_ft": 9.2,
+   "W_in": 47.2,
+   "T_mm": 7,
+   "raw": "9.2 ft × 47.2 in × 7 mm"
+  },
+  "price": {
+   "delhi": 9200,
+   "mumbai": 9700,
+   "bangalore": 9700,
+   "hyderabad": 9700
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323434574-ee15c0.jpeg",
+  "material": "WPC",
+  "sub": "Sheet",
+  "live": {
+   "delhi": true,
+   "mumbai": true,
+   "bangalore": true,
+   "hyderabad": true
+  }
+ },
+ {
+  "code": "UC/I2/SPH/F2025",
+  "name": "2025 WPC Sheet Fabric | 7 mm",
+  "dims": {
+   "L_ft": 9.2,
+   "W_in": 47.2,
+   "T_mm": 7,
+   "raw": "9.2 ft × 47.2 in × 7 mm"
+  },
+  "price": {
+   "delhi": 6500,
+   "mumbai": 6500,
+   "bangalore": 6500,
+   "hyderabad": 6500
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323562400-eaf1f0.jpeg",
+  "material": "WPC",
+  "sub": "Sheet",
+  "live": {
+   "delhi": true,
+   "mumbai": true,
+   "bangalore": true,
+   "hyderabad": true
+  }
+ },
+ {
+  "code": "UC/I2/SPH/F2027",
+  "name": "2027 WPC Sheet Fabric | 7 mm",
+  "dims": {
+   "L_ft": 9.2,
+   "W_in": 47.2,
+   "T_mm": 7,
+   "raw": "9.2 ft × 47.2 in × 7 mm"
+  },
+  "price": {
+   "delhi": 6500,
+   "mumbai": 6500,
+   "bangalore": 6500,
+   "hyderabad": 6500
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323416216-e1657f.jpeg",
+  "material": "WPC",
+  "sub": "Sheet",
+  "live": {
+   "delhi": true,
+   "mumbai": true,
+   "bangalore": true,
+   "hyderabad": true
+  }
+ },
+ {
+  "code": "UC/I2/SPH/L9952",
+  "name": "9952 WPC Sheet Texture | 7 mm",
+  "dims": {
+   "L_ft": 9.2,
+   "W_in": 47.2,
+   "T_mm": 7,
+   "raw": "9.2 ft × 47.2 in × 7 mm"
+  },
+  "price": {
+   "delhi": 8650,
+   "mumbai": 9200,
+   "bangalore": 9200,
+   "hyderabad": 9200
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323533569-762729.jpeg",
+  "material": "WPC",
+  "sub": "Sheet",
+  "live": {
+   "delhi": true,
+   "mumbai": true,
+   "bangalore": true,
+   "hyderabad": true
+  }
+ },
+ {
+  "code": "UC/I2/SPH/L2203",
+  "name": "2203 WPC Sheet Texture | 7 mm",
+  "dims": {
+   "L_ft": 9.2,
+   "W_in": 47.2,
+   "T_mm": 7,
+   "raw": "9.2 ft × 47.2 in × 7 mm"
+  },
+  "price": {
+   "delhi": 7599,
+   "mumbai": 7599,
+   "bangalore": 7599,
+   "hyderabad": 7599
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323547875-39e8d6.jpeg",
+  "material": "WPC",
+  "sub": "Sheet",
+  "live": {
+   "delhi": true,
+   "mumbai": true,
+   "bangalore": true,
+   "hyderabad": true
+  }
+ },
+ {
+  "code": "UC/I2/SPH/LCZ07",
+  "name": "CZ07 WPC Sheet Texture | 7 mm",
+  "dims": {
+   "L_ft": 9.2,
+   "W_in": 47.2,
+   "T_mm": 7,
+   "raw": "9.2 ft × 47.2 in × 7 mm"
+  },
+  "price": {
+   "delhi": 7599,
+   "mumbai": 7599,
+   "bangalore": 7599,
+   "hyderabad": 7599
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323798165-013e8d.jpeg",
+  "material": "WPC",
+  "sub": "Sheet",
+  "live": {
+   "delhi": true,
+   "mumbai": true,
+   "bangalore": true,
+   "hyderabad": true
+  }
+ },
+ {
+  "code": "UC/I2/SPH/LCZ08",
+  "name": "CZ08 WPC Sheet Texture | 7 mm",
+  "dims": {
+   "L_ft": 9.2,
+   "W_in": 47.2,
+   "T_mm": 7,
+   "raw": "9.2 ft × 47.2 in × 7 mm"
+  },
+  "price": {
+   "delhi": 7599,
+   "mumbai": 7599,
+   "bangalore": 7599,
+   "hyderabad": 7599
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324304024-cd1b50.jpeg",
+  "material": "WPC",
+  "sub": "Sheet",
+  "live": {
+   "delhi": true,
+   "mumbai": true,
+   "bangalore": true,
+   "hyderabad": true
+  }
+ },
+ {
+  "code": "UC/I2/PCU/P8461",
+  "name": "8461 Charcoal Mini concave Pastel",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 11.6,
+   "T_mm": 7,
+   "raw": "9.5 ft × 11.6 in × 7 mm"
+  },
+  "price": {
+   "delhi": 1970,
+   "mumbai": 1970,
+   "bangalore": 1970,
+   "hyderabad": 1970
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324327693-e2ce85.jpeg",
+  "material": "Charcoal",
+  "sub": "Panel",
+  "live": {
+   "delhi": true,
+   "mumbai": true,
+   "bangalore": true,
+   "hyderabad": true
+  }
+ },
+ {
+  "code": "UC/I2/PCU/H006G",
+  "name": "006G Charcoal Mini concave White",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 11.6,
+   "T_mm": 7,
+   "raw": "9.5 ft × 11.6 in × 7 mm"
+  },
+  "price": {
+   "delhi": 1970,
+   "mumbai": 1970,
+   "bangalore": 1970,
+   "hyderabad": 1970
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324344895-417fbd.jpeg",
+  "material": "Charcoal",
+  "sub": "Panel",
+  "live": {
+   "delhi": true,
+   "mumbai": true,
+   "bangalore": true,
+   "hyderabad": true
+  }
+ },
+ {
+  "code": "UC/I2/PCU/PM090",
+  "name": "M090 Charcoal Mini concave Pastel",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 11.6,
+   "T_mm": 7,
+   "raw": "9.5 ft × 11.6 in × 7 mm"
+  },
+  "price": {
+   "delhi": 1970,
+   "mumbai": 1970,
+   "bangalore": 1970,
+   "hyderabad": 1970
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324320114-5e2316.jpeg",
+  "material": "Charcoal",
+  "sub": "Panel",
+  "live": {
+   "delhi": true,
+   "mumbai": true,
+   "bangalore": true,
+   "hyderabad": true
+  }
+ },
+ {
+  "code": "UC/I2/PCU/P012G",
+  "name": "012G Charcoal Mini concave Pastel",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 11.6,
+   "T_mm": 7,
+   "raw": "9.5 ft × 11.6 in × 7 mm"
+  },
+  "price": {
+   "delhi": 2700,
+   "mumbai": 2950,
+   "bangalore": 3100,
+   "hyderabad": 2950
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324337421-379e84.jpeg",
+  "material": "Charcoal",
+  "sub": "Panel",
+  "live": {
+   "delhi": true,
+   "mumbai": true,
+   "bangalore": true,
+   "hyderabad": true
+  }
+ },
+ {
+  "code": "UC/I2/PCD/R1987",
+  "name": "1987 Charcoal Classic Rattan",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 4.5,
+   "T_mm": 11,
+   "raw": "9.5 ft × 4.5 in × 11 mm"
+  },
+  "price": {
+   "delhi": 640,
+   "mumbai": 640,
+   "bangalore": 640,
+   "hyderabad": 640
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324354607-338548.jpeg",
+  "material": "Charcoal",
+  "sub": "Panel",
+  "live": {
+   "delhi": true,
+   "mumbai": true,
+   "bangalore": true,
+   "hyderabad": true
+  }
+ },
+ {
+  "code": "UC/I2/PCD/RA901",
+  "name": "A901 Charcoal Classic Rattan",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 4.5,
+   "T_mm": 11,
+   "raw": "9.5 ft × 4.5 in × 11 mm"
+  },
+  "price": {
+   "delhi": 640,
+   "mumbai": 640,
+   "bangalore": 640,
+   "hyderabad": 640
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323821766-ea02d1.jpeg",
+  "material": "Charcoal",
+  "sub": "Panel",
+  "live": {
+   "delhi": true,
+   "mumbai": true,
+   "bangalore": true,
+   "hyderabad": true
+  }
+ },
+ {
+  "code": "UC/I2/PCI/RB232",
+  "name": "B232 Charcoal Embossed Rattan",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 11.9,
+   "T_mm": 7,
+   "raw": "9.5 ft × 11.9 in × 7 mm"
+  },
+  "price": {
+   "delhi": 3350,
+   "mumbai": 3700,
+   "bangalore": 3900,
+   "hyderabad": 3700
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323576473-57d8b9.jpeg",
+  "material": "Charcoal",
+  "sub": "Panel",
+  "live": {
+   "delhi": true,
+   "mumbai": true,
+   "bangalore": true,
+   "hyderabad": true
+  }
+ },
+ {
+  "code": "UC/I2/PCI/R78CM",
+  "name": "78CM Charcoal Embossed Rattan",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 11.9,
+   "T_mm": 7,
+   "raw": "9.5 ft × 11.9 in × 7 mm"
+  },
+  "price": {
+   "delhi": 3350,
+   "mumbai": 3700,
+   "bangalore": 3900,
+   "hyderabad": 3700
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323453091-530b67.jpeg",
+  "material": "Charcoal",
+  "sub": "Panel",
+  "live": {
+   "delhi": true,
+   "mumbai": true,
+   "bangalore": true,
+   "hyderabad": true
+  }
+ },
+ {
+  "code": "UC/I2/PCR/S0643",
+  "name": "0643 Charcoal Mini rectangle Stone",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 11.6,
+   "T_mm": 6,
+   "raw": "9.5 ft × 11.6 in × 6 mm"
+  },
+  "price": {
+   "delhi": 1399,
+   "mumbai": 1399,
+   "bangalore": 1399,
+   "hyderabad": 1399
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323867089-cf5dc8.jpeg",
+  "material": "Charcoal",
+  "sub": "Panel",
+  "live": {
+   "delhi": true,
+   "mumbai": true,
+   "bangalore": true,
+   "hyderabad": true
+  }
+ },
+ {
+  "code": "UC/I2/PCR/S0519",
+  "name": "0519 Charcoal Mini rectangle Stone",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 11.6,
+   "T_mm": 6,
+   "raw": "9.5 ft × 11.6 in × 6 mm"
+  },
+  "price": {
+   "delhi": 1399,
+   "mumbai": 1399,
+   "bangalore": 1399,
+   "hyderabad": 1399
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323882160-384437.jpeg",
+  "material": "Charcoal",
+  "sub": "Panel",
+  "live": {
+   "delhi": true,
+   "mumbai": true,
+   "bangalore": true,
+   "hyderabad": true
+  }
+ },
+ {
+  "code": "UC/M2/SM0/S0001",
+  "name": "0001 MCM Sheet Stone | 3 mm",
+  "dims": {
+   "L_ft": 4,
+   "W_in": 23.62,
+   "T_mm": 3,
+   "raw": "4 ft × 23.62 in × 3 mm"
+  },
+  "price": {
+   "delhi": 3600,
+   "mumbai": 3600,
+   "bangalore": 3600,
+   "hyderabad": 3600
+  },
+  "image": "#N/A",
+  "material": "MCM",
+  "sub": "Sheet",
+  "live": {
+   "delhi": false,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/M2/SM0/S0002",
+  "name": "0002 MCM Sheet Stone | 3 mm",
+  "dims": {
+   "L_ft": 4,
+   "W_in": 23.62,
+   "T_mm": 3,
+   "raw": "4 ft × 23.62 in × 3 mm"
+  },
+  "price": {
+   "delhi": 3600,
+   "mumbai": 3600,
+   "bangalore": 3600,
+   "hyderabad": 3600
+  },
+  "image": "#N/A",
+  "material": "MCM",
+  "sub": "Sheet",
+  "live": {
+   "delhi": false,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/M2/SM0/S0003",
+  "name": "0003 MCM Sheet Stone | 3 mm",
+  "dims": {
+   "L_ft": 4,
+   "W_in": 23.62,
+   "T_mm": 3,
+   "raw": "4 ft × 23.62 in × 3 mm"
+  },
+  "price": {
+   "delhi": 3600,
+   "mumbai": 3600,
+   "bangalore": 3600,
+   "hyderabad": 3600
+  },
+  "image": "#N/A",
+  "material": "MCM",
+  "sub": "Sheet",
+  "live": {
+   "delhi": false,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/I2/PPC/N0072",
+  "name": "0072 WPC Ceramic Neutral",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 7.68,
+   "T_mm": 7.5,
+   "raw": "9.5 ft × 7.68 in × 7.5 mm"
+  },
+  "price": {
+   "delhi": 1450,
+   "mumbai": 1650,
+   "bangalore": 1650,
+   "hyderabad": 1650
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140299454-7350a9.jpeg",
+  "material": "WPC",
+  "sub": "Panel",
+  "live": {
+   "delhi": true,
+   "mumbai": true,
+   "bangalore": true,
+   "hyderabad": true
+  }
+ },
+ {
+  "code": "UC/I2/PPC/N0102",
+  "name": "0102 WPC Ceramic Neutral",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 7.68,
+   "T_mm": 7.5,
+   "raw": "9.5 ft × 7.68 in × 7.5 mm"
+  },
+  "price": {
+   "delhi": 1450,
+   "mumbai": 1650,
+   "bangalore": 1650,
+   "hyderabad": 1650
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140303807-76ae4c.jpeg",
+  "material": "WPC",
+  "sub": "Panel",
+  "live": {
+   "delhi": false,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/I2/PPC/N0112",
+  "name": "0112 WPC Ceramic Neutral",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 7.68,
+   "T_mm": 7.5,
+   "raw": "9.5 ft × 7.68 in × 7.5 mm"
+  },
+  "price": {
+   "delhi": 1450,
+   "mumbai": 1650,
+   "bangalore": 1650,
+   "hyderabad": 1650
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140323168-5f6835.jpeg",
+  "material": "WPC",
+  "sub": "Panel",
+  "live": {
+   "delhi": true,
+   "mumbai": true,
+   "bangalore": true,
+   "hyderabad": true
+  }
+ },
+ {
+  "code": "UC/I2/PPD/H2022",
+  "name": "2022 WPC Classic White",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 7.68,
+   "T_mm": 12,
+   "raw": "9.5 ft × 7.68 in × 12 mm"
+  },
+  "price": {
+   "delhi": 1300,
+   "mumbai": 1500,
+   "bangalore": 1600,
+   "hyderabad": 1600
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140386280-c49004.jpeg",
+  "material": "WPC",
+  "sub": "Panel",
+  "live": {
+   "delhi": true,
+   "mumbai": true,
+   "bangalore": true,
+   "hyderabad": true
+  }
+ },
+ {
+  "code": "UC/D1/PPP/J0168",
+  "name": "0168 PVC Plain Gold",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 9.8,
+   "T_mm": 5,
+   "raw": "9.5 ft × 9.8 in × 5 mm"
+  },
+  "price": {
+   "delhi": 650,
+   "mumbai": 650,
+   "bangalore": 800,
+   "hyderabad": 800
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/customer-app-supply/1722246688722-ec328b.jpeg",
+  "material": "PVC",
+  "sub": "Panel",
+  "live": {
+   "delhi": false,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/D1/PPP/W0414",
+  "name": "0414 PVC Plain Wood",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 9.8,
+   "T_mm": 5,
+   "raw": "9.5 ft × 9.8 in × 5 mm"
+  },
+  "price": {
+   "delhi": 650,
+   "mumbai": 650,
+   "bangalore": 800,
+   "hyderabad": 800
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324390835-3d1eae.jpeg",
+  "material": "PVC",
+  "sub": "Panel",
+  "live": {
+   "delhi": false,
+   "mumbai": true,
+   "bangalore": true,
+   "hyderabad": true
+  }
+ },
+ {
+  "code": "UC/D1/PPP/X0650",
+  "name": "0650 PVC Plain Abstract",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 9.8,
+   "T_mm": 5,
+   "raw": "9.5 ft × 9.8 in × 5 mm"
+  },
+  "price": {
+   "delhi": 650,
+   "mumbai": 650,
+   "bangalore": 800,
+   "hyderabad": 800
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1773385250432-63eb89.jpeg",
+  "material": "PVC",
+  "sub": "Panel",
+  "live": {
+   "delhi": false,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/R1/PPP/T1218",
+  "name": "1218 PVC Plain Floral",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 9.8,
+   "T_mm": 5,
+   "raw": "9.5 ft × 9.8 in × 5 mm"
+  },
+  "price": {
+   "delhi": 650,
+   "mumbai": 650,
+   "bangalore": 800,
+   "hyderabad": 800
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324400818-85e760.jpeg",
+  "material": "PVC",
+  "sub": "Panel",
+  "live": {
+   "delhi": false,
+   "mumbai": true,
+   "bangalore": true,
+   "hyderabad": true
+  }
+ },
+ {
+  "code": "UC/R1/PPP/W9371",
+  "name": "9371 PVC Plain Wood",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 9.8,
+   "T_mm": 5,
+   "raw": "9.5 ft × 9.8 in × 5 mm"
+  },
+  "price": {
+   "delhi": 650,
+   "mumbai": 650,
+   "bangalore": 800,
+   "hyderabad": 800
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323843228-553e7c.jpeg",
+  "material": "PVC",
+  "sub": "Panel",
+  "live": {
+   "delhi": false,
+   "mumbai": true,
+   "bangalore": false,
+   "hyderabad": true
+  }
+ },
+ {
+  "code": "UC/R1/PPP/X1456",
+  "name": "1456 PVC Plain Abstract",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 9.8,
+   "T_mm": 5,
+   "raw": "9.5 ft × 9.8 in × 5 mm"
+  },
+  "price": {
+   "delhi": 650,
+   "mumbai": 650,
+   "bangalore": 800,
+   "hyderabad": 800
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324364421-76849d.jpeg",
+  "material": "PVC",
+  "sub": "Panel",
+  "live": {
+   "delhi": false,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/M2/PC0/P9552",
+  "name": "9552 Charcoal Basic Neutral",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 4.5,
+   "T_mm": 12,
+   "raw": "9.5 ft × 4.5 in × 12 mm"
+  },
+  "price": {
+   "delhi": 800,
+   "mumbai": 800,
+   "bangalore": 900,
+   "hyderabad": 800
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1729674925179-10f587.jpeg",
+  "material": "Charcoal",
+  "sub": "Panel",
+  "live": {
+   "delhi": false,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/M2/PC0/S9572",
+  "name": "9572 Charcoal Basic Stone",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 4.5,
+   "T_mm": 12,
+   "raw": "9.5 ft × 4.5 in × 12 mm"
+  },
+  "price": {
+   "delhi": 800,
+   "mumbai": 800,
+   "bangalore": 900,
+   "hyderabad": 800
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1723027712091-fdba77.jpeg",
+  "material": "Charcoal",
+  "sub": "Panel",
+  "live": {
+   "delhi": false,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/I2/PPD/K3731",
+  "name": "3731 WPC Classic Gold",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 5.9,
+   "T_mm": 9,
+   "raw": "9.5 ft × 5.9 in × 9 mm"
+  },
+  "price": {
+   "delhi": 1300,
+   "mumbai": 1500,
+   "bangalore": 1600,
+   "hyderabad": 1600
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140038825-037e2e.jpeg",
+  "material": "WPC",
+  "sub": "Panel",
+  "live": {
+   "delhi": false,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/I2/PCI/R02QY",
+  "name": "02QY Charcoal Embossed Rattan",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 11.9,
+   "T_mm": 7,
+   "raw": "9.5 ft × 11.9 in × 7 mm"
+  },
+  "price": {
+   "delhi": 3350,
+   "mumbai": 3700,
+   "bangalore": 3900,
+   "hyderabad": 3700
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323809913-a32079.jpeg",
+  "material": "Charcoal",
+  "sub": "Panel",
+  "live": {
+   "delhi": true,
+   "mumbai": true,
+   "bangalore": true,
+   "hyderabad": true
+  }
+ },
+ {
+  "code": "UC/I2/PCI/G1975",
+  "name": "1975 Charcoal Embossed Geometric",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 11.9,
+   "T_mm": 7,
+   "raw": "9.5 ft × 11.9 in × 7 mm"
+  },
+  "price": {
+   "delhi": 3350,
+   "mumbai": 3700,
+   "bangalore": 3900,
+   "hyderabad": 3900
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1769519965353-fb7a41.jpeg",
+  "material": "Charcoal",
+  "sub": "Panel",
+  "live": {
+   "delhi": false,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/I2/SPH/LA191",
+  "name": "A191 WPC Sheet Texture | 7 mm",
+  "dims": {
+   "L_ft": 9.2,
+   "W_in": 47.2,
+   "T_mm": 7,
+   "raw": "9.2 ft × 47.2 in × 7 mm"
+  },
+  "price": {
+   "delhi": 8650,
+   "mumbai": 9200,
+   "bangalore": 9200,
+   "hyderabad": 9200
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1769519849697-e979c8.jpeg",
+  "material": "WPC",
+  "sub": "Sheet",
+  "live": {
+   "delhi": false,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/I2/SPH/LA235",
+  "name": "A235 WPC Sheet Texture | 7 mm",
+  "dims": {
+   "L_ft": 9.2,
+   "W_in": 47.2,
+   "T_mm": 7,
+   "raw": "9.2 ft × 47.2 in × 7 mm"
+  },
+  "price": {
+   "delhi": 8650,
+   "mumbai": 9200,
+   "bangalore": 9200,
+   "hyderabad": 9200
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1769519862186-dd3a51.jpeg",
+  "material": "WPC",
+  "sub": "Sheet",
+  "live": {
+   "delhi": false,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/I2/PPS/LA235",
+  "name": "A235 WPC Concave Texture",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 7.64,
+   "T_mm": 12,
+   "raw": "9.5 ft × 7.64 in × 12 mm"
+  },
+  "price": {
+   "delhi": 1700,
+   "mumbai": 1700,
+   "bangalore": 1700,
+   "hyderabad": 1700
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1769519914375-12e5b9.jpeg",
+  "material": "WPC",
+  "sub": "Panel",
+  "live": {
+   "delhi": false,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/I2/PCM/W183S",
+  "name": "183S Charcoal Flat rib Wood",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 11.5,
+   "T_mm": 6.5,
+   "raw": "9.5 ft × 11.5 in × 6.5 mm"
+  },
+  "price": {
+   "delhi": 2600,
+   "mumbai": 2600,
+   "bangalore": 3000,
+   "hyderabad": 3000
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1769519933324-7b17e1.jpeg",
+  "material": "Charcoal",
+  "sub": "Panel",
+  "live": {
+   "delhi": false,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/I2/PCM/W5249",
+  "name": "5249 Charcoal Flat rib Wood",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 11.5,
+   "T_mm": 6.5,
+   "raw": "9.5 ft × 11.5 in × 6.5 mm"
+  },
+  "price": {
+   "delhi": 2600,
+   "mumbai": 2600,
+   "bangalore": 3000,
+   "hyderabad": 3000
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1769519923238-ba70ca.jpeg",
+  "material": "Charcoal",
+  "sub": "Panel",
+  "live": {
+   "delhi": false,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/I2/PCI/G1831",
+  "name": "1831 Charcoal Embossed Geometric",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 11.9,
+   "T_mm": 7,
+   "raw": "9.5 ft × 11.9 in × 7 mm"
+  },
+  "price": {
+   "delhi": 3350,
+   "mumbai": 3700,
+   "bangalore": 3900,
+   "hyderabad": 3900
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1769519944187-be2704.jpeg",
+  "material": "Charcoal",
+  "sub": "Panel",
+  "live": {
+   "delhi": false,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/I2/PCC/S0G29",
+  "name": "0G29 Charcoal Ceramic Stone",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 7.7,
+   "T_mm": 9,
+   "raw": "9.5 ft × 7.7 in × 9 mm"
+  },
+  "price": {
+   "delhi": 2050,
+   "mumbai": 2050,
+   "bangalore": 2050,
+   "hyderabad": 2050
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1769519998448-d01be7.jpeg",
+  "material": "Charcoal",
+  "sub": "Panel",
+  "live": {
+   "delhi": false,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/I2/PCV/SS061",
+  "name": "S061 Charcoal Slats Stone",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 9.64,
+   "T_mm": 10.2,
+   "raw": "9.5 ft × 9.64 in × 10.2 mm"
+  },
+  "price": {
+   "delhi": 2200,
+   "mumbai": 2200,
+   "bangalore": 2550,
+   "hyderabad": 2550
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1769519873285-729933.jpeg",
+  "material": "Charcoal",
+  "sub": "Panel",
+  "live": {
+   "delhi": false,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/I2/PCV/S0519",
+  "name": "0519 Charcoal Slats Stone",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 9.64,
+   "T_mm": 10.2,
+   "raw": "9.5 ft × 9.64 in × 10.2 mm"
+  },
+  "price": {
+   "delhi": 2200,
+   "mumbai": 2200,
+   "bangalore": 2550,
+   "hyderabad": 2550
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1769519883323-31626e.jpeg",
+  "material": "Charcoal",
+  "sub": "Panel",
+  "live": {
+   "delhi": false,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/I2/SPG/WS685",
+  "name": "S685 WPC Sheet Wood | 7 mm",
+  "dims": {
+   "L_ft": 9.2,
+   "W_in": 23.48,
+   "T_mm": 7,
+   "raw": "9.2 ft × 23.48 in × 7 mm"
+  },
+  "price": {
+   "delhi": 3000,
+   "mumbai": 3550,
+   "bangalore": 3550,
+   "hyderabad": 3550
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1769519904603-e5c5e3.jpeg",
+  "material": "WPC",
+  "sub": "Sheet",
+  "live": {
+   "delhi": true,
+   "mumbai": true,
+   "bangalore": true,
+   "hyderabad": true
+  }
+ },
+ {
+  "code": "UC/I2/SPG/W7073",
+  "name": "7073 WPC Sheet Wood | 7 mm",
+  "dims": {
+   "L_ft": 9.2,
+   "W_in": 23.48,
+   "T_mm": 7,
+   "raw": "9.2 ft × 23.48 in × 7 mm"
+  },
+  "price": {
+   "delhi": 3000,
+   "mumbai": 3550,
+   "bangalore": 3550,
+   "hyderabad": 3550
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1769519895453-9b29f2.jpeg",
+  "material": "WPC",
+  "sub": "Sheet",
+  "live": {
+   "delhi": false,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/I2/PCI/G0037",
+  "name": "0037 Charcoal Embossed White",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 11.9,
+   "T_mm": 7,
+   "raw": "9.5 ft × 11.9 in × 7 mm"
+  },
+  "price": {
+   "delhi": 3350,
+   "mumbai": 3700,
+   "bangalore": 3900,
+   "hyderabad": 3900
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1775052864020-8b2640.png",
+  "material": "Charcoal",
+  "sub": "Panel",
+  "live": {
+   "delhi": false,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/I2/PCI/G8461",
+  "name": "8461 Charcoal Embossed Pastel",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 11.9,
+   "T_mm": 7,
+   "raw": "9.5 ft × 11.9 in × 7 mm"
+  },
+  "price": {
+   "delhi": 3350,
+   "mumbai": 3700,
+   "bangalore": 3900,
+   "hyderabad": 3900
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1769519974620-65a512.jpeg",
+  "material": "Charcoal",
+  "sub": "Panel",
+  "live": {
+   "delhi": false,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/I2/PCI/G0066",
+  "name": "0066 Charcoal Embossed Pastel",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 11.9,
+   "T_mm": 7,
+   "raw": "9.5 ft × 11.9 in × 7 mm"
+  },
+  "price": {
+   "delhi": 3350,
+   "mumbai": 3700,
+   "bangalore": 3900,
+   "hyderabad": 3900
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1769519953221-666cb8.jpeg",
+  "material": "Charcoal",
+  "sub": "Panel",
+  "live": {
+   "delhi": false,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/D1/PPG/W0414",
+  "name": "0952/0414 PVC Grooved Wood",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 9.5,
+   "T_mm": 8,
+   "raw": "9.5 ft × 9.5 in × 8 mm"
+  },
+  "price": {
+   "delhi": 650,
+   "mumbai": 650,
+   "bangalore": 800,
+   "hyderabad": 800
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324511998-07f41c.jpeg",
+  "material": "PVC",
+  "sub": "Panel",
+  "live": {
+   "delhi": true,
+   "mumbai": true,
+   "bangalore": true,
+   "hyderabad": true
+  }
+ },
+ {
+  "code": "UC/I2/PPC/N2025",
+  "name": "2025 WPC Ceramic Neutral",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 7.68,
+   "T_mm": 7.5,
+   "raw": "9.5 ft × 7.68 in × 7.5 mm"
+  },
+  "price": {
+   "delhi": 1450,
+   "mumbai": 1650,
+   "bangalore": 1650,
+   "hyderabad": 1650
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324168617-538a58.jpeg",
+  "material": "WPC",
+  "sub": "Panel",
+  "live": {
+   "delhi": true,
+   "mumbai": true,
+   "bangalore": true,
+   "hyderabad": true
+  }
+ },
+ {
+  "code": "UC/I2/PCF/W7334",
+  "name": "7334 Charcoal Fluted Wood",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 11.3,
+   "T_mm": 6,
+   "raw": "9.5 ft × 11.3 in × 6 mm"
+  },
+  "price": {
+   "delhi": 2500,
+   "mumbai": 2500,
+   "bangalore": 2700,
+   "hyderabad": 2700
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323774170-af8a9c.jpeg",
+  "material": "Charcoal",
+  "sub": "Panel",
+  "live": {
+   "delhi": true,
+   "mumbai": false,
+   "bangalore": true,
+   "hyderabad": true
+  }
+ },
+ {
+  "code": "UC/P1/PPN/WEM54",
+  "name": "EM54* Nio Plain Wood",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 11.8,
+   "T_mm": 7.5,
+   "raw": "9.5 ft × 11.8 in × 7.5 mm"
+  },
+  "price": {
+   "delhi": 1150,
+   "mumbai": 1150,
+   "bangalore": 1150,
+   "hyderabad": 1150
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/customer-app-supply/1779351590314-392907.jpeg",
+  "material": "Nio",
+  "sub": "Panel",
+  "live": {
+   "delhi": true,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/P1/PPN/W8360",
+  "name": "8360* Nio Plain Wood",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 11.8,
+   "T_mm": 7.5,
+   "raw": "9.5 ft × 11.8 in × 7.5 mm"
+  },
+  "price": {
+   "delhi": 1150,
+   "mumbai": 1150,
+   "bangalore": 1150,
+   "hyderabad": 1150
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841873660-c8e668.png",
+  "material": "Nio",
+  "sub": "Panel",
+  "live": {
+   "delhi": true,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/P1/PPN/W9204",
+  "name": "9204* Nio Plain Wood",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 11.8,
+   "T_mm": 7.5,
+   "raw": "9.5 ft × 11.8 in × 7.5 mm"
+  },
+  "price": {
+   "delhi": 1150,
+   "mumbai": 1150,
+   "bangalore": 1150,
+   "hyderabad": 1150
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1779087762255-5e6990.png",
+  "material": "Nio",
+  "sub": "Panel",
+  "live": {
+   "delhi": true,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/P1/PPN/KEM02",
+  "name": "EM02* Nio Plain Gold",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 11.8,
+   "T_mm": 7.5,
+   "raw": "9.5 ft × 11.8 in × 7.5 mm"
+  },
+  "price": {
+   "delhi": 1150,
+   "mumbai": 1150,
+   "bangalore": 1150,
+   "hyderabad": 1150
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841903506-8fbee2.png",
+  "material": "Nio",
+  "sub": "Panel",
+  "live": {
+   "delhi": true,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/P1/PPN/K9380",
+  "name": "9380* Nio Plain Gold",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 11.8,
+   "T_mm": 7.5,
+   "raw": "9.5 ft × 11.8 in × 7.5 mm"
+  },
+  "price": {
+   "delhi": 1150,
+   "mumbai": 1150,
+   "bangalore": 1150,
+   "hyderabad": 1150
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841896094-b08b38.png",
+  "material": "Nio",
+  "sub": "Panel",
+  "live": {
+   "delhi": false,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/P1/PPN/K9472",
+  "name": "9472* Nio Plain Gold",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 11.8,
+   "T_mm": 7.5,
+   "raw": "9.5 ft × 11.8 in × 7.5 mm"
+  },
+  "price": {
+   "delhi": 1150,
+   "mumbai": 1150,
+   "bangalore": 1150,
+   "hyderabad": 1150
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841899274-b00d62.png",
+  "material": "Nio",
+  "sub": "Panel",
+  "live": {
+   "delhi": true,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/P1/PPN/K1455",
+  "name": "1455* Nio Plain Gold",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 11.8,
+   "T_mm": 7.5,
+   "raw": "9.5 ft × 11.8 in × 7.5 mm"
+  },
+  "price": {
+   "delhi": 1150,
+   "mumbai": 1150,
+   "bangalore": 1150,
+   "hyderabad": 1150
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841892728-ff625b.png",
+  "material": "Nio",
+  "sub": "Panel",
+  "live": {
+   "delhi": false,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/P1/PPN/S5021",
+  "name": "5021* Nio Plain Stone",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 11.8,
+   "T_mm": 7.5,
+   "raw": "9.5 ft × 11.8 in × 7.5 mm"
+  },
+  "price": {
+   "delhi": 1150,
+   "mumbai": 1150,
+   "bangalore": 1150,
+   "hyderabad": 1150
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841914585-e1f6fa.png",
+  "material": "Nio",
+  "sub": "Panel",
+  "live": {
+   "delhi": false,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/P1/PPN/S9001",
+  "name": "9001* Nio Plain Stone",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 11.8,
+   "T_mm": 7.5,
+   "raw": "9.5 ft × 11.8 in × 7.5 mm"
+  },
+  "price": {
+   "delhi": 1150,
+   "mumbai": 1150,
+   "bangalore": 1150,
+   "hyderabad": 1150
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841918427-b2385a.png",
+  "material": "Nio",
+  "sub": "Panel",
+  "live": {
+   "delhi": false,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/P1/PPN/F7695",
+  "name": "7695* Nio Plain Fabric",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 11.8,
+   "T_mm": 7.5,
+   "raw": "9.5 ft × 11.8 in × 7.5 mm"
+  },
+  "price": {
+   "delhi": 1150,
+   "mumbai": 1150,
+   "bangalore": 1150,
+   "hyderabad": 1150
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841881054-68a537.png",
+  "material": "Nio",
+  "sub": "Panel",
+  "live": {
+   "delhi": false,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/P1/PPN/T0156",
+  "name": "0156* Nio Plain Traditional",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 11.8,
+   "T_mm": 7.5,
+   "raw": "9.5 ft × 11.8 in × 7.5 mm"
+  },
+  "price": {
+   "delhi": 1150,
+   "mumbai": 1150,
+   "bangalore": 1150,
+   "hyderabad": 1150
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841922384-542dc6.png",
+  "material": "Nio",
+  "sub": "Panel",
+  "live": {
+   "delhi": true,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/P1/PPN/K0195",
+  "name": "0195* Nio Plain Gold",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 11.8,
+   "T_mm": 7.5,
+   "raw": "9.5 ft × 11.8 in × 7.5 mm"
+  },
+  "price": {
+   "delhi": 1150,
+   "mumbai": 1150,
+   "bangalore": 1150,
+   "hyderabad": 1150
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841888427-f94e08.png",
+  "material": "Nio",
+  "sub": "Panel",
+  "live": {
+   "delhi": true,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/P1/PPN/T0129",
+  "name": "0129* Nio Plain Traditional",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 11.8,
+   "T_mm": 7.5,
+   "raw": "9.5 ft × 11.8 in × 7.5 mm"
+  },
+  "price": {
+   "delhi": 1150,
+   "mumbai": 1150,
+   "bangalore": 1150,
+   "hyderabad": 1150
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1779087080405-a72db3.png",
+  "material": "Nio",
+  "sub": "Panel",
+  "live": {
+   "delhi": true,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/P1/PPN/T1456",
+  "name": "1456* Nio Plain Traditional",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 11.8,
+   "T_mm": 7.5,
+   "raw": "9.5 ft × 11.8 in × 7.5 mm"
+  },
+  "price": {
+   "delhi": 1150,
+   "mumbai": 1150,
+   "bangalore": 1150,
+   "hyderabad": 1150
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841925919-74d19f.png",
+  "material": "Nio",
+  "sub": "Panel",
+  "live": {
+   "delhi": false,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/P1/PPN/LES84",
+  "name": "ES84* Nio Plain Texture",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 11.8,
+   "T_mm": 7.5,
+   "raw": "9.5 ft × 11.8 in × 7.5 mm"
+  },
+  "price": {
+   "delhi": 1150,
+   "mumbai": 1150,
+   "bangalore": 1150,
+   "hyderabad": 1150
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1779090500773-920290.png",
+  "material": "Nio",
+  "sub": "Panel",
+  "live": {
+   "delhi": false,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/P1/PPN/LD193",
+  "name": "D193* Nio Plain Texture",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 11.8,
+   "T_mm": 7.5,
+   "raw": "9.5 ft × 11.8 in × 7.5 mm"
+  },
+  "price": {
+   "delhi": 1150,
+   "mumbai": 1150,
+   "bangalore": 1150,
+   "hyderabad": 1150
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841910592-fd5787.png",
+  "material": "Nio",
+  "sub": "Panel",
+  "live": {
+   "delhi": false,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/P1/PPN/FX903",
+  "name": "X903* Nio Plain Fabric",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 11.8,
+   "T_mm": 7.5,
+   "raw": "9.5 ft × 11.8 in × 7.5 mm"
+  },
+  "price": {
+   "delhi": 1150,
+   "mumbai": 1150,
+   "bangalore": 1150,
+   "hyderabad": 1150
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841884626-165b97.png",
+  "material": "Nio",
+  "sub": "Panel",
+  "live": {
+   "delhi": true,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/I2/PPD/WS685",
+  "name": "S685 WPC Classic Wood",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 7.68,
+   "T_mm": 12,
+   "raw": "9.5 ft × 7.68 in × 12 mm"
+  },
+  "price": {
+   "delhi": 1300,
+   "mumbai": 1500,
+   "bangalore": 1600,
+   "hyderabad": 1600
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778752706158-35d49e.png",
+  "material": "WPC",
+  "sub": "Panel",
+  "live": {
+   "delhi": true,
+   "mumbai": false,
+   "bangalore": true,
+   "hyderabad": true
+  }
+ },
+ {
+  "code": "UC/P1/PPF/W9204",
+  "name": "9204 Nio Fluted Wood",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 11.6,
+   "T_mm": 10,
+   "raw": "9.5 ft × 11.6 in × 10 mm"
+  },
+  "price": {
+   "delhi": 1600,
+   "mumbai": 1500,
+   "bangalore": 1550,
+   "hyderabad": 1500
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/customer-app-supply/1779351763768-9e46e6.jpeg",
+  "material": "Nio",
+  "sub": "Panel",
+  "live": {
+   "delhi": true,
+   "mumbai": false,
+   "bangalore": true,
+   "hyderabad": true
+  }
+ },
+ {
+  "code": "UC/P1/PPF/RD164",
+  "name": "D164 Nio Fluted Neutral",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 11.6,
+   "T_mm": 10,
+   "raw": "9.5 ft × 11.6 in × 10 mm"
+  },
+  "price": {
+   "delhi": 1600,
+   "mumbai": 1500,
+   "bangalore": 1550,
+   "hyderabad": 1500
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/customer-app-supply/1779351782073-31c62f.jpeg",
+  "material": "Nio",
+  "sub": "Panel",
+  "live": {
+   "delhi": true,
+   "mumbai": false,
+   "bangalore": true,
+   "hyderabad": true
+  }
+ },
+ {
+  "code": "UC/P1/PPF/W8360",
+  "name": "8360 Nio Fluted Wood",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 11.6,
+   "T_mm": 10,
+   "raw": "9.5 ft × 11.6 in × 10 mm"
+  },
+  "price": {
+   "delhi": 1600,
+   "mumbai": 1500,
+   "bangalore": 1550,
+   "hyderabad": 1500
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/customer-app-supply/1779351754052-51ca8f.jpeg",
+  "material": "Nio",
+  "sub": "Panel",
+  "live": {
+   "delhi": true,
+   "mumbai": false,
+   "bangalore": true,
+   "hyderabad": true
+  }
+ },
+ {
+  "code": "UC/P1/PPP/K9380",
+  "name": "9380 Nio Plain Gold",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 9.8,
+   "T_mm": 6,
+   "raw": "9.5 ft × 9.8 in × 6 mm"
+  },
+  "price": {
+   "delhi": 760,
+   "mumbai": 650,
+   "bangalore": 800,
+   "hyderabad": 800
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841896094-b08b38.png",
+  "material": "Nio",
+  "sub": "Panel",
+  "live": {
+   "delhi": true,
+   "mumbai": true,
+   "bangalore": true,
+   "hyderabad": true
+  }
+ },
+ {
+  "code": "UC/P1/PPP/K9472",
+  "name": "9472 Nio Plain Gold",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 9.8,
+   "T_mm": 6,
+   "raw": "9.5 ft × 9.8 in × 6 mm"
+  },
+  "price": {
+   "delhi": 760,
+   "mumbai": 650,
+   "bangalore": 800,
+   "hyderabad": 800
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841899274-b00d62.png",
+  "material": "Nio",
+  "sub": "Panel",
+  "live": {
+   "delhi": false,
+   "mumbai": true,
+   "bangalore": true,
+   "hyderabad": true
+  }
+ },
+ {
+  "code": "UC/P1/PPP/W8360",
+  "name": "8360 Nio Plain Wood",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 9.8,
+   "T_mm": 6,
+   "raw": "9.5 ft × 9.8 in × 6 mm"
+  },
+  "price": {
+   "delhi": 760,
+   "mumbai": 800,
+   "bangalore": 800,
+   "hyderabad": 800
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841873660-c8e668.png",
+  "material": "Nio",
+  "sub": "Panel",
+  "live": {
+   "delhi": false,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/P1/PPP/W9204",
+  "name": "9204 Nio Plain Wood",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 9.8,
+   "T_mm": 6,
+   "raw": "9.5 ft × 9.8 in × 6 mm"
+  },
+  "price": {
+   "delhi": 760,
+   "mumbai": 800,
+   "bangalore": 800,
+   "hyderabad": 800
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1779087762255-5e6990.png",
+  "material": "Nio",
+  "sub": "Panel",
+  "live": {
+   "delhi": false,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/P1/PPP/K0195",
+  "name": "0195 Nio Plain Gold",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 9.8,
+   "T_mm": 6,
+   "raw": "9.5 ft × 9.8 in × 6 mm"
+  },
+  "price": {
+   "delhi": 760,
+   "mumbai": 800,
+   "bangalore": 800,
+   "hyderabad": 800
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841888427-f94e08.png",
+  "material": "Nio",
+  "sub": "Panel",
+  "live": {
+   "delhi": false,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/P1/PPP/K1455",
+  "name": "1455 Nio Plain Gold",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 9.8,
+   "T_mm": 6,
+   "raw": "9.5 ft × 9.8 in × 6 mm"
+  },
+  "price": {
+   "delhi": 760,
+   "mumbai": 800,
+   "bangalore": 800,
+   "hyderabad": 800
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841892728-ff625b.png",
+  "material": "Nio",
+  "sub": "Panel",
+  "live": {
+   "delhi": true,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/P1/PPP/F7695",
+  "name": "7695 Nio Plain Fabric",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 9.8,
+   "T_mm": 6,
+   "raw": "9.5 ft × 9.8 in × 6 mm"
+  },
+  "price": {
+   "delhi": 760,
+   "mumbai": 800,
+   "bangalore": 800,
+   "hyderabad": 800
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841881054-68a537.png",
+  "material": "Nio",
+  "sub": "Panel",
+  "live": {
+   "delhi": true,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/P1/PPP/WEM54",
+  "name": "EM54 Nio Plain Wood",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 9.8,
+   "T_mm": 6,
+   "raw": "9.5 ft × 9.8 in × 6 mm"
+  },
+  "price": {
+   "delhi": 760,
+   "mumbai": 800,
+   "bangalore": 800,
+   "hyderabad": 800
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/customer-app-supply/1779351590314-392907.jpeg",
+  "material": "Nio",
+  "sub": "Panel",
+  "live": {
+   "delhi": false,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/P1/PPP/FX903",
+  "name": "X903 Nio Plain Fabric",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 9.8,
+   "T_mm": 6,
+   "raw": "9.5 ft × 9.8 in × 6 mm"
+  },
+  "price": {
+   "delhi": 760,
+   "mumbai": 800,
+   "bangalore": 800,
+   "hyderabad": 800
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841884626-165b97.png",
+  "material": "Nio",
+  "sub": "Panel",
+  "live": {
+   "delhi": false,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/P1/PPP/KEM02",
+  "name": "EM02 Nio Plain Gold",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 9.8,
+   "T_mm": 6,
+   "raw": "9.5 ft × 9.8 in × 6 mm"
+  },
+  "price": {
+   "delhi": 760,
+   "mumbai": 800,
+   "bangalore": 800,
+   "hyderabad": 800
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841903506-8fbee2.png",
+  "material": "Nio",
+  "sub": "Panel",
+  "live": {
+   "delhi": false,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/P1/PPP/T0156",
+  "name": "0156 Nio Plain Traditional",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 9.8,
+   "T_mm": 6,
+   "raw": "9.5 ft × 9.8 in × 6 mm"
+  },
+  "price": {
+   "delhi": 760,
+   "mumbai": 800,
+   "bangalore": 800,
+   "hyderabad": 800
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841922384-542dc6.png",
+  "material": "Nio",
+  "sub": "Panel",
+  "live": {
+   "delhi": false,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/P1/PPP/LD193",
+  "name": "D193 Nio Plain Texture",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 9.8,
+   "T_mm": 6,
+   "raw": "9.5 ft × 9.8 in × 6 mm"
+  },
+  "price": {
+   "delhi": 760,
+   "mumbai": 800,
+   "bangalore": 800,
+   "hyderabad": 800
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841910592-fd5787.png",
+  "material": "Nio",
+  "sub": "Panel",
+  "live": {
+   "delhi": true,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/P1/PPP/LES84",
+  "name": "ES84 Nio Plain Texture",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 9.8,
+   "T_mm": 6,
+   "raw": "9.5 ft × 9.8 in × 6 mm"
+  },
+  "price": {
+   "delhi": 760,
+   "mumbai": 800,
+   "bangalore": 800,
+   "hyderabad": 800
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1779090500773-920290.png",
+  "material": "Nio",
+  "sub": "Panel",
+  "live": {
+   "delhi": true,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/P1/PPP/T1456",
+  "name": "1456 Nio Plain Traditional",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 9.8,
+   "T_mm": 6,
+   "raw": "9.5 ft × 9.8 in × 6 mm"
+  },
+  "price": {
+   "delhi": 760,
+   "mumbai": 800,
+   "bangalore": 800,
+   "hyderabad": 800
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841925919-74d19f.png",
+  "material": "Nio",
+  "sub": "Panel",
+  "live": {
+   "delhi": true,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/P1/PPP/S5021",
+  "name": "5021 Nio Plain Stone",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 9.8,
+   "T_mm": 6,
+   "raw": "9.5 ft × 9.8 in × 6 mm"
+  },
+  "price": {
+   "delhi": 760,
+   "mumbai": 800,
+   "bangalore": 800,
+   "hyderabad": 800
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841914585-e1f6fa.png",
+  "material": "Nio",
+  "sub": "Panel",
+  "live": {
+   "delhi": true,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/P1/PPP/S9001",
+  "name": "9001 Nio Plain Stone",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 9.8,
+   "T_mm": 6,
+   "raw": "9.5 ft × 9.8 in × 6 mm"
+  },
+  "price": {
+   "delhi": 760,
+   "mumbai": 800,
+   "bangalore": 800,
+   "hyderabad": 800
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841918427-b2385a.png",
+  "material": "Nio",
+  "sub": "Panel",
+  "live": {
+   "delhi": true,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/P1/PPP/T0129",
+  "name": "0129 Nio Plain Traditional",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 9.8,
+   "T_mm": 6,
+   "raw": "9.5 ft × 9.8 in × 6 mm"
+  },
+  "price": {
+   "delhi": 760,
+   "mumbai": 800,
+   "bangalore": 800,
+   "hyderabad": 800
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1779087080405-a72db3.png",
+  "material": "Nio",
+  "sub": "Panel",
+  "live": {
+   "delhi": false,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/I2/PCR/W3622",
+  "name": "3622 Charcoal Mini rectangle Wood",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 11.6,
+   "T_mm": 6,
+   "raw": "9.5 ft × 11.6 in × 6 mm"
+  },
+  "price": {
+   "delhi": 2800,
+   "mumbai": 3000,
+   "bangalore": 3000,
+   "hyderabad": 3000
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324245463-5602e5.jpeg",
+  "material": "Charcoal",
+  "sub": "Panel",
+  "live": {
+   "delhi": false,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/I2/PCF/W7333",
+  "name": "7333 Charcoal Fluted Wood",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 11.3,
+   "T_mm": 6,
+   "raw": "9.5 ft × 11.3 in × 6 mm"
+  },
+  "price": {
+   "delhi": 2500,
+   "mumbai": 2500,
+   "bangalore": 2700,
+   "hyderabad": 2700
+  },
+  "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324263537-a3c2ea.jpeg",
+  "material": "Charcoal",
+  "sub": "Panel",
+  "live": {
+   "delhi": false,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/I2/PCZ/K5537",
+  "name": "5537 Charcoal Concave Stone",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 11.8,
+   "T_mm": 11,
+   "raw": "9.5 ft × 11.8 in × 11 mm"
+  },
+  "price": {
+   "delhi": 0,
+   "mumbai": 0,
+   "bangalore": 0,
+   "hyderabad": 0
+  },
+  "image": "",
+  "material": "Charcoal",
+  "sub": "Panel",
+  "live": {
+   "delhi": false,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/I2/PCZ/K4022",
+  "name": "4022 Charcoal Concave Gold",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 11.8,
+   "T_mm": 11,
+   "raw": "9.5 ft × 11.8 in × 11 mm"
+  },
+  "price": {
+   "delhi": 0,
+   "mumbai": 0,
+   "bangalore": 0,
+   "hyderabad": 0
+  },
+  "image": "",
+  "material": "Charcoal",
+  "sub": "Panel",
+  "live": {
+   "delhi": false,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/I2/PCZ/K3100",
+  "name": "3100 Charcoal Concave Gold",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 11.8,
+   "T_mm": 11,
+   "raw": "9.5 ft × 11.8 in × 11 mm"
+  },
+  "price": {
+   "delhi": 0,
+   "mumbai": 0,
+   "bangalore": 0,
+   "hyderabad": 0
+  },
+  "image": "",
+  "material": "Charcoal",
+  "sub": "Panel",
+  "live": {
+   "delhi": false,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/I2/SPG/M8943",
+  "name": "8943 WPC Sheet Pastel | 7 mm",
+  "dims": {
+   "L_ft": 9.2,
+   "W_in": 23.6,
+   "T_mm": 7,
+   "raw": "9.2 ft × 23.6 in × 7 mm"
+  },
+  "price": {
+   "delhi": 3000,
+   "mumbai": 3550,
+   "bangalore": 3550,
+   "hyderabad": 3550
+  },
+  "image": "",
+  "material": "WPC",
+  "sub": "Sheet",
+  "live": {
+   "delhi": false,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/I2/SPG/M2008",
+  "name": "2008 WPC Sheet Stone | 7 mm",
+  "dims": {
+   "L_ft": 9.2,
+   "W_in": 23.6,
+   "T_mm": 7,
+   "raw": "9.2 ft × 23.6 in × 7 mm"
+  },
+  "price": {
+   "delhi": 3000,
+   "mumbai": 3550,
+   "bangalore": 3550,
+   "hyderabad": 3550
+  },
+  "image": "",
+  "material": "WPC",
+  "sub": "Sheet",
+  "live": {
+   "delhi": false,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/I2/PPD/WB010",
+  "name": "B010 WPC Classic Wood",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 7.9,
+   "T_mm": 12,
+   "raw": "9.5 ft × 7.9 in × 12 mm"
+  },
+  "price": {
+   "delhi": 1300,
+   "mumbai": 1500,
+   "bangalore": 1600,
+   "hyderabad": 1600
+  },
+  "image": "",
+  "material": "WPC",
+  "sub": "Panel",
+  "live": {
+   "delhi": false,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/I2/PPD/WB016",
+  "name": "B016 WPC Classic Wood",
+  "dims": {
+   "L_ft": 9.5,
+   "W_in": 7.9,
+   "T_mm": 12,
+   "raw": "9.5 ft × 7.9 in × 12 mm"
+  },
+  "price": {
+   "delhi": 1300,
+   "mumbai": 1500,
+   "bangalore": 1600,
+   "hyderabad": 1600
+  },
+  "image": "",
+  "material": "WPC",
+  "sub": "Panel",
+  "live": {
+   "delhi": false,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/I2/PPU/W2281",
+  "name": "2281 WPC Mini concave Wood",
+  "dims": {
+   "raw": ""
+  },
+  "price": {
+   "delhi": 0,
+   "mumbai": 0,
+   "bangalore": 0,
+   "hyderabad": 0
+  },
+  "image": "",
+  "material": "WPC",
+  "sub": "Panel",
+  "live": {
+   "delhi": false,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/I2/PPU/WB018",
+  "name": "B018 WPC Mini concave Wood",
+  "dims": {
+   "raw": ""
+  },
+  "price": {
+   "delhi": 0,
+   "mumbai": 0,
+   "bangalore": 0,
+   "hyderabad": 0
+  },
+  "image": "",
+  "material": "WPC",
+  "sub": "Panel",
+  "live": {
+   "delhi": false,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/I2/SPG/WB010",
+  "name": "B010 WPC Sheet Wood | 7 mm",
+  "dims": {
+   "L_ft": 9.2,
+   "W_in": 23.6,
+   "T_mm": 7,
+   "raw": "9.2 ft × 23.6 in × 7 mm"
+  },
+  "price": {
+   "delhi": 3000,
+   "mumbai": 3550,
+   "bangalore": 3550,
+   "hyderabad": 3550
+  },
+  "image": "",
+  "material": "WPC",
+  "sub": "Sheet",
+  "live": {
+   "delhi": false,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/I2/SPG/WB016",
+  "name": "B016 WPC Sheet Wood | 7 mm",
+  "dims": {
+   "L_ft": 9.2,
+   "W_in": 23.6,
+   "T_mm": 7,
+   "raw": "9.2 ft × 23.6 in × 7 mm"
+  },
+  "price": {
+   "delhi": 3000,
+   "mumbai": 3550,
+   "bangalore": 3550,
+   "hyderabad": 3550
+  },
+  "image": "",
+  "material": "WPC",
+  "sub": "Sheet",
+  "live": {
+   "delhi": false,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/I2/SPG/W2281",
+  "name": "2281 WPC Sheet Wood | 7 mm",
+  "dims": {
+   "L_ft": 9.2,
+   "W_in": 23.6,
+   "T_mm": 7,
+   "raw": "9.2 ft × 23.6 in × 7 mm"
+  },
+  "price": {
+   "delhi": 3000,
+   "mumbai": 3550,
+   "bangalore": 3550,
+   "hyderabad": 3550
+  },
+  "image": "",
+  "material": "WPC",
+  "sub": "Sheet",
+  "live": {
+   "delhi": false,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/I2/SPG/WB018",
+  "name": "B018 WPC Sheet Wood | 7 mm",
+  "dims": {
+   "L_ft": 9.2,
+   "W_in": 23.6,
+   "T_mm": 7,
+   "raw": "9.2 ft × 23.6 in × 7 mm"
+  },
+  "price": {
+   "delhi": 3000,
+   "mumbai": 3550,
+   "bangalore": 3550,
+   "hyderabad": 3550
+  },
+  "image": "",
+  "material": "WPC",
+  "sub": "Sheet",
+  "live": {
+   "delhi": false,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/I2/PPU/P0126",
+  "name": "0126 WPC Mini concave Gold",
+  "dims": {
+   "raw": ""
+  },
+  "price": {
+   "delhi": 0,
+   "mumbai": 0,
+   "bangalore": 0,
+   "hyderabad": 0
+  },
+  "image": "",
+  "material": "WPC",
+  "sub": "Panel",
+  "live": {
+   "delhi": false,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/I2/PPU/P0138",
+  "name": "0138 WPC Mini concave Pastel",
+  "dims": {
+   "raw": ""
+  },
+  "price": {
+   "delhi": 0,
+   "mumbai": 0,
+   "bangalore": 0,
+   "hyderabad": 0
+  },
+  "image": "",
+  "material": "WPC",
+  "sub": "Panel",
+  "live": {
+   "delhi": false,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/I2/PPU/P0777",
+  "name": "0777 WPC Mini concave Pastel",
+  "dims": {
+   "raw": ""
+  },
+  "price": {
+   "delhi": 0,
+   "mumbai": 0,
+   "bangalore": 0,
+   "hyderabad": 0
+  },
+  "image": "",
+  "material": "WPC",
+  "sub": "Panel",
+  "live": {
+   "delhi": false,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/I2/SS0/SY008",
+  "name": "Y008 SPC Sheet Marble | 3 mm",
+  "dims": {
+   "L_ft": 9.2,
+   "W_in": 48,
+   "T_mm": 3,
+   "raw": "9.2 ft × 48 in × 3 mm"
+  },
+  "price": {
+   "delhi": 9000,
+   "mumbai": 9000,
+   "bangalore": 9000,
+   "hyderabad": 9000
+  },
+  "image": "",
+  "material": "SPC",
+  "sub": "Sheet",
+  "live": {
+   "delhi": false,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ },
+ {
+  "code": "UC/I2/SS0/SY130",
+  "name": "Y130 SPC Sheet Marble | 3 mm",
+  "dims": {
+   "L_ft": 9.2,
+   "W_in": 48,
+   "T_mm": 3,
+   "raw": "9.2 ft × 48 in × 3 mm"
+  },
+  "price": {
+   "delhi": 9000,
+   "mumbai": 9000,
+   "bangalore": 9000,
+   "hyderabad": 9000
+  },
+  "image": "",
+  "material": "SPC",
+  "sub": "Sheet",
+  "live": {
+   "delhi": false,
+   "mumbai": false,
+   "bangalore": false,
+   "hyderabad": false
+  }
+ }
+]
