@@ -40,6 +40,9 @@
   var CITY_LABELS = { delhi: 'Delhi', mumbai: 'Mumbai', bengaluru: 'Bengaluru', hyderabad: 'Hyderabad' };
   var cityLabel = document.getElementById('cityLabel');
   if (cityLabel) cityLabel.textContent = CITY_LABELS[CITY] || CITY;
+  // pass city to catalog link so it opens the right city tab
+  var catalogLink = document.querySelector('a.qb-btn-catalog');
+  if (catalogLink) catalogLink.href = 'catalog.html?city=' + CITY;
 
   // ---------- load catalog ----------
   function loadCatalog() {
