@@ -1,6 +1,9 @@
 #!/usr/bin/env python3
 """
-Build per-city panel catalog JSONs from master.json + similarity.json.
+Build per-city panel catalog JSONs from master.json + similarity_new.json.
+
+similarity_new.json is extracted from the curated similarity_review HTML
+(196 SKUs, each with matches:[{sku, score}] resolved to full SKU codes).
 
 Output: assets/data/{delhi,mumbai,bengaluru,hyderabad}.json
 Format is compatible with the existing panels.json used by the quote builder.
@@ -12,7 +15,7 @@ import json, math, os
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 MASTER_PATH = os.path.join(ROOT, "assets", "data", "master.json")
-SIM_PATH    = os.path.join(ROOT, "assets", "data", "similarity.json")
+SIM_PATH    = os.path.join(ROOT, "assets", "data", "similarity_new.json")
 OUT_DIR     = os.path.join(ROOT, "assets", "data")
 
 CITIES = {
@@ -53,17 +56,25 @@ def build_city(city_key, master_key, master, sim_by_code):
         psf = round(price / a) if a > 0 else 0
 
         sim_entry = sim_by_code.get(code, {})
-        raw_alts = sim_entry.get("alts", [])
+        # matches: [{sku, score}] — curated from similarity_review HTML
+        raw_matches = sim_entry.get("matches", [])
 
         alts = []
-        for alt in raw_alts:
-            ac = alt["code"]
+        seen = set()
+        for match in raw_matches:
+            ac    = match["sku"]
+            score = match["score"]
+            if ac == code or ac in seen:
+                continue
+            seen.add(ac)
             am = live_panels.get(ac)   # only include if also live in this city
             if not am:
                 continue
             alt_price = am["price"].get(master_key, 0)
-            alt_a     = area(am.get("dims", {}))
-            alt_psf   = round(alt_price / alt_a) if alt_a > 0 else 0
+            if not alt_price:
+                continue
+            alt_a   = area(am.get("dims", {}))
+            alt_psf = round(alt_price / alt_a) if alt_a > 0 else 0
             alts.append({
                 "name":       am["name"],
                 "code":       am["code"],
@@ -72,10 +83,10 @@ def build_city(city_key, master_key, master, sim_by_code):
                 "psf":        alt_psf,
                 "perPanel":   alt_price,
                 "image":      am.get("image", ""),
-                "similarity": alt["pct"],
+                "similarity": score,
                 "isCheaper":  alt_price < price,
                 "diff":       diff_text(price, alt_price),
-                "scoreClass": score_class(alt["pct"]),
+                "scoreClass": score_class(score),
             })
 
         cheaper_count = sum(1 for a in alts if a["isCheaper"])
@@ -103,8 +114,9 @@ def main():
     with open(SIM_PATH) as f:
         sim = json.load(f)
 
-    # similarity.json is keyed by full inventory code
-    sim_by_code = sim  # already {code: {name, alts}}
+    # similarity_new.json has {panels: [{sku, matches, alts, ...}]}
+    # Build lookup: sku → {matches, alts}
+    sim_by_code = {p["sku"]: p for p in sim.get("panels", [])}
 
     for city_key, master_key in CITIES.items():
         data = build_city(city_key, master_key, master, sim_by_code)

@@ -1,0 +1,7363 @@
+{
+  "panels": [
+    {
+      "sku": "UC/D1/PPG/W0414",
+      "name": "0952/0414 PVC Grooved Wood",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324511998-07f41c.jpeg",
+      "mat": "PVC",
+      "mould": "Grooved",
+      "finish": "Wood",
+      "type": "Panel",
+      "alts": [
+        "UC/D1/PPG/W0952"
+      ],
+      "matches": [
+        {
+          "sku": "UC/D1/PPG/W0952",
+          "score": 100
+        },
+        {
+          "sku": "UC/I2/PPD/W7073",
+          "score": 77
+        },
+        {
+          "sku": "UC/M2/PPD/W7073",
+          "score": 76
+        },
+        {
+          "sku": "UC/D1/PPP/W0414",
+          "score": 75
+        },
+        {
+          "sku": "UC/I2/SPG/WS685",
+          "score": 74
+        }
+      ]
+    },
+    {
+      "sku": "UC/D1/PPG/W0952",
+      "name": "0952/0414* PVC Grooved Wood",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324511998-07f41c.jpeg",
+      "mat": "PVC",
+      "mould": "Grooved",
+      "finish": "Wood",
+      "type": "Panel",
+      "alts": [
+        "UC/D1/PPG/W0414"
+      ],
+      "matches": [
+        {
+          "sku": "UC/D1/PPG/W0414",
+          "score": 100
+        },
+        {
+          "sku": "UC/I2/PPD/W7073",
+          "score": 76
+        },
+        {
+          "sku": "UC/M2/PPD/W7073",
+          "score": 76
+        },
+        {
+          "sku": "UC/D1/PPP/W0414",
+          "score": 75
+        },
+        {
+          "sku": "UC/I2/SPG/WS685",
+          "score": 74
+        }
+      ]
+    },
+    {
+      "sku": "UC/D1/PPG/W0953",
+      "name": "0953 PVC Grooved Wood",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324501235-cc9776.jpeg",
+      "mat": "PVC",
+      "mould": "Grooved",
+      "finish": "Wood",
+      "type": "Panel",
+      "alts": [],
+      "matches": [
+        {
+          "sku": "UC/R1/PPP/W9371",
+          "score": 82
+        },
+        {
+          "sku": "UC/I2/SPG/WX905",
+          "score": 78
+        },
+        {
+          "sku": "UC/M2/SP0/WX905",
+          "score": 78
+        },
+        {
+          "sku": "UC/I2/SPG/W8360",
+          "score": 74
+        }
+      ]
+    },
+    {
+      "sku": "UC/D1/PPP/F0150",
+      "name": "0150 PVC Plain Floral",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324490809-f4922b.jpeg",
+      "mat": "PVC",
+      "mould": "Plain",
+      "finish": "Floral",
+      "type": "Panel",
+      "alts": [],
+      "matches": [
+        {
+          "sku": "UC/P1/PPP/T0156",
+          "score": 77
+        },
+        {
+          "sku": "UC/P1/PPN/T0156",
+          "score": 76
+        },
+        {
+          "sku": "UC/R1/PPP/T1218",
+          "score": 71
+        }
+      ]
+    },
+    {
+      "sku": "UC/D1/PPP/G0273",
+      "name": "0273 PVC Plain Abstract",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324481135-6a876e.jpeg",
+      "mat": "PVC",
+      "mould": "Plain",
+      "finish": "Abstract",
+      "type": "Panel",
+      "alts": [],
+      "matches": []
+    },
+    {
+      "sku": "UC/D1/PPP/J0168",
+      "name": "0168 PVC Plain Gold",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/customer-app-supply/1722246688722-ec328b.jpeg",
+      "mat": "PVC",
+      "mould": "Plain",
+      "finish": "Gold",
+      "type": "Panel",
+      "alts": [
+        "UC/R1/PPP/J9472"
+      ],
+      "matches": [
+        {
+          "sku": "UC/R1/PPP/J9472",
+          "score": 100
+        },
+        {
+          "sku": "UC/D1/PPP/T0127",
+          "score": 85
+        },
+        {
+          "sku": "UC/P1/PPN/K1455",
+          "score": 73
+        },
+        {
+          "sku": "UC/P1/PPP/K1455",
+          "score": 73
+        }
+      ]
+    },
+    {
+      "sku": "UC/D1/PPP/S0229",
+      "name": "0229 PVC Plain Gold",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324423801-f1e96b.jpeg",
+      "mat": "PVC",
+      "mould": "Plain",
+      "finish": "Gold",
+      "type": "Panel",
+      "alts": [],
+      "matches": [
+        {
+          "sku": "UC/M2/SS0/M0HXL",
+          "score": 76
+        },
+        {
+          "sku": "UC/R1/PPP/S9382",
+          "score": 75
+        },
+        {
+          "sku": "UC/M2/SS0/M5508",
+          "score": 75
+        },
+        {
+          "sku": "UC/M2/SS0/M8083",
+          "score": 73
+        }
+      ]
+    },
+    {
+      "sku": "UC/D1/PPP/S0426",
+      "name": "9382* PVC Plain Stone",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1721825127505-2132e8.jpeg",
+      "mat": "PVC",
+      "mould": "Plain",
+      "finish": "Stone",
+      "type": "Panel",
+      "alts": [
+        "UC/R1/PPP/S9382"
+      ],
+      "matches": []
+    },
+    {
+      "sku": "UC/D1/PPP/T0127",
+      "name": "1218* PVC Plain Floral",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1721849056376-966039.jpeg",
+      "mat": "PVC",
+      "mould": "Plain",
+      "finish": "Floral",
+      "type": "Panel",
+      "alts": [
+        "UC/R1/PPP/T1218"
+      ],
+      "matches": [
+        {
+          "sku": "UC/R1/PPP/J9472",
+          "score": 86
+        },
+        {
+          "sku": "UC/D1/PPP/J0168",
+          "score": 85
+        },
+        {
+          "sku": "UC/P1/PPN/K1455",
+          "score": 73
+        },
+        {
+          "sku": "UC/R1/PPP/T1218",
+          "score": 72
+        },
+        {
+          "sku": "UC/P1/PPP/K1455",
+          "score": 72
+        }
+      ]
+    },
+    {
+      "sku": "UC/D1/PPP/W0414",
+      "name": "0414 PVC Plain Wood",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324390835-3d1eae.jpeg",
+      "mat": "PVC",
+      "mould": "Plain",
+      "finish": "Wood",
+      "type": "Panel",
+      "alts": [
+        "UC/D1/PPP/W0952"
+      ],
+      "matches": [
+        {
+          "sku": "UC/I2/SPG/WS685",
+          "score": 78
+        },
+        {
+          "sku": "UC/D1/PPG/W0414",
+          "score": 75
+        },
+        {
+          "sku": "UC/D1/PPG/W0952",
+          "score": 75
+        },
+        {
+          "sku": "UC/D1/PPP/W0952",
+          "score": 75
+        },
+        {
+          "sku": "UC/P1/PPN/W8360",
+          "score": 71
+        },
+        {
+          "sku": "UC/P1/PPN/WEM54",
+          "score": 71
+        },
+        {
+          "sku": "UC/P1/PPP/WEM54",
+          "score": 71
+        }
+      ]
+    },
+    {
+      "sku": "UC/D1/PPP/W0620",
+      "name": "0620 PVC Plain Wood",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323855085-dd7dcf.jpeg",
+      "mat": "PVC",
+      "mould": "Plain",
+      "finish": "Wood",
+      "type": "Panel",
+      "alts": [
+        "UC/D1/PPP/W0817"
+      ],
+      "matches": [
+        {
+          "sku": "UC/D1/PPP/W0817",
+          "score": 80
+        },
+        {
+          "sku": "UC/I2/SPG/WX905",
+          "score": 80
+        },
+        {
+          "sku": "UC/P1/PPN/W8360",
+          "score": 79
+        },
+        {
+          "sku": "UC/R1/PPP/W9371",
+          "score": 79
+        },
+        {
+          "sku": "UC/P1/PPP/W8360",
+          "score": 78
+        }
+      ]
+    },
+    {
+      "sku": "UC/D1/PPP/W0817",
+      "name": "0620* PVC Plain Wood",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1711968755529-ec38ae.jpeg",
+      "mat": "PVC",
+      "mould": "Plain",
+      "finish": "Wood",
+      "type": "Panel",
+      "alts": [
+        "UC/D1/PPP/W0620"
+      ],
+      "matches": [
+        {
+          "sku": "UC/I2/SPG/WX905",
+          "score": 83
+        },
+        {
+          "sku": "UC/M2/SP0/WX905",
+          "score": 83
+        },
+        {
+          "sku": "UC/D1/PPP/W0620",
+          "score": 80
+        },
+        {
+          "sku": "UC/I2/SPG/W8360",
+          "score": 80
+        },
+        {
+          "sku": "UC/M2/SP0/W8360",
+          "score": 78
+        }
+      ]
+    },
+    {
+      "sku": "UC/D1/PPP/W0952",
+      "name": "0414* PVC Plain Wood",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1755192405385-0d7ac0.jpeg",
+      "mat": "PVC",
+      "mould": "Plain",
+      "finish": "Wood",
+      "type": "Panel",
+      "alts": [
+        "UC/D1/PPP/W0414"
+      ],
+      "matches": [
+        {
+          "sku": "UC/D1/PPP/W0414",
+          "score": 75
+        }
+      ]
+    },
+    {
+      "sku": "UC/D1/PPP/W0953",
+      "name": "9371* PVC Plain Wood",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1755192401646-a65325.jpeg",
+      "mat": "PVC",
+      "mould": "Plain",
+      "finish": "Wood",
+      "type": "Panel",
+      "alts": [
+        "UC/R1/PPP/W9371"
+      ],
+      "matches": [
+        {
+          "sku": "UC/I2/SPG/WX913",
+          "score": 71
+        }
+      ]
+    },
+    {
+      "sku": "UC/D1/PPP/X0253",
+      "name": "1456* PVC Plain Abstract",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1719914492160-c65b17.jpeg",
+      "mat": "PVC",
+      "mould": "Plain",
+      "finish": "Abstract",
+      "type": "Panel",
+      "alts": [
+        "UC/R1/PPP/X1456"
+      ],
+      "matches": [
+        {
+          "sku": "UC/P1/PPN/T1456",
+          "score": 82
+        },
+        {
+          "sku": "UC/P1/PPP/T1456",
+          "score": 82
+        },
+        {
+          "sku": "UC/R1/PPP/X1456",
+          "score": 76
+        }
+      ]
+    },
+    {
+      "sku": "UC/D1/PPP/X0635",
+      "name": "0650* PVC Plain Abstract",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1773385250432-63eb89.jpeg",
+      "mat": "PVC",
+      "mould": "Plain",
+      "finish": "Abstract",
+      "type": "Panel",
+      "alts": [
+        "UC/D1/PPP/X0650"
+      ],
+      "matches": [
+        {
+          "sku": "UC/D1/PPP/X0650",
+          "score": 100
+        },
+        {
+          "sku": "UC/M2/SS0/M2208",
+          "score": 78
+        },
+        {
+          "sku": "UC/M2/SS0/M0HXL",
+          "score": 77
+        },
+        {
+          "sku": "UC/I2/SPH/L2203",
+          "score": 73
+        },
+        {
+          "sku": "UC/I2/SPH/L9952",
+          "score": 72
+        },
+        {
+          "sku": "UC/R1/PPP/X9380",
+          "score": 71
+        }
+      ]
+    },
+    {
+      "sku": "UC/D1/PPP/X0650",
+      "name": "0650 PVC Plain Abstract",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1773385250432-63eb89.jpeg",
+      "mat": "PVC",
+      "mould": "Plain",
+      "finish": "Abstract",
+      "type": "Panel",
+      "alts": [
+        "UC/D1/PPP/X0635"
+      ],
+      "matches": [
+        {
+          "sku": "UC/D1/PPP/X0635",
+          "score": 100
+        },
+        {
+          "sku": "UC/M2/SS0/M2208",
+          "score": 78
+        },
+        {
+          "sku": "UC/M2/SS0/M0HXL",
+          "score": 77
+        },
+        {
+          "sku": "UC/I2/SPH/L2203",
+          "score": 73
+        },
+        {
+          "sku": "UC/I2/SPH/L9952",
+          "score": 72
+        }
+      ]
+    },
+    {
+      "sku": "UC/I2/PCC/S0G29",
+      "name": "0G29 Charcoal Ceramic Stone",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1769519998448-d01be7.jpeg",
+      "mat": "Charcoal",
+      "mould": "Ceramic",
+      "finish": "Stone",
+      "type": "Panel",
+      "alts": [],
+      "matches": [
+        {
+          "sku": "UC/I2/PCR/S0519",
+          "score": 80
+        },
+        {
+          "sku": "UC/I2/PCV/S0519",
+          "score": 80
+        },
+        {
+          "sku": "UC/I2/PCV/SS061",
+          "score": 78
+        },
+        {
+          "sku": "UC/I2/PCR/S0643",
+          "score": 78
+        }
+      ]
+    },
+    {
+      "sku": "UC/I2/PCD/R1987",
+      "name": "1987 Charcoal Classic Rattan",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324354607-338548.jpeg",
+      "mat": "Charcoal",
+      "mould": "Classic",
+      "finish": "Rattan",
+      "type": "Panel",
+      "alts": [],
+      "matches": [
+        {
+          "sku": "UC/I2/PCD/RA901",
+          "score": 89
+        },
+        {
+          "sku": "UC/I2/PPD/WX919",
+          "score": 72
+        },
+        {
+          "sku": "UC/I2/PPE/W8360",
+          "score": 71
+        }
+      ]
+    },
+    {
+      "sku": "UC/I2/PCD/RA901",
+      "name": "A901 Charcoal Classic Rattan",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323821766-ea02d1.jpeg",
+      "mat": "Charcoal",
+      "mould": "Classic",
+      "finish": "Rattan",
+      "type": "Panel",
+      "alts": [],
+      "matches": [
+        {
+          "sku": "UC/I2/PCD/R1987",
+          "score": 89
+        },
+        {
+          "sku": "UC/I2/PPE/W8360",
+          "score": 73
+        },
+        {
+          "sku": "UC/M2/PPE/W8360",
+          "score": 73
+        },
+        {
+          "sku": "UC/M2/PPE/WX905",
+          "score": 71
+        }
+      ]
+    },
+    {
+      "sku": "UC/I2/PCF/W7334",
+      "name": "7334 Charcoal Fluted Wood",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323774170-af8a9c.jpeg",
+      "mat": "Charcoal",
+      "mould": "Fluted",
+      "finish": "Wood",
+      "type": "Panel",
+      "alts": [
+        "UC/M2/PCF/W7334"
+      ],
+      "matches": [
+        {
+          "sku": "UC/M2/PCF/W7334",
+          "score": 100
+        },
+        {
+          "sku": "UC/I2/PPD/W7073",
+          "score": 84
+        },
+        {
+          "sku": "UC/M2/PPD/W7073",
+          "score": 83
+        },
+        {
+          "sku": "UC/P1/PPF/W8360",
+          "score": 82
+        },
+        {
+          "sku": "UC/I2/PPD/WX905",
+          "score": 81
+        },
+        {
+          "sku": "UC/M2/PPD/WX905",
+          "score": 80
+        },
+        {
+          "sku": "UC/M2/PPE/W8360",
+          "score": 73
+        }
+      ]
+    },
+    {
+      "sku": "UC/I2/PCI/G0037",
+      "name": "0037 Charcoal Embossed White",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1775052864020-8b2640.png",
+      "mat": "Charcoal",
+      "mould": "Embossed",
+      "finish": "White",
+      "type": "Panel",
+      "alts": [],
+      "matches": []
+    },
+    {
+      "sku": "UC/I2/PCI/G0066",
+      "name": "0066 Charcoal Embossed Pastel",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1769519953221-666cb8.jpeg",
+      "mat": "Charcoal",
+      "mould": "Embossed",
+      "finish": "Pastel",
+      "type": "Panel",
+      "alts": [],
+      "matches": [
+        {
+          "sku": "UC/I2/PCI/G8461",
+          "score": 94
+        },
+        {
+          "sku": "UC/I2/PCV/SS061",
+          "score": 70
+        }
+      ]
+    },
+    {
+      "sku": "UC/I2/PCI/G1831",
+      "name": "1831 Charcoal Embossed Geometric",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1769519944187-be2704.jpeg",
+      "mat": "Charcoal",
+      "mould": "Embossed",
+      "finish": "Geometric",
+      "type": "Panel",
+      "alts": [],
+      "matches": [
+        {
+          "sku": "UC/M2/PCR/W3622",
+          "score": 71
+        }
+      ]
+    },
+    {
+      "sku": "UC/I2/PCI/G1975",
+      "name": "1975 Charcoal Embossed Geometric",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1769519965353-fb7a41.jpeg",
+      "mat": "Charcoal",
+      "mould": "Embossed",
+      "finish": "Geometric",
+      "type": "Panel",
+      "alts": [],
+      "matches": []
+    },
+    {
+      "sku": "UC/I2/PCI/G8461",
+      "name": "8461 Charcoal Embossed Pastel",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1769519974620-65a512.jpeg",
+      "mat": "Charcoal",
+      "mould": "Embossed",
+      "finish": "Pastel",
+      "type": "Panel",
+      "alts": [],
+      "matches": [
+        {
+          "sku": "UC/I2/PCI/G0066",
+          "score": 94
+        },
+        {
+          "sku": "UC/M2/PPC/N0102",
+          "score": 70
+        }
+      ]
+    },
+    {
+      "sku": "UC/I2/PCI/R02QY",
+      "name": "02QY Charcoal Embossed Rattan",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323809913-a32079.jpeg",
+      "mat": "Charcoal",
+      "mould": "Embossed",
+      "finish": "Rattan",
+      "type": "Panel",
+      "alts": [],
+      "matches": []
+    },
+    {
+      "sku": "UC/I2/PCI/R78CM",
+      "name": "78CM Charcoal Embossed Rattan",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323453091-530b67.jpeg",
+      "mat": "Charcoal",
+      "mould": "Embossed",
+      "finish": "Rattan",
+      "type": "Panel",
+      "alts": [],
+      "matches": [
+        {
+          "sku": "UC/I2/PCI/RB232",
+          "score": 76
+        },
+        {
+          "sku": "UC/I2/SPG/W8360",
+          "score": 73
+        },
+        {
+          "sku": "UC/M2/SP0/W8360",
+          "score": 72
+        }
+      ]
+    },
+    {
+      "sku": "UC/I2/PCI/RB232",
+      "name": "B232 Charcoal Embossed Rattan",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323576473-57d8b9.jpeg",
+      "mat": "Charcoal",
+      "mould": "Embossed",
+      "finish": "Rattan",
+      "type": "Panel",
+      "alts": [],
+      "matches": [
+        {
+          "sku": "UC/I2/PCI/R78CM",
+          "score": 76
+        },
+        {
+          "sku": "UC/M2/SP0/W8360",
+          "score": 73
+        },
+        {
+          "sku": "UC/I2/SPG/W8360",
+          "score": 72
+        }
+      ]
+    },
+    {
+      "sku": "UC/I2/PCM/W183S",
+      "name": "183S Charcoal Flat rib Wood",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1769519933324-7b17e1.jpeg",
+      "mat": "Charcoal",
+      "mould": "Flat rib",
+      "finish": "Wood",
+      "type": "Panel",
+      "alts": [],
+      "matches": [
+        {
+          "sku": "UC/I2/PCM/W5249",
+          "score": 83
+        },
+        {
+          "sku": "UC/M2/PPC/N0112",
+          "score": 81
+        },
+        {
+          "sku": "UC/I2/PPC/N0112",
+          "score": 78
+        },
+        {
+          "sku": "UC/I2/PPD/WX913",
+          "score": 77
+        },
+        {
+          "sku": "UC/R1/PPF/W0333",
+          "score": 75
+        },
+        {
+          "sku": "UC/M2/SP0/W4P03",
+          "score": 72
+        },
+        {
+          "sku": "UC/R1/PPX/J9005",
+          "score": 72
+        },
+        {
+          "sku": "UC/R1/PPF/O2048",
+          "score": 72
+        },
+        {
+          "sku": "UC/I2/SPG/W4P03",
+          "score": 71
+        }
+      ]
+    },
+    {
+      "sku": "UC/I2/PCM/W5249",
+      "name": "5249 Charcoal Flat rib Wood",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1769519923238-ba70ca.jpeg",
+      "mat": "Charcoal",
+      "mould": "Flat rib",
+      "finish": "Wood",
+      "type": "Panel",
+      "alts": [],
+      "matches": [
+        {
+          "sku": "UC/M2/PPC/N0112",
+          "score": 84
+        },
+        {
+          "sku": "UC/I2/PPC/N0112",
+          "score": 84
+        },
+        {
+          "sku": "UC/I2/PCM/W183S",
+          "score": 83
+        },
+        {
+          "sku": "UC/I2/PPD/WX913",
+          "score": 81
+        },
+        {
+          "sku": "UC/I2/SPG/W4P03",
+          "score": 76
+        },
+        {
+          "sku": "UC/M2/SP0/W4P03",
+          "score": 76
+        }
+      ]
+    },
+    {
+      "sku": "UC/I2/PCR/S0519",
+      "name": "0519 Charcoal Mini rectangle Stone",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323882160-384437.jpeg",
+      "mat": "Charcoal",
+      "mould": "Mini rectangle",
+      "finish": "Stone",
+      "type": "Panel",
+      "alts": [],
+      "matches": [
+        {
+          "sku": "UC/I2/PCV/S0519",
+          "score": 92
+        },
+        {
+          "sku": "UC/I2/PCR/S0643",
+          "score": 87
+        },
+        {
+          "sku": "UC/I2/PCV/SS061",
+          "score": 82
+        },
+        {
+          "sku": "UC/I2/PCC/S0G29",
+          "score": 80
+        },
+        {
+          "sku": "UC/I2/SPH/F2027",
+          "score": 78
+        },
+        {
+          "sku": "UC/M2/PC0/S9572",
+          "score": 76
+        },
+        {
+          "sku": "UC/I2/SPH/F2025",
+          "score": 75
+        }
+      ]
+    },
+    {
+      "sku": "UC/I2/PCR/S0643",
+      "name": "0643 Charcoal Mini rectangle Stone",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323867089-cf5dc8.jpeg",
+      "mat": "Charcoal",
+      "mould": "Mini rectangle",
+      "finish": "Stone",
+      "type": "Panel",
+      "alts": [],
+      "matches": [
+        {
+          "sku": "UC/I2/PCR/S0519",
+          "score": 87
+        },
+        {
+          "sku": "UC/I2/PCV/SS061",
+          "score": 80
+        },
+        {
+          "sku": "UC/I2/PCC/S0G29",
+          "score": 78
+        },
+        {
+          "sku": "UC/I2/PCV/S0519",
+          "score": 77
+        },
+        {
+          "sku": "UC/I2/SPH/F2025",
+          "score": 73
+        },
+        {
+          "sku": "UC/I2/SPH/F2027",
+          "score": 72
+        }
+      ]
+    },
+    {
+      "sku": "UC/I2/PCU/H006G",
+      "name": "006G Charcoal Mini concave White",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324344895-417fbd.jpeg",
+      "mat": "Charcoal",
+      "mould": "Mini concave",
+      "finish": "White",
+      "type": "Panel",
+      "alts": [],
+      "matches": [
+        {
+          "sku": "UC/M2/PPC/N0072",
+          "score": 88
+        },
+        {
+          "sku": "UC/I2/PPC/N0072",
+          "score": 88
+        },
+        {
+          "sku": "UC/I2/PCU/P8461",
+          "score": 83
+        },
+        {
+          "sku": "UC/I2/PCU/P012G",
+          "score": 70
+        }
+      ]
+    },
+    {
+      "sku": "UC/I2/PCU/P012G",
+      "name": "012G Charcoal Mini concave Pastel",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324337421-379e84.jpeg",
+      "mat": "Charcoal",
+      "mould": "Mini concave",
+      "finish": "Pastel",
+      "type": "Panel",
+      "alts": [],
+      "matches": [
+        {
+          "sku": "UC/M2/PPV/P0292",
+          "score": 91
+        },
+        {
+          "sku": "UC/I2/PCU/PM090",
+          "score": 86
+        },
+        {
+          "sku": "UC/M2/PPV/P0202",
+          "score": 82
+        },
+        {
+          "sku": "UC/M2/PPC/N0102",
+          "score": 80
+        },
+        {
+          "sku": "UC/I2/PCU/H006G",
+          "score": 70
+        }
+      ]
+    },
+    {
+      "sku": "UC/I2/PCU/P8461",
+      "name": "8461 Charcoal Mini concave Pastel",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324327693-e2ce85.jpeg",
+      "mat": "Charcoal",
+      "mould": "Mini concave",
+      "finish": "Pastel",
+      "type": "Panel",
+      "alts": [],
+      "matches": [
+        {
+          "sku": "UC/I2/PCU/H006G",
+          "score": 83
+        },
+        {
+          "sku": "UC/I2/PPC/N0072",
+          "score": 78
+        },
+        {
+          "sku": "UC/M2/PPC/N0072",
+          "score": 77
+        },
+        {
+          "sku": "UC/M2/PPV/P0212",
+          "score": 72
+        }
+      ]
+    },
+    {
+      "sku": "UC/I2/PCU/PM090",
+      "name": "M090 Charcoal Mini concave Pastel",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324320114-5e2316.jpeg",
+      "mat": "Charcoal",
+      "mould": "Mini concave",
+      "finish": "Pastel",
+      "type": "Panel",
+      "alts": [],
+      "matches": [
+        {
+          "sku": "UC/I2/PCU/P012G",
+          "score": 86
+        },
+        {
+          "sku": "UC/M2/PPV/P0292",
+          "score": 84
+        },
+        {
+          "sku": "UC/M2/PPV/P0202",
+          "score": 81
+        },
+        {
+          "sku": "UC/I2/PPC/N0112",
+          "score": 75
+        },
+        {
+          "sku": "UC/M2/PPC/N0112",
+          "score": 75
+        }
+      ]
+    },
+    {
+      "sku": "UC/I2/PCV/S0519",
+      "name": "0519 Charcoal Slats Stone",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1769519883323-31626e.jpeg",
+      "mat": "Charcoal",
+      "mould": "Slats",
+      "finish": "Stone",
+      "type": "Panel",
+      "alts": [],
+      "matches": [
+        {
+          "sku": "UC/I2/PCR/S0519",
+          "score": 92
+        },
+        {
+          "sku": "UC/I2/PCV/SS061",
+          "score": 90
+        },
+        {
+          "sku": "UC/M2/PCU/K5537",
+          "score": 83
+        },
+        {
+          "sku": "UC/I2/PPD/H2022",
+          "score": 80
+        },
+        {
+          "sku": "UC/I2/PCC/S0G29",
+          "score": 80
+        },
+        {
+          "sku": "UC/M2/PPD/H2022",
+          "score": 79
+        },
+        {
+          "sku": "UC/M2/PC0/S9572",
+          "score": 78
+        },
+        {
+          "sku": "UC/I2/PCR/S0643",
+          "score": 77
+        }
+      ]
+    },
+    {
+      "sku": "UC/I2/PCV/SS061",
+      "name": "S061 Charcoal Slats Stone",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1769519873285-729933.jpeg",
+      "mat": "Charcoal",
+      "mould": "Slats",
+      "finish": "Stone",
+      "type": "Panel",
+      "alts": [],
+      "matches": [
+        {
+          "sku": "UC/I2/PCV/S0519",
+          "score": 90
+        },
+        {
+          "sku": "UC/I2/PCR/S0519",
+          "score": 82
+        },
+        {
+          "sku": "UC/I2/PCR/S0643",
+          "score": 80
+        },
+        {
+          "sku": "UC/M2/PCU/K5537",
+          "score": 79
+        },
+        {
+          "sku": "UC/I2/PCC/S0G29",
+          "score": 78
+        },
+        {
+          "sku": "UC/M2/PC0/S9572",
+          "score": 76
+        },
+        {
+          "sku": "UC/I2/PCI/G0066",
+          "score": 70
+        }
+      ]
+    },
+    {
+      "sku": "UC/I2/PPC/H2022",
+      "name": "2022 WPC Ceramic White",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140331001-b79537.jpeg",
+      "mat": "WPC",
+      "mould": "Ceramic",
+      "finish": "White",
+      "type": "Panel",
+      "alts": [
+        "UC/M2/PPC/H2022"
+      ],
+      "matches": [
+        {
+          "sku": "UC/M2/PPC/H2022",
+          "score": 100
+        },
+        {
+          "sku": "UC/M2/PPS/H2022",
+          "score": 90
+        },
+        {
+          "sku": "UC/I2/PPD/H2022",
+          "score": 90
+        },
+        {
+          "sku": "UC/M2/PPD/H2022",
+          "score": 90
+        },
+        {
+          "sku": "UC/M2/PPV/H2022",
+          "score": 89
+        },
+        {
+          "sku": "UC/M2/PPV/P0212",
+          "score": 86
+        },
+        {
+          "sku": "UC/I2/PPC/N2025",
+          "score": 81
+        },
+        {
+          "sku": "UC/M2/PPC/N2025",
+          "score": 80
+        },
+        {
+          "sku": "UC/I2/PPC/N0102",
+          "score": 79
+        },
+        {
+          "sku": "UC/M2/PPS/S9065",
+          "score": 74
+        },
+        {
+          "sku": "UC/I2/SPG/H2022",
+          "score": 71
+        },
+        {
+          "sku": "UC/M2/SP0/H2022",
+          "score": 71
+        }
+      ]
+    },
+    {
+      "sku": "UC/I2/PPC/N0072",
+      "name": "0072 WPC Ceramic Neutral",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140299454-7350a9.jpeg",
+      "mat": "WPC",
+      "mould": "Ceramic",
+      "finish": "Neutral",
+      "type": "Panel",
+      "alts": [
+        "UC/M2/PPC/N0072"
+      ],
+      "matches": [
+        {
+          "sku": "UC/M2/PPC/N0072",
+          "score": 100
+        },
+        {
+          "sku": "UC/I2/PCU/H006G",
+          "score": 88
+        },
+        {
+          "sku": "UC/M2/PPC/N0102",
+          "score": 79
+        },
+        {
+          "sku": "UC/I2/PPC/N0102",
+          "score": 79
+        },
+        {
+          "sku": "UC/I2/PCU/P8461",
+          "score": 78
+        },
+        {
+          "sku": "UC/I2/SPG/N0072",
+          "score": 72
+        }
+      ]
+    },
+    {
+      "sku": "UC/I2/PPC/N0102",
+      "name": "0102 WPC Ceramic Neutral",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140303807-76ae4c.jpeg",
+      "mat": "WPC",
+      "mould": "Ceramic",
+      "finish": "Neutral",
+      "type": "Panel",
+      "alts": [
+        "UC/M2/PPC/N0102"
+      ],
+      "matches": [
+        {
+          "sku": "UC/M2/PPC/N0102",
+          "score": 100
+        },
+        {
+          "sku": "UC/I2/PPC/N2025",
+          "score": 92
+        },
+        {
+          "sku": "UC/M2/PPC/N2025",
+          "score": 91
+        },
+        {
+          "sku": "UC/I2/PPD/H2022",
+          "score": 84
+        },
+        {
+          "sku": "UC/M2/PPD/H2022",
+          "score": 83
+        },
+        {
+          "sku": "UC/M2/PCS/K5081",
+          "score": 80
+        },
+        {
+          "sku": "UC/M2/PPC/N0072",
+          "score": 79
+        },
+        {
+          "sku": "UC/I2/PPC/N0072",
+          "score": 79
+        },
+        {
+          "sku": "UC/I2/PPC/H2022",
+          "score": 79
+        },
+        {
+          "sku": "UC/I2/PPS/LA235",
+          "score": 78
+        },
+        {
+          "sku": "UC/M2/PPC/H2022",
+          "score": 78
+        },
+        {
+          "sku": "UC/I2/SPG/N0102",
+          "score": 72
+        },
+        {
+          "sku": "UC/M2/PPV/P0202",
+          "score": 71
+        }
+      ]
+    },
+    {
+      "sku": "UC/I2/PPC/N0112",
+      "name": "0112 WPC Ceramic Neutral",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140323168-5f6835.jpeg",
+      "mat": "WPC",
+      "mould": "Ceramic",
+      "finish": "Neutral",
+      "type": "Panel",
+      "alts": [
+        "UC/M2/PPC/N0112"
+      ],
+      "matches": [
+        {
+          "sku": "UC/M2/PPC/N0112",
+          "score": 100
+        },
+        {
+          "sku": "UC/I2/PCM/W5249",
+          "score": 84
+        },
+        {
+          "sku": "UC/I2/PPD/WX913",
+          "score": 79
+        },
+        {
+          "sku": "UC/I2/PCM/W183S",
+          "score": 78
+        },
+        {
+          "sku": "UC/I2/PCU/PM090",
+          "score": 75
+        },
+        {
+          "sku": "UC/M2/PC0/P9552",
+          "score": 74
+        },
+        {
+          "sku": "UC/I2/SPG/N0112",
+          "score": 73
+        },
+        {
+          "sku": "UC/M2/SP0/N0112",
+          "score": 73
+        }
+      ]
+    },
+    {
+      "sku": "UC/I2/PPC/N2025",
+      "name": "2025 WPC Ceramic Neutral",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324168617-538a58.jpeg",
+      "mat": "WPC",
+      "mould": "Ceramic",
+      "finish": "Neutral",
+      "type": "Panel",
+      "alts": [
+        "UC/M2/PPC/N2025"
+      ],
+      "matches": [
+        {
+          "sku": "UC/M2/PPC/N2025",
+          "score": 100
+        },
+        {
+          "sku": "UC/I2/PPC/N0102",
+          "score": 92
+        },
+        {
+          "sku": "UC/M2/PPC/N0102",
+          "score": 92
+        },
+        {
+          "sku": "UC/M2/PPV/P0202",
+          "score": 88
+        },
+        {
+          "sku": "UC/M2/PPD/H2022",
+          "score": 85
+        },
+        {
+          "sku": "UC/M2/PPC/H2022",
+          "score": 82
+        },
+        {
+          "sku": "UC/I2/PPC/H2022",
+          "score": 81
+        },
+        {
+          "sku": "UC/M2/PPS/H2022",
+          "score": 80
+        },
+        {
+          "sku": "UC/I2/PPD/H2022",
+          "score": 72
+        },
+        {
+          "sku": "UC/I2/SPG/N2025",
+          "score": 71
+        },
+        {
+          "sku": "UC/M2/SP0/N2025",
+          "score": 71
+        }
+      ]
+    },
+    {
+      "sku": "UC/I2/PPD/H2022",
+      "name": "2022 WPC Classic White",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140386280-c49004.jpeg",
+      "mat": "WPC",
+      "mould": "Classic",
+      "finish": "White",
+      "type": "Panel",
+      "alts": [
+        "UC/M2/PPD/H2022"
+      ],
+      "matches": [
+        {
+          "sku": "UC/M2/PPD/H2022",
+          "score": 100
+        },
+        {
+          "sku": "UC/M2/PPV/H2022",
+          "score": 92
+        },
+        {
+          "sku": "UC/M2/PPS/H2022",
+          "score": 92
+        },
+        {
+          "sku": "UC/I2/PPC/H2022",
+          "score": 90
+        },
+        {
+          "sku": "UC/M2/PPC/H2022",
+          "score": 90
+        },
+        {
+          "sku": "UC/M2/PPC/N2025",
+          "score": 88
+        },
+        {
+          "sku": "UC/M2/PPV/P0212",
+          "score": 86
+        },
+        {
+          "sku": "UC/M2/PPC/N0102",
+          "score": 85
+        },
+        {
+          "sku": "UC/M2/PCS/K5081",
+          "score": 85
+        },
+        {
+          "sku": "UC/I2/PPC/N0102",
+          "score": 84
+        },
+        {
+          "sku": "UC/M2/PCS/K5084",
+          "score": 82
+        },
+        {
+          "sku": "UC/M2/PCU/K5537",
+          "score": 81
+        },
+        {
+          "sku": "UC/I2/PCV/S0519",
+          "score": 80
+        },
+        {
+          "sku": "UC/M2/PC0/S9572",
+          "score": 73
+        },
+        {
+          "sku": "UC/I2/PPC/N2025",
+          "score": 72
+        },
+        {
+          "sku": "UC/M2/PPV/P0202",
+          "score": 70
+        }
+      ]
+    },
+    {
+      "sku": "UC/I2/PPD/K3731",
+      "name": "3731 WPC Classic Gold",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140038825-037e2e.jpeg",
+      "mat": "WPC",
+      "mould": "Classic",
+      "finish": "Gold",
+      "type": "Panel",
+      "alts": [
+        "UC/M2/PPD/K3731"
+      ],
+      "matches": [
+        {
+          "sku": "UC/M2/PPD/K3731",
+          "score": 100
+        },
+        {
+          "sku": "UC/M2/PPE/WX905",
+          "score": 77
+        },
+        {
+          "sku": "UC/I2/PPD/WX905",
+          "score": 73
+        },
+        {
+          "sku": "UC/M2/PPD/WX905",
+          "score": 72
+        }
+      ]
+    },
+    {
+      "sku": "UC/I2/PPD/R0132",
+      "name": "0132 WPC Classic Neutral",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324553354-fbb546.jpeg",
+      "mat": "WPC",
+      "mould": "Classic",
+      "finish": "Neutral",
+      "type": "Panel",
+      "alts": [],
+      "matches": [
+        {
+          "sku": "UC/M2/PCF/R7332",
+          "score": 86
+        },
+        {
+          "sku": "UC/I2/PPE/WX921",
+          "score": 86
+        },
+        {
+          "sku": "UC/M2/PCF/W7331",
+          "score": 82
+        },
+        {
+          "sku": "UC/M2/PPD/R0P61",
+          "score": 81
+        }
+      ]
+    },
+    {
+      "sku": "UC/I2/PPD/W7073",
+      "name": "7073 WPC Classic Wood",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770141128636-cea391.jpeg",
+      "mat": "WPC",
+      "mould": "Classic",
+      "finish": "Wood",
+      "type": "Panel",
+      "alts": [
+        "UC/M2/PPD/W7073"
+      ],
+      "matches": [
+        {
+          "sku": "UC/M2/PPD/W7073",
+          "score": 100
+        },
+        {
+          "sku": "UC/I2/PCF/W7334",
+          "score": 84
+        },
+        {
+          "sku": "UC/M2/PCF/W7334",
+          "score": 83
+        },
+        {
+          "sku": "UC/I2/PPD/WX905",
+          "score": 82
+        },
+        {
+          "sku": "UC/M2/PPD/WX905",
+          "score": 82
+        },
+        {
+          "sku": "UC/M2/PPD/WX919",
+          "score": 80
+        },
+        {
+          "sku": "UC/I2/SPG/W7073",
+          "score": 80
+        },
+        {
+          "sku": "UC/D1/PPG/W0414",
+          "score": 77
+        },
+        {
+          "sku": "UC/D1/PPG/W0952",
+          "score": 76
+        }
+      ]
+    },
+    {
+      "sku": "UC/I2/PPD/WS685",
+      "name": "S685 WPC Classic Wood",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778752706158-35d49e.png",
+      "mat": "WPC",
+      "mould": "Classic",
+      "finish": "Wood",
+      "type": "Panel",
+      "alts": [],
+      "matches": [
+        {
+          "sku": "UC/I2/PPE/WS685",
+          "score": 96
+        },
+        {
+          "sku": "UC/M2/PPE/WS685",
+          "score": 96
+        },
+        {
+          "sku": "UC/I2/PPE/W4P03",
+          "score": 92
+        },
+        {
+          "sku": "UC/M2/PPE/W4P03",
+          "score": 91
+        },
+        {
+          "sku": "UC/R1/PPX/W0103",
+          "score": 85
+        },
+        {
+          "sku": "UC/M2/PCR/W3623",
+          "score": 82
+        },
+        {
+          "sku": "UC/R1/PPF/O0160",
+          "score": 81
+        }
+      ]
+    },
+    {
+      "sku": "UC/I2/PPD/WX905",
+      "name": "X905 WPC Classic Wood",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140362352-3302d2.jpeg",
+      "mat": "WPC",
+      "mould": "Classic",
+      "finish": "Wood",
+      "type": "Panel",
+      "alts": [
+        "UC/M2/PPD/WX905"
+      ],
+      "matches": [
+        {
+          "sku": "UC/M2/PPD/WX905",
+          "score": 100
+        },
+        {
+          "sku": "UC/M2/PPE/WX905",
+          "score": 90
+        },
+        {
+          "sku": "UC/M2/PPD/WX919",
+          "score": 82
+        },
+        {
+          "sku": "UC/I2/PPD/W7073",
+          "score": 82
+        },
+        {
+          "sku": "UC/M2/PPD/W7073",
+          "score": 81
+        },
+        {
+          "sku": "UC/I2/PPD/WX919",
+          "score": 81
+        },
+        {
+          "sku": "UC/P1/PPF/W8360",
+          "score": 81
+        },
+        {
+          "sku": "UC/I2/PCF/W7334",
+          "score": 81
+        },
+        {
+          "sku": "UC/M2/PCF/W7334",
+          "score": 80
+        },
+        {
+          "sku": "UC/I2/SPG/WX905",
+          "score": 76
+        },
+        {
+          "sku": "UC/M2/SP0/WX905",
+          "score": 76
+        },
+        {
+          "sku": "UC/M2/PPD/K3731",
+          "score": 74
+        },
+        {
+          "sku": "UC/I2/PPD/K3731",
+          "score": 73
+        }
+      ]
+    },
+    {
+      "sku": "UC/I2/PPD/WX913",
+      "name": "X913 WPC Classic Wood",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770141006815-be0c05.jpeg",
+      "mat": "WPC",
+      "mould": "Classic",
+      "finish": "Wood",
+      "type": "Panel",
+      "alts": [
+        "UC/M2/PPD/WX913"
+      ],
+      "matches": [
+        {
+          "sku": "UC/M2/PPC/N0112",
+          "score": 81
+        },
+        {
+          "sku": "UC/I2/PCM/W5249",
+          "score": 81
+        },
+        {
+          "sku": "UC/I2/SPG/WX913",
+          "score": 80
+        },
+        {
+          "sku": "UC/I2/PPC/N0112",
+          "score": 79
+        },
+        {
+          "sku": "UC/R1/PPX/W0103",
+          "score": 79
+        },
+        {
+          "sku": "UC/I2/PCM/W183S",
+          "score": 77
+        },
+        {
+          "sku": "UC/R1/PPF/W0333",
+          "score": 77
+        },
+        {
+          "sku": "UC/M2/PPS/RA209",
+          "score": 71
+        }
+      ]
+    },
+    {
+      "sku": "UC/I2/PPD/WX919",
+      "name": "X919 WPC Classic Wood",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140043893-a972de.jpeg",
+      "mat": "WPC",
+      "mould": "Classic",
+      "finish": "Wood",
+      "type": "Panel",
+      "alts": [
+        "UC/M2/PPD/WX919"
+      ],
+      "matches": [
+        {
+          "sku": "UC/M2/PPD/WX919",
+          "score": 100
+        },
+        {
+          "sku": "UC/M2/PPE/WX905",
+          "score": 81
+        },
+        {
+          "sku": "UC/M2/PPD/W7073",
+          "score": 81
+        },
+        {
+          "sku": "UC/I2/PPD/WX905",
+          "score": 81
+        },
+        {
+          "sku": "UC/M2/PPD/WX905",
+          "score": 81
+        },
+        {
+          "sku": "UC/I2/PPE/W8360",
+          "score": 75
+        },
+        {
+          "sku": "UC/M2/PPE/W8360",
+          "score": 75
+        },
+        {
+          "sku": "UC/I2/PCD/R1987",
+          "score": 72
+        }
+      ]
+    },
+    {
+      "sku": "UC/I2/PPD/WX921",
+      "name": "X921 WPC Classic Wood",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140375832-702c05.jpeg",
+      "mat": "WPC",
+      "mould": "Classic",
+      "finish": "Wood",
+      "type": "Panel",
+      "alts": [
+        "UC/M2/PPD/WX921"
+      ],
+      "matches": [
+        {
+          "sku": "UC/I2/PPE/WX921",
+          "score": 95
+        },
+        {
+          "sku": "UC/M2/PCF/W7331",
+          "score": 89
+        },
+        {
+          "sku": "UC/R1/PPX/W0114",
+          "score": 87
+        },
+        {
+          "sku": "UC/P1/PPF/W9204",
+          "score": 85
+        },
+        {
+          "sku": "UC/M2/PCF/W7333",
+          "score": 85
+        },
+        {
+          "sku": "UC/R1/PPF/W0352",
+          "score": 85
+        },
+        {
+          "sku": "UC/I2/SPG/WX921",
+          "score": 85
+        }
+      ]
+    },
+    {
+      "sku": "UC/I2/PPE/W4P03",
+      "name": "4P03 WPC Small square Wood",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140907844-d18dab.jpeg",
+      "mat": "WPC",
+      "mould": "Small square",
+      "finish": "Wood",
+      "type": "Panel",
+      "alts": [
+        "UC/M2/PPE/W4P03"
+      ],
+      "matches": [
+        {
+          "sku": "UC/M2/PPE/W4P03",
+          "score": 100
+        },
+        {
+          "sku": "UC/M2/PPE/WS685",
+          "score": 93
+        },
+        {
+          "sku": "UC/I2/PPD/WS685",
+          "score": 92
+        },
+        {
+          "sku": "UC/I2/PPE/WS685",
+          "score": 90
+        },
+        {
+          "sku": "UC/M2/PCR/W3623",
+          "score": 85
+        },
+        {
+          "sku": "UC/R1/PPX/W0103",
+          "score": 82
+        },
+        {
+          "sku": "UC/M2/PCR/W3624",
+          "score": 80
+        },
+        {
+          "sku": "UC/I2/SPG/W4P03",
+          "score": 80
+        },
+        {
+          "sku": "UC/M2/SP0/W4P03",
+          "score": 80
+        },
+        {
+          "sku": "UC/M2/PCD/K5064",
+          "score": 74
+        },
+        {
+          "sku": "UC/M2/PCF/W7333",
+          "score": 71
+        }
+      ]
+    },
+    {
+      "sku": "UC/I2/PPE/W8360",
+      "name": "8360 WPC Small square Wood",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140897812-4b4203.jpeg",
+      "mat": "WPC",
+      "mould": "Small square",
+      "finish": "Wood",
+      "type": "Panel",
+      "alts": [
+        "UC/M2/PPE/W8360"
+      ],
+      "matches": [
+        {
+          "sku": "UC/M2/PPE/W8360",
+          "score": 100
+        },
+        {
+          "sku": "UC/M2/PPE/WX905",
+          "score": 84
+        },
+        {
+          "sku": "UC/P1/PPF/W8360",
+          "score": 83
+        },
+        {
+          "sku": "UC/I2/SPG/W8360",
+          "score": 79
+        },
+        {
+          "sku": "UC/M2/SP0/W8360",
+          "score": 79
+        },
+        {
+          "sku": "UC/P1/PPN/W8360",
+          "score": 78
+        },
+        {
+          "sku": "UC/P1/PPP/W8360",
+          "score": 78
+        },
+        {
+          "sku": "UC/M2/PPD/WX919",
+          "score": 76
+        },
+        {
+          "sku": "UC/M2/PCF/W7334",
+          "score": 76
+        },
+        {
+          "sku": "UC/I2/PPD/WX919",
+          "score": 75
+        },
+        {
+          "sku": "UC/I2/PCD/RA901",
+          "score": 73
+        },
+        {
+          "sku": "UC/I2/PCD/R1987",
+          "score": 71
+        }
+      ]
+    },
+    {
+      "sku": "UC/I2/PPE/WS685",
+      "name": "S685 WPC Small square Wood",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140867672-a3ea1a.jpeg",
+      "mat": "WPC",
+      "mould": "Small square",
+      "finish": "Wood",
+      "type": "Panel",
+      "alts": [
+        "UC/M2/PPE/WS685"
+      ],
+      "matches": [
+        {
+          "sku": "UC/M2/PPE/WS685",
+          "score": 100
+        },
+        {
+          "sku": "UC/I2/PPD/WS685",
+          "score": 96
+        },
+        {
+          "sku": "UC/M2/PPE/W4P03",
+          "score": 93
+        },
+        {
+          "sku": "UC/I2/PPE/W4P03",
+          "score": 90
+        },
+        {
+          "sku": "UC/M2/PCR/W3623",
+          "score": 84
+        },
+        {
+          "sku": "UC/R1/PPX/W0103",
+          "score": 83
+        },
+        {
+          "sku": "UC/M2/PCR/W3622",
+          "score": 81
+        },
+        {
+          "sku": "UC/M2/PCD/K5064",
+          "score": 76
+        },
+        {
+          "sku": "UC/P1/PPF/RD164",
+          "score": 73
+        },
+        {
+          "sku": "UC/M2/PCF/W7333",
+          "score": 71
+        },
+        {
+          "sku": "UC/R1/PPF/W0352",
+          "score": 70
+        }
+      ]
+    },
+    {
+      "sku": "UC/I2/PPE/WX921",
+      "name": "X921 WPC Small square Wood",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140984357-dacfa2.jpeg",
+      "mat": "WPC",
+      "mould": "Small square",
+      "finish": "Wood",
+      "type": "Panel",
+      "alts": [
+        "UC/M2/PPE/WX921"
+      ],
+      "matches": [
+        {
+          "sku": "UC/I2/PPD/WX921",
+          "score": 95
+        },
+        {
+          "sku": "UC/M2/PCF/W7331",
+          "score": 87
+        },
+        {
+          "sku": "UC/I2/PPD/R0132",
+          "score": 86
+        },
+        {
+          "sku": "UC/M2/PPE/WS685",
+          "score": 82
+        },
+        {
+          "sku": "UC/R1/PPX/W0114",
+          "score": 81
+        },
+        {
+          "sku": "UC/I2/SPG/WX921",
+          "score": 80
+        }
+      ]
+    },
+    {
+      "sku": "UC/I2/PPS/LA235",
+      "name": "A235 WPC Concave Texture",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1769519914375-12e5b9.jpeg",
+      "mat": "WPC",
+      "mould": "Concave",
+      "finish": "Texture",
+      "type": "Panel",
+      "alts": [],
+      "matches": [
+        {
+          "sku": "UC/M2/PPV/P0292",
+          "score": 86
+        },
+        {
+          "sku": "UC/M2/PPV/P0202",
+          "score": 80
+        },
+        {
+          "sku": "UC/M2/PPC/N0102",
+          "score": 80
+        },
+        {
+          "sku": "UC/I2/PPC/N0102",
+          "score": 78
+        },
+        {
+          "sku": "UC/I2/SPH/LA235",
+          "score": 70
+        }
+      ]
+    },
+    {
+      "sku": "UC/I2/SPG/H2022",
+      "name": "2022 WPC Sheet White | 7 mm",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140966166-e373e9.jpeg",
+      "mat": "WPC",
+      "mould": "Plain",
+      "finish": "White",
+      "type": "Sheet",
+      "alts": [
+        "UC/M2/SP0/H2022"
+      ],
+      "matches": [
+        {
+          "sku": "UC/M2/SP0/H2022",
+          "score": 100
+        },
+        {
+          "sku": "UC/I2/SPG/N2025",
+          "score": 83
+        },
+        {
+          "sku": "UC/M2/SP0/N2025",
+          "score": 83
+        },
+        {
+          "sku": "UC/I2/SPG/N0102",
+          "score": 71
+        },
+        {
+          "sku": "UC/I2/PPC/H2022",
+          "score": 71
+        },
+        {
+          "sku": "UC/M2/PPC/H2022",
+          "score": 71
+        }
+      ]
+    },
+    {
+      "sku": "UC/I2/SPG/N0072",
+      "name": "0072 WPC Sheet Neutral | 7 mm",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140935680-75f7e1.jpeg",
+      "mat": "WPC",
+      "mould": "Plain",
+      "finish": "Neutral",
+      "type": "Sheet",
+      "alts": [
+        "UC/M2/SP0/N0072"
+      ],
+      "matches": [
+        {
+          "sku": "UC/I2/PPC/N0072",
+          "score": 72
+        },
+        {
+          "sku": "UC/M2/PPC/N0072",
+          "score": 72
+        }
+      ]
+    },
+    {
+      "sku": "UC/I2/SPG/N0102",
+      "name": "0102 WPC Sheet Neutral | 7 mm",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324311433-d036de.jpeg",
+      "mat": "WPC",
+      "mould": "Plain",
+      "finish": "Neutral",
+      "type": "Sheet",
+      "alts": [],
+      "matches": [
+        {
+          "sku": "UC/I2/SPG/N2025",
+          "score": 84
+        },
+        {
+          "sku": "UC/M2/SP0/N2025",
+          "score": 84
+        },
+        {
+          "sku": "UC/I2/SPG/N0112",
+          "score": 74
+        },
+        {
+          "sku": "UC/M2/SP0/N0112",
+          "score": 74
+        },
+        {
+          "sku": "UC/I2/PPC/N0102",
+          "score": 72
+        },
+        {
+          "sku": "UC/M2/PPC/N0102",
+          "score": 72
+        },
+        {
+          "sku": "UC/I2/SPG/H2022",
+          "score": 71
+        },
+        {
+          "sku": "UC/M2/SP0/H2022",
+          "score": 71
+        }
+      ]
+    },
+    {
+      "sku": "UC/I2/SPG/N0112",
+      "name": "0112 WPC Sheet Neutral | 7 mm",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140975392-9c1d57.jpeg",
+      "mat": "WPC",
+      "mould": "Plain",
+      "finish": "Neutral",
+      "type": "Sheet",
+      "alts": [
+        "UC/M2/SP0/N0112"
+      ],
+      "matches": [
+        {
+          "sku": "UC/M2/SP0/N0112",
+          "score": 100
+        },
+        {
+          "sku": "UC/I2/SPG/N0102",
+          "score": 74
+        },
+        {
+          "sku": "UC/I2/PPC/N0112",
+          "score": 73
+        },
+        {
+          "sku": "UC/M2/PPC/N0112",
+          "score": 73
+        },
+        {
+          "sku": "UC/P1/PPN/FX903",
+          "score": 72
+        },
+        {
+          "sku": "UC/P1/PPP/FX903",
+          "score": 72
+        },
+        {
+          "sku": "UC/I2/SPG/N2025",
+          "score": 71
+        },
+        {
+          "sku": "UC/M2/SP0/N2025",
+          "score": 71
+        }
+      ]
+    },
+    {
+      "sku": "UC/I2/SPG/N2025",
+      "name": "2025 WPC Sheet Neutral | 7 mm",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140915864-968177.jpeg",
+      "mat": "WPC",
+      "mould": "Plain",
+      "finish": "Neutral",
+      "type": "Sheet",
+      "alts": [
+        "UC/M2/SP0/N2025"
+      ],
+      "matches": [
+        {
+          "sku": "UC/M2/SP0/N2025",
+          "score": 100
+        },
+        {
+          "sku": "UC/I2/SPG/N0102",
+          "score": 84
+        },
+        {
+          "sku": "UC/I2/SPG/H2022",
+          "score": 83
+        },
+        {
+          "sku": "UC/M2/SP0/H2022",
+          "score": 83
+        },
+        {
+          "sku": "UC/I2/SPG/N0112",
+          "score": 71
+        },
+        {
+          "sku": "UC/M2/SP0/N0112",
+          "score": 71
+        },
+        {
+          "sku": "UC/I2/PPC/N2025",
+          "score": 71
+        },
+        {
+          "sku": "UC/M2/PPC/N2025",
+          "score": 71
+        }
+      ]
+    },
+    {
+      "sku": "UC/I2/SPG/W4P03",
+      "name": "4P03 WPC Sheet Wood | 7 mm",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140284177-8bba07.jpeg",
+      "mat": "WPC",
+      "mould": "Plain",
+      "finish": "Wood",
+      "type": "Sheet",
+      "alts": [
+        "UC/M2/SP0/W4P03"
+      ],
+      "matches": [
+        {
+          "sku": "UC/M2/SP0/W4P03",
+          "score": 100
+        },
+        {
+          "sku": "UC/I2/PPE/W4P03",
+          "score": 80
+        },
+        {
+          "sku": "UC/M2/PPE/W4P03",
+          "score": 80
+        },
+        {
+          "sku": "UC/I2/PCM/W5249",
+          "score": 76
+        },
+        {
+          "sku": "UC/I2/SPG/WX913",
+          "score": 74
+        },
+        {
+          "sku": "UC/I2/PCM/W183S",
+          "score": 71
+        },
+        {
+          "sku": "UC/R1/PPX/W0103",
+          "score": 70
+        }
+      ]
+    },
+    {
+      "sku": "UC/I2/SPG/W7073",
+      "name": "7073 WPC Sheet Wood | 7 mm",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1769519895453-9b29f2.jpeg",
+      "mat": "WPC",
+      "mould": "Plain",
+      "finish": "Wood",
+      "type": "Sheet",
+      "alts": [],
+      "matches": [
+        {
+          "sku": "UC/I2/SPG/WS685",
+          "score": 83
+        },
+        {
+          "sku": "UC/M2/SP0/WX905",
+          "score": 80
+        },
+        {
+          "sku": "UC/I2/PPD/W7073",
+          "score": 80
+        },
+        {
+          "sku": "UC/M2/PPD/W7073",
+          "score": 80
+        },
+        {
+          "sku": "UC/I2/SPG/WX905",
+          "score": 79
+        },
+        {
+          "sku": "UC/I2/SPG/W8360",
+          "score": 76
+        },
+        {
+          "sku": "UC/M2/SP0/W8360",
+          "score": 76
+        },
+        {
+          "sku": "UC/P1/PPN/WEM54",
+          "score": 73
+        },
+        {
+          "sku": "UC/P1/PPP/WEM54",
+          "score": 73
+        }
+      ]
+    },
+    {
+      "sku": "UC/I2/SPG/W8360",
+      "name": "8360 WPC Sheet Wood | 7 mm",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770139916980-ca6381.jpeg",
+      "mat": "WPC",
+      "mould": "Plain",
+      "finish": "Wood",
+      "type": "Sheet",
+      "alts": [
+        "UC/M2/SP0/W8360"
+      ],
+      "matches": [
+        {
+          "sku": "UC/M2/SP0/W8360",
+          "score": 100
+        },
+        {
+          "sku": "UC/I2/SPG/WX905",
+          "score": 86
+        },
+        {
+          "sku": "UC/M2/SP0/WX905",
+          "score": 86
+        },
+        {
+          "sku": "UC/P1/PPN/W8360",
+          "score": 85
+        },
+        {
+          "sku": "UC/P1/PPP/W8360",
+          "score": 85
+        },
+        {
+          "sku": "UC/D1/PPP/W0817",
+          "score": 80
+        },
+        {
+          "sku": "UC/I2/PPE/W8360",
+          "score": 79
+        },
+        {
+          "sku": "UC/M2/PPE/W8360",
+          "score": 79
+        },
+        {
+          "sku": "UC/I2/SPG/W7073",
+          "score": 76
+        },
+        {
+          "sku": "UC/P1/PPF/W8360",
+          "score": 76
+        },
+        {
+          "sku": "UC/D1/PPG/W0953",
+          "score": 74
+        },
+        {
+          "sku": "UC/I2/PCI/R78CM",
+          "score": 73
+        },
+        {
+          "sku": "UC/I2/PCI/RB232",
+          "score": 72
+        }
+      ]
+    },
+    {
+      "sku": "UC/I2/SPG/WS685",
+      "name": "S685 WPC Sheet Wood | 7 mm",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1769519904603-e5c5e3.jpeg",
+      "mat": "WPC",
+      "mould": "Plain",
+      "finish": "Wood",
+      "type": "Sheet",
+      "alts": [],
+      "matches": [
+        {
+          "sku": "UC/I2/SPG/W7073",
+          "score": 83
+        },
+        {
+          "sku": "UC/D1/PPP/W0414",
+          "score": 78
+        },
+        {
+          "sku": "UC/P1/PPP/W8360",
+          "score": 78
+        },
+        {
+          "sku": "UC/M2/SP0/WX905",
+          "score": 77
+        },
+        {
+          "sku": "UC/P1/PPN/W8360",
+          "score": 77
+        },
+        {
+          "sku": "UC/I2/SPG/WX905",
+          "score": 76
+        },
+        {
+          "sku": "UC/D1/PPG/W0414",
+          "score": 74
+        },
+        {
+          "sku": "UC/D1/PPG/W0952",
+          "score": 74
+        },
+        {
+          "sku": "UC/P1/PPP/WEM54",
+          "score": 74
+        },
+        {
+          "sku": "UC/P1/PPN/WEM54",
+          "score": 72
+        }
+      ]
+    },
+    {
+      "sku": "UC/I2/SPG/WX905",
+      "name": "X905 WPC Sheet Wood | 7 mm",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770139922872-895de7.jpeg",
+      "mat": "WPC",
+      "mould": "Plain",
+      "finish": "Wood",
+      "type": "Sheet",
+      "alts": [
+        "UC/M2/SP0/WX905"
+      ],
+      "matches": [
+        {
+          "sku": "UC/M2/SP0/WX905",
+          "score": 100
+        },
+        {
+          "sku": "UC/I2/SPG/W8360",
+          "score": 86
+        },
+        {
+          "sku": "UC/M2/SP0/W8360",
+          "score": 85
+        },
+        {
+          "sku": "UC/D1/PPP/W0817",
+          "score": 83
+        },
+        {
+          "sku": "UC/R1/PPP/W9371",
+          "score": 80
+        },
+        {
+          "sku": "UC/D1/PPP/W0620",
+          "score": 80
+        },
+        {
+          "sku": "UC/I2/SPG/W7073",
+          "score": 79
+        },
+        {
+          "sku": "UC/P1/PPN/W8360",
+          "score": 78
+        },
+        {
+          "sku": "UC/P1/PPP/W8360",
+          "score": 78
+        },
+        {
+          "sku": "UC/D1/PPG/W0953",
+          "score": 78
+        },
+        {
+          "sku": "UC/I2/SPG/WS685",
+          "score": 76
+        },
+        {
+          "sku": "UC/I2/PPD/WX905",
+          "score": 76
+        },
+        {
+          "sku": "UC/M2/PPD/WX905",
+          "score": 76
+        },
+        {
+          "sku": "UC/M2/PPE/WX905",
+          "score": 73
+        }
+      ]
+    },
+    {
+      "sku": "UC/I2/SPG/WX913",
+      "name": "X913 WPC Sheet Wood | 7 mm",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770139929544-3f2a49.jpeg",
+      "mat": "WPC",
+      "mould": "Plain",
+      "finish": "Wood",
+      "type": "Sheet",
+      "alts": [
+        "UC/M2/SP0/WX913"
+      ],
+      "matches": [
+        {
+          "sku": "UC/I2/PPD/WX913",
+          "score": 80
+        },
+        {
+          "sku": "UC/P1/PPN/T1456",
+          "score": 75
+        },
+        {
+          "sku": "UC/P1/PPP/T1456",
+          "score": 75
+        },
+        {
+          "sku": "UC/I2/SPG/W4P03",
+          "score": 74
+        },
+        {
+          "sku": "UC/R1/PPP/X1456",
+          "score": 73
+        },
+        {
+          "sku": "UC/M2/SP0/W4P03",
+          "score": 72
+        },
+        {
+          "sku": "UC/D1/PPP/W0953",
+          "score": 71
+        }
+      ]
+    },
+    {
+      "sku": "UC/I2/SPG/WX921",
+      "name": "X921 WPC Sheet Wood | 7 mm",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140294615-99bfdb.jpeg",
+      "mat": "WPC",
+      "mould": "Plain",
+      "finish": "Wood",
+      "type": "Sheet",
+      "alts": [
+        "UC/M2/SP0/WX921"
+      ],
+      "matches": [
+        {
+          "sku": "UC/I2/PPD/WX921",
+          "score": 85
+        },
+        {
+          "sku": "UC/P1/PPP/W9204",
+          "score": 81
+        },
+        {
+          "sku": "UC/P1/PPN/W9204",
+          "score": 80
+        },
+        {
+          "sku": "UC/I2/PPE/WX921",
+          "score": 80
+        },
+        {
+          "sku": "UC/P1/PPN/KEM02",
+          "score": 79
+        },
+        {
+          "sku": "UC/P1/PPP/KEM02",
+          "score": 78
+        }
+      ]
+    },
+    {
+      "sku": "UC/I2/SPH/F0Z18",
+      "name": "0Z18 WPC Sheet Fabric | 7 mm",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323434574-ee15c0.jpeg",
+      "mat": "WPC",
+      "mould": "Plain",
+      "finish": "Fabric",
+      "type": "Sheet",
+      "alts": [],
+      "matches": [
+        {
+          "sku": "UC/I2/SPH/F2027",
+          "score": 85
+        },
+        {
+          "sku": "UC/P1/PPN/F7695",
+          "score": 81
+        },
+        {
+          "sku": "UC/P1/PPP/F7695",
+          "score": 80
+        },
+        {
+          "sku": "UC/I2/SPH/F2025",
+          "score": 76
+        }
+      ]
+    },
+    {
+      "sku": "UC/I2/SPH/F2025",
+      "name": "2025 WPC Sheet Fabric | 7 mm",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323562400-eaf1f0.jpeg",
+      "mat": "WPC",
+      "mould": "Plain",
+      "finish": "Fabric",
+      "type": "Sheet",
+      "alts": [],
+      "matches": [
+        {
+          "sku": "UC/I2/SPH/F2027",
+          "score": 87
+        },
+        {
+          "sku": "UC/I2/SPH/F0Z18",
+          "score": 76
+        },
+        {
+          "sku": "UC/I2/PCR/S0519",
+          "score": 75
+        },
+        {
+          "sku": "UC/I2/PCR/S0643",
+          "score": 73
+        }
+      ]
+    },
+    {
+      "sku": "UC/I2/SPH/F2027",
+      "name": "2027 WPC Sheet Fabric | 7 mm",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323416216-e1657f.jpeg",
+      "mat": "WPC",
+      "mould": "Plain",
+      "finish": "Fabric",
+      "type": "Sheet",
+      "alts": [],
+      "matches": [
+        {
+          "sku": "UC/I2/SPH/F2025",
+          "score": 87
+        },
+        {
+          "sku": "UC/I2/SPH/F0Z18",
+          "score": 85
+        },
+        {
+          "sku": "UC/I2/PCR/S0519",
+          "score": 78
+        },
+        {
+          "sku": "UC/P1/PPP/F7695",
+          "score": 75
+        },
+        {
+          "sku": "UC/P1/PPN/F7695",
+          "score": 74
+        },
+        {
+          "sku": "UC/I2/PCR/S0643",
+          "score": 72
+        },
+        {
+          "sku": "UC/P1/PPN/K9380",
+          "score": 71
+        },
+        {
+          "sku": "UC/P1/PPP/K9380",
+          "score": 70
+        }
+      ]
+    },
+    {
+      "sku": "UC/I2/SPH/L2203",
+      "name": "2203 WPC Sheet Texture | 7 mm",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323547875-39e8d6.jpeg",
+      "mat": "WPC",
+      "mould": "Plain",
+      "finish": "Texture",
+      "type": "Sheet",
+      "alts": [],
+      "matches": [
+        {
+          "sku": "UC/I2/SPH/L9952",
+          "score": 82
+        },
+        {
+          "sku": "UC/P1/PPN/LES84",
+          "score": 74
+        },
+        {
+          "sku": "UC/P1/PPP/LES84",
+          "score": 73
+        },
+        {
+          "sku": "UC/D1/PPP/X0635",
+          "score": 73
+        },
+        {
+          "sku": "UC/I2/SPH/LA235",
+          "score": 73
+        },
+        {
+          "sku": "UC/D1/PPP/X0650",
+          "score": 73
+        },
+        {
+          "sku": "UC/P1/PPN/T0129",
+          "score": 72
+        },
+        {
+          "sku": "UC/P1/PPP/T0129",
+          "score": 72
+        },
+        {
+          "sku": "UC/P1/PPN/K9380",
+          "score": 71
+        },
+        {
+          "sku": "UC/P1/PPP/K9380",
+          "score": 71
+        }
+      ]
+    },
+    {
+      "sku": "UC/I2/SPH/L9952",
+      "name": "9952 WPC Sheet Texture | 7 mm",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323533569-762729.jpeg",
+      "mat": "WPC",
+      "mould": "Plain",
+      "finish": "Texture",
+      "type": "Sheet",
+      "alts": [],
+      "matches": [
+        {
+          "sku": "UC/I2/SPH/LCZ07",
+          "score": 85
+        },
+        {
+          "sku": "UC/I2/SPH/L2203",
+          "score": 82
+        },
+        {
+          "sku": "UC/M2/SS0/M0HXL",
+          "score": 82
+        },
+        {
+          "sku": "UC/P1/PPN/S9001",
+          "score": 76
+        },
+        {
+          "sku": "UC/P1/PPN/LES84",
+          "score": 76
+        },
+        {
+          "sku": "UC/P1/PPP/S9001",
+          "score": 76
+        },
+        {
+          "sku": "UC/D1/PPP/X0635",
+          "score": 72
+        },
+        {
+          "sku": "UC/D1/PPP/X0650",
+          "score": 72
+        }
+      ]
+    },
+    {
+      "sku": "UC/I2/SPH/LA191",
+      "name": "A191 WPC Sheet Texture | 7 mm",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1769519849697-e979c8.jpeg",
+      "mat": "WPC",
+      "mould": "Plain",
+      "finish": "Texture",
+      "type": "Sheet",
+      "alts": [],
+      "matches": []
+    },
+    {
+      "sku": "UC/I2/SPH/LA235",
+      "name": "A235 WPC Sheet Texture | 7 mm",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1769519862186-dd3a51.jpeg",
+      "mat": "WPC",
+      "mould": "Plain",
+      "finish": "Texture",
+      "type": "Sheet",
+      "alts": [],
+      "matches": [
+        {
+          "sku": "UC/P1/PPN/LES84",
+          "score": 91
+        },
+        {
+          "sku": "UC/P1/PPP/LES84",
+          "score": 90
+        },
+        {
+          "sku": "UC/I2/SPH/LCZ08",
+          "score": 81
+        },
+        {
+          "sku": "UC/P1/PPN/LD193",
+          "score": 80
+        },
+        {
+          "sku": "UC/P1/PPP/LD193",
+          "score": 80
+        },
+        {
+          "sku": "UC/I2/SPH/L2203",
+          "score": 73
+        },
+        {
+          "sku": "UC/P1/PPN/T0129",
+          "score": 71
+        },
+        {
+          "sku": "UC/P1/PPP/T0129",
+          "score": 71
+        },
+        {
+          "sku": "UC/I2/PPS/LA235",
+          "score": 70
+        }
+      ]
+    },
+    {
+      "sku": "UC/I2/SPH/LCZ07",
+      "name": "CZ07 WPC Sheet Texture | 7 mm",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323798165-013e8d.jpeg",
+      "mat": "WPC",
+      "mould": "Plain",
+      "finish": "Texture",
+      "type": "Sheet",
+      "alts": [],
+      "matches": [
+        {
+          "sku": "UC/I2/SPH/L9952",
+          "score": 85
+        },
+        {
+          "sku": "UC/M2/SS0/M0HXL",
+          "score": 80
+        },
+        {
+          "sku": "UC/I2/SPH/LCZ08",
+          "score": 79
+        },
+        {
+          "sku": "UC/P1/PPN/LES84",
+          "score": 74
+        }
+      ]
+    },
+    {
+      "sku": "UC/I2/SPH/LCZ08",
+      "name": "CZ08 WPC Sheet Texture | 7 mm",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324304024-cd1b50.jpeg",
+      "mat": "WPC",
+      "mould": "Plain",
+      "finish": "Texture",
+      "type": "Sheet",
+      "alts": [],
+      "matches": [
+        {
+          "sku": "UC/P1/PPN/LES84",
+          "score": 83
+        },
+        {
+          "sku": "UC/P1/PPP/LES84",
+          "score": 83
+        },
+        {
+          "sku": "UC/I2/SPH/LA235",
+          "score": 81
+        },
+        {
+          "sku": "UC/P1/PPN/LD193",
+          "score": 81
+        },
+        {
+          "sku": "UC/P1/PPP/LD193",
+          "score": 81
+        },
+        {
+          "sku": "UC/I2/SPH/LCZ07",
+          "score": 79
+        }
+      ]
+    },
+    {
+      "sku": "UC/I2/SPK/K0001",
+      "name": "0001 WPC Sheet Metallic gold | 7 mm",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324613238-3e41e4.jpeg",
+      "mat": "WPC",
+      "mould": "Plain",
+      "finish": "Metallic gold",
+      "type": "Sheet",
+      "alts": [],
+      "matches": [
+        {
+          "sku": "UC/I2/SPK/Q0002",
+          "score": 74
+        }
+      ]
+    },
+    {
+      "sku": "UC/I2/SPK/Q0002",
+      "name": "0002 WPC Sheet Metallic bronze | 7 mm",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324605262-9ebabb.jpeg",
+      "mat": "WPC",
+      "mould": "Plain",
+      "finish": "Metallic bronze",
+      "type": "Sheet",
+      "alts": [],
+      "matches": [
+        {
+          "sku": "UC/I2/SPK/K0001",
+          "score": 74
+        }
+      ]
+    },
+    {
+      "sku": "UC/L1/SL0/K0156",
+      "name": "0156 Laminate Sheet Metallic gold | 0.8 mm",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1747147698724-f93a9b.jpeg",
+      "mat": "Laminate",
+      "mould": "Plain",
+      "finish": "Metallic gold",
+      "type": "Sheet",
+      "alts": [],
+      "matches": [
+        {
+          "sku": "UC/L1/SL0/Q0155",
+          "score": 84
+        }
+      ]
+    },
+    {
+      "sku": "UC/L1/SL0/Q0155",
+      "name": "0155 Laminate Sheet Metallic bronze | 0.8 mm",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1747147696050-85e7a2.jpeg",
+      "mat": "Laminate",
+      "mould": "Plain",
+      "finish": "Metallic bronze",
+      "type": "Sheet",
+      "alts": [],
+      "matches": [
+        {
+          "sku": "UC/L1/SL0/K0156",
+          "score": 84
+        }
+      ]
+    },
+    {
+      "sku": "UC/M2/PC0/P9552",
+      "name": "9552 Charcoal Basic Neutral",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1729674925179-10f587.jpeg",
+      "mat": "Charcoal",
+      "mould": "Basic",
+      "finish": "Neutral",
+      "type": "Panel",
+      "alts": [],
+      "matches": [
+        {
+          "sku": "UC/M2/PPC/N0112",
+          "score": 78
+        },
+        {
+          "sku": "UC/I2/PPC/N0112",
+          "score": 74
+        }
+      ]
+    },
+    {
+      "sku": "UC/M2/PC0/S9571",
+      "name": "9571 Charcoal Basic Gold",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1723027714698-0077f1.jpeg",
+      "mat": "Charcoal",
+      "mould": "Basic",
+      "finish": "Gold",
+      "type": "Panel",
+      "alts": [],
+      "matches": [
+        {
+          "sku": "UC/M2/PPS/S9065",
+          "score": 70
+        }
+      ]
+    },
+    {
+      "sku": "UC/M2/PC0/S9572",
+      "name": "9572 Charcoal Basic Stone",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1723027712091-fdba77.jpeg",
+      "mat": "Charcoal",
+      "mould": "Basic",
+      "finish": "Stone",
+      "type": "Panel",
+      "alts": [],
+      "matches": [
+        {
+          "sku": "UC/I2/PCV/S0519",
+          "score": 78
+        },
+        {
+          "sku": "UC/I2/PCR/S0519",
+          "score": 76
+        },
+        {
+          "sku": "UC/I2/PCV/SS061",
+          "score": 76
+        },
+        {
+          "sku": "UC/I2/PPD/H2022",
+          "score": 73
+        },
+        {
+          "sku": "UC/M2/PPS/S9065",
+          "score": 73
+        }
+      ]
+    },
+    {
+      "sku": "UC/M2/PCD/K5061",
+      "name": "5061 Charcoal Classic Gold",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324286783-7fee9b.jpeg",
+      "mat": "Charcoal",
+      "mould": "Classic",
+      "finish": "Gold",
+      "type": "Panel",
+      "alts": [],
+      "matches": [
+        {
+          "sku": "UC/M2/PCD/K5062",
+          "score": 78
+        },
+        {
+          "sku": "UC/M2/PCD/K5063",
+          "score": 78
+        },
+        {
+          "sku": "UC/M2/PCD/K5064",
+          "score": 73
+        }
+      ]
+    },
+    {
+      "sku": "UC/M2/PCD/K5062",
+      "name": "5062 Charcoal Classic Gold",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324598521-a4e12d.jpeg",
+      "mat": "Charcoal",
+      "mould": "Classic",
+      "finish": "Gold",
+      "type": "Panel",
+      "alts": [],
+      "matches": [
+        {
+          "sku": "UC/M2/PCD/K5063",
+          "score": 84
+        },
+        {
+          "sku": "UC/M2/PCD/K5061",
+          "score": 78
+        },
+        {
+          "sku": "UC/M2/PPD/R0P61",
+          "score": 71
+        },
+        {
+          "sku": "UC/R1/PPF/O0160",
+          "score": 71
+        }
+      ]
+    },
+    {
+      "sku": "UC/M2/PCD/K5063",
+      "name": "5063 Charcoal Classic Gold",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324590538-02f70d.jpeg",
+      "mat": "Charcoal",
+      "mould": "Classic",
+      "finish": "Gold",
+      "type": "Panel",
+      "alts": [],
+      "matches": [
+        {
+          "sku": "UC/M2/PCD/K5062",
+          "score": 84
+        },
+        {
+          "sku": "UC/M2/PCD/K5061",
+          "score": 78
+        },
+        {
+          "sku": "UC/R1/PPF/O0160",
+          "score": 74
+        },
+        {
+          "sku": "UC/M2/PCD/K5064",
+          "score": 74
+        }
+      ]
+    },
+    {
+      "sku": "UC/M2/PCD/K5064",
+      "name": "5064 Charcoal Classic Gold",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324580509-cd42d3.jpeg",
+      "mat": "Charcoal",
+      "mould": "Classic",
+      "finish": "Gold",
+      "type": "Panel",
+      "alts": [],
+      "matches": [
+        {
+          "sku": "UC/M2/PCR/W3624",
+          "score": 77
+        },
+        {
+          "sku": "UC/M2/PPE/WS685",
+          "score": 77
+        },
+        {
+          "sku": "UC/I2/PPE/WS685",
+          "score": 76
+        },
+        {
+          "sku": "UC/M2/PCD/K5063",
+          "score": 74
+        },
+        {
+          "sku": "UC/I2/PPE/W4P03",
+          "score": 74
+        },
+        {
+          "sku": "UC/M2/PCD/K5061",
+          "score": 73
+        }
+      ]
+    },
+    {
+      "sku": "UC/M2/PCF/R7332",
+      "name": "7332 Charcoal Fluted Neutral",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324278772-fba231.jpeg",
+      "mat": "Charcoal",
+      "mould": "Fluted",
+      "finish": "Neutral",
+      "type": "Panel",
+      "alts": [],
+      "matches": [
+        {
+          "sku": "UC/M2/PPD/R0P61",
+          "score": 90
+        },
+        {
+          "sku": "UC/R1/PPF/O0160",
+          "score": 88
+        },
+        {
+          "sku": "UC/I2/PPD/R0132",
+          "score": 86
+        },
+        {
+          "sku": "UC/M2/PCR/W3621",
+          "score": 82
+        },
+        {
+          "sku": "UC/P1/PPF/RD164",
+          "score": 82
+        }
+      ]
+    },
+    {
+      "sku": "UC/M2/PCF/W7331",
+      "name": "7331 Charcoal Fluted Wood",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324271389-8e9997.jpeg",
+      "mat": "Charcoal",
+      "mould": "Fluted",
+      "finish": "Wood",
+      "type": "Panel",
+      "alts": [],
+      "matches": [
+        {
+          "sku": "UC/I2/PPD/WX921",
+          "score": 89
+        },
+        {
+          "sku": "UC/M2/PCF/W7333",
+          "score": 87
+        },
+        {
+          "sku": "UC/I2/PPE/WX921",
+          "score": 87
+        },
+        {
+          "sku": "UC/P1/PPF/W9204",
+          "score": 85
+        },
+        {
+          "sku": "UC/R1/PPX/W0114",
+          "score": 84
+        },
+        {
+          "sku": "UC/I2/PPD/R0132",
+          "score": 82
+        }
+      ]
+    },
+    {
+      "sku": "UC/M2/PCF/W7333",
+      "name": "7333 Charcoal Fluted Wood",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324263537-a3c2ea.jpeg",
+      "mat": "Charcoal",
+      "mould": "Fluted",
+      "finish": "Wood",
+      "type": "Panel",
+      "alts": [],
+      "matches": [
+        {
+          "sku": "UC/M2/PCF/W7331",
+          "score": 87
+        },
+        {
+          "sku": "UC/R1/PPF/W0352",
+          "score": 87
+        },
+        {
+          "sku": "UC/M2/PCR/W3622",
+          "score": 85
+        },
+        {
+          "sku": "UC/I2/PPD/WX921",
+          "score": 85
+        },
+        {
+          "sku": "UC/M2/PCR/W3621",
+          "score": 77
+        },
+        {
+          "sku": "UC/I2/PPE/WS685",
+          "score": 71
+        },
+        {
+          "sku": "UC/M2/PPE/WS685",
+          "score": 71
+        },
+        {
+          "sku": "UC/I2/PPE/W4P03",
+          "score": 71
+        },
+        {
+          "sku": "UC/M2/PPE/W4P03",
+          "score": 71
+        }
+      ]
+    },
+    {
+      "sku": "UC/M2/PCF/W7334",
+      "name": "7334* Charcoal Fluted Wood",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323774170-af8a9c.jpeg",
+      "mat": "Charcoal",
+      "mould": "Fluted",
+      "finish": "Wood",
+      "type": "Panel",
+      "alts": [
+        "UC/I2/PCF/W7334"
+      ],
+      "matches": [
+        {
+          "sku": "UC/I2/PCF/W7334",
+          "score": 100
+        },
+        {
+          "sku": "UC/M2/PPD/W7073",
+          "score": 83
+        },
+        {
+          "sku": "UC/I2/PPD/W7073",
+          "score": 83
+        },
+        {
+          "sku": "UC/M2/PPD/WX905",
+          "score": 82
+        },
+        {
+          "sku": "UC/I2/PPD/WX905",
+          "score": 80
+        },
+        {
+          "sku": "UC/I2/PPE/W8360",
+          "score": 76
+        }
+      ]
+    },
+    {
+      "sku": "UC/M2/PCR/W3621",
+      "name": "3621 Charcoal Mini rectangle Wood",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324254770-c71488.jpeg",
+      "mat": "Charcoal",
+      "mould": "Mini rectangle",
+      "finish": "Wood",
+      "type": "Panel",
+      "alts": [],
+      "matches": [
+        {
+          "sku": "UC/M2/PCR/W3622",
+          "score": 85
+        },
+        {
+          "sku": "UC/M2/PCR/W3623",
+          "score": 83
+        },
+        {
+          "sku": "UC/M2/PCF/R7332",
+          "score": 82
+        },
+        {
+          "sku": "UC/M2/PPD/R0P61",
+          "score": 79
+        },
+        {
+          "sku": "UC/M2/PCF/W7333",
+          "score": 77
+        },
+        {
+          "sku": "UC/P1/PPF/RD164",
+          "score": 76
+        }
+      ]
+    },
+    {
+      "sku": "UC/M2/PCR/W3622",
+      "name": "3622 Charcoal Mini rectangle Wood",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324245463-5602e5.jpeg",
+      "mat": "Charcoal",
+      "mould": "Mini rectangle",
+      "finish": "Wood",
+      "type": "Panel",
+      "alts": [],
+      "matches": [
+        {
+          "sku": "UC/M2/PCR/W3623",
+          "score": 87
+        },
+        {
+          "sku": "UC/M2/PCF/W7333",
+          "score": 85
+        },
+        {
+          "sku": "UC/M2/PCR/W3621",
+          "score": 85
+        },
+        {
+          "sku": "UC/I2/PPE/WS685",
+          "score": 81
+        },
+        {
+          "sku": "UC/I2/PCI/G1831",
+          "score": 71
+        }
+      ]
+    },
+    {
+      "sku": "UC/M2/PCR/W3623",
+      "name": "3623 Charcoal Mini rectangle Wood",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323763523-c95780.jpeg",
+      "mat": "Charcoal",
+      "mould": "Mini rectangle",
+      "finish": "Wood",
+      "type": "Panel",
+      "alts": [],
+      "matches": [
+        {
+          "sku": "UC/M2/PCR/W3624",
+          "score": 90
+        },
+        {
+          "sku": "UC/M2/PCR/W3622",
+          "score": 87
+        },
+        {
+          "sku": "UC/I2/PPE/W4P03",
+          "score": 85
+        },
+        {
+          "sku": "UC/M2/PPE/W4P03",
+          "score": 85
+        },
+        {
+          "sku": "UC/I2/PPE/WS685",
+          "score": 84
+        },
+        {
+          "sku": "UC/M2/PPE/WS685",
+          "score": 84
+        },
+        {
+          "sku": "UC/M2/PCR/W3621",
+          "score": 83
+        },
+        {
+          "sku": "UC/I2/PPD/WS685",
+          "score": 82
+        }
+      ]
+    },
+    {
+      "sku": "UC/M2/PCR/W3624",
+      "name": "3624 Charcoal Mini rectangle Wood",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323747075-a04ac2.jpeg",
+      "mat": "Charcoal",
+      "mould": "Mini rectangle",
+      "finish": "Wood",
+      "type": "Panel",
+      "alts": [],
+      "matches": [
+        {
+          "sku": "UC/M2/PCR/W3623",
+          "score": 90
+        },
+        {
+          "sku": "UC/M2/PPE/W4P03",
+          "score": 82
+        },
+        {
+          "sku": "UC/R1/PPF/O0160",
+          "score": 81
+        },
+        {
+          "sku": "UC/I2/PPE/W4P03",
+          "score": 80
+        },
+        {
+          "sku": "UC/M2/PCD/K5064",
+          "score": 77
+        }
+      ]
+    },
+    {
+      "sku": "UC/M2/PCS/K5081",
+      "name": "5081 Charcoal Concave Gold",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324236440-f726c2.jpeg",
+      "mat": "Charcoal",
+      "mould": "Concave",
+      "finish": "Gold",
+      "type": "Panel",
+      "alts": [],
+      "matches": [
+        {
+          "sku": "UC/M2/PPD/H2022",
+          "score": 85
+        },
+        {
+          "sku": "UC/I2/PPD/H2022",
+          "score": 85
+        },
+        {
+          "sku": "UC/M2/PPC/N0102",
+          "score": 83
+        },
+        {
+          "sku": "UC/M2/PCS/K5083",
+          "score": 82
+        },
+        {
+          "sku": "UC/I2/PPC/N0102",
+          "score": 80
+        },
+        {
+          "sku": "UC/M2/PCS/K5082",
+          "score": 79
+        },
+        {
+          "sku": "UC/R1/PPF/W0333",
+          "score": 74
+        }
+      ]
+    },
+    {
+      "sku": "UC/M2/PCS/K5082",
+      "name": "5082 Charcoal Concave Gold",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324227958-666a55.jpeg",
+      "mat": "Charcoal",
+      "mould": "Concave",
+      "finish": "Gold",
+      "type": "Panel",
+      "alts": [],
+      "matches": [
+        {
+          "sku": "UC/M2/PCS/K5083",
+          "score": 85
+        },
+        {
+          "sku": "UC/M2/PCS/K5084",
+          "score": 80
+        },
+        {
+          "sku": "UC/M2/PCS/K5081",
+          "score": 79
+        },
+        {
+          "sku": "UC/M2/PCU/K5537",
+          "score": 78
+        }
+      ]
+    },
+    {
+      "sku": "UC/M2/PCS/K5083",
+      "name": "5083 Charcoal Concave Gold",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324218592-76c4ee.jpeg",
+      "mat": "Charcoal",
+      "mould": "Concave",
+      "finish": "Gold",
+      "type": "Panel",
+      "alts": [],
+      "matches": [
+        {
+          "sku": "UC/M2/PCS/K5084",
+          "score": 87
+        },
+        {
+          "sku": "UC/M2/PCS/K5082",
+          "score": 85
+        },
+        {
+          "sku": "UC/M2/PCS/K5081",
+          "score": 82
+        },
+        {
+          "sku": "UC/M2/PCU/K5537",
+          "score": 81
+        }
+      ]
+    },
+    {
+      "sku": "UC/M2/PCS/K5084",
+      "name": "5084 Charcoal Concave Gold",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324209974-0313bc.jpeg",
+      "mat": "Charcoal",
+      "mould": "Concave",
+      "finish": "Gold",
+      "type": "Panel",
+      "alts": [],
+      "matches": [
+        {
+          "sku": "UC/M2/PCS/K5083",
+          "score": 87
+        },
+        {
+          "sku": "UC/I2/PPD/H2022",
+          "score": 82
+        },
+        {
+          "sku": "UC/M2/PPD/H2022",
+          "score": 81
+        },
+        {
+          "sku": "UC/M2/PCS/K5082",
+          "score": 80
+        }
+      ]
+    },
+    {
+      "sku": "UC/M2/PCU/K5537",
+      "name": "5537 Charcoal Mini concave Gold",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323891459-9d1f95.jpeg",
+      "mat": "Charcoal",
+      "mould": "Mini concave",
+      "finish": "Gold",
+      "type": "Panel",
+      "alts": [],
+      "matches": [
+        {
+          "sku": "UC/I2/PCV/S0519",
+          "score": 83
+        },
+        {
+          "sku": "UC/M2/PCS/K5083",
+          "score": 81
+        },
+        {
+          "sku": "UC/M2/PPV/S0852",
+          "score": 81
+        },
+        {
+          "sku": "UC/I2/PPD/H2022",
+          "score": 81
+        },
+        {
+          "sku": "UC/M2/PPD/H2022",
+          "score": 80
+        },
+        {
+          "sku": "UC/I2/PCV/SS061",
+          "score": 79
+        },
+        {
+          "sku": "UC/M2/PCS/K5082",
+          "score": 78
+        }
+      ]
+    },
+    {
+      "sku": "UC/M2/PPC/H2022",
+      "name": "2022* WPC Ceramic White",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324201892-f83dba.jpeg",
+      "mat": "WPC",
+      "mould": "Ceramic",
+      "finish": "White",
+      "type": "Panel",
+      "alts": [
+        "UC/I2/PPC/H2022"
+      ],
+      "matches": [
+        {
+          "sku": "UC/I2/PPC/H2022",
+          "score": 100
+        },
+        {
+          "sku": "UC/M2/PPS/H2022",
+          "score": 90
+        },
+        {
+          "sku": "UC/I2/PPD/H2022",
+          "score": 90
+        },
+        {
+          "sku": "UC/M2/PPD/H2022",
+          "score": 90
+        },
+        {
+          "sku": "UC/M2/PPV/H2022",
+          "score": 89
+        },
+        {
+          "sku": "UC/M2/PPV/P0212",
+          "score": 85
+        },
+        {
+          "sku": "UC/I2/PPC/N2025",
+          "score": 82
+        },
+        {
+          "sku": "UC/M2/PPC/N2025",
+          "score": 82
+        },
+        {
+          "sku": "UC/I2/PPC/N0102",
+          "score": 78
+        },
+        {
+          "sku": "UC/I2/SPG/H2022",
+          "score": 71
+        },
+        {
+          "sku": "UC/M2/SP0/H2022",
+          "score": 71
+        }
+      ]
+    },
+    {
+      "sku": "UC/M2/PPC/N0072",
+      "name": "0072* WPC Ceramic Neutral",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324193498-7a9fec.jpeg",
+      "mat": "WPC",
+      "mould": "Ceramic",
+      "finish": "Neutral",
+      "type": "Panel",
+      "alts": [
+        "UC/I2/PPC/N0072"
+      ],
+      "matches": [
+        {
+          "sku": "UC/I2/PPC/N0072",
+          "score": 100
+        },
+        {
+          "sku": "UC/I2/PCU/H006G",
+          "score": 88
+        },
+        {
+          "sku": "UC/I2/PPC/N0102",
+          "score": 79
+        },
+        {
+          "sku": "UC/M2/PPC/N0102",
+          "score": 77
+        },
+        {
+          "sku": "UC/I2/PCU/P8461",
+          "score": 77
+        },
+        {
+          "sku": "UC/I2/SPG/N0072",
+          "score": 72
+        }
+      ]
+    },
+    {
+      "sku": "UC/M2/PPC/N0102",
+      "name": "0102* WPC Ceramic Neutral",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324184926-f4096a.jpeg",
+      "mat": "WPC",
+      "mould": "Ceramic",
+      "finish": "Neutral",
+      "type": "Panel",
+      "alts": [
+        "UC/I2/PPC/N0102"
+      ],
+      "matches": [
+        {
+          "sku": "UC/I2/PPC/N0102",
+          "score": 100
+        },
+        {
+          "sku": "UC/I2/PPC/N2025",
+          "score": 92
+        },
+        {
+          "sku": "UC/M2/PPC/N2025",
+          "score": 91
+        },
+        {
+          "sku": "UC/I2/PPD/H2022",
+          "score": 85
+        },
+        {
+          "sku": "UC/M2/PPD/H2022",
+          "score": 84
+        },
+        {
+          "sku": "UC/M2/PCS/K5081",
+          "score": 83
+        },
+        {
+          "sku": "UC/I2/PCU/P012G",
+          "score": 80
+        },
+        {
+          "sku": "UC/I2/PPS/LA235",
+          "score": 80
+        },
+        {
+          "sku": "UC/I2/PPC/N0072",
+          "score": 79
+        },
+        {
+          "sku": "UC/M2/PPC/N0072",
+          "score": 77
+        },
+        {
+          "sku": "UC/I2/SPG/N0102",
+          "score": 72
+        },
+        {
+          "sku": "UC/M2/PPV/P0202",
+          "score": 71
+        },
+        {
+          "sku": "UC/I2/PCI/G8461",
+          "score": 70
+        }
+      ]
+    },
+    {
+      "sku": "UC/M2/PPC/N0112",
+      "name": "0112* WPC Ceramic Neutral",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324176359-51ad97.jpeg",
+      "mat": "WPC",
+      "mould": "Ceramic",
+      "finish": "Neutral",
+      "type": "Panel",
+      "alts": [
+        "UC/I2/PPC/N0112"
+      ],
+      "matches": [
+        {
+          "sku": "UC/I2/PPC/N0112",
+          "score": 100
+        },
+        {
+          "sku": "UC/I2/PCM/W5249",
+          "score": 84
+        },
+        {
+          "sku": "UC/I2/PCM/W183S",
+          "score": 81
+        },
+        {
+          "sku": "UC/I2/PPD/WX913",
+          "score": 81
+        },
+        {
+          "sku": "UC/M2/PC0/P9552",
+          "score": 78
+        },
+        {
+          "sku": "UC/I2/PCU/PM090",
+          "score": 75
+        },
+        {
+          "sku": "UC/I2/SPG/N0112",
+          "score": 73
+        },
+        {
+          "sku": "UC/M2/SP0/N0112",
+          "score": 73
+        },
+        {
+          "sku": "UC/M2/PPS/RA209",
+          "score": 71
+        }
+      ]
+    },
+    {
+      "sku": "UC/M2/PPC/N2025",
+      "name": "2025* WPC Ceramic Neutral",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324168617-538a58.jpeg",
+      "mat": "WPC",
+      "mould": "Ceramic",
+      "finish": "Neutral",
+      "type": "Panel",
+      "alts": [
+        "UC/I2/PPC/N2025"
+      ],
+      "matches": [
+        {
+          "sku": "UC/I2/PPC/N2025",
+          "score": 100
+        },
+        {
+          "sku": "UC/I2/PPC/N0102",
+          "score": 91
+        },
+        {
+          "sku": "UC/M2/PPC/N0102",
+          "score": 91
+        },
+        {
+          "sku": "UC/I2/PPD/H2022",
+          "score": 88
+        },
+        {
+          "sku": "UC/M2/PPV/P0202",
+          "score": 87
+        },
+        {
+          "sku": "UC/M2/PPC/H2022",
+          "score": 82
+        },
+        {
+          "sku": "UC/I2/PPC/H2022",
+          "score": 80
+        },
+        {
+          "sku": "UC/M2/PPD/H2022",
+          "score": 72
+        },
+        {
+          "sku": "UC/I2/SPG/N2025",
+          "score": 71
+        },
+        {
+          "sku": "UC/M2/SP0/N2025",
+          "score": 71
+        }
+      ]
+    },
+    {
+      "sku": "UC/M2/PPD/H2022",
+      "name": "2022* WPC Classic White",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324160451-1fc135.jpeg",
+      "mat": "WPC",
+      "mould": "Classic",
+      "finish": "White",
+      "type": "Panel",
+      "alts": [
+        "UC/I2/PPD/H2022"
+      ],
+      "matches": [
+        {
+          "sku": "UC/I2/PPD/H2022",
+          "score": 100
+        },
+        {
+          "sku": "UC/M2/PPV/H2022",
+          "score": 92
+        },
+        {
+          "sku": "UC/M2/PPS/H2022",
+          "score": 92
+        },
+        {
+          "sku": "UC/I2/PPC/H2022",
+          "score": 90
+        },
+        {
+          "sku": "UC/M2/PPC/H2022",
+          "score": 90
+        },
+        {
+          "sku": "UC/M2/PPV/P0212",
+          "score": 87
+        },
+        {
+          "sku": "UC/M2/PCS/K5081",
+          "score": 85
+        },
+        {
+          "sku": "UC/I2/PPC/N2025",
+          "score": 85
+        },
+        {
+          "sku": "UC/M2/PPC/N0102",
+          "score": 84
+        },
+        {
+          "sku": "UC/I2/PPC/N0102",
+          "score": 83
+        },
+        {
+          "sku": "UC/M2/PCS/K5084",
+          "score": 81
+        },
+        {
+          "sku": "UC/M2/PCU/K5537",
+          "score": 80
+        },
+        {
+          "sku": "UC/I2/PCV/S0519",
+          "score": 79
+        },
+        {
+          "sku": "UC/M2/PPC/N2025",
+          "score": 72
+        },
+        {
+          "sku": "UC/M2/PPV/P0202",
+          "score": 70
+        }
+      ]
+    },
+    {
+      "sku": "UC/M2/PPD/K3731",
+      "name": "3731* WPC Classic Gold",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324152426-20f472.jpeg",
+      "mat": "WPC",
+      "mould": "Classic",
+      "finish": "Gold",
+      "type": "Panel",
+      "alts": [
+        "UC/I2/PPD/K3731"
+      ],
+      "matches": [
+        {
+          "sku": "UC/I2/PPD/K3731",
+          "score": 100
+        },
+        {
+          "sku": "UC/M2/PPE/WX905",
+          "score": 76
+        },
+        {
+          "sku": "UC/P1/PPF/W8360",
+          "score": 75
+        },
+        {
+          "sku": "UC/I2/PPD/WX905",
+          "score": 74
+        },
+        {
+          "sku": "UC/M2/PPD/WX905",
+          "score": 73
+        }
+      ]
+    },
+    {
+      "sku": "UC/M2/PPD/R0P61",
+      "name": "0P61 WPC Classic Neutral",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324570384-025e19.jpeg",
+      "mat": "WPC",
+      "mould": "Classic",
+      "finish": "Neutral",
+      "type": "Panel",
+      "alts": [
+        "UC/I2/PPD/R0P61"
+      ],
+      "matches": [
+        {
+          "sku": "UC/M2/PCF/R7332",
+          "score": 90
+        },
+        {
+          "sku": "UC/R1/PPF/O0160",
+          "score": 86
+        },
+        {
+          "sku": "UC/P1/PPF/RD164",
+          "score": 82
+        },
+        {
+          "sku": "UC/I2/PPD/R0132",
+          "score": 81
+        },
+        {
+          "sku": "UC/M2/PCR/W3621",
+          "score": 79
+        },
+        {
+          "sku": "UC/M2/PCD/K5062",
+          "score": 71
+        }
+      ]
+    },
+    {
+      "sku": "UC/M2/PPD/W7073",
+      "name": "7073* WPC Classic Wood",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323735993-f2980d.jpeg",
+      "mat": "WPC",
+      "mould": "Classic",
+      "finish": "Wood",
+      "type": "Panel",
+      "alts": [
+        "UC/I2/PPD/W7073"
+      ],
+      "matches": [
+        {
+          "sku": "UC/I2/PPD/W7073",
+          "score": 100
+        },
+        {
+          "sku": "UC/I2/PCF/W7334",
+          "score": 83
+        },
+        {
+          "sku": "UC/M2/PCF/W7334",
+          "score": 83
+        },
+        {
+          "sku": "UC/I2/PPD/WX905",
+          "score": 81
+        },
+        {
+          "sku": "UC/I2/PPD/WX919",
+          "score": 81
+        },
+        {
+          "sku": "UC/I2/SPG/W7073",
+          "score": 80
+        },
+        {
+          "sku": "UC/M2/PPD/WX905",
+          "score": 78
+        },
+        {
+          "sku": "UC/D1/PPG/W0414",
+          "score": 76
+        },
+        {
+          "sku": "UC/D1/PPG/W0952",
+          "score": 76
+        }
+      ]
+    },
+    {
+      "sku": "UC/M2/PPD/WX905",
+      "name": "X905* WPC Classic Wood",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324143124-7557ea.jpeg",
+      "mat": "WPC",
+      "mould": "Classic",
+      "finish": "Wood",
+      "type": "Panel",
+      "alts": [
+        "UC/I2/PPD/WX905"
+      ],
+      "matches": [
+        {
+          "sku": "UC/I2/PPD/WX905",
+          "score": 100
+        },
+        {
+          "sku": "UC/M2/PPE/WX905",
+          "score": 90
+        },
+        {
+          "sku": "UC/P1/PPF/W8360",
+          "score": 84
+        },
+        {
+          "sku": "UC/M2/PCF/W7334",
+          "score": 82
+        },
+        {
+          "sku": "UC/I2/PPD/W7073",
+          "score": 82
+        },
+        {
+          "sku": "UC/I2/PPD/WX919",
+          "score": 81
+        },
+        {
+          "sku": "UC/I2/PCF/W7334",
+          "score": 80
+        },
+        {
+          "sku": "UC/M2/PPD/WX919",
+          "score": 80
+        },
+        {
+          "sku": "UC/M2/PPD/W7073",
+          "score": 78
+        },
+        {
+          "sku": "UC/I2/SPG/WX905",
+          "score": 76
+        },
+        {
+          "sku": "UC/M2/SP0/WX905",
+          "score": 76
+        },
+        {
+          "sku": "UC/M2/PPD/K3731",
+          "score": 73
+        },
+        {
+          "sku": "UC/I2/PPD/K3731",
+          "score": 72
+        }
+      ]
+    },
+    {
+      "sku": "UC/M2/PPD/WX919",
+      "name": "X919* WPC Classic Wood",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323723526-953d46.jpeg",
+      "mat": "WPC",
+      "mould": "Classic",
+      "finish": "Wood",
+      "type": "Panel",
+      "alts": [
+        "UC/I2/PPD/WX919"
+      ],
+      "matches": [
+        {
+          "sku": "UC/I2/PPD/WX919",
+          "score": 100
+        },
+        {
+          "sku": "UC/I2/PPD/WX905",
+          "score": 82
+        },
+        {
+          "sku": "UC/M2/PPE/WX905",
+          "score": 81
+        },
+        {
+          "sku": "UC/I2/PPD/W7073",
+          "score": 80
+        },
+        {
+          "sku": "UC/M2/PPD/WX905",
+          "score": 80
+        },
+        {
+          "sku": "UC/I2/PPE/W8360",
+          "score": 76
+        },
+        {
+          "sku": "UC/M2/PPE/W8360",
+          "score": 76
+        }
+      ]
+    },
+    {
+      "sku": "UC/M2/PPE/W4P03",
+      "name": "4P03* WPC Small square Wood",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324111441-4d97f1.jpeg",
+      "mat": "WPC",
+      "mould": "Small square",
+      "finish": "Wood",
+      "type": "Panel",
+      "alts": [
+        "UC/I2/PPE/W4P03"
+      ],
+      "matches": [
+        {
+          "sku": "UC/I2/PPE/W4P03",
+          "score": 100
+        },
+        {
+          "sku": "UC/I2/PPE/WS685",
+          "score": 93
+        },
+        {
+          "sku": "UC/M2/PPE/WS685",
+          "score": 92
+        },
+        {
+          "sku": "UC/I2/PPD/WS685",
+          "score": 91
+        },
+        {
+          "sku": "UC/M2/PCR/W3623",
+          "score": 85
+        },
+        {
+          "sku": "UC/M2/PCR/W3624",
+          "score": 82
+        },
+        {
+          "sku": "UC/I2/SPG/W4P03",
+          "score": 80
+        },
+        {
+          "sku": "UC/M2/SP0/W4P03",
+          "score": 80
+        },
+        {
+          "sku": "UC/M2/PCF/W7333",
+          "score": 71
+        },
+        {
+          "sku": "UC/R1/PPX/W0103",
+          "score": 71
+        }
+      ]
+    },
+    {
+      "sku": "UC/M2/PPE/W8360",
+      "name": "8360* WPC Small square Wood",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324102555-78b518.jpeg",
+      "mat": "WPC",
+      "mould": "Small square",
+      "finish": "Wood",
+      "type": "Panel",
+      "alts": [
+        "UC/I2/PPE/W8360"
+      ],
+      "matches": [
+        {
+          "sku": "UC/I2/PPE/W8360",
+          "score": 100
+        },
+        {
+          "sku": "UC/P1/PPF/W8360",
+          "score": 83
+        },
+        {
+          "sku": "UC/M2/PPE/WX905",
+          "score": 83
+        },
+        {
+          "sku": "UC/I2/SPG/W8360",
+          "score": 79
+        },
+        {
+          "sku": "UC/M2/SP0/W8360",
+          "score": 79
+        },
+        {
+          "sku": "UC/P1/PPN/W8360",
+          "score": 78
+        },
+        {
+          "sku": "UC/P1/PPP/W8360",
+          "score": 78
+        },
+        {
+          "sku": "UC/M2/PPD/WX919",
+          "score": 76
+        },
+        {
+          "sku": "UC/I2/PPD/WX919",
+          "score": 75
+        },
+        {
+          "sku": "UC/I2/PCF/W7334",
+          "score": 73
+        },
+        {
+          "sku": "UC/I2/PCD/RA901",
+          "score": 73
+        }
+      ]
+    },
+    {
+      "sku": "UC/M2/PPE/WS685",
+      "name": "S685* WPC Small square Wood",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323367770-f26680.jpeg",
+      "mat": "WPC",
+      "mould": "Small square",
+      "finish": "Wood",
+      "type": "Panel",
+      "alts": [
+        "UC/I2/PPE/WS685"
+      ],
+      "matches": [
+        {
+          "sku": "UC/I2/PPE/WS685",
+          "score": 100
+        },
+        {
+          "sku": "UC/I2/PPD/WS685",
+          "score": 96
+        },
+        {
+          "sku": "UC/I2/PPE/W4P03",
+          "score": 93
+        },
+        {
+          "sku": "UC/M2/PPE/W4P03",
+          "score": 92
+        },
+        {
+          "sku": "UC/M2/PCR/W3623",
+          "score": 84
+        },
+        {
+          "sku": "UC/R1/PPX/W0103",
+          "score": 84
+        },
+        {
+          "sku": "UC/R1/PPF/W0352",
+          "score": 84
+        },
+        {
+          "sku": "UC/I2/PPE/WX921",
+          "score": 82
+        },
+        {
+          "sku": "UC/M2/PCD/K5064",
+          "score": 77
+        },
+        {
+          "sku": "UC/M2/PCF/W7333",
+          "score": 71
+        }
+      ]
+    },
+    {
+      "sku": "UC/M2/PPE/WX905",
+      "name": "X905* WPC Small square Wood",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324093359-1440b0.jpeg",
+      "mat": "WPC",
+      "mould": "Small square",
+      "finish": "Wood",
+      "type": "Panel",
+      "alts": [],
+      "matches": [
+        {
+          "sku": "UC/I2/PPD/WX905",
+          "score": 90
+        },
+        {
+          "sku": "UC/M2/PPD/WX905",
+          "score": 90
+        },
+        {
+          "sku": "UC/I2/PPE/W8360",
+          "score": 84
+        },
+        {
+          "sku": "UC/M2/PPE/W8360",
+          "score": 83
+        },
+        {
+          "sku": "UC/I2/PPD/WX919",
+          "score": 81
+        },
+        {
+          "sku": "UC/M2/PPD/WX919",
+          "score": 81
+        },
+        {
+          "sku": "UC/P1/PPF/W8360",
+          "score": 80
+        },
+        {
+          "sku": "UC/I2/PPD/K3731",
+          "score": 77
+        },
+        {
+          "sku": "UC/M2/PPD/K3731",
+          "score": 76
+        },
+        {
+          "sku": "UC/I2/SPG/WX905",
+          "score": 73
+        },
+        {
+          "sku": "UC/M2/SP0/WX905",
+          "score": 73
+        },
+        {
+          "sku": "UC/I2/PCD/RA901",
+          "score": 71
+        }
+      ]
+    },
+    {
+      "sku": "UC/M2/PPS/H2022",
+      "name": "2022 WPC Concave White",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324081200-f6d545.jpeg",
+      "mat": "WPC",
+      "mould": "Concave",
+      "finish": "White",
+      "type": "Panel",
+      "alts": [],
+      "matches": [
+        {
+          "sku": "UC/M2/PPV/H2022",
+          "score": 95
+        },
+        {
+          "sku": "UC/M2/PPV/P0212",
+          "score": 93
+        },
+        {
+          "sku": "UC/I2/PPD/H2022",
+          "score": 92
+        },
+        {
+          "sku": "UC/M2/PPD/H2022",
+          "score": 92
+        },
+        {
+          "sku": "UC/I2/PPC/H2022",
+          "score": 90
+        },
+        {
+          "sku": "UC/M2/PPC/H2022",
+          "score": 90
+        },
+        {
+          "sku": "UC/M2/PPV/P0202",
+          "score": 84
+        },
+        {
+          "sku": "UC/I2/PPC/N2025",
+          "score": 80
+        },
+        {
+          "sku": "UC/M2/PPV/P0292",
+          "score": 77
+        }
+      ]
+    },
+    {
+      "sku": "UC/M2/PPS/RA209",
+      "name": "A209 WPC Concave Neutral",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324072204-1ab777.jpeg",
+      "mat": "WPC",
+      "mould": "Concave",
+      "finish": "Neutral",
+      "type": "Panel",
+      "alts": [],
+      "matches": [
+        {
+          "sku": "UC/R1/PPF/O0160",
+          "score": 72
+        },
+        {
+          "sku": "UC/I2/PPD/WX913",
+          "score": 71
+        },
+        {
+          "sku": "UC/M2/PPC/N0112",
+          "score": 71
+        }
+      ]
+    },
+    {
+      "sku": "UC/M2/PPS/S9065",
+      "name": "9065 WPC Concave Stone",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324060454-d1d4d7.jpeg",
+      "mat": "WPC",
+      "mould": "Concave",
+      "finish": "Stone",
+      "type": "Panel",
+      "alts": [],
+      "matches": [
+        {
+          "sku": "UC/I2/PPC/H2022",
+          "score": 74
+        },
+        {
+          "sku": "UC/M2/PC0/S9572",
+          "score": 73
+        },
+        {
+          "sku": "UC/M2/SS0/M4501",
+          "score": 73
+        },
+        {
+          "sku": "UC/M2/SS0/M8083",
+          "score": 72
+        },
+        {
+          "sku": "UC/M2/PC0/S9571",
+          "score": 70
+        }
+      ]
+    },
+    {
+      "sku": "UC/M2/PPV/H2022",
+      "name": "2022 WPC Convex White",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324046782-014ff8.jpeg",
+      "mat": "WPC",
+      "mould": "Convex",
+      "finish": "White",
+      "type": "Panel",
+      "alts": [],
+      "matches": [
+        {
+          "sku": "UC/M2/PPS/H2022",
+          "score": 95
+        },
+        {
+          "sku": "UC/M2/PPV/P0212",
+          "score": 93
+        },
+        {
+          "sku": "UC/I2/PPD/H2022",
+          "score": 92
+        },
+        {
+          "sku": "UC/M2/PPD/H2022",
+          "score": 92
+        },
+        {
+          "sku": "UC/M2/PPV/P0202",
+          "score": 92
+        },
+        {
+          "sku": "UC/I2/PPC/H2022",
+          "score": 89
+        },
+        {
+          "sku": "UC/M2/PPC/H2022",
+          "score": 89
+        },
+        {
+          "sku": "UC/M2/PPV/P0292",
+          "score": 84
+        },
+        {
+          "sku": "UC/M2/PPV/S0852",
+          "score": 83
+        }
+      ]
+    },
+    {
+      "sku": "UC/M2/PPV/P0202",
+      "name": "0202 WPC Convex Pastel",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324038099-12b760.jpeg",
+      "mat": "WPC",
+      "mould": "Convex",
+      "finish": "Pastel",
+      "type": "Panel",
+      "alts": [],
+      "matches": [
+        {
+          "sku": "UC/M2/PPV/H2022",
+          "score": 92
+        },
+        {
+          "sku": "UC/M2/PPV/P0212",
+          "score": 90
+        },
+        {
+          "sku": "UC/M2/PPV/P0292",
+          "score": 88
+        },
+        {
+          "sku": "UC/I2/PPC/N2025",
+          "score": 88
+        },
+        {
+          "sku": "UC/M2/PPC/N2025",
+          "score": 87
+        },
+        {
+          "sku": "UC/M2/PPV/S0852",
+          "score": 85
+        },
+        {
+          "sku": "UC/M2/PPS/H2022",
+          "score": 84
+        },
+        {
+          "sku": "UC/I2/PCU/P012G",
+          "score": 82
+        },
+        {
+          "sku": "UC/I2/PCU/PM090",
+          "score": 81
+        },
+        {
+          "sku": "UC/I2/PPS/LA235",
+          "score": 80
+        },
+        {
+          "sku": "UC/M2/PPC/N0102",
+          "score": 71
+        },
+        {
+          "sku": "UC/I2/PPC/N0102",
+          "score": 71
+        },
+        {
+          "sku": "UC/I2/PPD/H2022",
+          "score": 70
+        },
+        {
+          "sku": "UC/M2/PPD/H2022",
+          "score": 70
+        }
+      ]
+    },
+    {
+      "sku": "UC/M2/PPV/P0212",
+      "name": "0212 WPC Convex Pastel",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324029496-4c1434.jpeg",
+      "mat": "WPC",
+      "mould": "Convex",
+      "finish": "Pastel",
+      "type": "Panel",
+      "alts": [],
+      "matches": [
+        {
+          "sku": "UC/M2/PPS/H2022",
+          "score": 93
+        },
+        {
+          "sku": "UC/M2/PPV/H2022",
+          "score": 93
+        },
+        {
+          "sku": "UC/M2/PPV/P0202",
+          "score": 90
+        },
+        {
+          "sku": "UC/M2/PPD/H2022",
+          "score": 87
+        },
+        {
+          "sku": "UC/I2/PPD/H2022",
+          "score": 86
+        },
+        {
+          "sku": "UC/I2/PPC/H2022",
+          "score": 86
+        },
+        {
+          "sku": "UC/M2/PPV/S0852",
+          "score": 85
+        },
+        {
+          "sku": "UC/M2/PPC/H2022",
+          "score": 85
+        },
+        {
+          "sku": "UC/I2/PCU/P8461",
+          "score": 72
+        },
+        {
+          "sku": "UC/M2/PPV/P0292",
+          "score": 71
+        }
+      ]
+    },
+    {
+      "sku": "UC/M2/PPV/P0292",
+      "name": "0292 WPC Convex Pastel",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324015223-8bf55a.jpeg",
+      "mat": "WPC",
+      "mould": "Convex",
+      "finish": "Pastel",
+      "type": "Panel",
+      "alts": [],
+      "matches": [
+        {
+          "sku": "UC/I2/PCU/P012G",
+          "score": 91
+        },
+        {
+          "sku": "UC/M2/PPV/P0202",
+          "score": 88
+        },
+        {
+          "sku": "UC/I2/PPS/LA235",
+          "score": 86
+        },
+        {
+          "sku": "UC/M2/PPV/H2022",
+          "score": 84
+        },
+        {
+          "sku": "UC/I2/PCU/PM090",
+          "score": 84
+        },
+        {
+          "sku": "UC/M2/PPS/H2022",
+          "score": 77
+        },
+        {
+          "sku": "UC/M2/PPV/P0212",
+          "score": 71
+        }
+      ]
+    },
+    {
+      "sku": "UC/M2/PPV/S0852",
+      "name": "0852 WPC Convex Stone",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324005384-93eb9b.jpeg",
+      "mat": "WPC",
+      "mould": "Convex",
+      "finish": "Stone",
+      "type": "Panel",
+      "alts": [],
+      "matches": [
+        {
+          "sku": "UC/M2/PPV/P0212",
+          "score": 85
+        },
+        {
+          "sku": "UC/M2/PPV/P0202",
+          "score": 85
+        },
+        {
+          "sku": "UC/M2/PPV/H2022",
+          "score": 83
+        },
+        {
+          "sku": "UC/M2/PCU/K5537",
+          "score": 81
+        }
+      ]
+    },
+    {
+      "sku": "UC/M2/SP0/H2022",
+      "name": "2022 WPC Sheet White | 5 mm",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323995033-b6e01a.jpeg",
+      "mat": "WPC",
+      "mould": "Plain",
+      "finish": "White",
+      "type": "Sheet",
+      "alts": [
+        "UC/I2/SPG/H2022"
+      ],
+      "matches": [
+        {
+          "sku": "UC/I2/SPG/H2022",
+          "score": 100
+        },
+        {
+          "sku": "UC/I2/SPG/N2025",
+          "score": 83
+        },
+        {
+          "sku": "UC/M2/SP0/N2025",
+          "score": 82
+        },
+        {
+          "sku": "UC/I2/PPC/H2022",
+          "score": 71
+        },
+        {
+          "sku": "UC/M2/PPC/H2022",
+          "score": 71
+        },
+        {
+          "sku": "UC/I2/SPG/N0102",
+          "score": 71
+        }
+      ]
+    },
+    {
+      "sku": "UC/M2/SP0/N0112",
+      "name": "0112 WPC Sheet Neutral | 5 mm",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323973227-5c8e8d.jpeg",
+      "mat": "WPC",
+      "mould": "Plain",
+      "finish": "Neutral",
+      "type": "Sheet",
+      "alts": [
+        "UC/I2/SPG/N0112"
+      ],
+      "matches": [
+        {
+          "sku": "UC/I2/SPG/N0112",
+          "score": 100
+        },
+        {
+          "sku": "UC/I2/SPG/N0102",
+          "score": 74
+        },
+        {
+          "sku": "UC/I2/PPC/N0112",
+          "score": 73
+        },
+        {
+          "sku": "UC/M2/PPC/N0112",
+          "score": 73
+        },
+        {
+          "sku": "UC/P1/PPN/FX903",
+          "score": 72
+        },
+        {
+          "sku": "UC/P1/PPP/FX903",
+          "score": 72
+        },
+        {
+          "sku": "UC/I2/SPG/N2025",
+          "score": 71
+        },
+        {
+          "sku": "UC/M2/SP0/N2025",
+          "score": 70
+        }
+      ]
+    },
+    {
+      "sku": "UC/M2/SP0/N2025",
+      "name": "2025 WPC Sheet Neutral | 5 mm",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323962027-b948b3.jpeg",
+      "mat": "WPC",
+      "mould": "Plain",
+      "finish": "Neutral",
+      "type": "Sheet",
+      "alts": [
+        "UC/I2/SPG/N2025"
+      ],
+      "matches": [
+        {
+          "sku": "UC/I2/SPG/N2025",
+          "score": 100
+        },
+        {
+          "sku": "UC/I2/SPG/N0102",
+          "score": 84
+        },
+        {
+          "sku": "UC/I2/SPG/H2022",
+          "score": 83
+        },
+        {
+          "sku": "UC/M2/SP0/H2022",
+          "score": 82
+        },
+        {
+          "sku": "UC/I2/SPG/N0112",
+          "score": 71
+        },
+        {
+          "sku": "UC/I2/PPC/N2025",
+          "score": 71
+        },
+        {
+          "sku": "UC/M2/PPC/N2025",
+          "score": 71
+        },
+        {
+          "sku": "UC/M2/SP0/N0112",
+          "score": 70
+        }
+      ]
+    },
+    {
+      "sku": "UC/M2/SP0/W4P03",
+      "name": "4P03 WPC Sheet Wood | 5 mm",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323712377-bebf32.jpeg",
+      "mat": "WPC",
+      "mould": "Plain",
+      "finish": "Wood",
+      "type": "Sheet",
+      "alts": [
+        "UC/I2/SPG/W4P03"
+      ],
+      "matches": [
+        {
+          "sku": "UC/I2/SPG/W4P03",
+          "score": 100
+        },
+        {
+          "sku": "UC/I2/PPE/W4P03",
+          "score": 80
+        },
+        {
+          "sku": "UC/M2/PPE/W4P03",
+          "score": 80
+        },
+        {
+          "sku": "UC/I2/PCM/W5249",
+          "score": 76
+        },
+        {
+          "sku": "UC/I2/SPG/WX913",
+          "score": 72
+        },
+        {
+          "sku": "UC/I2/PCM/W183S",
+          "score": 72
+        },
+        {
+          "sku": "UC/R1/PPX/W0103",
+          "score": 72
+        }
+      ]
+    },
+    {
+      "sku": "UC/M2/SP0/W8360",
+      "name": "8360 WPC Sheet Wood | 5 mm",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323520523-bc589a.jpeg",
+      "mat": "WPC",
+      "mould": "Plain",
+      "finish": "Wood",
+      "type": "Sheet",
+      "alts": [
+        "UC/I2/SPG/W8360"
+      ],
+      "matches": [
+        {
+          "sku": "UC/I2/SPG/W8360",
+          "score": 100
+        },
+        {
+          "sku": "UC/M2/SP0/WX905",
+          "score": 86
+        },
+        {
+          "sku": "UC/P1/PPN/W8360",
+          "score": 85
+        },
+        {
+          "sku": "UC/P1/PPP/W8360",
+          "score": 85
+        },
+        {
+          "sku": "UC/I2/SPG/WX905",
+          "score": 85
+        },
+        {
+          "sku": "UC/I2/PPE/W8360",
+          "score": 79
+        },
+        {
+          "sku": "UC/M2/PPE/W8360",
+          "score": 79
+        },
+        {
+          "sku": "UC/D1/PPP/W0817",
+          "score": 78
+        },
+        {
+          "sku": "UC/I2/SPG/W7073",
+          "score": 76
+        },
+        {
+          "sku": "UC/P1/PPF/W8360",
+          "score": 76
+        },
+        {
+          "sku": "UC/I2/PCI/RB232",
+          "score": 73
+        },
+        {
+          "sku": "UC/I2/PCI/R78CM",
+          "score": 72
+        }
+      ]
+    },
+    {
+      "sku": "UC/M2/SP0/WX905",
+      "name": "X905 WPC Sheet Wood | 5 mm",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323509340-81fb63.jpeg",
+      "mat": "WPC",
+      "mould": "Plain",
+      "finish": "Wood",
+      "type": "Sheet",
+      "alts": [
+        "UC/I2/SPG/WX905"
+      ],
+      "matches": [
+        {
+          "sku": "UC/I2/SPG/WX905",
+          "score": 100
+        },
+        {
+          "sku": "UC/M2/SP0/W8360",
+          "score": 86
+        },
+        {
+          "sku": "UC/I2/SPG/W8360",
+          "score": 86
+        },
+        {
+          "sku": "UC/D1/PPP/W0817",
+          "score": 83
+        },
+        {
+          "sku": "UC/R1/PPP/W9371",
+          "score": 80
+        },
+        {
+          "sku": "UC/I2/SPG/W7073",
+          "score": 80
+        },
+        {
+          "sku": "UC/P1/PPN/W8360",
+          "score": 78
+        },
+        {
+          "sku": "UC/P1/PPP/W8360",
+          "score": 78
+        },
+        {
+          "sku": "UC/D1/PPG/W0953",
+          "score": 78
+        },
+        {
+          "sku": "UC/I2/SPG/WS685",
+          "score": 77
+        },
+        {
+          "sku": "UC/I2/PPD/WX905",
+          "score": 76
+        },
+        {
+          "sku": "UC/M2/PPD/WX905",
+          "score": 76
+        },
+        {
+          "sku": "UC/M2/PPE/WX905",
+          "score": 73
+        }
+      ]
+    },
+    {
+      "sku": "UC/M2/SS0/M0703",
+      "name": "0703 SPC Sheet Marble | 3 mm",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323686269-5822f7.jpeg",
+      "mat": "SPC",
+      "mould": "Plain",
+      "finish": "Marble",
+      "type": "Sheet",
+      "alts": [],
+      "matches": [
+        {
+          "sku": "UC/M2/SS0/M5508",
+          "score": 88
+        },
+        {
+          "sku": "UC/M2/SS0/M09U2",
+          "score": 88
+        },
+        {
+          "sku": "UC/M2/SS0/M2208",
+          "score": 88
+        },
+        {
+          "sku": "UC/M2/SS0/M0HXL",
+          "score": 84
+        },
+        {
+          "sku": "UC/M2/SS0/M4501",
+          "score": 81
+        },
+        {
+          "sku": "UC/R1/PPP/S9382",
+          "score": 80
+        },
+        {
+          "sku": "UC/M2/SS0/M8083",
+          "score": 78
+        }
+      ]
+    },
+    {
+      "sku": "UC/M2/SS0/M0705",
+      "name": "0705 SPC Sheet Marble | 3 mm",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323666702-8fbe8c.jpeg",
+      "mat": "SPC",
+      "mould": "Plain",
+      "finish": "Marble",
+      "type": "Sheet",
+      "alts": [],
+      "matches": []
+    },
+    {
+      "sku": "UC/M2/SS0/M09U2",
+      "name": "09U2 SPC Sheet Marble | 3 mm",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323468383-4a7d75.jpeg",
+      "mat": "SPC",
+      "mould": "Plain",
+      "finish": "Marble",
+      "type": "Sheet",
+      "alts": [],
+      "matches": [
+        {
+          "sku": "UC/M2/SS0/M2208",
+          "score": 90
+        },
+        {
+          "sku": "UC/M2/SS0/M0703",
+          "score": 88
+        },
+        {
+          "sku": "UC/M2/SS0/M5508",
+          "score": 86
+        },
+        {
+          "sku": "UC/M2/SS0/M0HXL",
+          "score": 83
+        },
+        {
+          "sku": "UC/R1/PPP/S9382",
+          "score": 80
+        },
+        {
+          "sku": "UC/P1/PPN/S9001",
+          "score": 74
+        },
+        {
+          "sku": "UC/P1/PPP/S9001",
+          "score": 74
+        }
+      ]
+    },
+    {
+      "sku": "UC/M2/SS0/M0HXL",
+      "name": "0HXL SPC Sheet Marble | 3 mm",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323482814-f22070.jpeg",
+      "mat": "SPC",
+      "mould": "Plain",
+      "finish": "Marble",
+      "type": "Sheet",
+      "alts": [],
+      "matches": [
+        {
+          "sku": "UC/M2/SS0/M5508",
+          "score": 84
+        },
+        {
+          "sku": "UC/M2/SS0/M0703",
+          "score": 84
+        },
+        {
+          "sku": "UC/M2/SS0/M2208",
+          "score": 83
+        },
+        {
+          "sku": "UC/M2/SS0/M09U2",
+          "score": 83
+        },
+        {
+          "sku": "UC/I2/SPH/L9952",
+          "score": 82
+        },
+        {
+          "sku": "UC/I2/SPH/LCZ07",
+          "score": 80
+        },
+        {
+          "sku": "UC/D1/PPP/X0650",
+          "score": 77
+        },
+        {
+          "sku": "UC/D1/PPP/X0635",
+          "score": 77
+        },
+        {
+          "sku": "UC/D1/PPP/S0229",
+          "score": 76
+        },
+        {
+          "sku": "UC/P1/PPN/S9001",
+          "score": 75
+        },
+        {
+          "sku": "UC/P1/PPP/S9001",
+          "score": 75
+        },
+        {
+          "sku": "UC/R1/PPP/X9380",
+          "score": 71
+        }
+      ]
+    },
+    {
+      "sku": "UC/M2/SS0/M2208",
+      "name": "2208 SPC Sheet Marble | 3 mm",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323656946-04cef4.jpeg",
+      "mat": "SPC",
+      "mould": "Plain",
+      "finish": "Marble",
+      "type": "Sheet",
+      "alts": [],
+      "matches": [
+        {
+          "sku": "UC/M2/SS0/M09U2",
+          "score": 90
+        },
+        {
+          "sku": "UC/M2/SS0/M0703",
+          "score": 88
+        },
+        {
+          "sku": "UC/M2/SS0/M5508",
+          "score": 86
+        },
+        {
+          "sku": "UC/M2/SS0/M0HXL",
+          "score": 83
+        },
+        {
+          "sku": "UC/D1/PPP/X0650",
+          "score": 78
+        },
+        {
+          "sku": "UC/D1/PPP/X0635",
+          "score": 78
+        },
+        {
+          "sku": "UC/P1/PPN/S9001",
+          "score": 74
+        },
+        {
+          "sku": "UC/P1/PPP/S9001",
+          "score": 74
+        }
+      ]
+    },
+    {
+      "sku": "UC/M2/SS0/M4501",
+      "name": "4501 SPC Sheet Marble | 3 mm",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323951757-fa5431.jpeg",
+      "mat": "SPC",
+      "mould": "Plain",
+      "finish": "Marble",
+      "type": "Sheet",
+      "alts": [],
+      "matches": [
+        {
+          "sku": "UC/M2/SS0/M8083",
+          "score": 90
+        },
+        {
+          "sku": "UC/M2/SS0/M5508",
+          "score": 84
+        },
+        {
+          "sku": "UC/M2/SS0/M0703",
+          "score": 81
+        },
+        {
+          "sku": "UC/R1/PPP/S9382",
+          "score": 79
+        },
+        {
+          "sku": "UC/M2/PPS/S9065",
+          "score": 73
+        }
+      ]
+    },
+    {
+      "sku": "UC/M2/SS0/M5508",
+      "name": "5508 SPC Sheet Marble | 3 mm",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323930350-5811eb.jpeg",
+      "mat": "SPC",
+      "mould": "Plain",
+      "finish": "Marble",
+      "type": "Sheet",
+      "alts": [],
+      "matches": [
+        {
+          "sku": "UC/M2/SS0/M0703",
+          "score": 88
+        },
+        {
+          "sku": "UC/M2/SS0/M2208",
+          "score": 86
+        },
+        {
+          "sku": "UC/M2/SS0/M8083",
+          "score": 86
+        },
+        {
+          "sku": "UC/M2/SS0/M09U2",
+          "score": 86
+        },
+        {
+          "sku": "UC/M2/SS0/M4501",
+          "score": 84
+        },
+        {
+          "sku": "UC/M2/SS0/M0HXL",
+          "score": 84
+        },
+        {
+          "sku": "UC/R1/PPP/S9382",
+          "score": 82
+        },
+        {
+          "sku": "UC/D1/PPP/S0229",
+          "score": 75
+        }
+      ]
+    },
+    {
+      "sku": "UC/M2/SS0/M8083",
+      "name": "8083 SPC Sheet Gold | 3 mm",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323939936-9eb8d8.jpeg",
+      "mat": "SPC",
+      "mould": "Plain",
+      "finish": "Gold",
+      "type": "Sheet",
+      "alts": [],
+      "matches": [
+        {
+          "sku": "UC/M2/SS0/M4501",
+          "score": 90
+        },
+        {
+          "sku": "UC/M2/SS0/M5508",
+          "score": 86
+        },
+        {
+          "sku": "UC/R1/PPP/S9382",
+          "score": 81
+        },
+        {
+          "sku": "UC/M2/SS0/M0703",
+          "score": 78
+        },
+        {
+          "sku": "UC/D1/PPP/S0229",
+          "score": 73
+        },
+        {
+          "sku": "UC/M2/PPS/S9065",
+          "score": 72
+        }
+      ]
+    },
+    {
+      "sku": "UC/P1/PPF/RD164",
+      "name": "D164 Nio Fluted Neutral",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/customer-app-supply/1779351782073-31c62f.jpeg",
+      "mat": "Nio",
+      "mould": "Nio fluted",
+      "finish": "Neutral",
+      "type": "Panel",
+      "alts": [],
+      "matches": [
+        {
+          "sku": "UC/M2/PCF/R7332",
+          "score": 82
+        },
+        {
+          "sku": "UC/M2/PPD/R0P61",
+          "score": 82
+        },
+        {
+          "sku": "UC/M2/PCR/W3621",
+          "score": 76
+        },
+        {
+          "sku": "UC/I2/PPE/WS685",
+          "score": 73
+        }
+      ]
+    },
+    {
+      "sku": "UC/P1/PPF/W8360",
+      "name": "8360 Nio Fluted Wood",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/customer-app-supply/1779351754052-51ca8f.jpeg",
+      "mat": "Nio",
+      "mould": "Nio fluted",
+      "finish": "Wood",
+      "type": "Panel",
+      "alts": [],
+      "matches": [
+        {
+          "sku": "UC/M2/PPD/WX905",
+          "score": 84
+        },
+        {
+          "sku": "UC/I2/PPE/W8360",
+          "score": 83
+        },
+        {
+          "sku": "UC/M2/PPE/W8360",
+          "score": 83
+        },
+        {
+          "sku": "UC/I2/PCF/W7334",
+          "score": 82
+        },
+        {
+          "sku": "UC/I2/PPD/WX905",
+          "score": 81
+        },
+        {
+          "sku": "UC/P1/PPN/W8360",
+          "score": 80
+        },
+        {
+          "sku": "UC/P1/PPP/W8360",
+          "score": 80
+        },
+        {
+          "sku": "UC/M2/PPE/WX905",
+          "score": 80
+        },
+        {
+          "sku": "UC/I2/SPG/W8360",
+          "score": 76
+        },
+        {
+          "sku": "UC/M2/SP0/W8360",
+          "score": 76
+        },
+        {
+          "sku": "UC/M2/PPD/K3731",
+          "score": 75
+        }
+      ]
+    },
+    {
+      "sku": "UC/P1/PPF/W9204",
+      "name": "9204 Nio Fluted Wood",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/customer-app-supply/1779351763768-9e46e6.jpeg",
+      "mat": "Nio",
+      "mould": "Nio fluted",
+      "finish": "Wood",
+      "type": "Panel",
+      "alts": [],
+      "matches": [
+        {
+          "sku": "UC/R1/PPF/W0352",
+          "score": 89
+        },
+        {
+          "sku": "UC/I2/PPD/WX921",
+          "score": 85
+        },
+        {
+          "sku": "UC/M2/PCF/W7331",
+          "score": 85
+        },
+        {
+          "sku": "UC/R1/PPX/W0114",
+          "score": 83
+        },
+        {
+          "sku": "UC/P1/PPN/W9204",
+          "score": 78
+        },
+        {
+          "sku": "UC/P1/PPP/W9204",
+          "score": 78
+        }
+      ]
+    },
+    {
+      "sku": "UC/P1/PPN/F7695",
+      "name": "7695* Nio Plain Fabric",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841881054-68a537.png",
+      "mat": "Nio",
+      "mould": "Nio Plain",
+      "finish": "Fabric",
+      "type": "Panel",
+      "alts": [
+        "UC/P1/PPP/F7695"
+      ],
+      "matches": [
+        {
+          "sku": "UC/P1/PPP/F7695",
+          "score": 100
+        },
+        {
+          "sku": "UC/I2/SPH/F0Z18",
+          "score": 81
+        },
+        {
+          "sku": "UC/I2/SPH/F2027",
+          "score": 74
+        },
+        {
+          "sku": "UC/R1/PPX/J9005",
+          "score": 74
+        },
+        {
+          "sku": "UC/P1/PPN/FX903",
+          "score": 72
+        },
+        {
+          "sku": "UC/P1/PPP/FX903",
+          "score": 72
+        }
+      ]
+    },
+    {
+      "sku": "UC/P1/PPN/FX903",
+      "name": "X903* Nio Plain Fabric",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841884626-165b97.png",
+      "mat": "Nio",
+      "mould": "Nio Plain",
+      "finish": "Fabric",
+      "type": "Panel",
+      "alts": [
+        "UC/P1/PPP/FX903"
+      ],
+      "matches": [
+        {
+          "sku": "UC/P1/PPP/FX903",
+          "score": 100
+        },
+        {
+          "sku": "UC/I2/SPG/N0112",
+          "score": 72
+        },
+        {
+          "sku": "UC/M2/SP0/N0112",
+          "score": 72
+        },
+        {
+          "sku": "UC/P1/PPN/F7695",
+          "score": 72
+        },
+        {
+          "sku": "UC/P1/PPP/F7695",
+          "score": 72
+        }
+      ]
+    },
+    {
+      "sku": "UC/P1/PPN/K0195",
+      "name": "0195* Nio Plain Gold",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841888427-f94e08.png",
+      "mat": "Nio",
+      "mould": "Nio Plain",
+      "finish": "Gold",
+      "type": "Panel",
+      "alts": [
+        "UC/P1/PPP/K0195"
+      ],
+      "matches": [
+        {
+          "sku": "UC/P1/PPP/K0195",
+          "score": 100
+        },
+        {
+          "sku": "UC/P1/PPN/K1455",
+          "score": 80
+        },
+        {
+          "sku": "UC/P1/PPP/K1455",
+          "score": 79
+        },
+        {
+          "sku": "UC/P1/PPN/K9472",
+          "score": 75
+        },
+        {
+          "sku": "UC/R1/PPP/T1218",
+          "score": 74
+        },
+        {
+          "sku": "UC/P1/PPP/K9472",
+          "score": 74
+        }
+      ]
+    },
+    {
+      "sku": "UC/P1/PPN/K1455",
+      "name": "1455* Nio Plain Gold",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841892728-ff625b.png",
+      "mat": "Nio",
+      "mould": "Nio Plain",
+      "finish": "Gold",
+      "type": "Panel",
+      "alts": [
+        "UC/P1/PPP/K1455"
+      ],
+      "matches": [
+        {
+          "sku": "UC/P1/PPP/K1455",
+          "score": 100
+        },
+        {
+          "sku": "UC/P1/PPN/T0156",
+          "score": 82
+        },
+        {
+          "sku": "UC/P1/PPP/T0156",
+          "score": 81
+        },
+        {
+          "sku": "UC/P1/PPN/K0195",
+          "score": 80
+        },
+        {
+          "sku": "UC/R1/PPP/F1449",
+          "score": 77
+        },
+        {
+          "sku": "UC/P1/PPN/K9472",
+          "score": 76
+        },
+        {
+          "sku": "UC/P1/PPP/K9472",
+          "score": 75
+        },
+        {
+          "sku": "UC/P1/PPP/K0195",
+          "score": 74
+        },
+        {
+          "sku": "UC/D1/PPP/T0127",
+          "score": 73
+        },
+        {
+          "sku": "UC/D1/PPP/J0168",
+          "score": 73
+        }
+      ]
+    },
+    {
+      "sku": "UC/P1/PPN/K9380",
+      "name": "9380* Nio Plain Gold",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841896094-b08b38.png",
+      "mat": "Nio",
+      "mould": "Nio Plain",
+      "finish": "Gold",
+      "type": "Panel",
+      "alts": [
+        "UC/P1/PPP/K9380"
+      ],
+      "matches": [
+        {
+          "sku": "UC/P1/PPP/K9380",
+          "score": 100
+        },
+        {
+          "sku": "UC/R1/PPP/X9380",
+          "score": 81
+        },
+        {
+          "sku": "UC/R1/PPP/G0818",
+          "score": 72
+        },
+        {
+          "sku": "UC/I2/SPH/L2203",
+          "score": 71
+        },
+        {
+          "sku": "UC/I2/SPH/F2027",
+          "score": 71
+        }
+      ]
+    },
+    {
+      "sku": "UC/P1/PPN/K9472",
+      "name": "9472* Nio Plain Gold",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841899274-b00d62.png",
+      "mat": "Nio",
+      "mould": "Nio Plain",
+      "finish": "Gold",
+      "type": "Panel",
+      "alts": [
+        "UC/P1/PPP/K9472"
+      ],
+      "matches": [
+        {
+          "sku": "UC/P1/PPP/K9472",
+          "score": 100
+        },
+        {
+          "sku": "UC/R1/PPP/T1218",
+          "score": 79
+        },
+        {
+          "sku": "UC/P1/PPP/K1455",
+          "score": 76
+        },
+        {
+          "sku": "UC/R1/PPP/F1449",
+          "score": 76
+        },
+        {
+          "sku": "UC/P1/PPN/K1455",
+          "score": 76
+        },
+        {
+          "sku": "UC/P1/PPN/K0195",
+          "score": 75
+        },
+        {
+          "sku": "UC/P1/PPP/K0195",
+          "score": 75
+        }
+      ]
+    },
+    {
+      "sku": "UC/P1/PPN/KEM02",
+      "name": "EM02* Nio Plain Gold",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841903506-8fbee2.png",
+      "mat": "Nio",
+      "mould": "Nio Plain",
+      "finish": "Gold",
+      "type": "Panel",
+      "alts": [
+        "UC/P1/PPP/KEM02"
+      ],
+      "matches": [
+        {
+          "sku": "UC/P1/PPP/KEM02",
+          "score": 100
+        },
+        {
+          "sku": "UC/P1/PPN/W9204",
+          "score": 84
+        },
+        {
+          "sku": "UC/P1/PPP/W9204",
+          "score": 84
+        },
+        {
+          "sku": "UC/I2/SPG/WX921",
+          "score": 79
+        },
+        {
+          "sku": "UC/R1/PPX/W0103",
+          "score": 78
+        }
+      ]
+    },
+    {
+      "sku": "UC/P1/PPN/LD193",
+      "name": "D193* Nio Plain Texture",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841910592-fd5787.png",
+      "mat": "Nio",
+      "mould": "Nio Plain",
+      "finish": "Texture",
+      "type": "Panel",
+      "alts": [
+        "UC/P1/PPP/LD193"
+      ],
+      "matches": [
+        {
+          "sku": "UC/P1/PPP/LD193",
+          "score": 100
+        },
+        {
+          "sku": "UC/I2/SPH/LCZ08",
+          "score": 81
+        },
+        {
+          "sku": "UC/I2/SPH/LA235",
+          "score": 80
+        },
+        {
+          "sku": "UC/P1/PPN/LES84",
+          "score": 80
+        },
+        {
+          "sku": "UC/P1/PPP/LES84",
+          "score": 79
+        },
+        {
+          "sku": "UC/P1/PPN/S5021",
+          "score": 75
+        },
+        {
+          "sku": "UC/P1/PPP/S5021",
+          "score": 75
+        }
+      ]
+    },
+    {
+      "sku": "UC/P1/PPN/LES84",
+      "name": "ES84* Nio Plain Texture",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1779090500773-920290.png",
+      "mat": "Nio",
+      "mould": "Nio Plain",
+      "finish": "Texture",
+      "type": "Panel",
+      "alts": [
+        "UC/P1/PPP/LES84"
+      ],
+      "matches": [
+        {
+          "sku": "UC/P1/PPP/LES84",
+          "score": 100
+        },
+        {
+          "sku": "UC/I2/SPH/LA235",
+          "score": 91
+        },
+        {
+          "sku": "UC/P1/PPP/LD193",
+          "score": 84
+        },
+        {
+          "sku": "UC/I2/SPH/LCZ08",
+          "score": 83
+        },
+        {
+          "sku": "UC/P1/PPN/LD193",
+          "score": 80
+        },
+        {
+          "sku": "UC/I2/SPH/L9952",
+          "score": 76
+        },
+        {
+          "sku": "UC/I2/SPH/L2203",
+          "score": 74
+        },
+        {
+          "sku": "UC/I2/SPH/LCZ07",
+          "score": 74
+        }
+      ]
+    },
+    {
+      "sku": "UC/P1/PPN/S5021",
+      "name": "5021* Nio Plain Stone",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841914585-e1f6fa.png",
+      "mat": "Nio",
+      "mould": "Nio Plain",
+      "finish": "Stone",
+      "type": "Panel",
+      "alts": [
+        "UC/P1/PPP/S5021"
+      ],
+      "matches": [
+        {
+          "sku": "UC/P1/PPP/S5021",
+          "score": 100
+        },
+        {
+          "sku": "UC/R1/PPP/S9382",
+          "score": 76
+        },
+        {
+          "sku": "UC/P1/PPN/LD193",
+          "score": 75
+        },
+        {
+          "sku": "UC/P1/PPP/LD193",
+          "score": 75
+        }
+      ]
+    },
+    {
+      "sku": "UC/P1/PPN/S9001",
+      "name": "9001* Nio Plain Stone",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841918427-b2385a.png",
+      "mat": "Nio",
+      "mould": "Nio Plain",
+      "finish": "Stone",
+      "type": "Panel",
+      "alts": [
+        "UC/P1/PPP/S9001"
+      ],
+      "matches": [
+        {
+          "sku": "UC/P1/PPP/S9001",
+          "score": 100
+        },
+        {
+          "sku": "UC/I2/SPH/L9952",
+          "score": 76
+        },
+        {
+          "sku": "UC/M2/SS0/M0HXL",
+          "score": 75
+        },
+        {
+          "sku": "UC/M2/SS0/M09U2",
+          "score": 74
+        },
+        {
+          "sku": "UC/M2/SS0/M2208",
+          "score": 74
+        }
+      ]
+    },
+    {
+      "sku": "UC/P1/PPN/T0129",
+      "name": "0129* Nio Plain Traditional",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1779087080405-a72db3.png",
+      "mat": "Nio",
+      "mould": "Nio Plain",
+      "finish": "Traditional",
+      "type": "Panel",
+      "alts": [
+        "UC/P1/PPP/T0129"
+      ],
+      "matches": [
+        {
+          "sku": "UC/P1/PPP/T0129",
+          "score": 100
+        },
+        {
+          "sku": "UC/I2/SPH/L2203",
+          "score": 72
+        },
+        {
+          "sku": "UC/I2/SPH/LA235",
+          "score": 71
+        }
+      ]
+    },
+    {
+      "sku": "UC/P1/PPN/T0156",
+      "name": "0156* Nio Plain Traditional",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841922384-542dc6.png",
+      "mat": "Nio",
+      "mould": "Nio Plain",
+      "finish": "Traditional",
+      "type": "Panel",
+      "alts": [
+        "UC/P1/PPP/T0156"
+      ],
+      "matches": [
+        {
+          "sku": "UC/P1/PPP/T0156",
+          "score": 100
+        },
+        {
+          "sku": "UC/P1/PPN/K1455",
+          "score": 82
+        },
+        {
+          "sku": "UC/P1/PPP/K1455",
+          "score": 81
+        },
+        {
+          "sku": "UC/D1/PPP/F0150",
+          "score": 76
+        },
+        {
+          "sku": "UC/R1/PPP/F1449",
+          "score": 74
+        }
+      ]
+    },
+    {
+      "sku": "UC/P1/PPN/T1456",
+      "name": "1456* Nio Plain Traditional",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841925919-74d19f.png",
+      "mat": "Nio",
+      "mould": "Nio Plain",
+      "finish": "Traditional",
+      "type": "Panel",
+      "alts": [
+        "UC/P1/PPP/T1456"
+      ],
+      "matches": [
+        {
+          "sku": "UC/P1/PPP/T1456",
+          "score": 100
+        },
+        {
+          "sku": "UC/R1/PPP/X1456",
+          "score": 93
+        },
+        {
+          "sku": "UC/D1/PPP/X0253",
+          "score": 82
+        },
+        {
+          "sku": "UC/I2/SPG/WX913",
+          "score": 75
+        }
+      ]
+    },
+    {
+      "sku": "UC/P1/PPN/W8360",
+      "name": "8360* Nio Plain Wood",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841873660-c8e668.png",
+      "mat": "Nio",
+      "mould": "Nio Plain",
+      "finish": "Wood",
+      "type": "Panel",
+      "alts": [
+        "UC/P1/PPP/W8360"
+      ],
+      "matches": [
+        {
+          "sku": "UC/P1/PPP/W8360",
+          "score": 100
+        },
+        {
+          "sku": "UC/I2/SPG/W8360",
+          "score": 85
+        },
+        {
+          "sku": "UC/M2/SP0/W8360",
+          "score": 85
+        },
+        {
+          "sku": "UC/P1/PPF/W8360",
+          "score": 80
+        },
+        {
+          "sku": "UC/D1/PPP/W0620",
+          "score": 79
+        },
+        {
+          "sku": "UC/M2/SP0/WX905",
+          "score": 78
+        },
+        {
+          "sku": "UC/I2/SPG/WX905",
+          "score": 78
+        },
+        {
+          "sku": "UC/I2/PPE/W8360",
+          "score": 78
+        },
+        {
+          "sku": "UC/M2/PPE/W8360",
+          "score": 78
+        },
+        {
+          "sku": "UC/I2/SPG/WS685",
+          "score": 77
+        },
+        {
+          "sku": "UC/D1/PPP/W0414",
+          "score": 71
+        }
+      ]
+    },
+    {
+      "sku": "UC/P1/PPN/W9204",
+      "name": "9204* Nio Plain Wood",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1779087762255-5e6990.png",
+      "mat": "Nio",
+      "mould": "Nio Plain",
+      "finish": "Wood",
+      "type": "Panel",
+      "alts": [
+        "UC/P1/PPP/W9204"
+      ],
+      "matches": [
+        {
+          "sku": "UC/P1/PPP/W9204",
+          "score": 100
+        },
+        {
+          "sku": "UC/P1/PPP/KEM02",
+          "score": 85
+        },
+        {
+          "sku": "UC/P1/PPN/KEM02",
+          "score": 84
+        },
+        {
+          "sku": "UC/I2/SPG/WX921",
+          "score": 80
+        },
+        {
+          "sku": "UC/R1/PPX/W0103",
+          "score": 79
+        },
+        {
+          "sku": "UC/P1/PPF/W9204",
+          "score": 78
+        }
+      ]
+    },
+    {
+      "sku": "UC/P1/PPN/WEM54",
+      "name": "EM54* Nio Plain Wood",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/customer-app-supply/1779351590314-392907.jpeg",
+      "mat": "Nio",
+      "mould": "Nio Plain",
+      "finish": "Wood",
+      "type": "Panel",
+      "alts": [
+        "UC/P1/PPP/WEM54"
+      ],
+      "matches": [
+        {
+          "sku": "UC/P1/PPP/WEM54",
+          "score": 100
+        },
+        {
+          "sku": "UC/I2/SPG/W7073",
+          "score": 73
+        },
+        {
+          "sku": "UC/I2/SPG/WS685",
+          "score": 72
+        },
+        {
+          "sku": "UC/D1/PPP/W0414",
+          "score": 71
+        }
+      ]
+    },
+    {
+      "sku": "UC/P1/PPP/F7695",
+      "name": "7695 Nio Plain Fabric",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841881054-68a537.png",
+      "mat": "Nio",
+      "mould": "Plain",
+      "finish": "Fabric",
+      "type": "Panel",
+      "alts": [
+        "UC/P1/PPN/F7695"
+      ],
+      "matches": [
+        {
+          "sku": "UC/P1/PPN/F7695",
+          "score": 100
+        },
+        {
+          "sku": "UC/I2/SPH/F0Z18",
+          "score": 80
+        },
+        {
+          "sku": "UC/I2/SPH/F2027",
+          "score": 75
+        },
+        {
+          "sku": "UC/R1/PPX/J9005",
+          "score": 73
+        },
+        {
+          "sku": "UC/P1/PPN/FX903",
+          "score": 72
+        },
+        {
+          "sku": "UC/P1/PPP/FX903",
+          "score": 72
+        }
+      ]
+    },
+    {
+      "sku": "UC/P1/PPP/FX903",
+      "name": "X903 Nio Plain Fabric",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841884626-165b97.png",
+      "mat": "Nio",
+      "mould": "Plain",
+      "finish": "Fabric",
+      "type": "Panel",
+      "alts": [
+        "UC/P1/PPN/FX903"
+      ],
+      "matches": [
+        {
+          "sku": "UC/P1/PPN/FX903",
+          "score": 100
+        },
+        {
+          "sku": "UC/I2/SPG/N0112",
+          "score": 72
+        },
+        {
+          "sku": "UC/P1/PPN/F7695",
+          "score": 72
+        },
+        {
+          "sku": "UC/P1/PPP/F7695",
+          "score": 72
+        },
+        {
+          "sku": "UC/M2/SP0/N0112",
+          "score": 72
+        }
+      ]
+    },
+    {
+      "sku": "UC/P1/PPP/K0195",
+      "name": "0195 Nio Plain Gold",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841888427-f94e08.png",
+      "mat": "Nio",
+      "mould": "Plain",
+      "finish": "Gold",
+      "type": "Panel",
+      "alts": [
+        "UC/P1/PPN/K0195"
+      ],
+      "matches": [
+        {
+          "sku": "UC/P1/PPN/K0195",
+          "score": 100
+        },
+        {
+          "sku": "UC/P1/PPP/K1455",
+          "score": 78
+        },
+        {
+          "sku": "UC/P1/PPN/K9472",
+          "score": 75
+        },
+        {
+          "sku": "UC/P1/PPP/K9472",
+          "score": 75
+        },
+        {
+          "sku": "UC/P1/PPN/K1455",
+          "score": 74
+        }
+      ]
+    },
+    {
+      "sku": "UC/P1/PPP/K1455",
+      "name": "1455 Nio Plain Gold",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841892728-ff625b.png",
+      "mat": "Nio",
+      "mould": "Plain",
+      "finish": "Gold",
+      "type": "Panel",
+      "alts": [
+        "UC/P1/PPN/K1455"
+      ],
+      "matches": [
+        {
+          "sku": "UC/P1/PPN/K1455",
+          "score": 100
+        },
+        {
+          "sku": "UC/P1/PPN/T0156",
+          "score": 81
+        },
+        {
+          "sku": "UC/P1/PPP/T0156",
+          "score": 81
+        },
+        {
+          "sku": "UC/P1/PPN/K0195",
+          "score": 79
+        },
+        {
+          "sku": "UC/P1/PPP/K0195",
+          "score": 78
+        },
+        {
+          "sku": "UC/R1/PPP/F1449",
+          "score": 77
+        },
+        {
+          "sku": "UC/P1/PPN/K9472",
+          "score": 76
+        },
+        {
+          "sku": "UC/P1/PPP/K9472",
+          "score": 75
+        },
+        {
+          "sku": "UC/D1/PPP/J0168",
+          "score": 73
+        },
+        {
+          "sku": "UC/D1/PPP/T0127",
+          "score": 72
+        }
+      ]
+    },
+    {
+      "sku": "UC/P1/PPP/K9380",
+      "name": "9380 Nio Plain Gold",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841896094-b08b38.png",
+      "mat": "Nio",
+      "mould": "Plain",
+      "finish": "Gold",
+      "type": "Panel",
+      "alts": [
+        "UC/P1/PPN/K9380"
+      ],
+      "matches": [
+        {
+          "sku": "UC/P1/PPN/K9380",
+          "score": 100
+        },
+        {
+          "sku": "UC/R1/PPP/X9380",
+          "score": 81
+        },
+        {
+          "sku": "UC/R1/PPP/G0818",
+          "score": 72
+        },
+        {
+          "sku": "UC/I2/SPH/L2203",
+          "score": 71
+        },
+        {
+          "sku": "UC/I2/SPH/F2027",
+          "score": 70
+        }
+      ]
+    },
+    {
+      "sku": "UC/P1/PPP/K9472",
+      "name": "9472 Nio Plain Gold",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841899274-b00d62.png",
+      "mat": "Nio",
+      "mould": "Plain",
+      "finish": "Gold",
+      "type": "Panel",
+      "alts": [
+        "UC/P1/PPN/K9472"
+      ],
+      "matches": [
+        {
+          "sku": "UC/P1/PPN/K9472",
+          "score": 100
+        },
+        {
+          "sku": "UC/R1/PPP/T1218",
+          "score": 78
+        },
+        {
+          "sku": "UC/R1/PPP/F1449",
+          "score": 76
+        },
+        {
+          "sku": "UC/P1/PPN/K1455",
+          "score": 75
+        },
+        {
+          "sku": "UC/P1/PPP/K1455",
+          "score": 75
+        },
+        {
+          "sku": "UC/P1/PPP/K0195",
+          "score": 75
+        },
+        {
+          "sku": "UC/P1/PPN/K0195",
+          "score": 74
+        }
+      ]
+    },
+    {
+      "sku": "UC/P1/PPP/KEM02",
+      "name": "EM02 Nio Plain Gold",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841903506-8fbee2.png",
+      "mat": "Nio",
+      "mould": "Plain",
+      "finish": "Gold",
+      "type": "Panel",
+      "alts": [
+        "UC/P1/PPN/KEM02"
+      ],
+      "matches": [
+        {
+          "sku": "UC/P1/PPN/KEM02",
+          "score": 100
+        },
+        {
+          "sku": "UC/P1/PPN/W9204",
+          "score": 85
+        },
+        {
+          "sku": "UC/P1/PPP/W9204",
+          "score": 85
+        },
+        {
+          "sku": "UC/R1/PPX/W0103",
+          "score": 78
+        },
+        {
+          "sku": "UC/I2/SPG/WX921",
+          "score": 78
+        }
+      ]
+    },
+    {
+      "sku": "UC/P1/PPP/LD193",
+      "name": "D193 Nio Plain Texture",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841910592-fd5787.png",
+      "mat": "Nio",
+      "mould": "Plain",
+      "finish": "Texture",
+      "type": "Panel",
+      "alts": [
+        "UC/P1/PPN/LD193"
+      ],
+      "matches": [
+        {
+          "sku": "UC/P1/PPN/LD193",
+          "score": 100
+        },
+        {
+          "sku": "UC/P1/PPN/LES84",
+          "score": 84
+        },
+        {
+          "sku": "UC/I2/SPH/LCZ08",
+          "score": 81
+        },
+        {
+          "sku": "UC/I2/SPH/LA235",
+          "score": 80
+        },
+        {
+          "sku": "UC/P1/PPP/LES84",
+          "score": 79
+        },
+        {
+          "sku": "UC/P1/PPN/S5021",
+          "score": 75
+        },
+        {
+          "sku": "UC/P1/PPP/S5021",
+          "score": 75
+        }
+      ]
+    },
+    {
+      "sku": "UC/P1/PPP/LES84",
+      "name": "ES84 Nio Plain Texture",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1779090500773-920290.png",
+      "mat": "Nio",
+      "mould": "Plain",
+      "finish": "Texture",
+      "type": "Panel",
+      "alts": [
+        "UC/P1/PPN/LES84"
+      ],
+      "matches": [
+        {
+          "sku": "UC/P1/PPN/LES84",
+          "score": 100
+        },
+        {
+          "sku": "UC/I2/SPH/LA235",
+          "score": 90
+        },
+        {
+          "sku": "UC/I2/SPH/LCZ08",
+          "score": 83
+        },
+        {
+          "sku": "UC/P1/PPN/LD193",
+          "score": 79
+        },
+        {
+          "sku": "UC/P1/PPP/LD193",
+          "score": 79
+        },
+        {
+          "sku": "UC/I2/SPH/L2203",
+          "score": 73
+        }
+      ]
+    },
+    {
+      "sku": "UC/P1/PPP/S5021",
+      "name": "5021 Nio Plain Stone",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841914585-e1f6fa.png",
+      "mat": "Nio",
+      "mould": "Plain",
+      "finish": "Stone",
+      "type": "Panel",
+      "alts": [
+        "UC/P1/PPN/S5021"
+      ],
+      "matches": [
+        {
+          "sku": "UC/P1/PPN/S5021",
+          "score": 100
+        },
+        {
+          "sku": "UC/R1/PPP/S9382",
+          "score": 76
+        },
+        {
+          "sku": "UC/P1/PPN/LD193",
+          "score": 75
+        },
+        {
+          "sku": "UC/P1/PPP/LD193",
+          "score": 75
+        }
+      ]
+    },
+    {
+      "sku": "UC/P1/PPP/S9001",
+      "name": "9001 Nio Plain Stone",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841918427-b2385a.png",
+      "mat": "Nio",
+      "mould": "Plain",
+      "finish": "Stone",
+      "type": "Panel",
+      "alts": [
+        "UC/P1/PPN/S9001"
+      ],
+      "matches": [
+        {
+          "sku": "UC/P1/PPN/S9001",
+          "score": 100
+        },
+        {
+          "sku": "UC/I2/SPH/L9952",
+          "score": 76
+        },
+        {
+          "sku": "UC/M2/SS0/M0HXL",
+          "score": 75
+        },
+        {
+          "sku": "UC/M2/SS0/M2208",
+          "score": 74
+        },
+        {
+          "sku": "UC/M2/SS0/M09U2",
+          "score": 74
+        }
+      ]
+    },
+    {
+      "sku": "UC/P1/PPP/T0129",
+      "name": "0129 Nio Plain Traditional",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1779087080405-a72db3.png",
+      "mat": "Nio",
+      "mould": "Plain",
+      "finish": "Traditional",
+      "type": "Panel",
+      "alts": [
+        "UC/P1/PPN/T0129"
+      ],
+      "matches": [
+        {
+          "sku": "UC/P1/PPN/T0129",
+          "score": 100
+        },
+        {
+          "sku": "UC/I2/SPH/L2203",
+          "score": 72
+        },
+        {
+          "sku": "UC/I2/SPH/LA235",
+          "score": 71
+        }
+      ]
+    },
+    {
+      "sku": "UC/P1/PPP/T0156",
+      "name": "0156 Nio Plain Traditional",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841922384-542dc6.png",
+      "mat": "Nio",
+      "mould": "Plain",
+      "finish": "Traditional",
+      "type": "Panel",
+      "alts": [
+        "UC/P1/PPN/T0156"
+      ],
+      "matches": [
+        {
+          "sku": "UC/P1/PPN/T0156",
+          "score": 100
+        },
+        {
+          "sku": "UC/P1/PPN/K1455",
+          "score": 81
+        },
+        {
+          "sku": "UC/P1/PPP/K1455",
+          "score": 81
+        },
+        {
+          "sku": "UC/D1/PPP/F0150",
+          "score": 77
+        },
+        {
+          "sku": "UC/R1/PPP/F1449",
+          "score": 74
+        }
+      ]
+    },
+    {
+      "sku": "UC/P1/PPP/T1456",
+      "name": "1456 Nio Plain Traditional",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841925919-74d19f.png",
+      "mat": "Nio",
+      "mould": "Plain",
+      "finish": "Traditional",
+      "type": "Panel",
+      "alts": [
+        "UC/P1/PPN/T1456"
+      ],
+      "matches": [
+        {
+          "sku": "UC/P1/PPN/T1456",
+          "score": 100
+        },
+        {
+          "sku": "UC/R1/PPP/X1456",
+          "score": 93
+        },
+        {
+          "sku": "UC/D1/PPP/X0253",
+          "score": 82
+        },
+        {
+          "sku": "UC/I2/SPG/WX913",
+          "score": 75
+        }
+      ]
+    },
+    {
+      "sku": "UC/P1/PPP/W8360",
+      "name": "8360 Nio Plain Wood",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841873660-c8e668.png",
+      "mat": "Nio",
+      "mould": "Plain",
+      "finish": "Wood",
+      "type": "Panel",
+      "alts": [
+        "UC/P1/PPN/W8360"
+      ],
+      "matches": [
+        {
+          "sku": "UC/P1/PPN/W8360",
+          "score": 100
+        },
+        {
+          "sku": "UC/I2/SPG/W8360",
+          "score": 85
+        },
+        {
+          "sku": "UC/M2/SP0/W8360",
+          "score": 85
+        },
+        {
+          "sku": "UC/P1/PPF/W8360",
+          "score": 80
+        },
+        {
+          "sku": "UC/I2/SPG/WX905",
+          "score": 78
+        },
+        {
+          "sku": "UC/M2/SP0/WX905",
+          "score": 78
+        },
+        {
+          "sku": "UC/I2/PPE/W8360",
+          "score": 78
+        },
+        {
+          "sku": "UC/M2/PPE/W8360",
+          "score": 78
+        },
+        {
+          "sku": "UC/D1/PPP/W0620",
+          "score": 78
+        },
+        {
+          "sku": "UC/I2/SPG/WS685",
+          "score": 78
+        }
+      ]
+    },
+    {
+      "sku": "UC/P1/PPP/W9204",
+      "name": "9204 Nio Plain Wood",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1779087762255-5e6990.png",
+      "mat": "Nio",
+      "mould": "Plain",
+      "finish": "Wood",
+      "type": "Panel",
+      "alts": [
+        "UC/P1/PPN/W9204"
+      ],
+      "matches": [
+        {
+          "sku": "UC/P1/PPN/W9204",
+          "score": 100
+        },
+        {
+          "sku": "UC/P1/PPP/KEM02",
+          "score": 85
+        },
+        {
+          "sku": "UC/P1/PPN/KEM02",
+          "score": 84
+        },
+        {
+          "sku": "UC/I2/SPG/WX921",
+          "score": 81
+        },
+        {
+          "sku": "UC/R1/PPX/W0103",
+          "score": 79
+        },
+        {
+          "sku": "UC/P1/PPF/W9204",
+          "score": 78
+        }
+      ]
+    },
+    {
+      "sku": "UC/P1/PPP/WEM54",
+      "name": "EM54 Nio Plain Wood",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/customer-app-supply/1779351590314-392907.jpeg",
+      "mat": "Nio",
+      "mould": "Plain",
+      "finish": "Wood",
+      "type": "Panel",
+      "alts": [
+        "UC/P1/PPN/WEM54"
+      ],
+      "matches": [
+        {
+          "sku": "UC/P1/PPN/WEM54",
+          "score": 100
+        },
+        {
+          "sku": "UC/I2/SPG/WS685",
+          "score": 74
+        },
+        {
+          "sku": "UC/I2/SPG/W7073",
+          "score": 73
+        },
+        {
+          "sku": "UC/D1/PPP/W0414",
+          "score": 71
+        }
+      ]
+    },
+    {
+      "sku": "UC/R1/PPF/O0160",
+      "name": "0160 PVC Fluted Neutral",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323919693-da7d96.jpeg",
+      "mat": "PVC",
+      "mould": "Fluted",
+      "finish": "Neutral",
+      "type": "Panel",
+      "alts": [],
+      "matches": [
+        {
+          "sku": "UC/M2/PCF/R7332",
+          "score": 88
+        },
+        {
+          "sku": "UC/M2/PPD/R0P61",
+          "score": 86
+        },
+        {
+          "sku": "UC/M2/PCR/W3624",
+          "score": 81
+        },
+        {
+          "sku": "UC/I2/PPD/WS685",
+          "score": 81
+        },
+        {
+          "sku": "UC/M2/PCD/K5063",
+          "score": 74
+        },
+        {
+          "sku": "UC/M2/PPS/RA209",
+          "score": 72
+        },
+        {
+          "sku": "UC/M2/PCD/K5062",
+          "score": 71
+        }
+      ]
+    },
+    {
+      "sku": "UC/R1/PPF/O2048",
+      "name": "2048 PVC Fluted Neutral",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323646678-614516.jpeg",
+      "mat": "PVC",
+      "mould": "Fluted",
+      "finish": "Neutral",
+      "type": "Panel",
+      "alts": [],
+      "matches": [
+        {
+          "sku": "UC/R1/PPX/J9005",
+          "score": 81
+        },
+        {
+          "sku": "UC/R1/PPF/W0333",
+          "score": 75
+        },
+        {
+          "sku": "UC/I2/PCM/W183S",
+          "score": 72
+        }
+      ]
+    },
+    {
+      "sku": "UC/R1/PPF/W0333",
+      "name": "0333 PVC Fluted Wood",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323910461-b473c2.jpeg",
+      "mat": "PVC",
+      "mould": "Fluted",
+      "finish": "Wood",
+      "type": "Panel",
+      "alts": [],
+      "matches": [
+        {
+          "sku": "UC/I2/PPD/WX913",
+          "score": 77
+        },
+        {
+          "sku": "UC/I2/PCM/W183S",
+          "score": 75
+        },
+        {
+          "sku": "UC/R1/PPF/O2048",
+          "score": 75
+        },
+        {
+          "sku": "UC/M2/PCS/K5081",
+          "score": 74
+        }
+      ]
+    },
+    {
+      "sku": "UC/R1/PPF/W0352",
+      "name": "0352 PVC Fluted Wood",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323901497-50e5a1.jpeg",
+      "mat": "PVC",
+      "mould": "Fluted",
+      "finish": "Wood",
+      "type": "Panel",
+      "alts": [],
+      "matches": [
+        {
+          "sku": "UC/P1/PPF/W9204",
+          "score": 89
+        },
+        {
+          "sku": "UC/M2/PCF/W7333",
+          "score": 87
+        },
+        {
+          "sku": "UC/I2/PPD/WX921",
+          "score": 85
+        },
+        {
+          "sku": "UC/R1/PPX/W0114",
+          "score": 84
+        },
+        {
+          "sku": "UC/M2/PPE/WS685",
+          "score": 84
+        },
+        {
+          "sku": "UC/I2/PPE/WS685",
+          "score": 70
+        }
+      ]
+    },
+    {
+      "sku": "UC/R1/PPP/F1449",
+      "name": "1449 PVC Plain Floral",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323634349-3469cb.jpeg",
+      "mat": "PVC",
+      "mould": "Plain",
+      "finish": "Floral",
+      "type": "Panel",
+      "alts": [],
+      "matches": [
+        {
+          "sku": "UC/P1/PPN/K1455",
+          "score": 77
+        },
+        {
+          "sku": "UC/P1/PPP/K1455",
+          "score": 77
+        },
+        {
+          "sku": "UC/P1/PPN/K9472",
+          "score": 76
+        },
+        {
+          "sku": "UC/P1/PPP/K9472",
+          "score": 76
+        },
+        {
+          "sku": "UC/P1/PPN/T0156",
+          "score": 74
+        },
+        {
+          "sku": "UC/P1/PPP/T0156",
+          "score": 74
+        }
+      ]
+    },
+    {
+      "sku": "UC/R1/PPP/G0818",
+      "name": "0818 PVC Plain Gold",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324468549-07209b.jpeg",
+      "mat": "PVC",
+      "mould": "Plain",
+      "finish": "Gold",
+      "type": "Panel",
+      "alts": [],
+      "matches": [
+        {
+          "sku": "UC/R1/PPP/T1218",
+          "score": 79
+        },
+        {
+          "sku": "UC/R1/PPP/X9380",
+          "score": 78
+        },
+        {
+          "sku": "UC/P1/PPP/K9380",
+          "score": 72
+        },
+        {
+          "sku": "UC/P1/PPN/K9380",
+          "score": 72
+        }
+      ]
+    },
+    {
+      "sku": "UC/R1/PPP/J9472",
+      "name": "0168* PVC Plain Gold",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/customer-app-supply/1722246688722-ec328b.jpeg",
+      "mat": "PVC",
+      "mould": "Plain",
+      "finish": "Gold",
+      "type": "Panel",
+      "alts": [
+        "UC/D1/PPP/J0168"
+      ],
+      "matches": [
+        {
+          "sku": "UC/D1/PPP/J0168",
+          "score": 100
+        },
+        {
+          "sku": "UC/D1/PPP/T0127",
+          "score": 86
+        }
+      ]
+    },
+    {
+      "sku": "UC/R1/PPP/S9382",
+      "name": "9382 PVC Plain Stone",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324410874-896ec2.jpeg",
+      "mat": "PVC",
+      "mould": "Plain",
+      "finish": "Stone",
+      "type": "Panel",
+      "alts": [
+        "UC/D1/PPP/S0426"
+      ],
+      "matches": [
+        {
+          "sku": "UC/M2/SS0/M5508",
+          "score": 82
+        },
+        {
+          "sku": "UC/M2/SS0/M8083",
+          "score": 81
+        },
+        {
+          "sku": "UC/M2/SS0/M09U2",
+          "score": 80
+        },
+        {
+          "sku": "UC/M2/SS0/M0703",
+          "score": 80
+        },
+        {
+          "sku": "UC/M2/SS0/M4501",
+          "score": 79
+        },
+        {
+          "sku": "UC/P1/PPN/S5021",
+          "score": 76
+        },
+        {
+          "sku": "UC/P1/PPP/S5021",
+          "score": 76
+        },
+        {
+          "sku": "UC/D1/PPP/S0229",
+          "score": 75
+        }
+      ]
+    },
+    {
+      "sku": "UC/R1/PPP/T1218",
+      "name": "1218 PVC Plain Floral",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324400818-85e760.jpeg",
+      "mat": "PVC",
+      "mould": "Plain",
+      "finish": "Floral",
+      "type": "Panel",
+      "alts": [
+        "UC/D1/PPP/T0127"
+      ],
+      "matches": [
+        {
+          "sku": "UC/P1/PPN/K9472",
+          "score": 79
+        },
+        {
+          "sku": "UC/R1/PPP/G0818",
+          "score": 79
+        },
+        {
+          "sku": "UC/P1/PPP/K9472",
+          "score": 78
+        },
+        {
+          "sku": "UC/P1/PPN/K0195",
+          "score": 74
+        },
+        {
+          "sku": "UC/D1/PPP/T0127",
+          "score": 72
+        },
+        {
+          "sku": "UC/D1/PPP/F0150",
+          "score": 71
+        }
+      ]
+    },
+    {
+      "sku": "UC/R1/PPP/W9371",
+      "name": "9371 PVC Plain Wood",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323843228-553e7c.jpeg",
+      "mat": "PVC",
+      "mould": "Plain",
+      "finish": "Wood",
+      "type": "Panel",
+      "alts": [
+        "UC/D1/PPP/W0953"
+      ],
+      "matches": [
+        {
+          "sku": "UC/D1/PPG/W0953",
+          "score": 82
+        },
+        {
+          "sku": "UC/M2/SP0/WX905",
+          "score": 80
+        },
+        {
+          "sku": "UC/I2/SPG/WX905",
+          "score": 80
+        },
+        {
+          "sku": "UC/D1/PPP/W0620",
+          "score": 79
+        }
+      ]
+    },
+    {
+      "sku": "UC/R1/PPP/X1456",
+      "name": "1456 PVC Plain Abstract",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324364421-76849d.jpeg",
+      "mat": "PVC",
+      "mould": "Plain",
+      "finish": "Abstract",
+      "type": "Panel",
+      "alts": [
+        "UC/D1/PPP/X0253"
+      ],
+      "matches": [
+        {
+          "sku": "UC/P1/PPN/T1456",
+          "score": 93
+        },
+        {
+          "sku": "UC/P1/PPP/T1456",
+          "score": 93
+        },
+        {
+          "sku": "UC/D1/PPP/X0253",
+          "score": 76
+        },
+        {
+          "sku": "UC/I2/SPG/WX913",
+          "score": 73
+        }
+      ]
+    },
+    {
+      "sku": "UC/R1/PPP/X9380",
+      "name": "9380 PVC Plain Gold",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323832824-163c21.jpeg",
+      "mat": "PVC",
+      "mould": "Plain",
+      "finish": "Gold",
+      "type": "Panel",
+      "alts": [],
+      "matches": [
+        {
+          "sku": "UC/P1/PPN/K9380",
+          "score": 81
+        },
+        {
+          "sku": "UC/P1/PPP/K9380",
+          "score": 81
+        },
+        {
+          "sku": "UC/R1/PPP/G0818",
+          "score": 78
+        },
+        {
+          "sku": "UC/M2/SS0/M0HXL",
+          "score": 71
+        },
+        {
+          "sku": "UC/D1/PPP/X0635",
+          "score": 71
+        }
+      ]
+    },
+    {
+      "sku": "UC/R1/PPX/J9005",
+      "name": "9005 PVC Fluted wide Gold",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323620737-3e2c5f.jpeg",
+      "mat": "PVC",
+      "mould": "Fluted wide",
+      "finish": "Gold",
+      "type": "Panel",
+      "alts": [],
+      "matches": [
+        {
+          "sku": "UC/R1/PPF/O2048",
+          "score": 81
+        },
+        {
+          "sku": "UC/P1/PPN/F7695",
+          "score": 74
+        },
+        {
+          "sku": "UC/P1/PPP/F7695",
+          "score": 73
+        },
+        {
+          "sku": "UC/I2/PCM/W183S",
+          "score": 72
+        }
+      ]
+    },
+    {
+      "sku": "UC/R1/PPX/W0103",
+      "name": "0103 PVC Fluted wide Wood",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323672473-c60a93.jpeg",
+      "mat": "PVC",
+      "mould": "Fluted wide",
+      "finish": "Wood",
+      "type": "Panel",
+      "alts": [],
+      "matches": [
+        {
+          "sku": "UC/I2/PPD/WS685",
+          "score": 85
+        },
+        {
+          "sku": "UC/M2/PPE/WS685",
+          "score": 84
+        },
+        {
+          "sku": "UC/R1/PPX/W0114",
+          "score": 84
+        },
+        {
+          "sku": "UC/I2/PPE/WS685",
+          "score": 83
+        },
+        {
+          "sku": "UC/I2/PPE/W4P03",
+          "score": 82
+        },
+        {
+          "sku": "UC/P1/PPN/W9204",
+          "score": 79
+        },
+        {
+          "sku": "UC/P1/PPP/W9204",
+          "score": 79
+        },
+        {
+          "sku": "UC/I2/PPD/WX913",
+          "score": 79
+        },
+        {
+          "sku": "UC/P1/PPP/KEM02",
+          "score": 78
+        },
+        {
+          "sku": "UC/P1/PPN/KEM02",
+          "score": 78
+        },
+        {
+          "sku": "UC/M2/SP0/W4P03",
+          "score": 72
+        },
+        {
+          "sku": "UC/M2/PPE/W4P03",
+          "score": 71
+        },
+        {
+          "sku": "UC/I2/SPG/W4P03",
+          "score": 70
+        }
+      ]
+    },
+    {
+      "sku": "UC/R1/PPX/W0114",
+      "name": "0114 PVC Fluted wide Wood",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323587148-34371a.jpeg",
+      "mat": "PVC",
+      "mould": "Fluted wide",
+      "finish": "Wood",
+      "type": "Panel",
+      "alts": [],
+      "matches": [
+        {
+          "sku": "UC/I2/PPD/WX921",
+          "score": 87
+        },
+        {
+          "sku": "UC/M2/PCF/W7331",
+          "score": 84
+        },
+        {
+          "sku": "UC/R1/PPX/W0103",
+          "score": 84
+        },
+        {
+          "sku": "UC/R1/PPF/W0352",
+          "score": 84
+        },
+        {
+          "sku": "UC/P1/PPF/W9204",
+          "score": 83
+        },
+        {
+          "sku": "UC/I2/PPE/WX921",
+          "score": 81
+        }
+      ]
+    },
+    {
+      "sku": "UC/R2/PCU/P5055",
+      "name": "5055 Charcoal Mini concave Pastel",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1754903565180-80bf8a.jpeg",
+      "mat": "Charcoal",
+      "mould": "Mini concave",
+      "finish": "Pastel",
+      "type": "Panel",
+      "alts": [],
+      "matches": [
+        {
+          "sku": "UC/R2/PCU/P5062",
+          "score": 87
+        },
+        {
+          "sku": "UC/R2/PCU/P5065",
+          "score": 82
+        }
+      ]
+    },
+    {
+      "sku": "UC/R2/PCU/P5057",
+      "name": "5057 Charcoal Mini concave Pastel",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1754903561930-918c2f.jpeg",
+      "mat": "Charcoal",
+      "mould": "Mini concave",
+      "finish": "Pastel",
+      "type": "Panel",
+      "alts": [],
+      "matches": [
+        {
+          "sku": "UC/R2/PCU/P5062",
+          "score": 72
+        }
+      ]
+    },
+    {
+      "sku": "UC/R2/PCU/P5062",
+      "name": "5062 Charcoal Mini concave Pastel",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1754903558577-6f1151.jpeg",
+      "mat": "Charcoal",
+      "mould": "Mini concave",
+      "finish": "Pastel",
+      "type": "Panel",
+      "alts": [],
+      "matches": [
+        {
+          "sku": "UC/R2/PCU/P5055",
+          "score": 87
+        },
+        {
+          "sku": "UC/R2/PCU/P5065",
+          "score": 79
+        },
+        {
+          "sku": "UC/R2/PCU/P5057",
+          "score": 72
+        }
+      ]
+    },
+    {
+      "sku": "UC/R2/PCU/P5065",
+      "name": "5065 Charcoal Mini concave Pastel",
+      "img": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1754903553795-5ab4ea.jpeg",
+      "mat": "Charcoal",
+      "mould": "Mini concave",
+      "finish": "Pastel",
+      "type": "Panel",
+      "alts": [],
+      "matches": [
+        {
+          "sku": "UC/R2/PCU/P5055",
+          "score": 82
+        },
+        {
+          "sku": "UC/R2/PCU/P5062",
+          "score": 79
+        }
+      ]
+    }
+  ]
+}
