@@ -74,7 +74,13 @@
       var ok = (!q || row.dataset.search.indexOf(q) >= 0) &&
                (!cheapOnly || parseInt(row.dataset.cheaper) > 0);
       row.style.display = ok ? '' : 'none';
-      if (ok) visible++;
+      if (ok) {
+        visible++;
+        // hide individual alt cards that are not cheaper when filter is on
+        row.querySelectorAll('.card').forEach(function (card) {
+          card.style.display = (!cheapOnly || card.classList.contains('is-cheaper')) ? '' : 'none';
+        });
+      }
     });
     document.getElementById('resCount').textContent = visible + ' of ' + rows.length + ' panels';
   }
