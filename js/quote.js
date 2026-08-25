@@ -410,6 +410,11 @@
       return;
     }
     hide('noQuotes');
+    if (nSave === 0) {
+      var note = el('div', 'qb-no-cheaper-note');
+      note.innerHTML = '⚠ No cheaper option available — all visually similar panels cost more after adjusting for area coverage.';
+      grid.appendChild(note);
+    }
     quotes.forEach(function (q) {
       var searchStr = q.swaps.map(function (s) { return [s.row.panel.name, s.row.panel.code, s.row.panel.material, s.alt.name, s.alt.code].join(' '); }).join(' ').toLowerCase();
       var saved = q.price.savedVsOrig, isSave = saved > 0;
