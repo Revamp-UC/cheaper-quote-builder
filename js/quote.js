@@ -292,11 +292,9 @@
   // For each replaceable panel the choices are {keep} ∪ {each positive-saving alt};
   // the Cartesian product across panels (minus the all-keep case) = every option.
   function generateQuotes() {
-    // Consider EVERY cheaper-look-alike (per the catalog) for each panel — even ones
-    // that turn out net-premium once quantity is recomputed by wall area (smaller
-    // panels need more units). We show all and mark save vs premium; nothing hidden.
     var perPanel = review.panels.map(function (r) {
       var swaps = (r.cheaper || []).map(function (a) { return computeSwap(r, a); })
+        .filter(function (s) { return s.saving > 0; })   // only net-cheaper after area recompute
         .sort(function (a, b) { return b.saving - a.saving; });
       return { row: r, swaps: swaps };
     }).filter(function (x) { return x.swaps.length; });
