@@ -322,6 +322,8 @@
       if (seen[key]) return; seen[key] = 1; uniq.push(q);
     });
     uniq.sort(function (a, b) { return b.price.savedVsOrig - a.price.savedVsOrig; });
+    // drop combinations where total quote ends up more expensive (e.g. discount slab crossed)
+    uniq = uniq.filter(function (q) { return q.price.savedVsOrig > 0; });
     lastQuoteTotal = uniq.length;
     return uniq.slice(0, MAX_QUOTES);
   }
@@ -402,9 +404,12 @@
     var grid = $('quoteGrid'); grid.innerHTML = '';
     if (!quotes.length) {
       show('noQuotes');
-      $('noQuotes').textContent = review.panels.length
-        ? 'None of the added panels have a cheaper look-alike in the catalog.'
-        : 'Add at least one panel to generate quotes.';
+      var hadAlts = review.panels.some(function (r) { return r.cheaper.length > 0; });
+      $('noQuotes').textContent = !review.panels.length
+        ? 'Add at least one panel to generate quotes.'
+        : hadAlts
+          ? 'No cheaper quotes possible — similar panels cost more after adjusting for wall area coverage.'
+          : 'None of the added panels have a cheaper look-alike in the catalog.';
       return;
     }
     hide('noQuotes');
