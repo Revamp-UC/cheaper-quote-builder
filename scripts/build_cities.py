@@ -70,6 +70,8 @@ def build_city(city_key, master_key, master, sim_by_code):
             am = live_panels.get(ac)   # only include if also live in this city
             if not am:
                 continue
+            if am.get("oos", {}).get(master_key, False):
+                continue              # skip OOS panels as alternatives
             alt_price = am["price"].get(master_key, 0)
             if not alt_price:
                 continue
