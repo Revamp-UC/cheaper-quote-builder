@@ -258,115 +258,6 @@
    ]
   },
   {
-   "name": "0103 PVC Fluted wide Wood",
-   "code": "UC/R1/PPX/W0103",
-   "material": "PVC",
-   "dims": {
-    "L_ft": 9.5,
-    "W_in": 11.8,
-    "T_mm": 10.2,
-    "raw": "9.5 ft ? 11.8 in ? 10.2 mm"
-   },
-   "psf": 161,
-   "perPanel": 1500,
-   "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323672473-c60a93.jpeg",
-   "search": "uc/r1/ppx/w0103 w0103 0103 pvc fluted wide wood pvc",
-   "unique": false,
-   "cheaperCount": 1,
-   "alternatives": [
-    {
-     "name": "S685 WPC Classic Wood",
-     "code": "UC/I2/PPD/WS685",
-     "material": "WPC",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 7.68,
-      "T_mm": 12,
-      "raw": "9.5 ft ? 7.68 in ? 12 mm"
-     },
-     "psf": 263,
-     "perPanel": 1600,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778752706158-35d49e.png",
-     "similarity": 85,
-     "isCheaper": false,
-     "diff": "▲ ₹100 premium",
-     "scoreClass": "hi"
-    },
-    {
-     "name": "0114 PVC Fluted wide Wood",
-     "code": "UC/R1/PPX/W0114",
-     "material": "PVC",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 11.8,
-      "T_mm": 10.2,
-      "raw": "9.5 ft ? 11.8 in ? 10.2 mm"
-     },
-     "psf": 161,
-     "perPanel": 1500,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323587148-34371a.jpeg",
-     "similarity": 84,
-     "isCheaper": false,
-     "diff": "= same price",
-     "scoreClass": "mid"
-    },
-    {
-     "name": "X913 WPC Classic Wood",
-     "code": "UC/I2/PPD/WX913",
-     "material": "WPC",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 7.68,
-      "T_mm": 12,
-      "raw": "9.5 ft ? 7.68 in ? 12 mm"
-     },
-     "psf": 263,
-     "perPanel": 1600,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770141006815-be0c05.jpeg",
-     "similarity": 79,
-     "isCheaper": false,
-     "diff": "▲ ₹100 premium",
-     "scoreClass": "mid"
-    },
-    {
-     "name": "4P03* WPC Small square Wood",
-     "code": "UC/M2/PPE/W4P03",
-     "material": "WPC",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 6.4,
-      "T_mm": 19.5,
-      "raw": "9.5 ft ? 6.4 in ? 19.5 mm"
-     },
-     "psf": 266,
-     "perPanel": 1350,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324111441-4d97f1.jpeg",
-     "similarity": 71,
-     "isCheaper": true,
-     "diff": "▼ ₹150 cheaper",
-     "scoreClass": "mid"
-    },
-    {
-     "name": "4P03 WPC Sheet Wood | 7 mm",
-     "code": "UC/I2/SPG/W4P03",
-     "material": "WPC",
-     "dims": {
-      "L_ft": 9.2,
-      "W_in": 23.48,
-      "T_mm": 7,
-      "raw": "9.2 ft ? 23.48 in ? 7 mm"
-     },
-     "psf": 197,
-     "perPanel": 3550,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140284177-8bba07.jpeg",
-     "similarity": 70,
-     "isCheaper": false,
-     "diff": "▲ ₹2,050 premium",
-     "scoreClass": "mid"
-    }
-   ]
-  },
-  {
    "name": "0112 WPC Ceramic Neutral",
    "code": "UC/I2/PPC/N0112",
    "material": "WPC",
@@ -545,42 +436,6 @@
      "similarity": 84,
      "isCheaper": false,
      "diff": "▲ ₹100 premium",
-     "scoreClass": "mid"
-    },
-    {
-     "name": "0103 PVC Fluted wide Wood",
-     "code": "UC/R1/PPX/W0103",
-     "material": "PVC",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 11.8,
-      "T_mm": 10.2,
-      "raw": "9.5 ft ? 11.8 in ? 10.2 mm"
-     },
-     "psf": 161,
-     "perPanel": 1500,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323672473-c60a93.jpeg",
-     "similarity": 84,
-     "isCheaper": false,
-     "diff": "= same price",
-     "scoreClass": "mid"
-    },
-    {
-     "name": "0352 PVC Fluted Wood",
-     "code": "UC/R1/PPF/W0352",
-     "material": "PVC",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 11.8,
-      "T_mm": 10.2,
-      "raw": "9.5 ft ? 11.8 in ? 10.2 mm"
-     },
-     "psf": 161,
-     "perPanel": 1500,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323901497-50e5a1.jpeg",
-     "similarity": 84,
-     "isCheaper": false,
-     "diff": "= same price",
      "scoreClass": "mid"
     },
     {
@@ -787,97 +642,6 @@
    ]
   },
   {
-   "name": "0160 PVC Fluted Neutral",
-   "code": "UC/R1/PPF/O0160",
-   "material": "PVC",
-   "dims": {
-    "L_ft": 9.5,
-    "W_in": 11.8,
-    "T_mm": 10.2,
-    "raw": "9.5 ft ? 11.8 in ? 10.2 mm"
-   },
-   "psf": 161,
-   "perPanel": 1500,
-   "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323919693-da7d96.jpeg",
-   "search": "uc/r1/ppf/o0160 o0160 0160 pvc fluted neutral pvc",
-   "unique": false,
-   "cheaperCount": 0,
-   "alternatives": [
-    {
-     "name": "7332 Charcoal Fluted Neutral",
-     "code": "UC/M2/PCF/R7332",
-     "material": "Charcoal",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 11.3,
-      "T_mm": 6,
-      "raw": "9.5 ft ? 11.3 in ? 6 mm"
-     },
-     "psf": 179,
-     "perPanel": 1600,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324278772-fba231.jpeg",
-     "similarity": 88,
-     "isCheaper": false,
-     "diff": "▲ ₹100 premium",
-     "scoreClass": "hi"
-    },
-    {
-     "name": "3624 Charcoal Mini rectangle Wood",
-     "code": "UC/M2/PCR/W3624",
-     "material": "Charcoal",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 11.6,
-      "T_mm": 6,
-      "raw": "9.5 ft ? 11.6 in ? 6 mm"
-     },
-     "psf": 218,
-     "perPanel": 2000,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323747075-a04ac2.jpeg",
-     "similarity": 81,
-     "isCheaper": false,
-     "diff": "▲ ₹500 premium",
-     "scoreClass": "mid"
-    },
-    {
-     "name": "S685 WPC Classic Wood",
-     "code": "UC/I2/PPD/WS685",
-     "material": "WPC",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 7.68,
-      "T_mm": 12,
-      "raw": "9.5 ft ? 7.68 in ? 12 mm"
-     },
-     "psf": 263,
-     "perPanel": 1600,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778752706158-35d49e.png",
-     "similarity": 81,
-     "isCheaper": false,
-     "diff": "▲ ₹100 premium",
-     "scoreClass": "mid"
-    },
-    {
-     "name": "A209 WPC Concave Neutral",
-     "code": "UC/M2/PPS/RA209",
-     "material": "WPC",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 7.64,
-      "T_mm": 12,
-      "raw": "9.5 ft ? 7.64 in ? 12 mm"
-     },
-     "psf": 256,
-     "perPanel": 1550,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324072204-1ab777.jpeg",
-     "similarity": 72,
-     "isCheaper": false,
-     "diff": "▲ ₹50 premium",
-     "scoreClass": "mid"
-    }
-   ]
-  },
-  {
    "name": "0229 PVC Plain Gold",
    "code": "UC/D1/PPP/S0229",
    "material": "PVC",
@@ -985,170 +749,6 @@
    "unique": true,
    "cheaperCount": 0,
    "alternatives": []
-  },
-  {
-   "name": "0333 PVC Fluted Wood",
-   "code": "UC/R1/PPF/W0333",
-   "material": "PVC",
-   "dims": {
-    "L_ft": 9.5,
-    "W_in": 11.8,
-    "T_mm": 10.2,
-    "raw": "9.5 ft ? 11.8 in ? 10.2 mm"
-   },
-   "psf": 161,
-   "perPanel": 1500,
-   "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323910461-b473c2.jpeg",
-   "search": "uc/r1/ppf/w0333 w0333 0333 pvc fluted wood pvc",
-   "unique": false,
-   "cheaperCount": 1,
-   "alternatives": [
-    {
-     "name": "X913 WPC Classic Wood",
-     "code": "UC/I2/PPD/WX913",
-     "material": "WPC",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 7.68,
-      "T_mm": 12,
-      "raw": "9.5 ft ? 7.68 in ? 12 mm"
-     },
-     "psf": 263,
-     "perPanel": 1600,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770141006815-be0c05.jpeg",
-     "similarity": 77,
-     "isCheaper": false,
-     "diff": "▲ ₹100 premium",
-     "scoreClass": "mid"
-    },
-    {
-     "name": "2048 PVC Fluted Neutral",
-     "code": "UC/R1/PPF/O2048",
-     "material": "PVC",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 11.8,
-      "T_mm": 10.2,
-      "raw": "9.5 ft ? 11.8 in ? 10.2 mm"
-     },
-     "psf": 161,
-     "perPanel": 1500,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323646678-614516.jpeg",
-     "similarity": 75,
-     "isCheaper": false,
-     "diff": "= same price",
-     "scoreClass": "mid"
-    },
-    {
-     "name": "5081 Charcoal Concave Gold",
-     "code": "UC/M2/PCS/K5081",
-     "material": "Charcoal",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 5.5,
-      "T_mm": 11,
-      "raw": "9.5 ft ? 5.5 in ? 11 mm"
-     },
-     "psf": 276,
-     "perPanel": 1200,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324236440-f726c2.jpeg",
-     "similarity": 74,
-     "isCheaper": true,
-     "diff": "▼ ₹300 cheaper",
-     "scoreClass": "mid"
-    }
-   ]
-  },
-  {
-   "name": "0352 PVC Fluted Wood",
-   "code": "UC/R1/PPF/W0352",
-   "material": "PVC",
-   "dims": {
-    "L_ft": 9.5,
-    "W_in": 11.8,
-    "T_mm": 10.2,
-    "raw": "9.5 ft ? 11.8 in ? 10.2 mm"
-   },
-   "psf": 161,
-   "perPanel": 1500,
-   "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323901497-50e5a1.jpeg",
-   "search": "uc/r1/ppf/w0352 w0352 0352 pvc fluted wood pvc",
-   "unique": false,
-   "cheaperCount": 0,
-   "alternatives": [
-    {
-     "name": "9204 Nio Fluted Wood",
-     "code": "UC/P1/PPF/W9204",
-     "material": "Nio",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 11.6,
-      "T_mm": 10,
-      "raw": "9.5 ft ? 11.6 in ? 10 mm"
-     },
-     "psf": 163,
-     "perPanel": 1500,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/customer-app-supply/1779351763768-9e46e6.jpeg",
-     "similarity": 89,
-     "isCheaper": false,
-     "diff": "= same price",
-     "scoreClass": "hi"
-    },
-    {
-     "name": "7333* Charcoal Fluted Wood",
-     "code": "UC/M2/PCF/W7333",
-     "material": "Charcoal",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 11.3,
-      "T_mm": 6,
-      "raw": "9.5 ft ? 11.3 in ? 6 mm"
-     },
-     "psf": 302,
-     "perPanel": 2700,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324263537-a3c2ea.jpeg",
-     "similarity": 87,
-     "isCheaper": false,
-     "diff": "▲ ₹1,200 premium",
-     "scoreClass": "hi"
-    },
-    {
-     "name": "X921 WPC Classic Wood",
-     "code": "UC/I2/PPD/WX921",
-     "material": "WPC",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 7.68,
-      "T_mm": 12,
-      "raw": "9.5 ft ? 7.68 in ? 12 mm"
-     },
-     "psf": 263,
-     "perPanel": 1600,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140375832-702c05.jpeg",
-     "similarity": 85,
-     "isCheaper": false,
-     "diff": "▲ ₹100 premium",
-     "scoreClass": "hi"
-    },
-    {
-     "name": "0114 PVC Fluted wide Wood",
-     "code": "UC/R1/PPX/W0114",
-     "material": "PVC",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 11.8,
-      "T_mm": 10.2,
-      "raw": "9.5 ft ? 11.8 in ? 10.2 mm"
-     },
-     "psf": 161,
-     "perPanel": 1500,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323587148-34371a.jpeg",
-     "similarity": 84,
-     "isCheaper": false,
-     "diff": "= same price",
-     "scoreClass": "mid"
-    }
-   ]
   },
   {
    "name": "0414 PVC Plain Wood",
@@ -2318,6 +1918,79 @@
    ]
   },
   {
+   "name": "2022 WPC Ceramic White",
+   "code": "UC/I2/PPC/H2022",
+   "material": "WPC",
+   "dims": {
+    "L_ft": 9.5,
+    "W_in": 7.68,
+    "T_mm": 7.5,
+    "raw": "9.5 ft ? 7.68 in ? 7.5 mm"
+   },
+   "psf": 271,
+   "perPanel": 1650,
+   "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140331001-b79537.jpeg",
+   "search": "uc/i2/ppc/h2022 h2022 2022 wpc ceramic white wpc",
+   "unique": false,
+   "cheaperCount": 1,
+   "alternatives": [
+    {
+     "name": "2022 WPC Classic White",
+     "code": "UC/I2/PPD/H2022",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 7.68,
+      "T_mm": 12,
+      "raw": "9.5 ft ? 7.68 in ? 12 mm"
+     },
+     "psf": 263,
+     "perPanel": 1600,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140386280-c49004.jpeg",
+     "similarity": 90,
+     "isCheaper": true,
+     "diff": "▼ ₹50 cheaper",
+     "scoreClass": "hi"
+    },
+    {
+     "name": "2025 WPC Ceramic Neutral",
+     "code": "UC/I2/PPC/N2025",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 7.68,
+      "T_mm": 7.5,
+      "raw": "9.5 ft ? 7.68 in ? 7.5 mm"
+     },
+     "psf": 271,
+     "perPanel": 1650,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324168617-538a58.jpeg",
+     "similarity": 81,
+     "isCheaper": false,
+     "diff": "= same price",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "2022 WPC Sheet White | 7 mm",
+     "code": "UC/I2/SPG/H2022",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.2,
+      "W_in": 23.48,
+      "T_mm": 7,
+      "raw": "9.2 ft ? 23.48 in ? 7 mm"
+     },
+     "psf": 197,
+     "perPanel": 3550,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140966166-e373e9.jpeg",
+     "similarity": 71,
+     "isCheaper": false,
+     "diff": "▲ ₹1,900 premium",
+     "scoreClass": "mid"
+    }
+   ]
+  },
+  {
    "name": "2022 WPC Classic White",
    "code": "UC/I2/PPD/H2022",
    "material": "WPC",
@@ -2332,24 +2005,24 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140386280-c49004.jpeg",
    "search": "uc/i2/ppd/h2022 h2022 2022 wpc classic white wpc",
    "unique": false,
-   "cheaperCount": 3,
+   "cheaperCount": 2,
    "alternatives": [
     {
-     "name": "2022* WPC Ceramic White",
-     "code": "UC/M2/PPC/H2022",
+     "name": "2022 WPC Ceramic White",
+     "code": "UC/I2/PPC/H2022",
      "material": "WPC",
      "dims": {
       "L_ft": 9.5,
-      "W_in": 5.8,
+      "W_in": 7.68,
       "T_mm": 7.5,
-      "raw": "9.5 ft ? 5.8 in ? 7.5 mm"
+      "raw": "9.5 ft ? 7.68 in ? 7.5 mm"
      },
-     "psf": 272,
-     "perPanel": 1250,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324201892-f83dba.jpeg",
+     "psf": 271,
+     "perPanel": 1650,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140331001-b79537.jpeg",
      "similarity": 90,
-     "isCheaper": true,
-     "diff": "▼ ₹350 cheaper",
+     "isCheaper": false,
+     "diff": "▲ ₹50 premium",
      "scoreClass": "hi"
     },
     {
@@ -2462,63 +2135,8 @@
      "scoreClass": "mid"
     },
     {
-     "name": "2022* WPC Ceramic White",
-     "code": "UC/M2/PPC/H2022",
-     "material": "WPC",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 5.8,
-      "T_mm": 7.5,
-      "raw": "9.5 ft ? 5.8 in ? 7.5 mm"
-     },
-     "psf": 272,
-     "perPanel": 1250,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324201892-f83dba.jpeg",
-     "similarity": 71,
-     "isCheaper": true,
-     "diff": "▼ ₹2,300 cheaper",
-     "scoreClass": "mid"
-    }
-   ]
-  },
-  {
-   "name": "2022* WPC Ceramic White",
-   "code": "UC/M2/PPC/H2022",
-   "material": "WPC",
-   "dims": {
-    "L_ft": 9.5,
-    "W_in": 5.8,
-    "T_mm": 7.5,
-    "raw": "9.5 ft ? 5.8 in ? 7.5 mm"
-   },
-   "psf": 272,
-   "perPanel": 1250,
-   "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324201892-f83dba.jpeg",
-   "search": "uc/m2/ppc/h2022 h2022 2022* wpc ceramic white wpc",
-   "unique": false,
-   "cheaperCount": 0,
-   "alternatives": [
-    {
-     "name": "2022 WPC Classic White",
-     "code": "UC/I2/PPD/H2022",
-     "material": "WPC",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 7.68,
-      "T_mm": 12,
-      "raw": "9.5 ft ? 7.68 in ? 12 mm"
-     },
-     "psf": 263,
-     "perPanel": 1600,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140386280-c49004.jpeg",
-     "similarity": 90,
-     "isCheaper": false,
-     "diff": "▲ ₹350 premium",
-     "scoreClass": "hi"
-    },
-    {
-     "name": "2025 WPC Ceramic Neutral",
-     "code": "UC/I2/PPC/N2025",
+     "name": "2022 WPC Ceramic White",
+     "code": "UC/I2/PPC/H2022",
      "material": "WPC",
      "dims": {
       "L_ft": 9.5,
@@ -2528,28 +2146,10 @@
      },
      "psf": 271,
      "perPanel": 1650,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324168617-538a58.jpeg",
-     "similarity": 82,
-     "isCheaper": false,
-     "diff": "▲ ₹400 premium",
-     "scoreClass": "mid"
-    },
-    {
-     "name": "2022 WPC Sheet White | 7 mm",
-     "code": "UC/I2/SPG/H2022",
-     "material": "WPC",
-     "dims": {
-      "L_ft": 9.2,
-      "W_in": 23.48,
-      "T_mm": 7,
-      "raw": "9.2 ft ? 23.48 in ? 7 mm"
-     },
-     "psf": 197,
-     "perPanel": 3550,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140966166-e373e9.jpeg",
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140331001-b79537.jpeg",
      "similarity": 71,
-     "isCheaper": false,
-     "diff": "▲ ₹2,300 premium",
+     "isCheaper": true,
+     "diff": "▼ ₹1,900 cheaper",
      "scoreClass": "mid"
     }
    ]
@@ -2569,24 +2169,24 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324168617-538a58.jpeg",
    "search": "uc/i2/ppc/n2025 n2025 2025 wpc ceramic neutral wpc",
    "unique": false,
-   "cheaperCount": 2,
+   "cheaperCount": 1,
    "alternatives": [
     {
-     "name": "2022* WPC Ceramic White",
-     "code": "UC/M2/PPC/H2022",
+     "name": "2022 WPC Ceramic White",
+     "code": "UC/I2/PPC/H2022",
      "material": "WPC",
      "dims": {
       "L_ft": 9.5,
-      "W_in": 5.8,
+      "W_in": 7.68,
       "T_mm": 7.5,
-      "raw": "9.5 ft ? 5.8 in ? 7.5 mm"
+      "raw": "9.5 ft ? 7.68 in ? 7.5 mm"
      },
-     "psf": 272,
-     "perPanel": 1250,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324201892-f83dba.jpeg",
-     "similarity": 82,
-     "isCheaper": true,
-     "diff": "▼ ₹400 cheaper",
+     "psf": 271,
+     "perPanel": 1650,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140331001-b79537.jpeg",
+     "similarity": 81,
+     "isCheaper": false,
+     "diff": "= same price",
      "scoreClass": "mid"
     },
     {
@@ -2896,61 +2496,6 @@
      "similarity": 70,
      "isCheaper": true,
      "diff": "▼ ₹5,700 cheaper",
-     "scoreClass": "mid"
-    }
-   ]
-  },
-  {
-   "name": "2048 PVC Fluted Neutral",
-   "code": "UC/R1/PPF/O2048",
-   "material": "PVC",
-   "dims": {
-    "L_ft": 9.5,
-    "W_in": 11.8,
-    "T_mm": 10.2,
-    "raw": "9.5 ft ? 11.8 in ? 10.2 mm"
-   },
-   "psf": 161,
-   "perPanel": 1500,
-   "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323646678-614516.jpeg",
-   "search": "uc/r1/ppf/o2048 o2048 2048 pvc fluted neutral pvc",
-   "unique": false,
-   "cheaperCount": 0,
-   "alternatives": [
-    {
-     "name": "9005 PVC Fluted wide Gold",
-     "code": "UC/R1/PPX/J9005",
-     "material": "PVC",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 11.8,
-      "T_mm": 10.2,
-      "raw": "9.5 ft ? 11.8 in ? 10.2 mm"
-     },
-     "psf": 161,
-     "perPanel": 1500,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323620737-3e2c5f.jpeg",
-     "similarity": 81,
-     "isCheaper": false,
-     "diff": "= same price",
-     "scoreClass": "mid"
-    },
-    {
-     "name": "0333 PVC Fluted Wood",
-     "code": "UC/R1/PPF/W0333",
-     "material": "PVC",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 11.8,
-      "T_mm": 10.2,
-      "raw": "9.5 ft ? 11.8 in ? 10.2 mm"
-     },
-     "psf": 161,
-     "perPanel": 1500,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323910461-b473c2.jpeg",
-     "similarity": 75,
-     "isCheaper": false,
-     "diff": "= same price",
      "scoreClass": "mid"
     }
    ]
@@ -3334,7 +2879,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323763523-c95780.jpeg",
    "search": "uc/m2/pcr/w3623 w3623 3623 charcoal mini rectangle wood charcoal",
    "unique": false,
-   "cheaperCount": 4,
+   "cheaperCount": 3,
    "alternatives": [
     {
      "name": "3624 Charcoal Mini rectangle Wood",
@@ -3373,21 +2918,21 @@
      "scoreClass": "hi"
     },
     {
-     "name": "4P03* WPC Small square Wood",
-     "code": "UC/M2/PPE/W4P03",
+     "name": "4P03 WPC Small square Wood",
+     "code": "UC/I2/PPE/W4P03",
      "material": "WPC",
      "dims": {
       "L_ft": 9.5,
-      "W_in": 6.4,
+      "W_in": 7.35,
       "T_mm": 19.5,
-      "raw": "9.5 ft ? 6.4 in ? 19.5 mm"
+      "raw": "9.5 ft ? 7.35 in ? 19.5 mm"
      },
-     "psf": 266,
-     "perPanel": 1350,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324111441-4d97f1.jpeg",
+     "psf": 275,
+     "perPanel": 1600,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140907844-d18dab.jpeg",
      "similarity": 85,
      "isCheaper": true,
-     "diff": "▼ ₹1,650 cheaper",
+     "diff": "▼ ₹1,400 cheaper",
      "scoreClass": "hi"
     },
     {
@@ -3407,24 +2952,6 @@
      "isCheaper": true,
      "diff": "▼ ₹1,000 cheaper",
      "scoreClass": "mid"
-    },
-    {
-     "name": "S685 WPC Classic Wood",
-     "code": "UC/I2/PPD/WS685",
-     "material": "WPC",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 7.68,
-      "T_mm": 12,
-      "raw": "9.5 ft ? 7.68 in ? 12 mm"
-     },
-     "psf": 263,
-     "perPanel": 1600,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778752706158-35d49e.png",
-     "similarity": 82,
-     "isCheaper": true,
-     "diff": "▼ ₹1,400 cheaper",
-     "scoreClass": "mid"
     }
    ]
   },
@@ -3443,7 +2970,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323747075-a04ac2.jpeg",
    "search": "uc/m2/pcr/w3624 w3624 3624 charcoal mini rectangle wood charcoal",
    "unique": false,
-   "cheaperCount": 2,
+   "cheaperCount": 1,
    "alternatives": [
     {
      "name": "3623 Charcoal Mini rectangle Wood",
@@ -3464,39 +2991,21 @@
      "scoreClass": "hi"
     },
     {
-     "name": "4P03* WPC Small square Wood",
-     "code": "UC/M2/PPE/W4P03",
+     "name": "4P03 WPC Small square Wood",
+     "code": "UC/I2/PPE/W4P03",
      "material": "WPC",
      "dims": {
       "L_ft": 9.5,
-      "W_in": 6.4,
+      "W_in": 7.35,
       "T_mm": 19.5,
-      "raw": "9.5 ft ? 6.4 in ? 19.5 mm"
+      "raw": "9.5 ft ? 7.35 in ? 19.5 mm"
      },
-     "psf": 266,
-     "perPanel": 1350,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324111441-4d97f1.jpeg",
-     "similarity": 82,
+     "psf": 275,
+     "perPanel": 1600,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140907844-d18dab.jpeg",
+     "similarity": 80,
      "isCheaper": true,
-     "diff": "▼ ₹650 cheaper",
-     "scoreClass": "mid"
-    },
-    {
-     "name": "0160 PVC Fluted Neutral",
-     "code": "UC/R1/PPF/O0160",
-     "material": "PVC",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 11.8,
-      "T_mm": 10.2,
-      "raw": "9.5 ft ? 11.8 in ? 10.2 mm"
-     },
-     "psf": 161,
-     "perPanel": 1500,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323919693-da7d96.jpeg",
-     "similarity": 81,
-     "isCheaper": true,
-     "diff": "▼ ₹500 cheaper",
+     "diff": "▼ ₹400 cheaper",
      "scoreClass": "mid"
     }
    ]
@@ -3589,24 +3098,24 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140284177-8bba07.jpeg",
    "search": "uc/i2/spg/w4p03 w4p03 4p03 wpc sheet wood | 7 mm wpc",
    "unique": false,
-   "cheaperCount": 2,
+   "cheaperCount": 1,
    "alternatives": [
     {
-     "name": "4P03* WPC Small square Wood",
-     "code": "UC/M2/PPE/W4P03",
+     "name": "4P03 WPC Small square Wood",
+     "code": "UC/I2/PPE/W4P03",
      "material": "WPC",
      "dims": {
       "L_ft": 9.5,
-      "W_in": 6.4,
+      "W_in": 7.35,
       "T_mm": 19.5,
-      "raw": "9.5 ft ? 6.4 in ? 19.5 mm"
+      "raw": "9.5 ft ? 7.35 in ? 19.5 mm"
      },
-     "psf": 266,
-     "perPanel": 1350,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324111441-4d97f1.jpeg",
+     "psf": 275,
+     "perPanel": 1600,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140907844-d18dab.jpeg",
      "similarity": 80,
      "isCheaper": true,
-     "diff": "▼ ₹2,200 cheaper",
+     "diff": "▼ ₹1,950 cheaper",
      "scoreClass": "mid"
     },
     {
@@ -3626,62 +3135,26 @@
      "isCheaper": false,
      "diff": "= same price",
      "scoreClass": "mid"
-    },
-    {
-     "name": "0103 PVC Fluted wide Wood",
-     "code": "UC/R1/PPX/W0103",
-     "material": "PVC",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 11.8,
-      "T_mm": 10.2,
-      "raw": "9.5 ft ? 11.8 in ? 10.2 mm"
-     },
-     "psf": 161,
-     "perPanel": 1500,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323672473-c60a93.jpeg",
-     "similarity": 70,
-     "isCheaper": true,
-     "diff": "▼ ₹2,050 cheaper",
-     "scoreClass": "mid"
     }
    ]
   },
   {
-   "name": "4P03* WPC Small square Wood",
-   "code": "UC/M2/PPE/W4P03",
+   "name": "4P03 WPC Small square Wood",
+   "code": "UC/I2/PPE/W4P03",
    "material": "WPC",
    "dims": {
     "L_ft": 9.5,
-    "W_in": 6.4,
+    "W_in": 7.35,
     "T_mm": 19.5,
-    "raw": "9.5 ft ? 6.4 in ? 19.5 mm"
+    "raw": "9.5 ft ? 7.35 in ? 19.5 mm"
    },
-   "psf": 266,
-   "perPanel": 1350,
-   "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324111441-4d97f1.jpeg",
-   "search": "uc/m2/ppe/w4p03 w4p03 4p03* wpc small square wood wpc",
+   "psf": 275,
+   "perPanel": 1600,
+   "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140907844-d18dab.jpeg",
+   "search": "uc/i2/ppe/w4p03 w4p03 4p03 wpc small square wood wpc",
    "unique": false,
    "cheaperCount": 0,
    "alternatives": [
-    {
-     "name": "S685 WPC Classic Wood",
-     "code": "UC/I2/PPD/WS685",
-     "material": "WPC",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 7.68,
-      "T_mm": 12,
-      "raw": "9.5 ft ? 7.68 in ? 12 mm"
-     },
-     "psf": 263,
-     "perPanel": 1600,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778752706158-35d49e.png",
-     "similarity": 91,
-     "isCheaper": false,
-     "diff": "▲ ₹250 premium",
-     "scoreClass": "hi"
-    },
     {
      "name": "3623 Charcoal Mini rectangle Wood",
      "code": "UC/M2/PCR/W3623",
@@ -3697,7 +3170,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323763523-c95780.jpeg",
      "similarity": 85,
      "isCheaper": false,
-     "diff": "▲ ₹1,650 premium",
+     "diff": "▲ ₹1,400 premium",
      "scoreClass": "hi"
     },
     {
@@ -3713,9 +3186,9 @@
      "psf": 218,
      "perPanel": 2000,
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323747075-a04ac2.jpeg",
-     "similarity": 82,
+     "similarity": 80,
      "isCheaper": false,
-     "diff": "▲ ₹650 premium",
+     "diff": "▲ ₹400 premium",
      "scoreClass": "mid"
     },
     {
@@ -3733,7 +3206,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140284177-8bba07.jpeg",
      "similarity": 80,
      "isCheaper": false,
-     "diff": "▲ ₹2,200 premium",
+     "diff": "▲ ₹1,950 premium",
      "scoreClass": "mid"
     },
     {
@@ -3751,25 +3224,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324263537-a3c2ea.jpeg",
      "similarity": 71,
      "isCheaper": false,
-     "diff": "▲ ₹1,350 premium",
-     "scoreClass": "mid"
-    },
-    {
-     "name": "0103 PVC Fluted wide Wood",
-     "code": "UC/R1/PPX/W0103",
-     "material": "PVC",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 11.8,
-      "T_mm": 10.2,
-      "raw": "9.5 ft ? 11.8 in ? 10.2 mm"
-     },
-     "psf": 161,
-     "perPanel": 1500,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323672473-c60a93.jpeg",
-     "similarity": 71,
-     "isCheaper": false,
-     "diff": "▲ ₹150 premium",
+     "diff": "▲ ₹1,100 premium",
      "scoreClass": "mid"
     }
    ]
@@ -3917,24 +3372,6 @@
      "similarity": 79,
      "isCheaper": false,
      "diff": "▲ ₹500 premium",
-     "scoreClass": "mid"
-    },
-    {
-     "name": "0333 PVC Fluted Wood",
-     "code": "UC/R1/PPF/W0333",
-     "material": "PVC",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 11.8,
-      "T_mm": 10.2,
-      "raw": "9.5 ft ? 11.8 in ? 10.2 mm"
-     },
-     "psf": 161,
-     "perPanel": 1500,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323910461-b473c2.jpeg",
-     "similarity": 74,
-     "isCheaper": false,
-     "diff": "▲ ₹300 premium",
      "scoreClass": "mid"
     }
    ]
@@ -4448,24 +3885,6 @@
      "scoreClass": "mid"
     },
     {
-     "name": "X905 WPC Classic Wood",
-     "code": "UC/I2/PPD/WX905",
-     "material": "WPC",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 7.68,
-      "T_mm": 12,
-      "raw": "9.5 ft ? 7.68 in ? 12 mm"
-     },
-     "psf": 263,
-     "perPanel": 1600,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140362352-3302d2.jpeg",
-     "similarity": 82,
-     "isCheaper": false,
-     "diff": "= same price",
-     "scoreClass": "mid"
-    },
-    {
      "name": "0952/0414 PVC Grooved Wood",
      "code": "UC/D1/PPG/W0414",
      "material": "PVC",
@@ -4627,26 +4046,8 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324278772-fba231.jpeg",
    "search": "uc/m2/pcf/r7332 r7332 7332 charcoal fluted neutral charcoal",
    "unique": false,
-   "cheaperCount": 2,
+   "cheaperCount": 1,
    "alternatives": [
-    {
-     "name": "0160 PVC Fluted Neutral",
-     "code": "UC/R1/PPF/O0160",
-     "material": "PVC",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 11.8,
-      "T_mm": 10.2,
-      "raw": "9.5 ft ? 11.8 in ? 10.2 mm"
-     },
-     "psf": 161,
-     "perPanel": 1500,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323919693-da7d96.jpeg",
-     "similarity": 88,
-     "isCheaper": true,
-     "diff": "▼ ₹100 cheaper",
-     "scoreClass": "hi"
-    },
     {
      "name": "0132 WPC Classic Neutral",
      "code": "UC/I2/PPD/R0132",
@@ -4718,7 +4119,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324263537-a3c2ea.jpeg",
    "search": "uc/m2/pcf/w7333 w7333 7333* charcoal fluted wood charcoal",
    "unique": false,
-   "cheaperCount": 5,
+   "cheaperCount": 4,
    "alternatives": [
     {
      "name": "7331 Charcoal Fluted Wood",
@@ -4736,24 +4137,6 @@
      "similarity": 87,
      "isCheaper": true,
      "diff": "▼ ₹1,100 cheaper",
-     "scoreClass": "hi"
-    },
-    {
-     "name": "0352 PVC Fluted Wood",
-     "code": "UC/R1/PPF/W0352",
-     "material": "PVC",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 11.8,
-      "T_mm": 10.2,
-      "raw": "9.5 ft ? 11.8 in ? 10.2 mm"
-     },
-     "psf": 161,
-     "perPanel": 1500,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323901497-50e5a1.jpeg",
-     "similarity": 87,
-     "isCheaper": true,
-     "diff": "▼ ₹1,200 cheaper",
      "scoreClass": "hi"
     },
     {
@@ -4811,21 +4194,21 @@
      "scoreClass": "mid"
     },
     {
-     "name": "4P03* WPC Small square Wood",
-     "code": "UC/M2/PPE/W4P03",
+     "name": "4P03 WPC Small square Wood",
+     "code": "UC/I2/PPE/W4P03",
      "material": "WPC",
      "dims": {
       "L_ft": 9.5,
-      "W_in": 6.4,
+      "W_in": 7.35,
       "T_mm": 19.5,
-      "raw": "9.5 ft ? 6.4 in ? 19.5 mm"
+      "raw": "9.5 ft ? 7.35 in ? 19.5 mm"
      },
-     "psf": 266,
-     "perPanel": 1350,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324111441-4d97f1.jpeg",
+     "psf": 275,
+     "perPanel": 1600,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140907844-d18dab.jpeg",
      "similarity": 71,
      "isCheaper": true,
-     "diff": "▼ ₹1,350 cheaper",
+     "diff": "▼ ₹1,100 cheaper",
      "scoreClass": "mid"
     }
    ]
@@ -4845,7 +4228,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323774170-af8a9c.jpeg",
    "search": "uc/i2/pcf/w7334 w7334 7334 charcoal fluted wood charcoal",
    "unique": false,
-   "cheaperCount": 3,
+   "cheaperCount": 2,
    "alternatives": [
     {
      "name": "7073 WPC Classic Wood",
@@ -4881,24 +4264,6 @@
      "similarity": 82,
      "isCheaper": true,
      "diff": "▼ ₹1,200 cheaper",
-     "scoreClass": "mid"
-    },
-    {
-     "name": "X905 WPC Classic Wood",
-     "code": "UC/I2/PPD/WX905",
-     "material": "WPC",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 7.68,
-      "T_mm": 12,
-      "raw": "9.5 ft ? 7.68 in ? 12 mm"
-     },
-     "psf": 263,
-     "perPanel": 1600,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140362352-3302d2.jpeg",
-     "similarity": 81,
-     "isCheaper": true,
-     "diff": "▼ ₹1,100 cheaper",
      "scoreClass": "mid"
     }
    ]
@@ -5100,24 +4465,6 @@
      "similarity": 82,
      "isCheaper": false,
      "diff": "▲ ₹1,200 premium",
-     "scoreClass": "mid"
-    },
-    {
-     "name": "X905 WPC Classic Wood",
-     "code": "UC/I2/PPD/WX905",
-     "material": "WPC",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 7.68,
-      "T_mm": 12,
-      "raw": "9.5 ft ? 7.68 in ? 12 mm"
-     },
-     "psf": 263,
-     "perPanel": 1600,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140362352-3302d2.jpeg",
-     "similarity": 81,
-     "isCheaper": false,
-     "diff": "▲ ₹100 premium",
      "scoreClass": "mid"
     },
     {
@@ -5468,43 +4815,6 @@
    ]
   },
   {
-   "name": "9005 PVC Fluted wide Gold",
-   "code": "UC/R1/PPX/J9005",
-   "material": "PVC",
-   "dims": {
-    "L_ft": 9.5,
-    "W_in": 11.8,
-    "T_mm": 10.2,
-    "raw": "9.5 ft ? 11.8 in ? 10.2 mm"
-   },
-   "psf": 161,
-   "perPanel": 1500,
-   "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323620737-3e2c5f.jpeg",
-   "search": "uc/r1/ppx/j9005 j9005 9005 pvc fluted wide gold pvc",
-   "unique": false,
-   "cheaperCount": 0,
-   "alternatives": [
-    {
-     "name": "2048 PVC Fluted Neutral",
-     "code": "UC/R1/PPF/O2048",
-     "material": "PVC",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 11.8,
-      "T_mm": 10.2,
-      "raw": "9.5 ft ? 11.8 in ? 10.2 mm"
-     },
-     "psf": 161,
-     "perPanel": 1500,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323646678-614516.jpeg",
-     "similarity": 81,
-     "isCheaper": false,
-     "diff": "= same price",
-     "scoreClass": "mid"
-    }
-   ]
-  },
-  {
    "name": "9204 Nio Fluted Wood",
    "code": "UC/P1/PPF/W9204",
    "material": "Nio",
@@ -5521,24 +4831,6 @@
    "unique": false,
    "cheaperCount": 0,
    "alternatives": [
-    {
-     "name": "0352 PVC Fluted Wood",
-     "code": "UC/R1/PPF/W0352",
-     "material": "PVC",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 11.8,
-      "T_mm": 10.2,
-      "raw": "9.5 ft ? 11.8 in ? 10.2 mm"
-     },
-     "psf": 161,
-     "perPanel": 1500,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323901497-50e5a1.jpeg",
-     "similarity": 89,
-     "isCheaper": false,
-     "diff": "= same price",
-     "scoreClass": "hi"
-    },
     {
      "name": "X921 WPC Classic Wood",
      "code": "UC/I2/PPD/WX921",
@@ -5775,24 +5067,6 @@
      "isCheaper": false,
      "diff": "= same price",
      "scoreClass": "mid"
-    },
-    {
-     "name": "1449 PVC Plain Floral",
-     "code": "UC/R1/PPP/F1449",
-     "material": "PVC",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 9.8,
-      "T_mm": 5,
-      "raw": "9.5 ft ? 9.8 in ? 5 mm"
-     },
-     "psf": 103,
-     "perPanel": 800,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323634349-3469cb.jpeg",
-     "similarity": 76,
-     "isCheaper": false,
-     "diff": "= same price",
-     "scoreClass": "mid"
     }
    ]
   },
@@ -5902,26 +5176,8 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324072204-1ab777.jpeg",
    "search": "uc/m2/pps/ra209 ra209 a209 wpc concave neutral wpc",
    "unique": false,
-   "cheaperCount": 1,
+   "cheaperCount": 0,
    "alternatives": [
-    {
-     "name": "0160 PVC Fluted Neutral",
-     "code": "UC/R1/PPF/O0160",
-     "material": "PVC",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 11.8,
-      "T_mm": 10.2,
-      "raw": "9.5 ft ? 11.8 in ? 10.2 mm"
-     },
-     "psf": 161,
-     "perPanel": 1500,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323919693-da7d96.jpeg",
-     "similarity": 72,
-     "isCheaper": true,
-     "diff": "▼ ₹50 cheaper",
-     "scoreClass": "mid"
-    },
     {
      "name": "X913 WPC Classic Wood",
      "code": "UC/I2/PPD/WX913",
@@ -6305,42 +5561,24 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778752706158-35d49e.png",
    "search": "uc/i2/ppd/ws685 ws685 s685 wpc classic wood wpc",
    "unique": false,
-   "cheaperCount": 3,
+   "cheaperCount": 0,
    "alternatives": [
     {
-     "name": "4P03* WPC Small square Wood",
-     "code": "UC/M2/PPE/W4P03",
+     "name": "4P03 WPC Small square Wood",
+     "code": "UC/I2/PPE/W4P03",
      "material": "WPC",
      "dims": {
       "L_ft": 9.5,
-      "W_in": 6.4,
+      "W_in": 7.35,
       "T_mm": 19.5,
-      "raw": "9.5 ft ? 6.4 in ? 19.5 mm"
+      "raw": "9.5 ft ? 7.35 in ? 19.5 mm"
      },
-     "psf": 266,
-     "perPanel": 1350,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324111441-4d97f1.jpeg",
-     "similarity": 91,
-     "isCheaper": true,
-     "diff": "▼ ₹250 cheaper",
-     "scoreClass": "hi"
-    },
-    {
-     "name": "0103 PVC Fluted wide Wood",
-     "code": "UC/R1/PPX/W0103",
-     "material": "PVC",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 11.8,
-      "T_mm": 10.2,
-      "raw": "9.5 ft ? 11.8 in ? 10.2 mm"
-     },
-     "psf": 161,
-     "perPanel": 1500,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323672473-c60a93.jpeg",
-     "similarity": 85,
-     "isCheaper": true,
-     "diff": "▼ ₹100 cheaper",
+     "psf": 275,
+     "perPanel": 1600,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140907844-d18dab.jpeg",
+     "similarity": 92,
+     "isCheaper": false,
+     "diff": "= same price",
      "scoreClass": "hi"
     },
     {
@@ -6359,24 +5597,6 @@
      "similarity": 82,
      "isCheaper": false,
      "diff": "▲ ₹1,400 premium",
-     "scoreClass": "mid"
-    },
-    {
-     "name": "0160 PVC Fluted Neutral",
-     "code": "UC/R1/PPF/O0160",
-     "material": "PVC",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 11.8,
-      "T_mm": 10.2,
-      "raw": "9.5 ft ? 11.8 in ? 10.2 mm"
-     },
-     "psf": 161,
-     "perPanel": 1500,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323919693-da7d96.jpeg",
-     "similarity": 81,
-     "isCheaper": true,
-     "diff": "▼ ₹100 cheaper",
      "scoreClass": "mid"
     }
    ]
@@ -6596,7 +5816,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323509340-81fb63.jpeg",
    "search": "uc/m2/sp0/wx905 wx905 x905 wpc sheet wood | 5 mm wpc",
    "unique": false,
-   "cheaperCount": 4,
+   "cheaperCount": 3,
    "alternatives": [
     {
      "name": "8360 WPC Sheet Wood | 7 mm",
@@ -6671,24 +5891,6 @@
      "scoreClass": "mid"
     },
     {
-     "name": "X905 WPC Classic Wood",
-     "code": "UC/I2/PPD/WX905",
-     "material": "WPC",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 7.68,
-      "T_mm": 12,
-      "raw": "9.5 ft ? 7.68 in ? 12 mm"
-     },
-     "psf": 263,
-     "perPanel": 1600,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140362352-3302d2.jpeg",
-     "similarity": 76,
-     "isCheaper": true,
-     "diff": "▼ ₹1,650 cheaper",
-     "scoreClass": "mid"
-    },
-    {
      "name": "X905* WPC Small square Wood",
      "code": "UC/M2/PPE/WX905",
      "material": "WPC",
@@ -6725,24 +5927,6 @@
    "unique": false,
    "cheaperCount": 1,
    "alternatives": [
-    {
-     "name": "X905 WPC Classic Wood",
-     "code": "UC/I2/PPD/WX905",
-     "material": "WPC",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 7.68,
-      "T_mm": 12,
-      "raw": "9.5 ft ? 7.68 in ? 12 mm"
-     },
-     "psf": 263,
-     "perPanel": 1600,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140362352-3302d2.jpeg",
-     "similarity": 90,
-     "isCheaper": false,
-     "diff": "▲ ₹790 premium",
-     "scoreClass": "hi"
-    },
     {
      "name": "8360 WPC Small square Wood",
      "code": "UC/I2/PPE/W8360",
@@ -6850,7 +6034,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770141006815-be0c05.jpeg",
    "search": "uc/i2/ppd/wx913 wx913 x913 wpc classic wood wpc",
    "unique": false,
-   "cheaperCount": 3,
+   "cheaperCount": 1,
    "alternatives": [
     {
      "name": "X913 WPC Sheet Wood | 7 mm",
@@ -6886,42 +6070,6 @@
      "similarity": 79,
      "isCheaper": false,
      "diff": "▲ ₹50 premium",
-     "scoreClass": "mid"
-    },
-    {
-     "name": "0103 PVC Fluted wide Wood",
-     "code": "UC/R1/PPX/W0103",
-     "material": "PVC",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 11.8,
-      "T_mm": 10.2,
-      "raw": "9.5 ft ? 11.8 in ? 10.2 mm"
-     },
-     "psf": 161,
-     "perPanel": 1500,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323672473-c60a93.jpeg",
-     "similarity": 79,
-     "isCheaper": true,
-     "diff": "▼ ₹100 cheaper",
-     "scoreClass": "mid"
-    },
-    {
-     "name": "0333 PVC Fluted Wood",
-     "code": "UC/R1/PPF/W0333",
-     "material": "PVC",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 11.8,
-      "T_mm": 10.2,
-      "raw": "9.5 ft ? 11.8 in ? 10.2 mm"
-     },
-     "psf": 161,
-     "perPanel": 1500,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323910461-b473c2.jpeg",
-     "similarity": 77,
-     "isCheaper": true,
-     "diff": "▼ ₹100 cheaper",
      "scoreClass": "mid"
     },
     {
@@ -7035,24 +6183,6 @@
      "scoreClass": "mid"
     },
     {
-     "name": "X905 WPC Classic Wood",
-     "code": "UC/I2/PPD/WX905",
-     "material": "WPC",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 7.68,
-      "T_mm": 12,
-      "raw": "9.5 ft ? 7.68 in ? 12 mm"
-     },
-     "psf": 263,
-     "perPanel": 1600,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140362352-3302d2.jpeg",
-     "similarity": 81,
-     "isCheaper": false,
-     "diff": "= same price",
-     "scoreClass": "mid"
-    },
-    {
      "name": "8360 WPC Small square Wood",
      "code": "UC/I2/PPE/W8360",
      "material": "WPC",
@@ -7105,7 +6235,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140375832-702c05.jpeg",
    "search": "uc/i2/ppd/wx921 wx921 x921 wpc classic wood wpc",
    "unique": false,
-   "cheaperCount": 3,
+   "cheaperCount": 2,
    "alternatives": [
     {
      "name": "X921 WPC Small square Wood",
@@ -7195,42 +6325,6 @@
      "similarity": 85,
      "isCheaper": false,
      "diff": "▲ ₹1,100 premium",
-     "scoreClass": "hi"
-    },
-    {
-     "name": "0352 PVC Fluted Wood",
-     "code": "UC/R1/PPF/W0352",
-     "material": "PVC",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 11.8,
-      "T_mm": 10.2,
-      "raw": "9.5 ft ? 11.8 in ? 10.2 mm"
-     },
-     "psf": 161,
-     "perPanel": 1500,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323901497-50e5a1.jpeg",
-     "similarity": 85,
-     "isCheaper": true,
-     "diff": "▼ ₹100 cheaper",
-     "scoreClass": "hi"
-    },
-    {
-     "name": "X921 WPC Sheet Wood | 7 mm",
-     "code": "UC/I2/SPG/WX921",
-     "material": "WPC",
-     "dims": {
-      "L_ft": 9.2,
-      "W_in": 23.48,
-      "T_mm": 7,
-      "raw": "9.2 ft ? 23.48 in ? 7 mm"
-     },
-     "psf": 197,
-     "perPanel": 3550,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140294615-99bfdb.jpeg",
-     "similarity": 85,
-     "isCheaper": false,
-     "diff": "▲ ₹1,950 premium",
      "scoreClass": "hi"
     }
    ]
@@ -7377,24 +6471,6 @@
      "similarity": 81,
      "isCheaper": true,
      "diff": "▼ ₹100 cheaper",
-     "scoreClass": "mid"
-    },
-    {
-     "name": "X921 WPC Sheet Wood | 7 mm",
-     "code": "UC/I2/SPG/WX921",
-     "material": "WPC",
-     "dims": {
-      "L_ft": 9.2,
-      "W_in": 23.48,
-      "T_mm": 7,
-      "raw": "9.2 ft ? 23.48 in ? 7 mm"
-     },
-     "psf": 197,
-     "perPanel": 3550,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140294615-99bfdb.jpeg",
-     "similarity": 80,
-     "isCheaper": false,
-     "diff": "▲ ₹1,950 premium",
      "scoreClass": "mid"
     }
    ]
