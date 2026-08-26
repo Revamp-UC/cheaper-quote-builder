@@ -5,6 +5,8 @@ on:
     paths:
       - 'assets/data/master.json'   # Apps Script pushes this → auto-rebuild
   workflow_dispatch:                 # manual trigger from GitHub Actions tab
+  schedule:
+    - cron: '30 3 * * *'            # 9:00 AM IST daily fallback (3:30 UTC)
 
 permissions:
   contents: write
