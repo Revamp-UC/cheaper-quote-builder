@@ -454,7 +454,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323919693-da7d96.jpeg",
    "search": "uc/r1/ppf/o0160 o0160 0160 pvc fluted neutral pvc",
    "unique": false,
-   "cheaperCount": 1,
+   "cheaperCount": 0,
    "alternatives": [
     {
      "name": "7332 Charcoal Fluted Neutral",
@@ -508,24 +508,6 @@
      "similarity": 81,
      "isCheaper": false,
      "diff": "= same price",
-     "scoreClass": "mid"
-    },
-    {
-     "name": "A209 WPC Concave Neutral",
-     "code": "UC/M2/PPS/RA209",
-     "material": "WPC",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 7.64,
-      "T_mm": 12,
-      "raw": "9.5 ft ? 7.64 in ? 12 mm"
-     },
-     "psf": 240,
-     "perPanel": 1450,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324072204-1ab777.jpeg",
-     "similarity": 72,
-     "isCheaper": true,
-     "diff": "▼ ₹50 cheaper",
      "scoreClass": "mid"
     }
    ]
@@ -5524,7 +5506,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770141006815-be0c05.jpeg",
    "search": "uc/i2/ppd/wx913 wx913 x913 wpc classic wood wpc",
    "unique": false,
-   "cheaperCount": 1,
+   "cheaperCount": 0,
    "alternatives": [
     {
      "name": "X913 WPC Sheet Wood | 7 mm",
@@ -5560,24 +5542,6 @@
      "similarity": 79,
      "isCheaper": false,
      "diff": "▲ ₹150 premium",
-     "scoreClass": "mid"
-    },
-    {
-     "name": "A209 WPC Concave Neutral",
-     "code": "UC/M2/PPS/RA209",
-     "material": "WPC",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 7.64,
-      "T_mm": 12,
-      "raw": "9.5 ft ? 7.64 in ? 12 mm"
-     },
-     "psf": 240,
-     "perPanel": 1450,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324072204-1ab777.jpeg",
-     "similarity": 71,
-     "isCheaper": true,
-     "diff": "▼ ₹50 cheaper",
      "scoreClass": "mid"
     }
    ]
