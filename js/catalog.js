@@ -51,6 +51,7 @@
           '<div class="selprice">' + rupee(p.perPanel) +
             '<span class="psf"> ' + (CITY_NAMES[CITY] || CITY) + ' · per panel</span>' +
           '</div>' +
+          (p.oos ? '<div class="oos-badge">● OOS Today</div>' : '') +
         '</div>' +
       '</div>';
 

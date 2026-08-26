@@ -104,6 +104,7 @@ def build_city(city_key, master_key, master, sim_by_code):
             "search":       build_search(code, m["name"], m.get("material", "")),
             "unique":       len(alts) == 0,
             "cheaperCount": cheaper_count,
+            "oos":          m.get("oos", {}).get(master_key, False),
             "alternatives": alts,
         })
 
