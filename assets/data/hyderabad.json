@@ -1800,44 +1800,6 @@
    ]
   },
   {
-   "name": "1449 PVC Plain Floral",
-   "code": "UC/R1/PPP/F1449",
-   "material": "PVC",
-   "dims": {
-    "L_ft": 9.5,
-    "W_in": 9.8,
-    "T_mm": 5,
-    "raw": "9.5 ft ? 9.8 in ? 5 mm"
-   },
-   "psf": 103,
-   "perPanel": 800,
-   "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323634349-3469cb.jpeg",
-   "search": "uc/r1/ppp/f1449 f1449 1449 pvc plain floral pvc",
-   "unique": false,
-   "cheaperCount": 0,
-   "oos": true,
-   "alternatives": [
-    {
-     "name": "9472 Nio Plain Gold",
-     "code": "UC/P1/PPP/K9472",
-     "material": "Nio",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 9.8,
-      "T_mm": 6,
-      "raw": "9.5 ft ? 9.8 in ? 6 mm"
-     },
-     "psf": 103,
-     "perPanel": 800,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841899274-b00d62.png",
-     "similarity": 76,
-     "isCheaper": false,
-     "diff": "= same price",
-     "scoreClass": "mid"
-    }
-   ]
-  },
-  {
    "name": "1987 Charcoal Classic Rattan",
    "code": "UC/I2/PCD/R1987",
    "material": "Charcoal",

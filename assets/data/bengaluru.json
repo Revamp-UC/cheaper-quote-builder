@@ -538,7 +538,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323910461-b473c2.jpeg",
    "search": "uc/r1/ppf/w0333 w0333 0333 pvc fluted wood pvc",
    "unique": false,
-   "cheaperCount": 0,
+   "cheaperCount": 1,
    "oos": false,
    "alternatives": [
     {
@@ -557,6 +557,24 @@
      "similarity": 77,
      "isCheaper": false,
      "diff": "▲ ₹50 premium",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "5081 Charcoal Concave Gold",
+     "code": "UC/M2/PCS/K5081",
+     "material": "Charcoal",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 5.5,
+      "T_mm": 11,
+      "raw": "9.5 ft ? 5.5 in ? 11 mm"
+     },
+     "psf": 276,
+     "perPanel": 1200,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324236440-f726c2.jpeg",
+     "similarity": 74,
+     "isCheaper": true,
+     "diff": "▼ ₹350 cheaper",
      "scoreClass": "mid"
     }
    ]
@@ -799,6 +817,24 @@
      "similarity": 73,
      "isCheaper": false,
      "diff": "▲ ₹6,799 premium",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "9952 WPC Sheet Texture | 7 mm",
+     "code": "UC/I2/SPH/L9952",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.2,
+      "W_in": 47.2,
+      "T_mm": 7,
+      "raw": "9.2 ft ? 47.2 in ? 7 mm"
+     },
+     "psf": 254,
+     "perPanel": 9200,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323533569-762729.jpeg",
+     "similarity": 72,
+     "isCheaper": false,
+     "diff": "▲ ₹8,400 premium",
      "scoreClass": "mid"
     }
    ]
@@ -1228,6 +1264,24 @@
      "scoreClass": "mid"
     },
     {
+     "name": "9952 WPC Sheet Texture | 7 mm",
+     "code": "UC/I2/SPH/L9952",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.2,
+      "W_in": 47.2,
+      "T_mm": 7,
+      "raw": "9.2 ft ? 47.2 in ? 7 mm"
+     },
+     "psf": 254,
+     "perPanel": 9200,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323533569-762729.jpeg",
+     "similarity": 82,
+     "isCheaper": false,
+     "diff": "▲ ₹3,200 premium",
+     "scoreClass": "mid"
+    },
+    {
      "name": "CZ07 WPC Sheet Texture | 7 mm",
      "code": "UC/I2/SPH/LCZ07",
      "material": "WPC",
@@ -1596,9 +1650,27 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140386280-c49004.jpeg",
    "search": "uc/i2/ppd/h2022 h2022 2022 wpc classic white wpc",
    "unique": false,
-   "cheaperCount": 1,
+   "cheaperCount": 2,
    "oos": true,
    "alternatives": [
+    {
+     "name": "5081 Charcoal Concave Gold",
+     "code": "UC/M2/PCS/K5081",
+     "material": "Charcoal",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 5.5,
+      "T_mm": 11,
+      "raw": "9.5 ft ? 5.5 in ? 11 mm"
+     },
+     "psf": 276,
+     "perPanel": 1200,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324236440-f726c2.jpeg",
+     "similarity": 85,
+     "isCheaper": true,
+     "diff": "▼ ₹400 cheaper",
+     "scoreClass": "hi"
+    },
     {
      "name": "5084 Charcoal Concave Gold",
      "code": "UC/M2/PCS/K5084",
@@ -1953,6 +2025,24 @@
    "cheaperCount": 1,
    "oos": false,
    "alternatives": [
+    {
+     "name": "9952 WPC Sheet Texture | 7 mm",
+     "code": "UC/I2/SPH/L9952",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.2,
+      "W_in": 47.2,
+      "T_mm": 7,
+      "raw": "9.2 ft ? 47.2 in ? 7 mm"
+     },
+     "psf": 254,
+     "perPanel": 9200,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323533569-762729.jpeg",
+     "similarity": 82,
+     "isCheaper": false,
+     "diff": "▲ ₹1,601 premium",
+     "scoreClass": "mid"
+    },
     {
      "name": "0650* PVC Plain Abstract",
      "code": "UC/D1/PPP/X0635",
@@ -2510,7 +2600,7 @@
    "search": "uc/m2/pcs/k5081 k5081 5081 charcoal concave gold charcoal",
    "unique": false,
    "cheaperCount": 0,
-   "oos": true,
+   "oos": false,
    "alternatives": [
     {
      "name": "5082 Charcoal Concave Gold",
@@ -2565,7 +2655,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324227958-666a55.jpeg",
    "search": "uc/m2/pcs/k5082 k5082 5082 charcoal concave gold charcoal",
    "unique": false,
-   "cheaperCount": 1,
+   "cheaperCount": 2,
    "oos": false,
    "alternatives": [
     {
@@ -2582,6 +2672,24 @@
      "perPanel": 1200,
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324209974-0313bc.jpeg",
      "similarity": 80,
+     "isCheaper": true,
+     "diff": "▼ ₹500 cheaper",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "5081 Charcoal Concave Gold",
+     "code": "UC/M2/PCS/K5081",
+     "material": "Charcoal",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 5.5,
+      "T_mm": 11,
+      "raw": "9.5 ft ? 5.5 in ? 11 mm"
+     },
+     "psf": 276,
+     "perPanel": 1200,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324236440-f726c2.jpeg",
+     "similarity": 79,
      "isCheaper": true,
      "diff": "▼ ₹500 cheaper",
      "scoreClass": "mid"
@@ -2641,6 +2749,24 @@
      "isCheaper": false,
      "diff": "▲ ₹500 premium",
      "scoreClass": "hi"
+    },
+    {
+     "name": "5081 Charcoal Concave Gold",
+     "code": "UC/M2/PCS/K5081",
+     "material": "Charcoal",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 5.5,
+      "T_mm": 11,
+      "raw": "9.5 ft ? 5.5 in ? 11 mm"
+     },
+     "psf": 276,
+     "perPanel": 1200,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324236440-f726c2.jpeg",
+     "similarity": 82,
+     "isCheaper": false,
+     "diff": "= same price",
+     "scoreClass": "mid"
     }
    ]
   },
@@ -4048,7 +4174,7 @@
    "search": "uc/i2/sph/l9952 l9952 9952 wpc sheet texture | 7 mm wpc",
    "unique": false,
    "cheaperCount": 4,
-   "oos": true,
+   "oos": false,
    "alternatives": [
     {
      "name": "CZ07 WPC Sheet Texture | 7 mm",
@@ -4310,6 +4436,24 @@
    "cheaperCount": 1,
    "oos": false,
    "alternatives": [
+    {
+     "name": "9952 WPC Sheet Texture | 7 mm",
+     "code": "UC/I2/SPH/L9952",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.2,
+      "W_in": 47.2,
+      "T_mm": 7,
+      "raw": "9.2 ft ? 47.2 in ? 7 mm"
+     },
+     "psf": 254,
+     "perPanel": 9200,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323533569-762729.jpeg",
+     "similarity": 85,
+     "isCheaper": false,
+     "diff": "▲ ₹1,601 premium",
+     "scoreClass": "hi"
+    },
     {
      "name": "0HXL SPC Sheet Marble | 3 mm",
      "code": "UC/M2/SS0/M0HXL",
