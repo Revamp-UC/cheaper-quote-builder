@@ -114,7 +114,7 @@
    "delhi": false,
    "mumbai": true,
    "bangalore": true,
-   "hyderabad": true
+   "hyderabad": false
   },
   "oos": {
    "delhi": false,
@@ -1080,7 +1080,7 @@
   "oos": {
    "delhi": false,
    "mumbai": false,
-   "bangalore": true,
+   "bangalore": false,
    "hyderabad": false
   }
  },
@@ -1724,7 +1724,7 @@
   "sub": "Panel",
   "live": {
    "delhi": false,
-   "mumbai": false,
+   "mumbai": true,
    "bangalore": false,
    "hyderabad": false
   },
@@ -3498,7 +3498,7 @@
   "oos": {
    "delhi": false,
    "mumbai": false,
-   "bangalore": true,
+   "bangalore": false,
    "hyderabad": false
   }
  },
@@ -5667,7 +5667,7 @@
   },
   "oos": {
    "delhi": true,
-   "mumbai": false,
+   "mumbai": true,
    "bangalore": true,
    "hyderabad": false
   }
