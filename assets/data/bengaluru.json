@@ -3197,6 +3197,25 @@
    ]
   },
   {
+   "name": "7333 Charcoal Fluted Wood",
+   "code": "UC/I2/PCF/W7333",
+   "material": "Charcoal",
+   "dims": {
+    "L_ft": 9.5,
+    "W_in": 11.3,
+    "T_mm": 6,
+    "raw": "9.5 ft ? 11.3 in ? 6 mm"
+   },
+   "psf": 302,
+   "perPanel": 2700,
+   "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324263537-a3c2ea.jpeg",
+   "search": "uc/i2/pcf/w7333 w7333 7333 charcoal fluted wood charcoal",
+   "unique": true,
+   "cheaperCount": 0,
+   "oos": false,
+   "alternatives": []
+  },
+  {
    "name": "7333* Charcoal Fluted Wood",
    "code": "UC/M2/PCF/W7333",
    "material": "Charcoal",
