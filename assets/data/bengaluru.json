@@ -91,7 +91,7 @@
    "search": "uc/i2/pcu/h006g h006g 006g charcoal mini concave white charcoal",
    "unique": false,
    "cheaperCount": 1,
-   "oos": true,
+   "oos": false,
    "alternatives": [
     {
      "name": "0072 WPC Ceramic Neutral",
@@ -167,6 +167,24 @@
    "cheaperCount": 0,
    "oos": false,
    "alternatives": [
+    {
+     "name": "006G Charcoal Mini concave White",
+     "code": "UC/I2/PCU/H006G",
+     "material": "Charcoal",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 11.6,
+      "T_mm": 7,
+      "raw": "9.5 ft ? 11.6 in ? 7 mm"
+     },
+     "psf": 215,
+     "perPanel": 1970,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324344895-417fbd.jpeg",
+     "similarity": 88,
+     "isCheaper": false,
+     "diff": "▲ ₹320 premium",
+     "scoreClass": "hi"
+    },
     {
      "name": "8461 Charcoal Mini concave Pastel",
      "code": "UC/I2/PCU/P8461",
@@ -368,7 +386,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324337421-379e84.jpeg",
    "search": "uc/i2/pcu/p012g p012g 012g charcoal mini concave pastel charcoal",
    "unique": false,
-   "cheaperCount": 1,
+   "cheaperCount": 2,
    "oos": false,
    "alternatives": [
     {
@@ -388,6 +406,24 @@
      "isCheaper": true,
      "diff": "▼ ₹1,130 cheaper",
      "scoreClass": "hi"
+    },
+    {
+     "name": "006G Charcoal Mini concave White",
+     "code": "UC/I2/PCU/H006G",
+     "material": "Charcoal",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 11.6,
+      "T_mm": 7,
+      "raw": "9.5 ft ? 11.6 in ? 7 mm"
+     },
+     "psf": 215,
+     "perPanel": 1970,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324344895-417fbd.jpeg",
+     "similarity": 70,
+     "isCheaper": true,
+     "diff": "▼ ₹1,130 cheaper",
+     "scoreClass": "mid"
     }
    ]
   },
@@ -666,10 +702,65 @@
    "perPanel": 800,
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324390835-3d1eae.jpeg",
    "search": "uc/d1/ppp/w0414 w0414 0414 pvc plain wood pvc",
-   "unique": true,
+   "unique": false,
    "cheaperCount": 0,
    "oos": false,
-   "alternatives": []
+   "alternatives": [
+    {
+     "name": "S685 WPC Sheet Wood | 7 mm",
+     "code": "UC/I2/SPG/WS685",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.2,
+      "W_in": 23.48,
+      "T_mm": 7,
+      "raw": "9.2 ft ? 23.48 in ? 7 mm"
+     },
+     "psf": 197,
+     "perPanel": 3550,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1769519904603-e5c5e3.jpeg",
+     "similarity": 78,
+     "isCheaper": false,
+     "diff": "▲ ₹2,750 premium",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "0952/0414 PVC Grooved Wood",
+     "code": "UC/D1/PPG/W0414",
+     "material": "PVC",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 9.5,
+      "T_mm": 8,
+      "raw": "9.5 ft ? 9.5 in ? 8 mm"
+     },
+     "psf": 106,
+     "perPanel": 800,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324511998-07f41c.jpeg",
+     "similarity": 75,
+     "isCheaper": false,
+     "diff": "= same price",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "0952/0414* PVC Grooved Wood",
+     "code": "UC/D1/PPG/W0952",
+     "material": "PVC",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 9.5,
+      "T_mm": 8,
+      "raw": "9.5 ft ? 9.5 in ? 8 mm"
+     },
+     "psf": 106,
+     "perPanel": 800,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324511998-07f41c.jpeg",
+     "similarity": 75,
+     "isCheaper": false,
+     "diff": "= same price",
+     "scoreClass": "mid"
+    }
+   ]
   },
   {
    "name": "0519 Charcoal Mini rectangle Stone",
@@ -708,6 +799,24 @@
      "scoreClass": "hi"
     },
     {
+     "name": "0643 Charcoal Mini rectangle Stone",
+     "code": "UC/I2/PCR/S0643",
+     "material": "Charcoal",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 11.6,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 11.6 in ? 6 mm"
+     },
+     "psf": 152,
+     "perPanel": 1399,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323867089-cf5dc8.jpeg",
+     "similarity": 87,
+     "isCheaper": false,
+     "diff": "= same price",
+     "scoreClass": "hi"
+    },
+    {
      "name": "S061 Charcoal Slats Stone",
      "code": "UC/I2/PCV/SS061",
      "material": "Charcoal",
@@ -723,6 +832,24 @@
      "similarity": 82,
      "isCheaper": false,
      "diff": "▲ ₹1,151 premium",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "0G29 Charcoal Ceramic Stone",
+     "code": "UC/I2/PCC/S0G29",
+     "material": "Charcoal",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 7.7,
+      "T_mm": 9,
+      "raw": "9.5 ft ? 7.7 in ? 9 mm"
+     },
+     "psf": 336,
+     "perPanel": 2050,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1769519998448-d01be7.jpeg",
+     "similarity": 80,
+     "isCheaper": false,
+     "diff": "▲ ₹651 premium",
      "scoreClass": "mid"
     },
     {
@@ -778,7 +905,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1769519883323-31626e.jpeg",
    "search": "uc/i2/pcv/s0519 s0519 0519 charcoal slats stone charcoal",
    "unique": false,
-   "cheaperCount": 1,
+   "cheaperCount": 3,
    "oos": false,
    "alternatives": [
     {
@@ -816,6 +943,60 @@
      "isCheaper": false,
      "diff": "= same price",
      "scoreClass": "hi"
+    },
+    {
+     "name": "5537 Charcoal Mini concave Gold",
+     "code": "UC/M2/PCU/K5537",
+     "material": "Charcoal",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 11.7,
+      "T_mm": 7,
+      "raw": "9.5 ft ? 11.7 in ? 7 mm"
+     },
+     "psf": 399,
+     "perPanel": 3700,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323891459-9d1f95.jpeg",
+     "similarity": 83,
+     "isCheaper": false,
+     "diff": "▲ ₹1,150 premium",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "0G29 Charcoal Ceramic Stone",
+     "code": "UC/I2/PCC/S0G29",
+     "material": "Charcoal",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 7.7,
+      "T_mm": 9,
+      "raw": "9.5 ft ? 7.7 in ? 9 mm"
+     },
+     "psf": 336,
+     "perPanel": 2050,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1769519998448-d01be7.jpeg",
+     "similarity": 80,
+     "isCheaper": true,
+     "diff": "▼ ₹500 cheaper",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "0643 Charcoal Mini rectangle Stone",
+     "code": "UC/I2/PCR/S0643",
+     "material": "Charcoal",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 11.6,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 11.6 in ? 6 mm"
+     },
+     "psf": 152,
+     "perPanel": 1399,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323867089-cf5dc8.jpeg",
+     "similarity": 77,
+     "isCheaper": true,
+     "diff": "▼ ₹1,151 cheaper",
+     "scoreClass": "mid"
     }
    ]
   },
@@ -854,7 +1035,7 @@
    "search": "uc/i2/pcr/s0643 s0643 0643 charcoal mini rectangle stone charcoal",
    "unique": false,
    "cheaperCount": 0,
-   "oos": true,
+   "oos": false,
    "alternatives": [
     {
      "name": "0519 Charcoal Mini rectangle Stone",
@@ -890,6 +1071,24 @@
      "similarity": 80,
      "isCheaper": false,
      "diff": "▲ ₹1,151 premium",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "0G29 Charcoal Ceramic Stone",
+     "code": "UC/I2/PCC/S0G29",
+     "material": "Charcoal",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 7.7,
+      "T_mm": 9,
+      "raw": "9.5 ft ? 7.7 in ? 9 mm"
+     },
+     "psf": 336,
+     "perPanel": 2050,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1769519998448-d01be7.jpeg",
+     "similarity": 78,
+     "isCheaper": false,
+     "diff": "▲ ₹651 premium",
      "scoreClass": "mid"
     },
     {
@@ -1201,10 +1400,29 @@
    "perPanel": 800,
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324468549-07209b.jpeg",
    "search": "uc/r1/ppp/g0818 g0818 0818 pvc plain gold pvc",
-   "unique": true,
+   "unique": false,
    "cheaperCount": 0,
    "oos": false,
-   "alternatives": []
+   "alternatives": [
+    {
+     "name": "9380 Nio Plain Gold",
+     "code": "UC/P1/PPP/K9380",
+     "material": "Nio",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 9.8,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 9.8 in ? 6 mm"
+     },
+     "psf": 103,
+     "perPanel": 800,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841896094-b08b38.png",
+     "similarity": 72,
+     "isCheaper": false,
+     "diff": "= same price",
+     "scoreClass": "mid"
+    }
+   ]
   },
   {
    "name": "0952/0414 PVC Grooved Wood",
@@ -1222,8 +1440,26 @@
    "search": "uc/d1/ppg/w0414 w0414 0952/0414 pvc grooved wood pvc",
    "unique": false,
    "cheaperCount": 0,
-   "oos": true,
+   "oos": false,
    "alternatives": [
+    {
+     "name": "0952/0414* PVC Grooved Wood",
+     "code": "UC/D1/PPG/W0952",
+     "material": "PVC",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 9.5,
+      "T_mm": 8,
+      "raw": "9.5 ft ? 9.5 in ? 8 mm"
+     },
+     "psf": 106,
+     "perPanel": 800,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324511998-07f41c.jpeg",
+     "similarity": 100,
+     "isCheaper": false,
+     "diff": "= same price",
+     "scoreClass": "hi"
+    },
     {
      "name": "7073 WPC Classic Wood",
      "code": "UC/I2/PPD/W7073",
@@ -1259,6 +1495,24 @@
      "isCheaper": false,
      "diff": "= same price",
      "scoreClass": "mid"
+    },
+    {
+     "name": "S685 WPC Sheet Wood | 7 mm",
+     "code": "UC/I2/SPG/WS685",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.2,
+      "W_in": 23.48,
+      "T_mm": 7,
+      "raw": "9.2 ft ? 23.48 in ? 7 mm"
+     },
+     "psf": 197,
+     "perPanel": 3550,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1769519904603-e5c5e3.jpeg",
+     "similarity": 74,
+     "isCheaper": false,
+     "diff": "▲ ₹2,750 premium",
+     "scoreClass": "mid"
     }
    ]
   },
@@ -1278,8 +1532,26 @@
    "search": "uc/d1/ppg/w0952 w0952 0952/0414* pvc grooved wood pvc",
    "unique": false,
    "cheaperCount": 0,
-   "oos": true,
+   "oos": false,
    "alternatives": [
+    {
+     "name": "0952/0414 PVC Grooved Wood",
+     "code": "UC/D1/PPG/W0414",
+     "material": "PVC",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 9.5,
+      "T_mm": 8,
+      "raw": "9.5 ft ? 9.5 in ? 8 mm"
+     },
+     "psf": 106,
+     "perPanel": 800,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324511998-07f41c.jpeg",
+     "similarity": 100,
+     "isCheaper": false,
+     "diff": "= same price",
+     "scoreClass": "hi"
+    },
     {
      "name": "7073 WPC Classic Wood",
      "code": "UC/I2/PPD/W7073",
@@ -1314,6 +1586,24 @@
      "similarity": 75,
      "isCheaper": false,
      "diff": "= same price",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "S685 WPC Sheet Wood | 7 mm",
+     "code": "UC/I2/SPG/WS685",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.2,
+      "W_in": 23.48,
+      "T_mm": 7,
+      "raw": "9.2 ft ? 23.48 in ? 7 mm"
+     },
+     "psf": 197,
+     "perPanel": 3550,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1769519904603-e5c5e3.jpeg",
+     "similarity": 74,
+     "isCheaper": false,
+     "diff": "▲ ₹2,750 premium",
      "scoreClass": "mid"
     }
    ]
@@ -1463,8 +1753,8 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1769519998448-d01be7.jpeg",
    "search": "uc/i2/pcc/s0g29 s0g29 0g29 charcoal ceramic stone charcoal",
    "unique": false,
-   "cheaperCount": 1,
-   "oos": true,
+   "cheaperCount": 2,
+   "oos": false,
    "alternatives": [
     {
      "name": "0519 Charcoal Mini rectangle Stone",
@@ -1518,6 +1808,24 @@
      "similarity": 78,
      "isCheaper": false,
      "diff": "▲ ₹500 premium",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "0643 Charcoal Mini rectangle Stone",
+     "code": "UC/I2/PCR/S0643",
+     "material": "Charcoal",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 11.6,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 11.6 in ? 6 mm"
+     },
+     "psf": 152,
+     "perPanel": 1399,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323867089-cf5dc8.jpeg",
+     "similarity": 78,
+     "isCheaper": true,
+     "diff": "▼ ₹651 cheaper",
      "scoreClass": "mid"
     }
    ]
@@ -2000,7 +2308,7 @@
    "search": "uc/i2/pci/g1975 g1975 1975 charcoal embossed geometric charcoal",
    "unique": true,
    "cheaperCount": 0,
-   "oos": true,
+   "oos": false,
    "alternatives": []
   },
   {
@@ -2093,7 +2401,7 @@
    "search": "uc/i2/ppc/h2022 h2022 2022 wpc ceramic white wpc",
    "unique": false,
    "cheaperCount": 0,
-   "oos": true,
+   "oos": false,
    "alternatives": [
     {
      "name": "2025 WPC Ceramic Neutral",
@@ -2152,6 +2460,24 @@
    "oos": true,
    "alternatives": [
     {
+     "name": "2022 WPC Ceramic White",
+     "code": "UC/I2/PPC/H2022",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 7.68,
+      "T_mm": 7.5,
+      "raw": "9.5 ft ? 7.68 in ? 7.5 mm"
+     },
+     "psf": 271,
+     "perPanel": 1650,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140331001-b79537.jpeg",
+     "similarity": 90,
+     "isCheaper": false,
+     "diff": "▲ ₹50 premium",
+     "scoreClass": "hi"
+    },
+    {
      "name": "5081 Charcoal Concave Gold",
      "code": "UC/M2/PCS/K5081",
      "material": "Charcoal",
@@ -2185,6 +2511,24 @@
      "similarity": 82,
      "isCheaper": true,
      "diff": "▼ ₹400 cheaper",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "5537 Charcoal Mini concave Gold",
+     "code": "UC/M2/PCU/K5537",
+     "material": "Charcoal",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 11.7,
+      "T_mm": 7,
+      "raw": "9.5 ft ? 11.7 in ? 7 mm"
+     },
+     "psf": 399,
+     "perPanel": 3700,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323891459-9d1f95.jpeg",
+     "similarity": 81,
+     "isCheaper": false,
+     "diff": "▲ ₹2,100 premium",
      "scoreClass": "mid"
     },
     {
@@ -2240,7 +2584,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140966166-e373e9.jpeg",
    "search": "uc/i2/spg/h2022 h2022 2022 wpc sheet white | 7 mm wpc",
    "unique": false,
-   "cheaperCount": 0,
+   "cheaperCount": 1,
    "oos": false,
    "alternatives": [
     {
@@ -2259,6 +2603,24 @@
      "similarity": 83,
      "isCheaper": false,
      "diff": "= same price",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "2022 WPC Ceramic White",
+     "code": "UC/I2/PPC/H2022",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 7.68,
+      "T_mm": 7.5,
+      "raw": "9.5 ft ? 7.68 in ? 7.5 mm"
+     },
+     "psf": 271,
+     "perPanel": 1650,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140331001-b79537.jpeg",
+     "similarity": 71,
+     "isCheaper": true,
+     "diff": "▼ ₹1,900 cheaper",
      "scoreClass": "mid"
     }
    ]
@@ -2281,6 +2643,24 @@
    "cheaperCount": 0,
    "oos": false,
    "alternatives": [
+    {
+     "name": "2022 WPC Ceramic White",
+     "code": "UC/I2/PPC/H2022",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 7.68,
+      "T_mm": 7.5,
+      "raw": "9.5 ft ? 7.68 in ? 7.5 mm"
+     },
+     "psf": 271,
+     "perPanel": 1650,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140331001-b79537.jpeg",
+     "similarity": 81,
+     "isCheaper": false,
+     "diff": "= same price",
+     "scoreClass": "mid"
+    },
     {
      "name": "2025 WPC Sheet Neutral | 7 mm",
      "code": "UC/I2/SPG/N2025",
@@ -2316,7 +2696,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323562400-eaf1f0.jpeg",
    "search": "uc/i2/sph/f2025 f2025 2025 wpc sheet fabric | 7 mm wpc",
    "unique": false,
-   "cheaperCount": 1,
+   "cheaperCount": 2,
    "oos": false,
    "alternatives": [
     {
@@ -2369,6 +2749,24 @@
      "perPanel": 1399,
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323882160-384437.jpeg",
      "similarity": 75,
+     "isCheaper": true,
+     "diff": "▼ ₹5,101 cheaper",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "0643 Charcoal Mini rectangle Stone",
+     "code": "UC/I2/PCR/S0643",
+     "material": "Charcoal",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 11.6,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 11.6 in ? 6 mm"
+     },
+     "psf": 152,
+     "perPanel": 1399,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323867089-cf5dc8.jpeg",
+     "similarity": 73,
      "isCheaper": true,
      "diff": "▼ ₹5,101 cheaper",
      "scoreClass": "mid"
@@ -2464,7 +2862,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323416216-e1657f.jpeg",
    "search": "uc/i2/sph/f2027 f2027 2027 wpc sheet fabric | 7 mm wpc",
    "unique": false,
-   "cheaperCount": 1,
+   "cheaperCount": 3,
    "oos": false,
    "alternatives": [
     {
@@ -2520,6 +2918,42 @@
      "isCheaper": true,
      "diff": "▼ ₹5,101 cheaper",
      "scoreClass": "mid"
+    },
+    {
+     "name": "0643 Charcoal Mini rectangle Stone",
+     "code": "UC/I2/PCR/S0643",
+     "material": "Charcoal",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 11.6,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 11.6 in ? 6 mm"
+     },
+     "psf": 152,
+     "perPanel": 1399,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323867089-cf5dc8.jpeg",
+     "similarity": 72,
+     "isCheaper": true,
+     "diff": "▼ ₹5,101 cheaper",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "9380 Nio Plain Gold",
+     "code": "UC/P1/PPP/K9380",
+     "material": "Nio",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 9.8,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 9.8 in ? 6 mm"
+     },
+     "psf": 103,
+     "perPanel": 800,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841896094-b08b38.png",
+     "similarity": 70,
+     "isCheaper": true,
+     "diff": "▼ ₹5,700 cheaper",
+     "scoreClass": "mid"
     }
    ]
   },
@@ -2538,7 +2972,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323547875-39e8d6.jpeg",
    "search": "uc/i2/sph/l2203 l2203 2203 wpc sheet texture | 7 mm wpc",
    "unique": false,
-   "cheaperCount": 1,
+   "cheaperCount": 2,
    "oos": false,
    "alternatives": [
     {
@@ -2593,6 +3027,24 @@
      "similarity": 73,
      "isCheaper": false,
      "diff": "▲ ₹1,601 premium",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "9380 Nio Plain Gold",
+     "code": "UC/P1/PPP/K9380",
+     "material": "Nio",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 9.8,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 9.8 in ? 6 mm"
+     },
+     "psf": 103,
+     "perPanel": 800,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841896094-b08b38.png",
+     "similarity": 71,
+     "isCheaper": true,
+     "diff": "▼ ₹6,799 cheaper",
      "scoreClass": "mid"
     }
    ]
@@ -2852,7 +3304,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323763523-c95780.jpeg",
    "search": "uc/m2/pcr/w3623 w3623 3623 charcoal mini rectangle wood charcoal",
    "unique": false,
-   "cheaperCount": 1,
+   "cheaperCount": 2,
    "oos": false,
    "alternatives": [
     {
@@ -2890,6 +3342,24 @@
      "isCheaper": false,
      "diff": "= same price",
      "scoreClass": "hi"
+    },
+    {
+     "name": "S685 WPC Classic Wood",
+     "code": "UC/I2/PPD/WS685",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 7.68,
+      "T_mm": 12,
+      "raw": "9.5 ft ? 7.68 in ? 12 mm"
+     },
+     "psf": 263,
+     "perPanel": 1600,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778752706158-35d49e.png",
+     "similarity": 82,
+     "isCheaper": true,
+     "diff": "▼ ₹1,400 cheaper",
+     "scoreClass": "mid"
     }
    ]
   },
@@ -3154,6 +3624,24 @@
    "oos": true,
    "alternatives": [
     {
+     "name": "S685 WPC Classic Wood",
+     "code": "UC/I2/PPD/WS685",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 7.68,
+      "T_mm": 12,
+      "raw": "9.5 ft ? 7.68 in ? 12 mm"
+     },
+     "psf": 263,
+     "perPanel": 1600,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778752706158-35d49e.png",
+     "similarity": 92,
+     "isCheaper": false,
+     "diff": "= same price",
+     "scoreClass": "hi"
+    },
+    {
      "name": "3623 Charcoal Mini rectangle Wood",
      "code": "UC/M2/PCR/W3623",
      "material": "Charcoal",
@@ -3247,6 +3735,24 @@
    "oos": false,
    "alternatives": [
     {
+     "name": "5083 Charcoal Concave Gold",
+     "code": "UC/M2/PCS/K5083",
+     "material": "Charcoal",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 5.5,
+      "T_mm": 11,
+      "raw": "9.5 ft ? 5.5 in ? 11 mm"
+     },
+     "psf": 276,
+     "perPanel": 1200,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324218592-76c4ee.jpeg",
+     "similarity": 82,
+     "isCheaper": false,
+     "diff": "= same price",
+     "scoreClass": "mid"
+    },
+    {
      "name": "5082 Charcoal Concave Gold",
      "code": "UC/M2/PCS/K5082",
      "material": "Charcoal",
@@ -3299,9 +3805,27 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324227958-666a55.jpeg",
    "search": "uc/m2/pcs/k5082 k5082 5082 charcoal concave gold charcoal",
    "unique": false,
-   "cheaperCount": 2,
+   "cheaperCount": 3,
    "oos": false,
    "alternatives": [
+    {
+     "name": "5083 Charcoal Concave Gold",
+     "code": "UC/M2/PCS/K5083",
+     "material": "Charcoal",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 5.5,
+      "T_mm": 11,
+      "raw": "9.5 ft ? 5.5 in ? 11 mm"
+     },
+     "psf": 276,
+     "perPanel": 1200,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324218592-76c4ee.jpeg",
+     "similarity": 85,
+     "isCheaper": true,
+     "diff": "▼ ₹500 cheaper",
+     "scoreClass": "hi"
+    },
     {
      "name": "5084 Charcoal Concave Gold",
      "code": "UC/M2/PCS/K5084",
@@ -3337,6 +3861,24 @@
      "isCheaper": true,
      "diff": "▼ ₹500 cheaper",
      "scoreClass": "mid"
+    },
+    {
+     "name": "5537 Charcoal Mini concave Gold",
+     "code": "UC/M2/PCU/K5537",
+     "material": "Charcoal",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 11.7,
+      "T_mm": 7,
+      "raw": "9.5 ft ? 11.7 in ? 7 mm"
+     },
+     "psf": 399,
+     "perPanel": 3700,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323891459-9d1f95.jpeg",
+     "similarity": 78,
+     "isCheaper": false,
+     "diff": "▲ ₹2,000 premium",
+     "scoreClass": "mid"
     }
    ]
   },
@@ -3356,7 +3898,7 @@
    "search": "uc/m2/pcs/k5083 k5083 5083 charcoal concave gold charcoal",
    "unique": false,
    "cheaperCount": 0,
-   "oos": true,
+   "oos": false,
    "alternatives": [
     {
      "name": "5084 Charcoal Concave Gold",
@@ -3411,6 +3953,24 @@
      "isCheaper": false,
      "diff": "= same price",
      "scoreClass": "mid"
+    },
+    {
+     "name": "5537 Charcoal Mini concave Gold",
+     "code": "UC/M2/PCU/K5537",
+     "material": "Charcoal",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 11.7,
+      "T_mm": 7,
+      "raw": "9.5 ft ? 11.7 in ? 7 mm"
+     },
+     "psf": 399,
+     "perPanel": 3700,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323891459-9d1f95.jpeg",
+     "similarity": 81,
+     "isCheaper": false,
+     "diff": "▲ ₹2,500 premium",
+     "scoreClass": "mid"
     }
    ]
   },
@@ -3432,6 +3992,24 @@
    "cheaperCount": 0,
    "oos": false,
    "alternatives": [
+    {
+     "name": "5083 Charcoal Concave Gold",
+     "code": "UC/M2/PCS/K5083",
+     "material": "Charcoal",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 5.5,
+      "T_mm": 11,
+      "raw": "9.5 ft ? 5.5 in ? 11 mm"
+     },
+     "psf": 276,
+     "perPanel": 1200,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324218592-76c4ee.jpeg",
+     "similarity": 87,
+     "isCheaper": false,
+     "diff": "= same price",
+     "scoreClass": "hi"
+    },
     {
      "name": "5082 Charcoal Concave Gold",
      "code": "UC/M2/PCS/K5082",
@@ -3723,8 +4301,8 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323891459-9d1f95.jpeg",
    "search": "uc/m2/pcu/k5537 k5537 5537 charcoal mini concave gold charcoal",
    "unique": false,
-   "cheaperCount": 3,
-   "oos": true,
+   "cheaperCount": 4,
+   "oos": false,
    "alternatives": [
     {
      "name": "0519 Charcoal Slats Stone",
@@ -3742,6 +4320,24 @@
      "similarity": 83,
      "isCheaper": true,
      "diff": "▼ ₹1,150 cheaper",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "5083 Charcoal Concave Gold",
+     "code": "UC/M2/PCS/K5083",
+     "material": "Charcoal",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 5.5,
+      "T_mm": 11,
+      "raw": "9.5 ft ? 5.5 in ? 11 mm"
+     },
+     "psf": 276,
+     "perPanel": 1200,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324218592-76c4ee.jpeg",
+     "similarity": 81,
+     "isCheaper": true,
+     "diff": "▼ ₹2,500 cheaper",
      "scoreClass": "mid"
     },
     {
@@ -3797,7 +4393,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770141128636-cea391.jpeg",
    "search": "uc/i2/ppd/w7073 w7073 7073 wpc classic wood wpc",
    "unique": false,
-   "cheaperCount": 0,
+   "cheaperCount": 2,
    "oos": false,
    "alternatives": [
     {
@@ -3853,6 +4449,42 @@
      "isCheaper": false,
      "diff": "▲ ₹1,950 premium",
      "scoreClass": "mid"
+    },
+    {
+     "name": "0952/0414 PVC Grooved Wood",
+     "code": "UC/D1/PPG/W0414",
+     "material": "PVC",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 9.5,
+      "T_mm": 8,
+      "raw": "9.5 ft ? 9.5 in ? 8 mm"
+     },
+     "psf": 106,
+     "perPanel": 800,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324511998-07f41c.jpeg",
+     "similarity": 77,
+     "isCheaper": true,
+     "diff": "▼ ₹800 cheaper",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "0952/0414* PVC Grooved Wood",
+     "code": "UC/D1/PPG/W0952",
+     "material": "PVC",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 9.5,
+      "T_mm": 8,
+      "raw": "9.5 ft ? 9.5 in ? 8 mm"
+     },
+     "psf": 106,
+     "perPanel": 800,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324511998-07f41c.jpeg",
+     "similarity": 76,
+     "isCheaper": true,
+     "diff": "▼ ₹800 cheaper",
+     "scoreClass": "mid"
     }
    ]
   },
@@ -3874,6 +4506,24 @@
    "cheaperCount": 3,
    "oos": false,
    "alternatives": [
+    {
+     "name": "S685 WPC Sheet Wood | 7 mm",
+     "code": "UC/I2/SPG/WS685",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.2,
+      "W_in": 23.48,
+      "T_mm": 7,
+      "raw": "9.2 ft ? 23.48 in ? 7 mm"
+     },
+     "psf": 197,
+     "perPanel": 3550,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1769519904603-e5c5e3.jpeg",
+     "similarity": 83,
+     "isCheaper": false,
+     "diff": "= same price",
+     "scoreClass": "mid"
+    },
     {
      "name": "X905 WPC Sheet Wood | 5 mm",
      "code": "UC/M2/SP0/WX905",
@@ -3945,7 +4595,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324271389-8e9997.jpeg",
    "search": "uc/m2/pcf/w7331 w7331 7331 charcoal fluted wood charcoal",
    "unique": false,
-   "cheaperCount": 0,
+   "cheaperCount": 1,
    "oos": true,
    "alternatives": [
     {
@@ -3982,6 +4632,24 @@
      "similarity": 87,
      "isCheaper": false,
      "diff": "= same price",
+     "scoreClass": "hi"
+    },
+    {
+     "name": "9204 Nio Fluted Wood",
+     "code": "UC/P1/PPF/W9204",
+     "material": "Nio",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 11.6,
+      "T_mm": 10,
+      "raw": "9.5 ft ? 11.6 in ? 10 mm"
+     },
+     "psf": 169,
+     "perPanel": 1550,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/customer-app-supply/1779351763768-9e46e6.jpeg",
+     "similarity": 85,
+     "isCheaper": true,
+     "diff": "▼ ₹50 cheaper",
      "scoreClass": "hi"
     },
     {
@@ -4078,62 +4746,6 @@
    "cheaperCount": 0,
    "oos": true,
    "alternatives": []
-  },
-  {
-   "name": "7333* Charcoal Fluted Wood",
-   "code": "UC/M2/PCF/W7333",
-   "material": "Charcoal",
-   "dims": {
-    "L_ft": 9.5,
-    "W_in": 11.3,
-    "T_mm": 6,
-    "raw": "9.5 ft ? 11.3 in ? 6 mm"
-   },
-   "psf": 302,
-   "perPanel": 2700,
-   "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324263537-a3c2ea.jpeg",
-   "search": "uc/m2/pcf/w7333 w7333 7333* charcoal fluted wood charcoal",
-   "unique": false,
-   "cheaperCount": 1,
-   "oos": true,
-   "alternatives": [
-    {
-     "name": "3622* Charcoal Mini rectangle Wood",
-     "code": "UC/M2/PCR/W3622",
-     "material": "Charcoal",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 11.6,
-      "T_mm": 6,
-      "raw": "9.5 ft ? 11.6 in ? 6 mm"
-     },
-     "psf": 327,
-     "perPanel": 3000,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324245463-5602e5.jpeg",
-     "similarity": 85,
-     "isCheaper": false,
-     "diff": "▲ ₹300 premium",
-     "scoreClass": "hi"
-    },
-    {
-     "name": "X921 WPC Classic Wood",
-     "code": "UC/I2/PPD/WX921",
-     "material": "WPC",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 7.68,
-      "T_mm": 12,
-      "raw": "9.5 ft ? 7.68 in ? 12 mm"
-     },
-     "psf": 263,
-     "perPanel": 1600,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140375832-702c05.jpeg",
-     "similarity": 85,
-     "isCheaper": true,
-     "diff": "▼ ₹1,100 cheaper",
-     "scoreClass": "hi"
-    }
-   ]
   },
   {
    "name": "7334 Charcoal Fluted Wood",
@@ -4780,6 +5392,24 @@
    "oos": false,
    "alternatives": [
     {
+     "name": "006G Charcoal Mini concave White",
+     "code": "UC/I2/PCU/H006G",
+     "material": "Charcoal",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 11.6,
+      "T_mm": 7,
+      "raw": "9.5 ft ? 11.6 in ? 7 mm"
+     },
+     "psf": 215,
+     "perPanel": 1970,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324344895-417fbd.jpeg",
+     "similarity": 83,
+     "isCheaper": false,
+     "diff": "= same price",
+     "scoreClass": "mid"
+    },
+    {
      "name": "0072 WPC Ceramic Neutral",
      "code": "UC/I2/PPC/N0072",
      "material": "WPC",
@@ -4815,7 +5445,7 @@
    "search": "uc/p1/ppf/w9204 w9204 9204 nio fluted wood nio",
    "unique": false,
    "cheaperCount": 0,
-   "oos": true,
+   "oos": false,
    "alternatives": [
     {
      "name": "X921 WPC Classic Wood",
@@ -4891,7 +5521,7 @@
    "search": "uc/p1/ppp/k9380 k9380 9380 nio plain gold nio",
    "unique": false,
    "cheaperCount": 0,
-   "oos": true,
+   "oos": false,
    "alternatives": [
     {
      "name": "0818 PVC Plain Gold",
@@ -5262,7 +5892,7 @@
    "search": "uc/i2/pps/la235 la235 a235 wpc concave texture wpc",
    "unique": false,
    "cheaperCount": 0,
-   "oos": true,
+   "oos": false,
    "alternatives": [
     {
      "name": "A235 WPC Sheet Texture | 7 mm",
@@ -5299,7 +5929,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1769519862186-dd3a51.jpeg",
    "search": "uc/i2/sph/la235 la235 a235 wpc sheet texture | 7 mm wpc",
    "unique": false,
-   "cheaperCount": 2,
+   "cheaperCount": 3,
    "oos": false,
    "alternatives": [
     {
@@ -5336,6 +5966,24 @@
      "similarity": 73,
      "isCheaper": true,
      "diff": "▼ ₹1,601 cheaper",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "A235 WPC Concave Texture",
+     "code": "UC/I2/PPS/LA235",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 7.64,
+      "T_mm": 12,
+      "raw": "9.5 ft ? 7.64 in ? 12 mm"
+     },
+     "psf": 281,
+     "perPanel": 1700,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1769519914375-12e5b9.jpeg",
+     "similarity": 70,
+     "isCheaper": true,
+     "diff": "▼ ₹7,500 cheaper",
      "scoreClass": "mid"
     }
    ]
@@ -5709,7 +6357,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1769519873285-729933.jpeg",
    "search": "uc/i2/pcv/ss061 ss061 s061 charcoal slats stone charcoal",
    "unique": false,
-   "cheaperCount": 1,
+   "cheaperCount": 3,
    "oos": false,
    "alternatives": [
     {
@@ -5749,6 +6397,60 @@
      "scoreClass": "mid"
     },
     {
+     "name": "0643 Charcoal Mini rectangle Stone",
+     "code": "UC/I2/PCR/S0643",
+     "material": "Charcoal",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 11.6,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 11.6 in ? 6 mm"
+     },
+     "psf": 152,
+     "perPanel": 1399,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323867089-cf5dc8.jpeg",
+     "similarity": 80,
+     "isCheaper": true,
+     "diff": "▼ ₹1,151 cheaper",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "5537 Charcoal Mini concave Gold",
+     "code": "UC/M2/PCU/K5537",
+     "material": "Charcoal",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 11.7,
+      "T_mm": 7,
+      "raw": "9.5 ft ? 11.7 in ? 7 mm"
+     },
+     "psf": 399,
+     "perPanel": 3700,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323891459-9d1f95.jpeg",
+     "similarity": 79,
+     "isCheaper": false,
+     "diff": "▲ ₹1,150 premium",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "0G29 Charcoal Ceramic Stone",
+     "code": "UC/I2/PCC/S0G29",
+     "material": "Charcoal",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 7.7,
+      "T_mm": 9,
+      "raw": "9.5 ft ? 7.7 in ? 9 mm"
+     },
+     "psf": 336,
+     "perPanel": 2050,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1769519998448-d01be7.jpeg",
+     "similarity": 78,
+     "isCheaper": true,
+     "diff": "▼ ₹500 cheaper",
+     "scoreClass": "mid"
+    },
+    {
      "name": "0066 Charcoal Embossed Pastel",
      "code": "UC/I2/PCI/G0066",
      "material": "Charcoal",
@@ -5784,7 +6486,7 @@
    "search": "uc/i2/ppd/ws685 ws685 s685 wpc classic wood wpc",
    "unique": false,
    "cheaperCount": 0,
-   "oos": true,
+   "oos": false,
    "alternatives": [
     {
      "name": "3623 Charcoal Mini rectangle Wood",
@@ -5821,8 +6523,8 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1769519904603-e5c5e3.jpeg",
    "search": "uc/i2/spg/ws685 ws685 s685 wpc sheet wood | 7 mm wpc",
    "unique": false,
-   "cheaperCount": 2,
-   "oos": true,
+   "cheaperCount": 4,
+   "oos": false,
    "alternatives": [
     {
      "name": "7073 WPC Sheet Wood | 7 mm",
@@ -5876,6 +6578,42 @@
      "similarity": 77,
      "isCheaper": true,
      "diff": "▼ ₹300 cheaper",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "0952/0414 PVC Grooved Wood",
+     "code": "UC/D1/PPG/W0414",
+     "material": "PVC",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 9.5,
+      "T_mm": 8,
+      "raw": "9.5 ft ? 9.5 in ? 8 mm"
+     },
+     "psf": 106,
+     "perPanel": 800,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324511998-07f41c.jpeg",
+     "similarity": 74,
+     "isCheaper": true,
+     "diff": "▼ ₹2,750 cheaper",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "0952/0414* PVC Grooved Wood",
+     "code": "UC/D1/PPG/W0952",
+     "material": "PVC",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 9.5,
+      "T_mm": 8,
+      "raw": "9.5 ft ? 9.5 in ? 8 mm"
+     },
+     "psf": 106,
+     "perPanel": 800,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324511998-07f41c.jpeg",
+     "similarity": 74,
+     "isCheaper": true,
+     "diff": "▼ ₹2,750 cheaper",
      "scoreClass": "mid"
     }
    ]
@@ -6076,6 +6814,24 @@
      "perPanel": 3550,
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1769519895453-9b29f2.jpeg",
      "similarity": 80,
+     "isCheaper": false,
+     "diff": "▲ ₹300 premium",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "S685 WPC Sheet Wood | 7 mm",
+     "code": "UC/I2/SPG/WS685",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.2,
+      "W_in": 23.48,
+      "T_mm": 7,
+      "raw": "9.2 ft ? 23.48 in ? 7 mm"
+     },
+     "psf": 197,
+     "perPanel": 3550,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1769519904603-e5c5e3.jpeg",
+     "similarity": 77,
      "isCheaper": false,
      "diff": "▲ ₹300 premium",
      "scoreClass": "mid"
@@ -6573,7 +7329,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140375832-702c05.jpeg",
    "search": "uc/i2/ppd/wx921 wx921 x921 wpc classic wood wpc",
    "unique": false,
-   "cheaperCount": 0,
+   "cheaperCount": 1,
    "oos": false,
    "alternatives": [
     {
@@ -6592,6 +7348,42 @@
      "similarity": 95,
      "isCheaper": false,
      "diff": "= same price",
+     "scoreClass": "hi"
+    },
+    {
+     "name": "9204 Nio Fluted Wood",
+     "code": "UC/P1/PPF/W9204",
+     "material": "Nio",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 11.6,
+      "T_mm": 10,
+      "raw": "9.5 ft ? 11.6 in ? 10 mm"
+     },
+     "psf": 169,
+     "perPanel": 1550,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/customer-app-supply/1779351763768-9e46e6.jpeg",
+     "similarity": 85,
+     "isCheaper": true,
+     "diff": "▼ ₹50 cheaper",
+     "scoreClass": "hi"
+    },
+    {
+     "name": "X921 WPC Sheet Wood | 7 mm",
+     "code": "UC/I2/SPG/WX921",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.2,
+      "W_in": 23.48,
+      "T_mm": 7,
+      "raw": "9.2 ft ? 23.48 in ? 7 mm"
+     },
+     "psf": 197,
+     "perPanel": 3550,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140294615-99bfdb.jpeg",
+     "similarity": 85,
+     "isCheaper": false,
+     "diff": "▲ ₹1,950 premium",
      "scoreClass": "hi"
     }
    ]
@@ -6612,7 +7404,7 @@
    "search": "uc/i2/spg/wx921 wx921 x921 wpc sheet wood | 7 mm wpc",
    "unique": false,
    "cheaperCount": 2,
-   "oos": true,
+   "oos": false,
    "alternatives": [
     {
      "name": "X921 WPC Classic Wood",
@@ -6705,6 +7497,24 @@
      "isCheaper": false,
      "diff": "= same price",
      "scoreClass": "hi"
+    },
+    {
+     "name": "X921 WPC Sheet Wood | 7 mm",
+     "code": "UC/I2/SPG/WX921",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.2,
+      "W_in": 23.48,
+      "T_mm": 7,
+      "raw": "9.2 ft ? 23.48 in ? 7 mm"
+     },
+     "psf": 197,
+     "perPanel": 3550,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140294615-99bfdb.jpeg",
+     "similarity": 80,
+     "isCheaper": false,
+     "diff": "▲ ₹1,950 premium",
+     "scoreClass": "mid"
     }
    ]
   }
