@@ -1258,24 +1258,6 @@
      "scoreClass": "hi"
     },
     {
-     "name": "09U2 SPC Sheet Marble | 3 mm",
-     "code": "UC/M2/SS0/M09U2",
-     "material": "SPC",
-     "dims": {
-      "L_ft": 9.2,
-      "W_in": 48,
-      "T_mm": 3,
-      "raw": "9.2 ft ? 48 in ? 3 mm"
-     },
-     "psf": 245,
-     "perPanel": 9000,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323468383-4a7d75.jpeg",
-     "similarity": 88,
-     "isCheaper": false,
-     "diff": "= same price",
-     "scoreClass": "hi"
-    },
-    {
      "name": "2208 SPC Sheet Marble | 3 mm",
      "code": "UC/M2/SS0/M2208",
      "material": "SPC",
@@ -1680,7 +1662,7 @@
    "search": "uc/m2/ss0/m09u2 m09u2 09u2 spc sheet marble | 3 mm spc",
    "unique": false,
    "cheaperCount": 1,
-   "oos": false,
+   "oos": true,
    "alternatives": [
     {
      "name": "2208 SPC Sheet Marble | 3 mm",
@@ -1897,24 +1879,6 @@
      "psf": 245,
      "perPanel": 9000,
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323656946-04cef4.jpeg",
-     "similarity": 83,
-     "isCheaper": false,
-     "diff": "▲ ₹3,000 premium",
-     "scoreClass": "mid"
-    },
-    {
-     "name": "09U2 SPC Sheet Marble | 3 mm",
-     "code": "UC/M2/SS0/M09U2",
-     "material": "SPC",
-     "dims": {
-      "L_ft": 9.2,
-      "W_in": 48,
-      "T_mm": 3,
-      "raw": "9.2 ft ? 48 in ? 3 mm"
-     },
-     "psf": 245,
-     "perPanel": 9000,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323468383-4a7d75.jpeg",
      "similarity": 83,
      "isCheaper": false,
      "diff": "▲ ₹3,000 premium",
@@ -2906,24 +2870,6 @@
    "cheaperCount": 1,
    "oos": false,
    "alternatives": [
-    {
-     "name": "09U2 SPC Sheet Marble | 3 mm",
-     "code": "UC/M2/SS0/M09U2",
-     "material": "SPC",
-     "dims": {
-      "L_ft": 9.2,
-      "W_in": 48,
-      "T_mm": 3,
-      "raw": "9.2 ft ? 48 in ? 3 mm"
-     },
-     "psf": 245,
-     "perPanel": 9000,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323468383-4a7d75.jpeg",
-     "similarity": 90,
-     "isCheaper": false,
-     "diff": "= same price",
-     "scoreClass": "hi"
-    },
     {
      "name": "0703 SPC Sheet Marble | 3 mm",
      "code": "UC/M2/SS0/M0703",
@@ -3973,24 +3919,6 @@
      "psf": 245,
      "perPanel": 9000,
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323939936-9eb8d8.jpeg",
-     "similarity": 86,
-     "isCheaper": false,
-     "diff": "= same price",
-     "scoreClass": "hi"
-    },
-    {
-     "name": "09U2 SPC Sheet Marble | 3 mm",
-     "code": "UC/M2/SS0/M09U2",
-     "material": "SPC",
-     "dims": {
-      "L_ft": 9.2,
-      "W_in": 48,
-      "T_mm": 3,
-      "raw": "9.2 ft ? 48 in ? 3 mm"
-     },
-     "psf": 245,
-     "perPanel": 9000,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323468383-4a7d75.jpeg",
      "similarity": 86,
      "isCheaper": false,
      "diff": "= same price",
