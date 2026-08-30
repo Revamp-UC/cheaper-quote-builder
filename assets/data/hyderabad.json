@@ -7531,6 +7531,24 @@
      "isCheaper": false,
      "diff": "▲ ₹1,100 premium",
      "scoreClass": "hi"
+    },
+    {
+     "name": "X921 WPC Sheet Wood | 7 mm",
+     "code": "UC/I2/SPG/WX921",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.2,
+      "W_in": 23.48,
+      "T_mm": 7,
+      "raw": "9.2 ft ? 23.48 in ? 7 mm"
+     },
+     "psf": 197,
+     "perPanel": 3550,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140294615-99bfdb.jpeg",
+     "similarity": 85,
+     "isCheaper": false,
+     "diff": "▲ ₹1,950 premium",
+     "scoreClass": "hi"
     }
    ]
   },
@@ -7550,7 +7568,7 @@
    "search": "uc/i2/spg/wx921 wx921 x921 wpc sheet wood | 7 mm wpc",
    "unique": false,
    "cheaperCount": 2,
-   "oos": true,
+   "oos": false,
    "alternatives": [
     {
      "name": "X921 WPC Classic Wood",
@@ -7678,6 +7696,24 @@
      "similarity": 81,
      "isCheaper": true,
      "diff": "▼ ₹100 cheaper",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "X921 WPC Sheet Wood | 7 mm",
+     "code": "UC/I2/SPG/WX921",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.2,
+      "W_in": 23.48,
+      "T_mm": 7,
+      "raw": "9.2 ft ? 23.48 in ? 7 mm"
+     },
+     "psf": 197,
+     "perPanel": 3550,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140294615-99bfdb.jpeg",
+     "similarity": 80,
+     "isCheaper": false,
+     "diff": "▲ ₹1,950 premium",
      "scoreClass": "mid"
     }
    ]
