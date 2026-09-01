@@ -11,6 +11,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: rebuild-cities
+  cancel-in-progress: false
+
 jobs:
   rebuild:
     runs-on: ubuntu-latest
