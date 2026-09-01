@@ -906,7 +906,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1769519883323-31626e.jpeg",
    "search": "uc/i2/pcv/s0519 s0519 0519 charcoal slats stone charcoal",
    "unique": false,
-   "cheaperCount": 3,
+   "cheaperCount": 4,
    "oos": false,
    "alternatives": [
     {
@@ -961,6 +961,24 @@
      "similarity": 83,
      "isCheaper": false,
      "diff": "▲ ₹1,150 premium",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "2022 WPC Classic White",
+     "code": "UC/I2/PPD/H2022",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 7.68,
+      "T_mm": 12,
+      "raw": "9.5 ft ? 7.68 in ? 12 mm"
+     },
+     "psf": 263,
+     "perPanel": 1600,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140386280-c49004.jpeg",
+     "similarity": 80,
+     "isCheaper": true,
+     "diff": "▼ ₹950 cheaper",
      "scoreClass": "mid"
     },
     {
@@ -2382,9 +2400,27 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140331001-b79537.jpeg",
    "search": "uc/i2/ppc/h2022 h2022 2022 wpc ceramic white wpc",
    "unique": false,
-   "cheaperCount": 0,
+   "cheaperCount": 1,
    "oos": false,
    "alternatives": [
+    {
+     "name": "2022 WPC Classic White",
+     "code": "UC/I2/PPD/H2022",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 7.68,
+      "T_mm": 12,
+      "raw": "9.5 ft ? 7.68 in ? 12 mm"
+     },
+     "psf": 263,
+     "perPanel": 1600,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140386280-c49004.jpeg",
+     "similarity": 90,
+     "isCheaper": true,
+     "diff": "▼ ₹50 cheaper",
+     "scoreClass": "hi"
+    },
     {
      "name": "2025 WPC Ceramic Neutral",
      "code": "UC/I2/PPC/N2025",
@@ -2439,7 +2475,7 @@
    "search": "uc/i2/ppd/h2022 h2022 2022 wpc classic white wpc",
    "unique": false,
    "cheaperCount": 2,
-   "oos": true,
+   "oos": false,
    "alternatives": [
     {
      "name": "2022 WPC Ceramic White",
@@ -2622,7 +2658,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324168617-538a58.jpeg",
    "search": "uc/i2/ppc/n2025 n2025 2025 wpc ceramic neutral wpc",
    "unique": false,
-   "cheaperCount": 0,
+   "cheaperCount": 1,
    "oos": false,
    "alternatives": [
     {
@@ -2641,6 +2677,24 @@
      "similarity": 81,
      "isCheaper": false,
      "diff": "= same price",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "2022 WPC Classic White",
+     "code": "UC/I2/PPD/H2022",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 7.68,
+      "T_mm": 12,
+      "raw": "9.5 ft ? 7.68 in ? 12 mm"
+     },
+     "psf": 263,
+     "perPanel": 1600,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140386280-c49004.jpeg",
+     "similarity": 72,
+     "isCheaper": true,
+     "diff": "▼ ₹50 cheaper",
      "scoreClass": "mid"
     },
     {
@@ -3358,7 +3412,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323763523-c95780.jpeg",
    "search": "uc/m2/pcr/w3623 w3623 3623 charcoal mini rectangle wood charcoal",
    "unique": false,
-   "cheaperCount": 3,
+   "cheaperCount": 4,
    "oos": false,
    "alternatives": [
     {
@@ -3431,6 +3485,24 @@
      "similarity": 83,
      "isCheaper": true,
      "diff": "▼ ₹1,000 cheaper",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "S685 WPC Classic Wood",
+     "code": "UC/I2/PPD/WS685",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 7.68,
+      "T_mm": 12,
+      "raw": "9.5 ft ? 7.68 in ? 12 mm"
+     },
+     "psf": 263,
+     "perPanel": 1600,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778752706158-35d49e.png",
+     "similarity": 82,
+     "isCheaper": true,
+     "diff": "▼ ₹1,400 cheaper",
      "scoreClass": "mid"
     }
    ]
@@ -3714,6 +3786,24 @@
    "oos": false,
    "alternatives": [
     {
+     "name": "S685 WPC Classic Wood",
+     "code": "UC/I2/PPD/WS685",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 7.68,
+      "T_mm": 12,
+      "raw": "9.5 ft ? 7.68 in ? 12 mm"
+     },
+     "psf": 263,
+     "perPanel": 1600,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778752706158-35d49e.png",
+     "similarity": 92,
+     "isCheaper": false,
+     "diff": "= same price",
+     "scoreClass": "hi"
+    },
+    {
      "name": "3623 Charcoal Mini rectangle Wood",
      "code": "UC/M2/PCR/W3623",
      "material": "Charcoal",
@@ -3881,6 +3971,24 @@
    "cheaperCount": 0,
    "oos": false,
    "alternatives": [
+    {
+     "name": "2022 WPC Classic White",
+     "code": "UC/I2/PPD/H2022",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 7.68,
+      "T_mm": 12,
+      "raw": "9.5 ft ? 7.68 in ? 12 mm"
+     },
+     "psf": 263,
+     "perPanel": 1600,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140386280-c49004.jpeg",
+     "similarity": 85,
+     "isCheaper": false,
+     "diff": "▲ ₹400 premium",
+     "scoreClass": "hi"
+    },
     {
      "name": "5083 Charcoal Concave Gold",
      "code": "UC/M2/PCS/K5083",
@@ -4138,6 +4246,24 @@
      "isCheaper": false,
      "diff": "= same price",
      "scoreClass": "hi"
+    },
+    {
+     "name": "2022 WPC Classic White",
+     "code": "UC/I2/PPD/H2022",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 7.68,
+      "T_mm": 12,
+      "raw": "9.5 ft ? 7.68 in ? 12 mm"
+     },
+     "psf": 263,
+     "perPanel": 1600,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140386280-c49004.jpeg",
+     "similarity": 82,
+     "isCheaper": false,
+     "diff": "▲ ₹400 premium",
+     "scoreClass": "mid"
     },
     {
      "name": "5082 Charcoal Concave Gold",
@@ -4412,7 +4538,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323891459-9d1f95.jpeg",
    "search": "uc/m2/pcu/k5537 k5537 5537 charcoal mini concave gold charcoal",
    "unique": false,
-   "cheaperCount": 4,
+   "cheaperCount": 5,
    "oos": false,
    "alternatives": [
     {
@@ -4449,6 +4575,24 @@
      "similarity": 81,
      "isCheaper": true,
      "diff": "▼ ₹2,500 cheaper",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "2022 WPC Classic White",
+     "code": "UC/I2/PPD/H2022",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 7.68,
+      "T_mm": 12,
+      "raw": "9.5 ft ? 7.68 in ? 12 mm"
+     },
+     "psf": 263,
+     "perPanel": 1600,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140386280-c49004.jpeg",
+     "similarity": 81,
+     "isCheaper": true,
+     "diff": "▼ ₹2,100 cheaper",
      "scoreClass": "mid"
     },
     {
@@ -6668,7 +6812,7 @@
    "search": "uc/i2/ppd/ws685 ws685 s685 wpc classic wood wpc",
    "unique": false,
    "cheaperCount": 0,
-   "oos": true,
+   "oos": false,
    "alternatives": [
     {
      "name": "4P03 WPC Small square Wood",

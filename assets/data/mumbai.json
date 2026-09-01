@@ -35,7 +35,7 @@
    "search": "uc/i2/pci/g0066 g0066 0066 charcoal embossed pastel charcoal",
    "unique": false,
    "cheaperCount": 1,
-   "oos": true,
+   "oos": false,
    "alternatives": [
     {
      "name": "8461 Charcoal Embossed Pastel",
@@ -1328,29 +1328,10 @@
    "perPanel": 650,
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324468549-07209b.jpeg",
    "search": "uc/r1/ppp/g0818 g0818 0818 pvc plain gold pvc",
-   "unique": false,
+   "unique": true,
    "cheaperCount": 0,
    "oos": false,
-   "alternatives": [
-    {
-     "name": "1218 PVC Plain Floral",
-     "code": "UC/R1/PPP/T1218",
-     "material": "PVC",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 9.8,
-      "T_mm": 5,
-      "raw": "9.5 ft ? 9.8 in ? 5 mm"
-     },
-     "psf": 84,
-     "perPanel": 650,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324400818-85e760.jpeg",
-     "similarity": 79,
-     "isCheaper": false,
-     "diff": "= same price",
-     "scoreClass": "mid"
-    }
-   ]
+   "alternatives": []
   },
   {
    "name": "0952/0414 PVC Grooved Wood",
@@ -1904,7 +1885,7 @@
    "search": "uc/r1/ppp/t1218 t1218 1218 pvc plain floral pvc",
    "unique": false,
    "cheaperCount": 0,
-   "oos": false,
+   "oos": true,
    "alternatives": [
     {
      "name": "0818 PVC Plain Gold",
@@ -2221,24 +2202,6 @@
      "isCheaper": false,
      "diff": "= same price",
      "scoreClass": "mid"
-    },
-    {
-     "name": "2022 WPC Sheet White | 7 mm",
-     "code": "UC/I2/SPG/H2022",
-     "material": "WPC",
-     "dims": {
-      "L_ft": 9.2,
-      "W_in": 23.48,
-      "T_mm": 7,
-      "raw": "9.2 ft ? 23.48 in ? 7 mm"
-     },
-     "psf": 197,
-     "perPanel": 3550,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140966166-e373e9.jpeg",
-     "similarity": 71,
-     "isCheaper": false,
-     "diff": "▲ ₹1,900 premium",
-     "scoreClass": "mid"
     }
    ]
   },
@@ -2368,7 +2331,7 @@
    "search": "uc/i2/spg/h2022 h2022 2022 wpc sheet white | 7 mm wpc",
    "unique": false,
    "cheaperCount": 1,
-   "oos": false,
+   "oos": true,
    "alternatives": [
     {
      "name": "2025 WPC Sheet Neutral | 7 mm",
@@ -2574,24 +2537,6 @@
    "cheaperCount": 1,
    "oos": false,
    "alternatives": [
-    {
-     "name": "2022 WPC Sheet White | 7 mm",
-     "code": "UC/I2/SPG/H2022",
-     "material": "WPC",
-     "dims": {
-      "L_ft": 9.2,
-      "W_in": 23.48,
-      "T_mm": 7,
-      "raw": "9.2 ft ? 23.48 in ? 7 mm"
-     },
-     "psf": 197,
-     "perPanel": 3550,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140966166-e373e9.jpeg",
-     "similarity": 83,
-     "isCheaper": false,
-     "diff": "= same price",
-     "scoreClass": "mid"
-    },
     {
      "name": "0112 WPC Sheet Neutral | 7 mm",
      "code": "UC/I2/SPG/N0112",
@@ -4989,10 +4934,29 @@
    "perPanel": 3700,
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1769519974620-65a512.jpeg",
    "search": "uc/i2/pci/g8461 g8461 8461 charcoal embossed pastel charcoal",
-   "unique": true,
+   "unique": false,
    "cheaperCount": 0,
    "oos": false,
-   "alternatives": []
+   "alternatives": [
+    {
+     "name": "0066 Charcoal Embossed Pastel",
+     "code": "UC/I2/PCI/G0066",
+     "material": "Charcoal",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 11.9,
+      "T_mm": 7,
+      "raw": "9.5 ft ? 11.9 in ? 7 mm"
+     },
+     "psf": 393,
+     "perPanel": 3700,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1769519953221-666cb8.jpeg",
+     "similarity": 94,
+     "isCheaper": false,
+     "diff": "= same price",
+     "scoreClass": "hi"
+    }
+   ]
   },
   {
    "name": "8461 Charcoal Mini concave Pastel",
@@ -5236,24 +5200,6 @@
    "cheaperCount": 0,
    "oos": true,
    "alternatives": [
-    {
-     "name": "1218 PVC Plain Floral",
-     "code": "UC/R1/PPP/T1218",
-     "material": "PVC",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 9.8,
-      "T_mm": 5,
-      "raw": "9.5 ft ? 9.8 in ? 5 mm"
-     },
-     "psf": 84,
-     "perPanel": 650,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324400818-85e760.jpeg",
-     "similarity": 78,
-     "isCheaper": false,
-     "diff": "= same price",
-     "scoreClass": "mid"
-    },
     {
      "name": "1449 PVC Plain Floral",
      "code": "UC/R1/PPP/F1449",
@@ -5959,6 +5905,24 @@
      "similarity": 78,
      "isCheaper": true,
      "diff": "▼ ₹150 cheaper",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "0066 Charcoal Embossed Pastel",
+     "code": "UC/I2/PCI/G0066",
+     "material": "Charcoal",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 11.9,
+      "T_mm": 7,
+      "raw": "9.5 ft ? 11.9 in ? 7 mm"
+     },
+     "psf": 393,
+     "perPanel": 3700,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1769519953221-666cb8.jpeg",
+     "similarity": 70,
+     "isCheaper": false,
+     "diff": "▲ ₹1,500 premium",
      "scoreClass": "mid"
     }
    ]
