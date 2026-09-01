@@ -344,7 +344,7 @@
         '<td><input class="qb-qty" type="number" min="1" value="' + r.qty + '" data-i="' + idx + '"></td>' +
         '<td><div class="qb-cellmain">' + esc(r.panel.name) + (r.fromBeading ? ' <span class="qb-pill qb-pill-warn">qty from beading</span>' : '') + '</div><div class="qb-cellsub">' + esc(r.panel.code) + ' · ' + esc(r.panel.material) + ' · ' + esc(r.panel.dims ? r.panel.dims.raw : '') + '</div></td>' +
         '<td>' + rupee(r.panel.perPanel) + '</td>' +
-        '<td>' + (n ? '<span class="qb-pill qb-pill-ok">' + n + ' cheaper</span>' : '<span class="qb-pill qb-pill-mut">none</span>') + '</td>' +
+        '<td>' + (n ? '<span class="qb-pill qb-pill-ok">' + n + ' economical</span>' : '<span class="qb-pill qb-pill-mut">none</span>') + '</td>' +
         '<td><button class="qb-x" data-drop="' + idx + '" title="Remove">✕</button></td>';
       tb.appendChild(tr);
     });
@@ -363,10 +363,10 @@
     $('residual').innerHTML =
       (numbersBad ? '<div class="qb-warn qb-warn-strong">⚠ Numbers don\'t add up — the reader may have mis-read a figure. Please check Sub&nbsp;total, Taxes &amp; Total above before generating.</div>' : '') +
       '<div class="qb-label" style="margin:0 0 6px">Sanity check</div>' +
-      'Panels added: <b>' + review.panels.length + '</b> · with cheaper option: <b>' + withCheaper + '</b><br>' +
+      'Panels added: <b>' + review.panels.length + '</b> · with economical option: <b>' + withCheaper + '</b><br>' +
       'Catalog panel cost: <b>' + rupee(panelCost) + '</b> · implied accessories: <b class="' + (resid < 0 ? 'qb-neg' : '') + '">' + rupee(resid) + '</b>' +
       (resid < 0 ? '<div class="qb-warn">⚠ Negative — check quantities or subtotal.</div>' : '') +
-      (review.panels.length && !withCheaper ? '<div class="qb-warn">No added panel has a cheaper look-alike — no quotes will generate.</div>' : '');
+      (review.panels.length && !withCheaper ? '<div class="qb-warn">No added panel has an economical look-alike — no quotes will generate.</div>' : '');
   }
 
   // ---- autocomplete ----
@@ -385,7 +385,7 @@
       item.innerHTML =
         '<span class="qb-ac-thumb">' + (p.image ? '<img loading="lazy" src="' + esc(p.image) + '">' : '') + '</span>' +
         '<span class="qb-ac-body"><b>' + esc(p.name) + '</b><span class="qb-cellsub">' + esc(p.code) + ' · ' + esc(p.material) + ' · ' + rupee(p.perPanel) + '</span></span>' +
-        (n ? '<span class="qb-pill qb-pill-ok">' + n + ' cheaper</span>' : '<span class="qb-pill qb-pill-mut">none</span>');
+        (n ? '<span class="qb-pill qb-pill-ok">' + n + ' economical</span>' : '<span class="qb-pill qb-pill-mut">none</span>');
       item.addEventListener('click', function () { addPanel(p); $('acInput').value = ''; list.hidden = true; });
       list.appendChild(item);
     });
@@ -408,14 +408,14 @@
       $('noQuotes').textContent = !review.panels.length
         ? 'Add at least one panel to generate quotes.'
         : hadAlts
-          ? 'No cheaper quotes possible — similar panels cost more after adjusting for wall area coverage.'
-          : 'None of the added panels have a cheaper look-alike in the catalog.';
+          ? 'No economical quotes possible — similar panels cost more after adjusting for wall area coverage.'
+          : 'None of the added panels have an economical look-alike in the catalog.';
       return;
     }
     hide('noQuotes');
     if (nSave === 0) {
       var note = el('div', 'qb-no-cheaper-note');
-      note.innerHTML = '⚠ No cheaper option available — all visually similar panels cost more after adjusting for area coverage.';
+      note.innerHTML = '⚠ No economical option available — all visually similar panels cost more after adjusting for area coverage.';
       grid.appendChild(note);
     }
     quotes.forEach(function (q) {
@@ -425,7 +425,7 @@
       card.innerHTML =
         '<div class="qb-card-top">' +
           '<span class="qb-card-kicker">' + (q.swaps.length === 1 ? '1 panel swapped' : q.swaps.length + ' panels swapped') + '</span>' +
-          (isSave ? '<span class="qb-saved">▼ ' + rupee(saved) + ' saved</span>'
+          (isSave ? '<span class="qb-saved">▼ Saves ' + rupee(saved) + '</span>'
                   : '<span class="qb-prem">▲ ' + rupee(-saved) + ' more</span>') +
         '</div>' +
         '<div class="qb-card-swaps">' + q.swaps.map(swapCard).join('') + '</div>' +
@@ -504,7 +504,7 @@
         '<div class="qb-modal-headL"><div class="qb-modal-title">' + esc(review.customer || 'Alternative quote') + '</div>' +
         '<div class="qb-modal-sub">' + (q.swaps.length === 1 ? esc(q.swaps[0].row.panel.name + ' → ' + q.swaps[0].alt.name) : 'Swapping ' + q.swaps.length + ' panels') + '</div></div>' +
         '<div class="qb-modal-headR">' +
-          '<div class="' + (isSave ? 'qb-saved' : 'qb-prem') + ' qb-modal-badge">' + (isSave ? '▼ ' + rupee(saved) + ' saved' : '▲ ' + rupee(-saved) + ' more') + '</div>' +
+          '<div class="' + (isSave ? 'qb-saved' : 'qb-prem') + ' qb-modal-badge">' + (isSave ? '▼ Saves ' + rupee(saved) : '▲ ' + rupee(-saved) + ' more') + '</div>' +
           '<div class="qb-modal-nt">New total <b>' + rupee(q.price.total) + '</b> <span class="qb-modal-was">was ' + rupee(review.total || (review.subtotal + review.taxes)) + '</span></div>' +
         '</div>' +
       '</div>' +

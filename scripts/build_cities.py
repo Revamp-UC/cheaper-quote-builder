@@ -41,7 +41,7 @@ def score_class(pct):
 def diff_text(panel_price, alt_price):
     d = alt_price - panel_price
     if d < 0:
-        return f"▼ ₹{abs(d):,} cheaper"
+        return f"▼ Saves ₹{abs(d):,}"
     elif d > 0:
         return f"▲ ₹{d:,} premium"
     return "= same price"

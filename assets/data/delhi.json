@@ -146,7 +146,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1769519873285-729933.jpeg",
      "similarity": 70,
      "isCheaper": true,
-     "diff": "▼ ₹1,150 cheaper",
+     "diff": "▼ Saves ₹1,150",
      "scoreClass": "mid"
     }
    ]
@@ -184,7 +184,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140299454-7350a9.jpeg",
      "similarity": 88,
      "isCheaper": true,
-     "diff": "▼ ₹520 cheaper",
+     "diff": "▼ Saves ₹520",
      "scoreClass": "hi"
     },
     {
@@ -406,7 +406,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140323168-5f6835.jpeg",
      "similarity": 73,
      "isCheaper": true,
-     "diff": "▼ ₹1,550 cheaper",
+     "diff": "▼ Saves ₹1,550",
      "scoreClass": "mid"
     },
     {
@@ -424,7 +424,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841884626-165b97.png",
      "similarity": 72,
      "isCheaper": true,
-     "diff": "▼ ₹1,850 cheaper",
+     "diff": "▼ Saves ₹1,850",
      "scoreClass": "mid"
     },
     {
@@ -442,7 +442,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841884626-165b97.png",
      "similarity": 72,
      "isCheaper": true,
-     "diff": "▼ ₹2,240 cheaper",
+     "diff": "▼ Saves ₹2,240",
      "scoreClass": "mid"
     }
    ]
@@ -554,7 +554,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1779087080405-a72db3.png",
      "similarity": 100,
      "isCheaper": true,
-     "diff": "▼ ₹390 cheaper",
+     "diff": "▼ Saves ₹390",
      "scoreClass": "hi"
     },
     {
@@ -628,7 +628,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324320114-5e2316.jpeg",
      "similarity": 86,
      "isCheaper": true,
-     "diff": "▼ ₹730 cheaper",
+     "diff": "▼ Saves ₹730",
      "scoreClass": "hi"
     },
     {
@@ -646,7 +646,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324344895-417fbd.jpeg",
      "similarity": 70,
      "isCheaper": true,
-     "diff": "▼ ₹730 cheaper",
+     "diff": "▼ Saves ₹730",
      "scoreClass": "mid"
     }
    ]
@@ -702,7 +702,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140984357-dacfa2.jpeg",
      "similarity": 86,
      "isCheaper": true,
-     "diff": "▼ ₹150 cheaper",
+     "diff": "▼ Saves ₹150",
      "scoreClass": "hi"
     },
     {
@@ -834,7 +834,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841888427-f94e08.png",
      "similarity": 100,
      "isCheaper": true,
-     "diff": "▼ ₹390 cheaper",
+     "diff": "▼ Saves ₹390",
      "scoreClass": "hi"
     }
    ]
@@ -1038,7 +1038,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323882160-384437.jpeg",
      "similarity": 92,
      "isCheaper": true,
-     "diff": "▼ ₹801 cheaper",
+     "diff": "▼ Saves ₹801",
      "scoreClass": "hi"
     },
     {
@@ -1092,7 +1092,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140386280-c49004.jpeg",
      "similarity": 80,
      "isCheaper": true,
-     "diff": "▼ ₹900 cheaper",
+     "diff": "▼ Saves ₹900",
      "scoreClass": "mid"
     },
     {
@@ -1110,7 +1110,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1769519998448-d01be7.jpeg",
      "similarity": 80,
      "isCheaper": true,
-     "diff": "▼ ₹150 cheaper",
+     "diff": "▼ Saves ₹150",
      "scoreClass": "mid"
     },
     {
@@ -1128,7 +1128,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323867089-cf5dc8.jpeg",
      "similarity": 77,
      "isCheaper": true,
-     "diff": "▼ ₹801 cheaper",
+     "diff": "▼ Saves ₹801",
      "scoreClass": "mid"
     }
    ]
@@ -1330,7 +1330,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323482814-f22070.jpeg",
      "similarity": 84,
      "isCheaper": true,
-     "diff": "▼ ₹3,000 cheaper",
+     "diff": "▼ Saves ₹3,000",
      "scoreClass": "mid"
     },
     {
@@ -1590,7 +1590,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323482814-f22070.jpeg",
      "similarity": 83,
      "isCheaper": true,
-     "diff": "▼ ₹3,000 cheaper",
+     "diff": "▼ Saves ₹3,000",
      "scoreClass": "mid"
     },
     {
@@ -1608,7 +1608,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841918427-b2385a.png",
      "similarity": 74,
      "isCheaper": true,
-     "diff": "▼ ₹8,240 cheaper",
+     "diff": "▼ Saves ₹8,240",
      "scoreClass": "mid"
     }
    ]
@@ -1646,7 +1646,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323882160-384437.jpeg",
      "similarity": 80,
      "isCheaper": true,
-     "diff": "▼ ₹651 cheaper",
+     "diff": "▼ Saves ₹651",
      "scoreClass": "mid"
     },
     {
@@ -1700,7 +1700,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323867089-cf5dc8.jpeg",
      "similarity": 78,
      "isCheaper": true,
-     "diff": "▼ ₹651 cheaper",
+     "diff": "▼ Saves ₹651",
      "scoreClass": "mid"
     }
    ]
@@ -1828,7 +1828,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841918427-b2385a.png",
      "similarity": 75,
      "isCheaper": true,
-     "diff": "▼ ₹5,240 cheaper",
+     "diff": "▼ Saves ₹5,240",
      "scoreClass": "mid"
     }
    ]
@@ -1866,7 +1866,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323416216-e1657f.jpeg",
      "similarity": 85,
      "isCheaper": true,
-     "diff": "▼ ₹2,700 cheaper",
+     "diff": "▼ Saves ₹2,700",
      "scoreClass": "hi"
     },
     {
@@ -1884,7 +1884,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323562400-eaf1f0.jpeg",
      "similarity": 76,
      "isCheaper": true,
-     "diff": "▼ ₹2,700 cheaper",
+     "diff": "▼ Saves ₹2,700",
      "scoreClass": "mid"
     }
    ]
@@ -2016,7 +2016,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324245463-5602e5.jpeg",
      "similarity": 71,
      "isCheaper": true,
-     "diff": "▼ ₹550 cheaper",
+     "diff": "▼ Saves ₹550",
      "scoreClass": "mid"
     }
    ]
@@ -2072,7 +2072,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140323168-5f6835.jpeg",
      "similarity": 78,
      "isCheaper": true,
-     "diff": "▼ ₹1,150 cheaper",
+     "diff": "▼ Saves ₹1,150",
      "scoreClass": "mid"
     },
     {
@@ -2221,7 +2221,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140386280-c49004.jpeg",
      "similarity": 90,
      "isCheaper": true,
-     "diff": "▼ ₹150 cheaper",
+     "diff": "▼ Saves ₹150",
      "scoreClass": "hi"
     },
     {
@@ -2313,7 +2313,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324236440-f726c2.jpeg",
      "similarity": 85,
      "isCheaper": true,
-     "diff": "▼ ₹100 cheaper",
+     "diff": "▼ Saves ₹100",
      "scoreClass": "hi"
     },
     {
@@ -2331,7 +2331,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324209974-0313bc.jpeg",
      "similarity": 82,
      "isCheaper": true,
-     "diff": "▼ ₹100 cheaper",
+     "diff": "▼ Saves ₹100",
      "scoreClass": "mid"
     },
     {
@@ -2423,7 +2423,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140331001-b79537.jpeg",
      "similarity": 71,
      "isCheaper": true,
-     "diff": "▼ ₹1,550 cheaper",
+     "diff": "▼ Saves ₹1,550",
      "scoreClass": "mid"
     }
    ]
@@ -2479,7 +2479,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140386280-c49004.jpeg",
      "similarity": 72,
      "isCheaper": true,
-     "diff": "▼ ₹150 cheaper",
+     "diff": "▼ Saves ₹150",
      "scoreClass": "mid"
     }
    ]
@@ -2553,7 +2553,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323882160-384437.jpeg",
      "similarity": 75,
      "isCheaper": true,
-     "diff": "▼ ₹5,101 cheaper",
+     "diff": "▼ Saves ₹5,101",
      "scoreClass": "mid"
     },
     {
@@ -2571,7 +2571,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323867089-cf5dc8.jpeg",
      "similarity": 73,
      "isCheaper": true,
-     "diff": "▼ ₹5,101 cheaper",
+     "diff": "▼ Saves ₹5,101",
      "scoreClass": "mid"
     }
    ]
@@ -2645,7 +2645,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324168617-538a58.jpeg",
      "similarity": 71,
      "isCheaper": true,
-     "diff": "▼ ₹1,550 cheaper",
+     "diff": "▼ Saves ₹1,550",
      "scoreClass": "mid"
     }
    ]
@@ -2719,7 +2719,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323882160-384437.jpeg",
      "similarity": 78,
      "isCheaper": true,
-     "diff": "▼ ₹5,101 cheaper",
+     "diff": "▼ Saves ₹5,101",
      "scoreClass": "mid"
     },
     {
@@ -2737,7 +2737,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323867089-cf5dc8.jpeg",
      "similarity": 72,
      "isCheaper": true,
-     "diff": "▼ ₹5,101 cheaper",
+     "diff": "▼ Saves ₹5,101",
      "scoreClass": "mid"
     }
    ]
@@ -2793,7 +2793,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1779090500773-920290.png",
      "similarity": 73,
      "isCheaper": true,
-     "diff": "▼ ₹6,839 cheaper",
+     "diff": "▼ Saves ₹6,839",
      "scoreClass": "mid"
     },
     {
@@ -2829,7 +2829,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1779087080405-a72db3.png",
      "similarity": 72,
      "isCheaper": true,
-     "diff": "▼ ₹6,449 cheaper",
+     "diff": "▼ Saves ₹6,449",
      "scoreClass": "mid"
     },
     {
@@ -2847,7 +2847,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1779087080405-a72db3.png",
      "similarity": 72,
      "isCheaper": true,
-     "diff": "▼ ₹6,839 cheaper",
+     "diff": "▼ Saves ₹6,839",
      "scoreClass": "mid"
     }
    ]
@@ -2921,7 +2921,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323482814-f22070.jpeg",
      "similarity": 83,
      "isCheaper": true,
-     "diff": "▼ ₹3,000 cheaper",
+     "diff": "▼ Saves ₹3,000",
      "scoreClass": "mid"
     },
     {
@@ -2939,7 +2939,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841918427-b2385a.png",
      "similarity": 74,
      "isCheaper": true,
-     "diff": "▼ ₹8,240 cheaper",
+     "diff": "▼ Saves ₹8,240",
      "scoreClass": "mid"
     }
    ]
@@ -3032,7 +3032,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324278772-fba231.jpeg",
      "similarity": 82,
      "isCheaper": true,
-     "diff": "▼ ₹400 cheaper",
+     "diff": "▼ Saves ₹400",
      "scoreClass": "mid"
     },
     {
@@ -3050,7 +3050,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/customer-app-supply/1779351782073-31c62f.jpeg",
      "similarity": 76,
      "isCheaper": true,
-     "diff": "▼ ₹400 cheaper",
+     "diff": "▼ Saves ₹400",
      "scoreClass": "mid"
     }
    ]
@@ -3106,7 +3106,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324254770-c71488.jpeg",
      "similarity": 85,
      "isCheaper": true,
-     "diff": "▼ ₹800 cheaper",
+     "diff": "▼ Saves ₹800",
      "scoreClass": "hi"
     },
     {
@@ -3162,7 +3162,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323747075-a04ac2.jpeg",
      "similarity": 90,
      "isCheaper": true,
-     "diff": "▼ ₹800 cheaper",
+     "diff": "▼ Saves ₹800",
      "scoreClass": "hi"
     },
     {
@@ -3198,7 +3198,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140907844-d18dab.jpeg",
      "similarity": 85,
      "isCheaper": true,
-     "diff": "▼ ₹1,650 cheaper",
+     "diff": "▼ Saves ₹1,650",
      "scoreClass": "hi"
     },
     {
@@ -3216,7 +3216,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324254770-c71488.jpeg",
      "similarity": 83,
      "isCheaper": true,
-     "diff": "▼ ₹800 cheaper",
+     "diff": "▼ Saves ₹800",
      "scoreClass": "mid"
     },
     {
@@ -3234,7 +3234,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778752706158-35d49e.png",
      "similarity": 82,
      "isCheaper": true,
-     "diff": "▼ ₹1,500 cheaper",
+     "diff": "▼ Saves ₹1,500",
      "scoreClass": "mid"
     }
    ]
@@ -3290,7 +3290,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140907844-d18dab.jpeg",
      "similarity": 80,
      "isCheaper": true,
-     "diff": "▼ ₹850 cheaper",
+     "diff": "▼ Saves ₹850",
      "scoreClass": "mid"
     }
    ]
@@ -3328,7 +3328,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324093359-1440b0.jpeg",
      "similarity": 77,
      "isCheaper": true,
-     "diff": "▼ ₹490 cheaper",
+     "diff": "▼ Saves ₹490",
      "scoreClass": "mid"
     },
     {
@@ -3440,7 +3440,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140907844-d18dab.jpeg",
      "similarity": 80,
      "isCheaper": true,
-     "diff": "▼ ₹1,850 cheaper",
+     "diff": "▼ Saves ₹1,850",
      "scoreClass": "mid"
     },
     {
@@ -3458,7 +3458,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1769519923238-ba70ca.jpeg",
      "similarity": 76,
      "isCheaper": true,
-     "diff": "▼ ₹400 cheaper",
+     "diff": "▼ Saves ₹400",
      "scoreClass": "mid"
     },
     {
@@ -3494,7 +3494,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1769519933324-7b17e1.jpeg",
      "similarity": 71,
      "isCheaper": true,
-     "diff": "▼ ₹400 cheaper",
+     "diff": "▼ Saves ₹400",
      "scoreClass": "mid"
     }
    ]
@@ -3717,7 +3717,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324218592-76c4ee.jpeg",
      "similarity": 85,
      "isCheaper": true,
-     "diff": "▼ ₹300 cheaper",
+     "diff": "▼ Saves ₹300",
      "scoreClass": "hi"
     },
     {
@@ -3735,7 +3735,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324209974-0313bc.jpeg",
      "similarity": 80,
      "isCheaper": true,
-     "diff": "▼ ₹300 cheaper",
+     "diff": "▼ Saves ₹300",
      "scoreClass": "mid"
     },
     {
@@ -3753,7 +3753,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324236440-f726c2.jpeg",
      "similarity": 79,
      "isCheaper": true,
-     "diff": "▼ ₹300 cheaper",
+     "diff": "▼ Saves ₹300",
      "scoreClass": "mid"
     },
     {
@@ -3975,7 +3975,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140323168-5f6835.jpeg",
      "similarity": 84,
      "isCheaper": true,
-     "diff": "▼ ₹1,150 cheaper",
+     "diff": "▼ Saves ₹1,150",
      "scoreClass": "mid"
     },
     {
@@ -4139,7 +4139,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323482814-f22070.jpeg",
      "similarity": 84,
      "isCheaper": true,
-     "diff": "▼ ₹3,000 cheaper",
+     "diff": "▼ Saves ₹3,000",
      "scoreClass": "mid"
     }
    ]
@@ -4177,7 +4177,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1769519883323-31626e.jpeg",
      "similarity": 83,
      "isCheaper": true,
-     "diff": "▼ ₹1,500 cheaper",
+     "diff": "▼ Saves ₹1,500",
      "scoreClass": "mid"
     },
     {
@@ -4195,7 +4195,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324218592-76c4ee.jpeg",
      "similarity": 81,
      "isCheaper": true,
-     "diff": "▼ ₹2,500 cheaper",
+     "diff": "▼ Saves ₹2,500",
      "scoreClass": "mid"
     },
     {
@@ -4213,7 +4213,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140386280-c49004.jpeg",
      "similarity": 81,
      "isCheaper": true,
-     "diff": "▼ ₹2,400 cheaper",
+     "diff": "▼ Saves ₹2,400",
      "scoreClass": "mid"
     },
     {
@@ -4231,7 +4231,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1769519873285-729933.jpeg",
      "similarity": 79,
      "isCheaper": true,
-     "diff": "▼ ₹1,500 cheaper",
+     "diff": "▼ Saves ₹1,500",
      "scoreClass": "mid"
     },
     {
@@ -4249,7 +4249,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324227958-666a55.jpeg",
      "similarity": 78,
      "isCheaper": true,
-     "diff": "▼ ₹2,200 cheaper",
+     "diff": "▼ Saves ₹2,200",
      "scoreClass": "mid"
     }
    ]
@@ -4323,7 +4323,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324511998-07f41c.jpeg",
      "similarity": 77,
      "isCheaper": true,
-     "diff": "▼ ₹650 cheaper",
+     "diff": "▼ Saves ₹650",
      "scoreClass": "mid"
     },
     {
@@ -4341,7 +4341,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324511998-07f41c.jpeg",
      "similarity": 76,
      "isCheaper": true,
-     "diff": "▼ ₹650 cheaper",
+     "diff": "▼ Saves ₹650",
      "scoreClass": "mid"
     }
    ]
@@ -4379,7 +4379,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770141128636-cea391.jpeg",
      "similarity": 80,
      "isCheaper": true,
-     "diff": "▼ ₹1,700 cheaper",
+     "diff": "▼ Saves ₹1,700",
      "scoreClass": "mid"
     },
     {
@@ -4433,7 +4433,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/customer-app-supply/1779351590314-392907.jpeg",
      "similarity": 73,
      "isCheaper": true,
-     "diff": "▼ ₹1,850 cheaper",
+     "diff": "▼ Saves ₹1,850",
      "scoreClass": "mid"
     },
     {
@@ -4451,7 +4451,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/customer-app-supply/1779351590314-392907.jpeg",
      "similarity": 73,
      "isCheaper": true,
-     "diff": "▼ ₹2,240 cheaper",
+     "diff": "▼ Saves ₹2,240",
      "scoreClass": "mid"
     }
    ]
@@ -4489,7 +4489,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140375832-702c05.jpeg",
      "similarity": 89,
      "isCheaper": true,
-     "diff": "▼ ₹300 cheaper",
+     "diff": "▼ Saves ₹300",
      "scoreClass": "hi"
     },
     {
@@ -4507,7 +4507,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140984357-dacfa2.jpeg",
      "similarity": 87,
      "isCheaper": true,
-     "diff": "▼ ₹450 cheaper",
+     "diff": "▼ Saves ₹450",
      "scoreClass": "hi"
     },
     {
@@ -4525,7 +4525,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324553354-fbb546.jpeg",
      "similarity": 82,
      "isCheaper": true,
-     "diff": "▼ ₹300 cheaper",
+     "diff": "▼ Saves ₹300",
      "scoreClass": "mid"
     }
    ]
@@ -4563,7 +4563,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324553354-fbb546.jpeg",
      "similarity": 86,
      "isCheaper": true,
-     "diff": "▼ ₹300 cheaper",
+     "diff": "▼ Saves ₹300",
      "scoreClass": "hi"
     },
     {
@@ -4656,7 +4656,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770141128636-cea391.jpeg",
      "similarity": 84,
      "isCheaper": true,
-     "diff": "▼ ₹1,200 cheaper",
+     "diff": "▼ Saves ₹1,200",
      "scoreClass": "mid"
     },
     {
@@ -4674,7 +4674,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/customer-app-supply/1779351754052-51ca8f.jpeg",
      "similarity": 82,
      "isCheaper": true,
-     "diff": "▼ ₹900 cheaper",
+     "diff": "▼ Saves ₹900",
      "scoreClass": "mid"
     },
     {
@@ -4692,7 +4692,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140362352-3302d2.jpeg",
      "similarity": 81,
      "isCheaper": true,
-     "diff": "▼ ₹1,200 cheaper",
+     "diff": "▼ Saves ₹1,200",
      "scoreClass": "mid"
     }
    ]
@@ -4840,7 +4840,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770139916980-ca6381.jpeg",
      "similarity": 73,
      "isCheaper": true,
-     "diff": "▼ ₹350 cheaper",
+     "diff": "▼ Saves ₹350",
      "scoreClass": "mid"
     }
    ]
@@ -4934,7 +4934,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140897812-4b4203.jpeg",
      "similarity": 83,
      "isCheaper": true,
-     "diff": "▼ ₹450 cheaper",
+     "diff": "▼ Saves ₹450",
      "scoreClass": "mid"
     },
     {
@@ -4970,7 +4970,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140362352-3302d2.jpeg",
      "similarity": 81,
      "isCheaper": true,
-     "diff": "▼ ₹300 cheaper",
+     "diff": "▼ Saves ₹300",
      "scoreClass": "mid"
     },
     {
@@ -4988,7 +4988,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841873660-c8e668.png",
      "similarity": 80,
      "isCheaper": true,
-     "diff": "▼ ₹450 cheaper",
+     "diff": "▼ Saves ₹450",
      "scoreClass": "mid"
     },
     {
@@ -5006,7 +5006,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841873660-c8e668.png",
      "similarity": 80,
      "isCheaper": true,
-     "diff": "▼ ₹840 cheaper",
+     "diff": "▼ Saves ₹840",
      "scoreClass": "mid"
     },
     {
@@ -5024,7 +5024,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324093359-1440b0.jpeg",
      "similarity": 80,
      "isCheaper": true,
-     "diff": "▼ ₹790 cheaper",
+     "diff": "▼ Saves ₹790",
      "scoreClass": "mid"
     },
     {
@@ -5208,7 +5208,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841873660-c8e668.png",
      "similarity": 85,
      "isCheaper": true,
-     "diff": "▼ ₹1,850 cheaper",
+     "diff": "▼ Saves ₹1,850",
      "scoreClass": "hi"
     },
     {
@@ -5226,7 +5226,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841873660-c8e668.png",
      "similarity": 85,
      "isCheaper": true,
-     "diff": "▼ ₹2,240 cheaper",
+     "diff": "▼ Saves ₹2,240",
      "scoreClass": "hi"
     },
     {
@@ -5244,7 +5244,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140897812-4b4203.jpeg",
      "similarity": 79,
      "isCheaper": true,
-     "diff": "▼ ₹1,850 cheaper",
+     "diff": "▼ Saves ₹1,850",
      "scoreClass": "mid"
     },
     {
@@ -5262,7 +5262,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/customer-app-supply/1779351754052-51ca8f.jpeg",
      "similarity": 76,
      "isCheaper": true,
-     "diff": "▼ ₹1,400 cheaper",
+     "diff": "▼ Saves ₹1,400",
      "scoreClass": "mid"
     },
     {
@@ -5336,7 +5336,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324093359-1440b0.jpeg",
      "similarity": 84,
      "isCheaper": true,
-     "diff": "▼ ₹340 cheaper",
+     "diff": "▼ Saves ₹340",
      "scoreClass": "mid"
     },
     {
@@ -5408,7 +5408,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841873660-c8e668.png",
      "similarity": 78,
      "isCheaper": true,
-     "diff": "▼ ₹390 cheaper",
+     "diff": "▼ Saves ₹390",
      "scoreClass": "mid"
     },
     {
@@ -5444,7 +5444,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323821766-ea02d1.jpeg",
      "similarity": 73,
      "isCheaper": true,
-     "diff": "▼ ₹510 cheaper",
+     "diff": "▼ Saves ₹510",
      "scoreClass": "mid"
     },
     {
@@ -5462,7 +5462,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324354607-338548.jpeg",
      "similarity": 71,
      "isCheaper": true,
-     "diff": "▼ ₹510 cheaper",
+     "diff": "▼ Saves ₹510",
      "scoreClass": "mid"
     }
    ]
@@ -5500,7 +5500,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841873660-c8e668.png",
      "similarity": 100,
      "isCheaper": true,
-     "diff": "▼ ₹390 cheaper",
+     "diff": "▼ Saves ₹390",
      "scoreClass": "hi"
     },
     {
@@ -5647,7 +5647,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140299454-7350a9.jpeg",
      "similarity": 78,
      "isCheaper": true,
-     "diff": "▼ ₹520 cheaper",
+     "diff": "▼ Saves ₹520",
      "scoreClass": "mid"
     }
    ]
@@ -5777,7 +5777,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140375832-702c05.jpeg",
      "similarity": 85,
      "isCheaper": true,
-     "diff": "▼ ₹300 cheaper",
+     "diff": "▼ Saves ₹300",
      "scoreClass": "hi"
     },
     {
@@ -5907,7 +5907,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841903506-8fbee2.png",
      "similarity": 85,
      "isCheaper": true,
-     "diff": "▼ ₹390 cheaper",
+     "diff": "▼ Saves ₹390",
      "scoreClass": "hi"
     },
     {
@@ -6019,7 +6019,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324468549-07209b.jpeg",
      "similarity": 72,
      "isCheaper": true,
-     "diff": "▼ ₹110 cheaper",
+     "diff": "▼ Saves ₹110",
      "scoreClass": "mid"
     },
     {
@@ -6149,7 +6149,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323798165-013e8d.jpeg",
      "similarity": 85,
      "isCheaper": true,
-     "diff": "▼ ₹1,051 cheaper",
+     "diff": "▼ Saves ₹1,051",
      "scoreClass": "hi"
     },
     {
@@ -6167,7 +6167,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323547875-39e8d6.jpeg",
      "similarity": 82,
      "isCheaper": true,
-     "diff": "▼ ₹1,051 cheaper",
+     "diff": "▼ Saves ₹1,051",
      "scoreClass": "mid"
     },
     {
@@ -6185,7 +6185,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323482814-f22070.jpeg",
      "similarity": 82,
      "isCheaper": true,
-     "diff": "▼ ₹2,650 cheaper",
+     "diff": "▼ Saves ₹2,650",
      "scoreClass": "mid"
     },
     {
@@ -6203,7 +6203,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841918427-b2385a.png",
      "similarity": 76,
      "isCheaper": true,
-     "diff": "▼ ₹7,890 cheaper",
+     "diff": "▼ Saves ₹7,890",
      "scoreClass": "mid"
     }
    ]
@@ -6317,7 +6317,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1779090500773-920290.png",
      "similarity": 90,
      "isCheaper": true,
-     "diff": "▼ ₹7,890 cheaper",
+     "diff": "▼ Saves ₹7,890",
      "scoreClass": "hi"
     },
     {
@@ -6335,7 +6335,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324304024-cd1b50.jpeg",
      "similarity": 81,
      "isCheaper": true,
-     "diff": "▼ ₹1,051 cheaper",
+     "diff": "▼ Saves ₹1,051",
      "scoreClass": "mid"
     },
     {
@@ -6353,7 +6353,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323547875-39e8d6.jpeg",
      "similarity": 73,
      "isCheaper": true,
-     "diff": "▼ ₹1,051 cheaper",
+     "diff": "▼ Saves ₹1,051",
      "scoreClass": "mid"
     },
     {
@@ -6371,7 +6371,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1779087080405-a72db3.png",
      "similarity": 71,
      "isCheaper": true,
-     "diff": "▼ ₹7,500 cheaper",
+     "diff": "▼ Saves ₹7,500",
      "scoreClass": "mid"
     },
     {
@@ -6389,7 +6389,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1779087080405-a72db3.png",
      "similarity": 71,
      "isCheaper": true,
-     "diff": "▼ ₹7,890 cheaper",
+     "diff": "▼ Saves ₹7,890",
      "scoreClass": "mid"
     },
     {
@@ -6407,7 +6407,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1769519914375-12e5b9.jpeg",
      "similarity": 70,
      "isCheaper": true,
-     "diff": "▼ ₹6,950 cheaper",
+     "diff": "▼ Saves ₹6,950",
      "scoreClass": "mid"
     }
    ]
@@ -6537,7 +6537,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770139916980-ca6381.jpeg",
      "similarity": 72,
      "isCheaper": true,
-     "diff": "▼ ₹350 cheaper",
+     "diff": "▼ Saves ₹350",
      "scoreClass": "mid"
     }
    ]
@@ -6593,7 +6593,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323482814-f22070.jpeg",
      "similarity": 80,
      "isCheaper": true,
-     "diff": "▼ ₹1,599 cheaper",
+     "diff": "▼ Saves ₹1,599",
      "scoreClass": "mid"
     },
     {
@@ -6649,7 +6649,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1779090500773-920290.png",
      "similarity": 83,
      "isCheaper": true,
-     "diff": "▼ ₹6,839 cheaper",
+     "diff": "▼ Saves ₹6,839",
      "scoreClass": "mid"
     },
     {
@@ -6909,7 +6909,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841903506-8fbee2.png",
      "similarity": 100,
      "isCheaper": true,
-     "diff": "▼ ₹390 cheaper",
+     "diff": "▼ Saves ₹390",
      "scoreClass": "hi"
     },
     {
@@ -7003,7 +7003,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/customer-app-supply/1779351590314-392907.jpeg",
      "similarity": 100,
      "isCheaper": true,
-     "diff": "▼ ₹390 cheaper",
+     "diff": "▼ Saves ₹390",
      "scoreClass": "hi"
     }
    ]
@@ -7133,7 +7133,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140323168-5f6835.jpeg",
      "similarity": 75,
      "isCheaper": true,
-     "diff": "▼ ₹520 cheaper",
+     "diff": "▼ Saves ₹520",
      "scoreClass": "mid"
     }
    ]
@@ -7189,7 +7189,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323882160-384437.jpeg",
      "similarity": 82,
      "isCheaper": true,
-     "diff": "▼ ₹801 cheaper",
+     "diff": "▼ Saves ₹801",
      "scoreClass": "mid"
     },
     {
@@ -7207,7 +7207,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323867089-cf5dc8.jpeg",
      "similarity": 80,
      "isCheaper": true,
-     "diff": "▼ ₹801 cheaper",
+     "diff": "▼ Saves ₹801",
      "scoreClass": "mid"
     },
     {
@@ -7243,7 +7243,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1769519998448-d01be7.jpeg",
      "similarity": 78,
      "isCheaper": true,
-     "diff": "▼ ₹150 cheaper",
+     "diff": "▼ Saves ₹150",
      "scoreClass": "mid"
     }
    ]
@@ -7281,7 +7281,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140907844-d18dab.jpeg",
      "similarity": 92,
      "isCheaper": true,
-     "diff": "▼ ₹150 cheaper",
+     "diff": "▼ Saves ₹150",
      "scoreClass": "hi"
     },
     {
@@ -7337,7 +7337,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841873660-c8e668.png",
      "similarity": 78,
      "isCheaper": true,
-     "diff": "▼ ₹2,240 cheaper",
+     "diff": "▼ Saves ₹2,240",
      "scoreClass": "mid"
     },
     {
@@ -7355,7 +7355,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841873660-c8e668.png",
      "similarity": 77,
      "isCheaper": true,
-     "diff": "▼ ₹1,850 cheaper",
+     "diff": "▼ Saves ₹1,850",
      "scoreClass": "mid"
     },
     {
@@ -7391,7 +7391,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324511998-07f41c.jpeg",
      "similarity": 74,
      "isCheaper": true,
-     "diff": "▼ ₹2,350 cheaper",
+     "diff": "▼ Saves ₹2,350",
      "scoreClass": "mid"
     },
     {
@@ -7409,7 +7409,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324511998-07f41c.jpeg",
      "similarity": 74,
      "isCheaper": true,
-     "diff": "▼ ₹2,350 cheaper",
+     "diff": "▼ Saves ₹2,350",
      "scoreClass": "mid"
     },
     {
@@ -7427,7 +7427,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/customer-app-supply/1779351590314-392907.jpeg",
      "similarity": 74,
      "isCheaper": true,
-     "diff": "▼ ₹2,240 cheaper",
+     "diff": "▼ Saves ₹2,240",
      "scoreClass": "mid"
     },
     {
@@ -7445,7 +7445,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/customer-app-supply/1779351590314-392907.jpeg",
      "similarity": 72,
      "isCheaper": true,
-     "diff": "▼ ₹1,850 cheaper",
+     "diff": "▼ Saves ₹1,850",
      "scoreClass": "mid"
     }
    ]
@@ -7539,7 +7539,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841884626-165b97.png",
      "similarity": 100,
      "isCheaper": true,
-     "diff": "▼ ₹390 cheaper",
+     "diff": "▼ Saves ₹390",
      "scoreClass": "hi"
     },
     {
@@ -7595,7 +7595,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324093359-1440b0.jpeg",
      "similarity": 90,
      "isCheaper": true,
-     "diff": "▼ ₹490 cheaper",
+     "diff": "▼ Saves ₹490",
      "scoreClass": "hi"
     },
     {
@@ -7759,7 +7759,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841873660-c8e668.png",
      "similarity": 78,
      "isCheaper": true,
-     "diff": "▼ ₹1,850 cheaper",
+     "diff": "▼ Saves ₹1,850",
      "scoreClass": "mid"
     },
     {
@@ -7777,7 +7777,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841873660-c8e668.png",
      "similarity": 78,
      "isCheaper": true,
-     "diff": "▼ ₹2,240 cheaper",
+     "diff": "▼ Saves ₹2,240",
      "scoreClass": "mid"
     },
     {
@@ -7795,7 +7795,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140362352-3302d2.jpeg",
      "similarity": 76,
      "isCheaper": true,
-     "diff": "▼ ₹1,700 cheaper",
+     "diff": "▼ Saves ₹1,700",
      "scoreClass": "mid"
     },
     {
@@ -7813,7 +7813,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324093359-1440b0.jpeg",
      "similarity": 73,
      "isCheaper": true,
-     "diff": "▼ ₹2,190 cheaper",
+     "diff": "▼ Saves ₹2,190",
      "scoreClass": "mid"
     }
    ]
@@ -7959,7 +7959,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323821766-ea02d1.jpeg",
      "similarity": 71,
      "isCheaper": true,
-     "diff": "▼ ₹170 cheaper",
+     "diff": "▼ Saves ₹170",
      "scoreClass": "mid"
     }
    ]
@@ -7997,7 +7997,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841925919-74d19f.png",
      "similarity": 75,
      "isCheaper": true,
-     "diff": "▼ ₹2,240 cheaper",
+     "diff": "▼ Saves ₹2,240",
      "scoreClass": "mid"
     },
     {
@@ -8033,7 +8033,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1755192401646-a65325.jpeg",
      "similarity": 71,
      "isCheaper": true,
-     "diff": "▼ ₹2,350 cheaper",
+     "diff": "▼ Saves ₹2,350",
      "scoreClass": "mid"
     }
    ]
@@ -8071,7 +8071,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324093359-1440b0.jpeg",
      "similarity": 81,
      "isCheaper": true,
-     "diff": "▼ ₹490 cheaper",
+     "diff": "▼ Saves ₹490",
      "scoreClass": "mid"
     },
     {
@@ -8107,7 +8107,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140897812-4b4203.jpeg",
      "similarity": 75,
      "isCheaper": true,
-     "diff": "▼ ₹150 cheaper",
+     "diff": "▼ Saves ₹150",
      "scoreClass": "mid"
     },
     {
@@ -8125,7 +8125,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324354607-338548.jpeg",
      "similarity": 72,
      "isCheaper": true,
-     "diff": "▼ ₹660 cheaper",
+     "diff": "▼ Saves ₹660",
      "scoreClass": "mid"
     }
    ]
@@ -8163,7 +8163,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140984357-dacfa2.jpeg",
      "similarity": 95,
      "isCheaper": true,
-     "diff": "▼ ₹150 cheaper",
+     "diff": "▼ Saves ₹150",
      "scoreClass": "hi"
     },
     {
@@ -8237,7 +8237,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140375832-702c05.jpeg",
      "similarity": 85,
      "isCheaper": true,
-     "diff": "▼ ₹1,700 cheaper",
+     "diff": "▼ Saves ₹1,700",
      "scoreClass": "hi"
     },
     {
@@ -8255,7 +8255,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140984357-dacfa2.jpeg",
      "similarity": 80,
      "isCheaper": true,
-     "diff": "▼ ₹1,850 cheaper",
+     "diff": "▼ Saves ₹1,850",
      "scoreClass": "mid"
     },
     {
@@ -8273,7 +8273,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841903506-8fbee2.png",
      "similarity": 79,
      "isCheaper": true,
-     "diff": "▼ ₹1,850 cheaper",
+     "diff": "▼ Saves ₹1,850",
      "scoreClass": "mid"
     },
     {
@@ -8291,7 +8291,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841903506-8fbee2.png",
      "similarity": 78,
      "isCheaper": true,
-     "diff": "▼ ₹2,240 cheaper",
+     "diff": "▼ Saves ₹2,240",
      "scoreClass": "mid"
     }
    ]
