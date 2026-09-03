@@ -51,10 +51,13 @@ jobs:
 
       - name: Trigger Render deploy
         if: steps.commit.outputs.changed == 'true'
+        continue-on-error: true
+        env:
+          HOOK: ${{ secrets.RENDER_DEPLOY_HOOK }}
         run: |
-          if [ -z "${{ secrets.RENDER_DEPLOY_HOOK }}" ]; then
+          HOOK="$(printf '%s' "$HOOK" | tr -d '[:space:]')"
+          if [ -z "$HOOK" ]; then
             echo "RENDER_DEPLOY_HOOK secret not set — skipping deploy."
             exit 0
           fi
-          curl -fsS "${{ secrets.RENDER_DEPLOY_HOOK }}" > /dev/null
-          echo "Render deploy triggered."
+          curl -fsS "$HOOK" > /dev/null && echo "Render deploy triggered." || echo "Deploy hook failed — data is pushed, trigger deploy manually."
