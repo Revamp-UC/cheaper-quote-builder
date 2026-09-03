@@ -330,7 +330,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140975392-9c1d57.jpeg",
    "search": "uc/i2/spg/n0112 n0112 0112 wpc sheet neutral | 7 mm wpc",
    "unique": false,
-   "cheaperCount": 1,
+   "cheaperCount": 2,
    "oos": false,
    "alternatives": [
     {
@@ -352,6 +352,24 @@
      "scoreClass": "mid"
     },
     {
+     "name": "X903 Nio Plain Fabric",
+     "code": "UC/P1/PPP/FX903",
+     "material": "Nio",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 9.8,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 9.8 in ? 6 mm"
+     },
+     "psf": 103,
+     "perPanel": 800,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841884626-165b97.png",
+     "similarity": 72,
+     "isCheaper": true,
+     "diff": "▼ Saves ₹2,750",
+     "scoreClass": "mid"
+    },
+    {
      "name": "2025 WPC Sheet Neutral | 7 mm",
      "code": "UC/I2/SPG/N2025",
      "material": "WPC",
@@ -367,6 +385,62 @@
      "similarity": 71,
      "isCheaper": false,
      "diff": "= same price",
+     "scoreClass": "mid"
+    }
+   ]
+  },
+  {
+   "name": "0129 Nio Plain Traditional",
+   "code": "UC/P1/PPP/T0129",
+   "material": "Nio",
+   "dims": {
+    "L_ft": 9.5,
+    "W_in": 9.8,
+    "T_mm": 6,
+    "raw": "9.5 ft ? 9.8 in ? 6 mm"
+   },
+   "psf": 103,
+   "perPanel": 800,
+   "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1779087080405-a72db3.png",
+   "search": "uc/p1/ppp/t0129 t0129 0129 nio plain traditional nio",
+   "unique": false,
+   "cheaperCount": 0,
+   "oos": false,
+   "alternatives": [
+    {
+     "name": "2203 WPC Sheet Texture | 7 mm",
+     "code": "UC/I2/SPH/L2203",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.2,
+      "W_in": 47.2,
+      "T_mm": 7,
+      "raw": "9.2 ft ? 47.2 in ? 7 mm"
+     },
+     "psf": 210,
+     "perPanel": 7599,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323547875-39e8d6.jpeg",
+     "similarity": 72,
+     "isCheaper": false,
+     "diff": "▲ ₹6,799 premium",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "A235 WPC Sheet Texture | 7 mm",
+     "code": "UC/I2/SPH/LA235",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.2,
+      "W_in": 47.2,
+      "T_mm": 7,
+      "raw": "9.2 ft ? 47.2 in ? 7 mm"
+     },
+     "psf": 254,
+     "perPanel": 9200,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1769519862186-dd3a51.jpeg",
+     "similarity": 71,
+     "isCheaper": false,
+     "diff": "▲ ₹8,400 premium",
      "scoreClass": "mid"
     }
    ]
@@ -502,6 +576,62 @@
    ]
   },
   {
+   "name": "0156 Nio Plain Traditional",
+   "code": "UC/P1/PPP/T0156",
+   "material": "Nio",
+   "dims": {
+    "L_ft": 9.5,
+    "W_in": 9.8,
+    "T_mm": 6,
+    "raw": "9.5 ft ? 9.8 in ? 6 mm"
+   },
+   "psf": 103,
+   "perPanel": 800,
+   "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841922384-542dc6.png",
+   "search": "uc/p1/ppp/t0156 t0156 0156 nio plain traditional nio",
+   "unique": false,
+   "cheaperCount": 1,
+   "oos": false,
+   "alternatives": [
+    {
+     "name": "1455 Nio Plain Gold",
+     "code": "UC/P1/PPP/K1455",
+     "material": "Nio",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 9.8,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 9.8 in ? 6 mm"
+     },
+     "psf": 103,
+     "perPanel": 800,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841892728-ff625b.png",
+     "similarity": 81,
+     "isCheaper": false,
+     "diff": "= same price",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "1449 PVC Plain Floral",
+     "code": "UC/R1/PPP/F1449",
+     "material": "PVC",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 9.8,
+      "T_mm": 5,
+      "raw": "9.5 ft ? 9.8 in ? 5 mm"
+     },
+     "psf": 84,
+     "perPanel": 650,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323634349-3469cb.jpeg",
+     "similarity": 74,
+     "isCheaper": true,
+     "diff": "▼ Saves ₹150",
+     "scoreClass": "mid"
+    }
+   ]
+  },
+  {
    "name": "0160 PVC Fluted Neutral",
    "code": "UC/R1/PPF/O0160",
    "material": "PVC",
@@ -571,6 +701,62 @@
      "similarity": 81,
      "isCheaper": false,
      "diff": "= same price",
+     "scoreClass": "mid"
+    }
+   ]
+  },
+  {
+   "name": "0195 Nio Plain Gold",
+   "code": "UC/P1/PPP/K0195",
+   "material": "Nio",
+   "dims": {
+    "L_ft": 9.5,
+    "W_in": 9.8,
+    "T_mm": 6,
+    "raw": "9.5 ft ? 9.8 in ? 6 mm"
+   },
+   "psf": 103,
+   "perPanel": 800,
+   "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841888427-f94e08.png",
+   "search": "uc/p1/ppp/k0195 k0195 0195 nio plain gold nio",
+   "unique": false,
+   "cheaperCount": 1,
+   "oos": false,
+   "alternatives": [
+    {
+     "name": "1455 Nio Plain Gold",
+     "code": "UC/P1/PPP/K1455",
+     "material": "Nio",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 9.8,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 9.8 in ? 6 mm"
+     },
+     "psf": 103,
+     "perPanel": 800,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841892728-ff625b.png",
+     "similarity": 78,
+     "isCheaper": false,
+     "diff": "= same price",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "9472 Nio Plain Gold",
+     "code": "UC/P1/PPP/K9472",
+     "material": "Nio",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 9.8,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 9.8 in ? 6 mm"
+     },
+     "psf": 84,
+     "perPanel": 650,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841899274-b00d62.png",
+     "similarity": 75,
+     "isCheaper": true,
+     "diff": "▼ Saves ₹150",
      "scoreClass": "mid"
     }
    ]
@@ -721,6 +907,24 @@
      "similarity": 78,
      "isCheaper": false,
      "diff": "▲ ₹2,900 premium",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "EM54 Nio Plain Wood",
+     "code": "UC/P1/PPP/WEM54",
+     "material": "Nio",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 9.8,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 9.8 in ? 6 mm"
+     },
+     "psf": 103,
+     "perPanel": 800,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/customer-app-supply/1779351590314-392907.jpeg",
+     "similarity": 71,
+     "isCheaper": false,
+     "diff": "▲ ₹150 premium",
      "scoreClass": "mid"
     }
    ]
@@ -1328,10 +1532,29 @@
    "perPanel": 650,
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324468549-07209b.jpeg",
    "search": "uc/r1/ppp/g0818 g0818 0818 pvc plain gold pvc",
-   "unique": true,
+   "unique": false,
    "cheaperCount": 0,
    "oos": false,
-   "alternatives": []
+   "alternatives": [
+    {
+     "name": "9380 Nio Plain Gold",
+     "code": "UC/P1/PPP/K9380",
+     "material": "Nio",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 9.8,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 9.8 in ? 6 mm"
+     },
+     "psf": 84,
+     "perPanel": 650,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841896094-b08b38.png",
+     "similarity": 72,
+     "isCheaper": false,
+     "diff": "= same price",
+     "scoreClass": "mid"
+    }
+   ]
   },
   {
    "name": "0952/0414 PVC Grooved Wood",
@@ -1570,7 +1793,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323468383-4a7d75.jpeg",
    "search": "uc/m2/ss0/m09u2 m09u2 09u2 spc sheet marble | 3 mm spc",
    "unique": false,
-   "cheaperCount": 1,
+   "cheaperCount": 2,
    "oos": true,
    "alternatives": [
     {
@@ -1643,6 +1866,24 @@
      "similarity": 83,
      "isCheaper": true,
      "diff": "▼ Saves ₹3,000",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "9001 Nio Plain Stone",
+     "code": "UC/P1/PPP/S9001",
+     "material": "Nio",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 9.8,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 9.8 in ? 6 mm"
+     },
+     "psf": 103,
+     "perPanel": 800,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841918427-b2385a.png",
+     "similarity": 74,
+     "isCheaper": true,
+     "diff": "▼ Saves ₹8,200",
      "scoreClass": "mid"
     }
    ]
@@ -1736,7 +1977,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323482814-f22070.jpeg",
    "search": "uc/m2/ss0/m0hxl m0hxl 0hxl spc sheet marble | 3 mm spc",
    "unique": false,
-   "cheaperCount": 0,
+   "cheaperCount": 1,
    "oos": false,
    "alternatives": [
     {
@@ -1810,6 +2051,24 @@
      "isCheaper": false,
      "diff": "▲ ₹1,599 premium",
      "scoreClass": "mid"
+    },
+    {
+     "name": "9001 Nio Plain Stone",
+     "code": "UC/P1/PPP/S9001",
+     "material": "Nio",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 9.8,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 9.8 in ? 6 mm"
+     },
+     "psf": 103,
+     "perPanel": 800,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841918427-b2385a.png",
+     "similarity": 75,
+     "isCheaper": true,
+     "diff": "▼ Saves ₹5,200",
+     "scoreClass": "mid"
     }
    ]
   },
@@ -1828,7 +2087,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323434574-ee15c0.jpeg",
    "search": "uc/i2/sph/f0z18 f0z18 0z18 wpc sheet fabric | 7 mm wpc",
    "unique": false,
-   "cheaperCount": 2,
+   "cheaperCount": 3,
    "oos": false,
    "alternatives": [
     {
@@ -1848,6 +2107,24 @@
      "isCheaper": true,
      "diff": "▼ Saves ₹3,200",
      "scoreClass": "hi"
+    },
+    {
+     "name": "7695 Nio Plain Fabric",
+     "code": "UC/P1/PPP/F7695",
+     "material": "Nio",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 9.8,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 9.8 in ? 6 mm"
+     },
+     "psf": 103,
+     "perPanel": 800,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841881054-68a537.png",
+     "similarity": 80,
+     "isCheaper": true,
+     "diff": "▼ Saves ₹8,900",
+     "scoreClass": "mid"
     },
     {
      "name": "2025 WPC Sheet Fabric | 7 mm",
@@ -1904,6 +2181,24 @@
      "isCheaper": false,
      "diff": "= same price",
      "scoreClass": "mid"
+    },
+    {
+     "name": "9472 Nio Plain Gold",
+     "code": "UC/P1/PPP/K9472",
+     "material": "Nio",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 9.8,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 9.8 in ? 6 mm"
+     },
+     "psf": 84,
+     "perPanel": 650,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841899274-b00d62.png",
+     "similarity": 78,
+     "isCheaper": false,
+     "diff": "= same price",
+     "scoreClass": "mid"
     }
    ]
   },
@@ -1921,10 +2216,195 @@
    "perPanel": 650,
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323634349-3469cb.jpeg",
    "search": "uc/r1/ppp/f1449 f1449 1449 pvc plain floral pvc",
-   "unique": true,
+   "unique": false,
    "cheaperCount": 0,
    "oos": false,
-   "alternatives": []
+   "alternatives": [
+    {
+     "name": "1455 Nio Plain Gold",
+     "code": "UC/P1/PPP/K1455",
+     "material": "Nio",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 9.8,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 9.8 in ? 6 mm"
+     },
+     "psf": 103,
+     "perPanel": 800,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841892728-ff625b.png",
+     "similarity": 77,
+     "isCheaper": false,
+     "diff": "▲ ₹150 premium",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "9472 Nio Plain Gold",
+     "code": "UC/P1/PPP/K9472",
+     "material": "Nio",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 9.8,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 9.8 in ? 6 mm"
+     },
+     "psf": 84,
+     "perPanel": 650,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841899274-b00d62.png",
+     "similarity": 76,
+     "isCheaper": false,
+     "diff": "= same price",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "0156 Nio Plain Traditional",
+     "code": "UC/P1/PPP/T0156",
+     "material": "Nio",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 9.8,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 9.8 in ? 6 mm"
+     },
+     "psf": 103,
+     "perPanel": 800,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841922384-542dc6.png",
+     "similarity": 74,
+     "isCheaper": false,
+     "diff": "▲ ₹150 premium",
+     "scoreClass": "mid"
+    }
+   ]
+  },
+  {
+   "name": "1455 Nio Plain Gold",
+   "code": "UC/P1/PPP/K1455",
+   "material": "Nio",
+   "dims": {
+    "L_ft": 9.5,
+    "W_in": 9.8,
+    "T_mm": 6,
+    "raw": "9.5 ft ? 9.8 in ? 6 mm"
+   },
+   "psf": 103,
+   "perPanel": 800,
+   "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841892728-ff625b.png",
+   "search": "uc/p1/ppp/k1455 k1455 1455 nio plain gold nio",
+   "unique": false,
+   "cheaperCount": 2,
+   "oos": false,
+   "alternatives": [
+    {
+     "name": "0156 Nio Plain Traditional",
+     "code": "UC/P1/PPP/T0156",
+     "material": "Nio",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 9.8,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 9.8 in ? 6 mm"
+     },
+     "psf": 103,
+     "perPanel": 800,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841922384-542dc6.png",
+     "similarity": 81,
+     "isCheaper": false,
+     "diff": "= same price",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "0195 Nio Plain Gold",
+     "code": "UC/P1/PPP/K0195",
+     "material": "Nio",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 9.8,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 9.8 in ? 6 mm"
+     },
+     "psf": 103,
+     "perPanel": 800,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841888427-f94e08.png",
+     "similarity": 78,
+     "isCheaper": false,
+     "diff": "= same price",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "1449 PVC Plain Floral",
+     "code": "UC/R1/PPP/F1449",
+     "material": "PVC",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 9.8,
+      "T_mm": 5,
+      "raw": "9.5 ft ? 9.8 in ? 5 mm"
+     },
+     "psf": 84,
+     "perPanel": 650,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323634349-3469cb.jpeg",
+     "similarity": 77,
+     "isCheaper": true,
+     "diff": "▼ Saves ₹150",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "9472 Nio Plain Gold",
+     "code": "UC/P1/PPP/K9472",
+     "material": "Nio",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 9.8,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 9.8 in ? 6 mm"
+     },
+     "psf": 84,
+     "perPanel": 650,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841899274-b00d62.png",
+     "similarity": 75,
+     "isCheaper": true,
+     "diff": "▼ Saves ₹150",
+     "scoreClass": "mid"
+    }
+   ]
+  },
+  {
+   "name": "1456 Nio Plain Traditional",
+   "code": "UC/P1/PPP/T1456",
+   "material": "Nio",
+   "dims": {
+    "L_ft": 9.5,
+    "W_in": 9.8,
+    "T_mm": 6,
+    "raw": "9.5 ft ? 9.8 in ? 6 mm"
+   },
+   "psf": 103,
+   "perPanel": 800,
+   "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841925919-74d19f.png",
+   "search": "uc/p1/ppp/t1456 t1456 1456 nio plain traditional nio",
+   "unique": false,
+   "cheaperCount": 0,
+   "oos": false,
+   "alternatives": [
+    {
+     "name": "X913 WPC Sheet Wood | 7 mm",
+     "code": "UC/I2/SPG/WX913",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.2,
+      "W_in": 23.48,
+      "T_mm": 7,
+      "raw": "9.2 ft ? 23.48 in ? 7 mm"
+     },
+     "psf": 197,
+     "perPanel": 3550,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770139929544-3f2a49.jpeg",
+     "similarity": 75,
+     "isCheaper": false,
+     "diff": "▲ ₹2,750 premium",
+     "scoreClass": "mid"
+    }
+   ]
   },
   {
    "name": "1831 Charcoal Embossed Geometric",
@@ -2590,7 +3070,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323416216-e1657f.jpeg",
    "search": "uc/i2/sph/f2027 f2027 2027 wpc sheet fabric | 7 mm wpc",
    "unique": false,
-   "cheaperCount": 1,
+   "cheaperCount": 3,
    "oos": false,
    "alternatives": [
     {
@@ -2645,6 +3125,42 @@
      "similarity": 78,
      "isCheaper": true,
      "diff": "▼ Saves ₹5,101",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "7695 Nio Plain Fabric",
+     "code": "UC/P1/PPP/F7695",
+     "material": "Nio",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 9.8,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 9.8 in ? 6 mm"
+     },
+     "psf": 103,
+     "perPanel": 800,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841881054-68a537.png",
+     "similarity": 75,
+     "isCheaper": true,
+     "diff": "▼ Saves ₹5,700",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "9380 Nio Plain Gold",
+     "code": "UC/P1/PPP/K9380",
+     "material": "Nio",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 9.8,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 9.8 in ? 6 mm"
+     },
+     "psf": 84,
+     "perPanel": 650,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841896094-b08b38.png",
+     "similarity": 70,
+     "isCheaper": true,
+     "diff": "▼ Saves ₹5,850",
      "scoreClass": "mid"
     }
    ]
@@ -2702,9 +3218,27 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323547875-39e8d6.jpeg",
    "search": "uc/i2/sph/l2203 l2203 2203 wpc sheet texture | 7 mm wpc",
    "unique": false,
-   "cheaperCount": 0,
+   "cheaperCount": 3,
    "oos": false,
    "alternatives": [
+    {
+     "name": "ES84 Nio Plain Texture",
+     "code": "UC/P1/PPP/LES84",
+     "material": "Nio",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 9.8,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 9.8 in ? 6 mm"
+     },
+     "psf": 103,
+     "perPanel": 800,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1779090500773-920290.png",
+     "similarity": 73,
+     "isCheaper": true,
+     "diff": "▼ Saves ₹6,799",
+     "scoreClass": "mid"
+    },
     {
      "name": "A235 WPC Sheet Texture | 7 mm",
      "code": "UC/I2/SPH/LA235",
@@ -2721,6 +3255,42 @@
      "similarity": 73,
      "isCheaper": false,
      "diff": "▲ ₹1,601 premium",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "0129 Nio Plain Traditional",
+     "code": "UC/P1/PPP/T0129",
+     "material": "Nio",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 9.8,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 9.8 in ? 6 mm"
+     },
+     "psf": 103,
+     "perPanel": 800,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1779087080405-a72db3.png",
+     "similarity": 72,
+     "isCheaper": true,
+     "diff": "▼ Saves ₹6,799",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "9380 Nio Plain Gold",
+     "code": "UC/P1/PPP/K9380",
+     "material": "Nio",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 9.8,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 9.8 in ? 6 mm"
+     },
+     "psf": 84,
+     "perPanel": 650,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841896094-b08b38.png",
+     "similarity": 71,
+     "isCheaper": true,
+     "diff": "▼ Saves ₹6,949",
      "scoreClass": "mid"
     }
    ]
@@ -2740,7 +3310,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323656946-04cef4.jpeg",
    "search": "uc/m2/ss0/m2208 m2208 2208 spc sheet marble | 3 mm spc",
    "unique": false,
-   "cheaperCount": 1,
+   "cheaperCount": 2,
    "oos": false,
    "alternatives": [
     {
@@ -2795,6 +3365,24 @@
      "similarity": 83,
      "isCheaper": true,
      "diff": "▼ Saves ₹3,000",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "9001 Nio Plain Stone",
+     "code": "UC/P1/PPP/S9001",
+     "material": "Nio",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 9.8,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 9.8 in ? 6 mm"
+     },
+     "psf": 103,
+     "perPanel": 800,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841918427-b2385a.png",
+     "similarity": 74,
+     "isCheaper": true,
+     "diff": "▼ Saves ₹8,200",
      "scoreClass": "mid"
     }
    ]
@@ -3387,6 +3975,44 @@
      "similarity": 80,
      "isCheaper": false,
      "diff": "▲ ₹550 premium",
+     "scoreClass": "mid"
+    }
+   ]
+  },
+  {
+   "name": "5021 Nio Plain Stone",
+   "code": "UC/P1/PPP/S5021",
+   "material": "Nio",
+   "dims": {
+    "L_ft": 9.5,
+    "W_in": 9.8,
+    "T_mm": 6,
+    "raw": "9.5 ft ? 9.8 in ? 6 mm"
+   },
+   "psf": 103,
+   "perPanel": 800,
+   "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841914585-e1f6fa.png",
+   "search": "uc/p1/ppp/s5021 s5021 5021 nio plain stone nio",
+   "unique": false,
+   "cheaperCount": 0,
+   "oos": false,
+   "alternatives": [
+    {
+     "name": "D193 Nio Plain Texture",
+     "code": "UC/P1/PPP/LD193",
+     "material": "Nio",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 9.8,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 9.8 in ? 6 mm"
+     },
+     "psf": 103,
+     "perPanel": 800,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841910592-fd5787.png",
+     "similarity": 75,
+     "isCheaper": false,
+     "diff": "= same price",
      "scoreClass": "mid"
     }
    ]
@@ -4070,7 +4696,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1769519895453-9b29f2.jpeg",
    "search": "uc/i2/spg/w7073 w7073 7073 wpc sheet wood | 7 mm wpc",
    "unique": false,
-   "cheaperCount": 1,
+   "cheaperCount": 2,
    "oos": false,
    "alternatives": [
     {
@@ -4143,6 +4769,24 @@
      "similarity": 76,
      "isCheaper": false,
      "diff": "= same price",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "EM54 Nio Plain Wood",
+     "code": "UC/P1/PPP/WEM54",
+     "material": "Nio",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 9.8,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 9.8 in ? 6 mm"
+     },
+     "psf": 103,
+     "perPanel": 800,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/customer-app-supply/1779351590314-392907.jpeg",
+     "similarity": 73,
+     "isCheaper": true,
+     "diff": "▼ Saves ₹2,750",
      "scoreClass": "mid"
     }
    ]
@@ -4420,6 +5064,80 @@
      "similarity": 76,
      "isCheaper": true,
      "diff": "▼ Saves ₹1,050",
+     "scoreClass": "mid"
+    }
+   ]
+  },
+  {
+   "name": "7695 Nio Plain Fabric",
+   "code": "UC/P1/PPP/F7695",
+   "material": "Nio",
+   "dims": {
+    "L_ft": 9.5,
+    "W_in": 9.8,
+    "T_mm": 6,
+    "raw": "9.5 ft ? 9.8 in ? 6 mm"
+   },
+   "psf": 103,
+   "perPanel": 800,
+   "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841881054-68a537.png",
+   "search": "uc/p1/ppp/f7695 f7695 7695 nio plain fabric nio",
+   "unique": false,
+   "cheaperCount": 0,
+   "oos": false,
+   "alternatives": [
+    {
+     "name": "0Z18 WPC Sheet Fabric | 7 mm",
+     "code": "UC/I2/SPH/F0Z18",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.2,
+      "W_in": 47.2,
+      "T_mm": 7,
+      "raw": "9.2 ft ? 47.2 in ? 7 mm"
+     },
+     "psf": 268,
+     "perPanel": 9700,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323434574-ee15c0.jpeg",
+     "similarity": 80,
+     "isCheaper": false,
+     "diff": "▲ ₹8,900 premium",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "2027 WPC Sheet Fabric | 7 mm",
+     "code": "UC/I2/SPH/F2027",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.2,
+      "W_in": 47.2,
+      "T_mm": 7,
+      "raw": "9.2 ft ? 47.2 in ? 7 mm"
+     },
+     "psf": 180,
+     "perPanel": 6500,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323416216-e1657f.jpeg",
+     "similarity": 75,
+     "isCheaper": false,
+     "diff": "▲ ₹5,700 premium",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "X903 Nio Plain Fabric",
+     "code": "UC/P1/PPP/FX903",
+     "material": "Nio",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 9.8,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 9.8 in ? 6 mm"
+     },
+     "psf": 103,
+     "perPanel": 800,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841884626-165b97.png",
+     "similarity": 72,
+     "isCheaper": false,
+     "diff": "= same price",
      "scoreClass": "mid"
     }
    ]
@@ -5015,6 +5733,62 @@
    ]
   },
   {
+   "name": "9001 Nio Plain Stone",
+   "code": "UC/P1/PPP/S9001",
+   "material": "Nio",
+   "dims": {
+    "L_ft": 9.5,
+    "W_in": 9.8,
+    "T_mm": 6,
+    "raw": "9.5 ft ? 9.8 in ? 6 mm"
+   },
+   "psf": 103,
+   "perPanel": 800,
+   "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841918427-b2385a.png",
+   "search": "uc/p1/ppp/s9001 s9001 9001 nio plain stone nio",
+   "unique": false,
+   "cheaperCount": 0,
+   "oos": false,
+   "alternatives": [
+    {
+     "name": "0HXL SPC Sheet Marble | 3 mm",
+     "code": "UC/M2/SS0/M0HXL",
+     "material": "SPC",
+     "dims": {
+      "L_ft": 9.2,
+      "W_in": 48,
+      "T_mm": 3,
+      "raw": "9.2 ft ? 48 in ? 3 mm"
+     },
+     "psf": 163,
+     "perPanel": 6000,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323482814-f22070.jpeg",
+     "similarity": 75,
+     "isCheaper": false,
+     "diff": "▲ ₹5,200 premium",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "2208 SPC Sheet Marble | 3 mm",
+     "code": "UC/M2/SS0/M2208",
+     "material": "SPC",
+     "dims": {
+      "L_ft": 9.2,
+      "W_in": 48,
+      "T_mm": 3,
+      "raw": "9.2 ft ? 48 in ? 3 mm"
+     },
+     "psf": 245,
+     "perPanel": 9000,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323656946-04cef4.jpeg",
+     "similarity": 74,
+     "isCheaper": false,
+     "diff": "▲ ₹8,200 premium",
+     "scoreClass": "mid"
+    }
+   ]
+  },
+  {
    "name": "9204 Nio Fluted Wood",
    "code": "UC/P1/PPF/W9204",
    "material": "Nio",
@@ -5029,7 +5803,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/customer-app-supply/1779351763768-9e46e6.jpeg",
    "search": "uc/p1/ppf/w9204 w9204 9204 nio fluted wood nio",
    "unique": false,
-   "cheaperCount": 0,
+   "cheaperCount": 1,
    "oos": false,
    "alternatives": [
     {
@@ -5067,6 +5841,80 @@
      "isCheaper": false,
      "diff": "▲ ₹100 premium",
      "scoreClass": "hi"
+    },
+    {
+     "name": "9204 Nio Plain Wood",
+     "code": "UC/P1/PPP/W9204",
+     "material": "Nio",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 9.8,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 9.8 in ? 6 mm"
+     },
+     "psf": 103,
+     "perPanel": 800,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1779087762255-5e6990.png",
+     "similarity": 78,
+     "isCheaper": true,
+     "diff": "▼ Saves ₹700",
+     "scoreClass": "mid"
+    }
+   ]
+  },
+  {
+   "name": "9204 Nio Plain Wood",
+   "code": "UC/P1/PPP/W9204",
+   "material": "Nio",
+   "dims": {
+    "L_ft": 9.5,
+    "W_in": 9.8,
+    "T_mm": 6,
+    "raw": "9.5 ft ? 9.8 in ? 6 mm"
+   },
+   "psf": 103,
+   "perPanel": 800,
+   "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1779087762255-5e6990.png",
+   "search": "uc/p1/ppp/w9204 w9204 9204 nio plain wood nio",
+   "unique": false,
+   "cheaperCount": 0,
+   "oos": false,
+   "alternatives": [
+    {
+     "name": "EM02 Nio Plain Gold",
+     "code": "UC/P1/PPP/KEM02",
+     "material": "Nio",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 9.8,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 9.8 in ? 6 mm"
+     },
+     "psf": 103,
+     "perPanel": 800,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841903506-8fbee2.png",
+     "similarity": 85,
+     "isCheaper": false,
+     "diff": "= same price",
+     "scoreClass": "hi"
+    },
+    {
+     "name": "9204 Nio Fluted Wood",
+     "code": "UC/P1/PPF/W9204",
+     "material": "Nio",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 11.6,
+      "T_mm": 10,
+      "raw": "9.5 ft ? 11.6 in ? 10 mm"
+     },
+     "psf": 163,
+     "perPanel": 1500,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/customer-app-supply/1779351763768-9e46e6.jpeg",
+     "similarity": 78,
+     "isCheaper": false,
+     "diff": "▲ ₹700 premium",
+     "scoreClass": "mid"
     }
    ]
   },
@@ -5124,7 +5972,7 @@
    "search": "uc/p1/ppp/k9380 k9380 9380 nio plain gold nio",
    "unique": false,
    "cheaperCount": 0,
-   "oos": true,
+   "oos": false,
    "alternatives": [
     {
      "name": "0818 PVC Plain Gold",
@@ -5198,7 +6046,7 @@
    "search": "uc/p1/ppp/k9472 k9472 9472 nio plain gold nio",
    "unique": false,
    "cheaperCount": 0,
-   "oos": true,
+   "oos": false,
    "alternatives": [
     {
      "name": "1449 PVC Plain Floral",
@@ -5216,6 +6064,42 @@
      "similarity": 76,
      "isCheaper": false,
      "diff": "= same price",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "1455 Nio Plain Gold",
+     "code": "UC/P1/PPP/K1455",
+     "material": "Nio",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 9.8,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 9.8 in ? 6 mm"
+     },
+     "psf": 103,
+     "perPanel": 800,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841892728-ff625b.png",
+     "similarity": 75,
+     "isCheaper": false,
+     "diff": "▲ ₹150 premium",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "0195 Nio Plain Gold",
+     "code": "UC/P1/PPP/K0195",
+     "material": "Nio",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 9.8,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 9.8 in ? 6 mm"
+     },
+     "psf": 103,
+     "perPanel": 800,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841888427-f94e08.png",
+     "similarity": 75,
+     "isCheaper": false,
+     "diff": "▲ ₹150 premium",
      "scoreClass": "mid"
     }
    ]
@@ -5235,7 +6119,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323533569-762729.jpeg",
    "search": "uc/i2/sph/l9952 l9952 9952 wpc sheet texture | 7 mm wpc",
    "unique": false,
-   "cheaperCount": 3,
+   "cheaperCount": 4,
    "oos": true,
    "alternatives": [
     {
@@ -5290,6 +6174,24 @@
      "similarity": 82,
      "isCheaper": true,
      "diff": "▼ Saves ₹3,200",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "9001 Nio Plain Stone",
+     "code": "UC/P1/PPP/S9001",
+     "material": "Nio",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 9.8,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 9.8 in ? 6 mm"
+     },
+     "psf": 103,
+     "perPanel": 800,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841918427-b2385a.png",
+     "similarity": 76,
+     "isCheaper": true,
+     "diff": "▼ Saves ₹8,400",
      "scoreClass": "mid"
     }
    ]
@@ -5422,9 +6324,27 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1769519862186-dd3a51.jpeg",
    "search": "uc/i2/sph/la235 la235 a235 wpc sheet texture | 7 mm wpc",
    "unique": false,
-   "cheaperCount": 3,
+   "cheaperCount": 6,
    "oos": false,
    "alternatives": [
+    {
+     "name": "ES84 Nio Plain Texture",
+     "code": "UC/P1/PPP/LES84",
+     "material": "Nio",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 9.8,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 9.8 in ? 6 mm"
+     },
+     "psf": 103,
+     "perPanel": 800,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1779090500773-920290.png",
+     "similarity": 90,
+     "isCheaper": true,
+     "diff": "▼ Saves ₹8,400",
+     "scoreClass": "hi"
+    },
     {
      "name": "CZ08 WPC Sheet Texture | 7 mm",
      "code": "UC/I2/SPH/LCZ08",
@@ -5444,6 +6364,24 @@
      "scoreClass": "mid"
     },
     {
+     "name": "D193 Nio Plain Texture",
+     "code": "UC/P1/PPP/LD193",
+     "material": "Nio",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 9.8,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 9.8 in ? 6 mm"
+     },
+     "psf": 103,
+     "perPanel": 800,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841910592-fd5787.png",
+     "similarity": 80,
+     "isCheaper": true,
+     "diff": "▼ Saves ₹8,400",
+     "scoreClass": "mid"
+    },
+    {
      "name": "2203 WPC Sheet Texture | 7 mm",
      "code": "UC/I2/SPH/L2203",
      "material": "WPC",
@@ -5459,6 +6397,24 @@
      "similarity": 73,
      "isCheaper": true,
      "diff": "▼ Saves ₹1,601",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "0129 Nio Plain Traditional",
+     "code": "UC/P1/PPP/T0129",
+     "material": "Nio",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 9.8,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 9.8 in ? 6 mm"
+     },
+     "psf": 103,
+     "perPanel": 800,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1779087080405-a72db3.png",
+     "similarity": 71,
+     "isCheaper": true,
+     "diff": "▼ Saves ₹8,400",
      "scoreClass": "mid"
     },
     {
@@ -5682,9 +6638,27 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324304024-cd1b50.jpeg",
    "search": "uc/i2/sph/lcz08 lcz08 cz08 wpc sheet texture | 7 mm wpc",
    "unique": false,
-   "cheaperCount": 0,
+   "cheaperCount": 2,
    "oos": false,
    "alternatives": [
+    {
+     "name": "ES84 Nio Plain Texture",
+     "code": "UC/P1/PPP/LES84",
+     "material": "Nio",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 9.8,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 9.8 in ? 6 mm"
+     },
+     "psf": 103,
+     "perPanel": 800,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1779090500773-920290.png",
+     "similarity": 83,
+     "isCheaper": true,
+     "diff": "▼ Saves ₹6,799",
+     "scoreClass": "mid"
+    },
     {
      "name": "A235 WPC Sheet Texture | 7 mm",
      "code": "UC/I2/SPH/LA235",
@@ -5701,6 +6675,24 @@
      "similarity": 81,
      "isCheaper": false,
      "diff": "▲ ₹1,601 premium",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "D193 Nio Plain Texture",
+     "code": "UC/P1/PPP/LD193",
+     "material": "Nio",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 9.8,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 9.8 in ? 6 mm"
+     },
+     "psf": 103,
+     "perPanel": 800,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841910592-fd5787.png",
+     "similarity": 81,
+     "isCheaper": true,
+     "diff": "▼ Saves ₹6,799",
      "scoreClass": "mid"
     },
     {
@@ -5775,6 +6767,302 @@
      "similarity": 76,
      "isCheaper": false,
      "diff": "▲ ₹500 premium",
+     "scoreClass": "mid"
+    }
+   ]
+  },
+  {
+   "name": "D193 Nio Plain Texture",
+   "code": "UC/P1/PPP/LD193",
+   "material": "Nio",
+   "dims": {
+    "L_ft": 9.5,
+    "W_in": 9.8,
+    "T_mm": 6,
+    "raw": "9.5 ft ? 9.8 in ? 6 mm"
+   },
+   "psf": 103,
+   "perPanel": 800,
+   "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841910592-fd5787.png",
+   "search": "uc/p1/ppp/ld193 ld193 d193 nio plain texture nio",
+   "unique": false,
+   "cheaperCount": 0,
+   "oos": false,
+   "alternatives": [
+    {
+     "name": "CZ08 WPC Sheet Texture | 7 mm",
+     "code": "UC/I2/SPH/LCZ08",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.2,
+      "W_in": 47.2,
+      "T_mm": 7,
+      "raw": "9.2 ft ? 47.2 in ? 7 mm"
+     },
+     "psf": 210,
+     "perPanel": 7599,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324304024-cd1b50.jpeg",
+     "similarity": 81,
+     "isCheaper": false,
+     "diff": "▲ ₹6,799 premium",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "A235 WPC Sheet Texture | 7 mm",
+     "code": "UC/I2/SPH/LA235",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.2,
+      "W_in": 47.2,
+      "T_mm": 7,
+      "raw": "9.2 ft ? 47.2 in ? 7 mm"
+     },
+     "psf": 254,
+     "perPanel": 9200,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1769519862186-dd3a51.jpeg",
+     "similarity": 80,
+     "isCheaper": false,
+     "diff": "▲ ₹8,400 premium",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "ES84 Nio Plain Texture",
+     "code": "UC/P1/PPP/LES84",
+     "material": "Nio",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 9.8,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 9.8 in ? 6 mm"
+     },
+     "psf": 103,
+     "perPanel": 800,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1779090500773-920290.png",
+     "similarity": 79,
+     "isCheaper": false,
+     "diff": "= same price",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "5021 Nio Plain Stone",
+     "code": "UC/P1/PPP/S5021",
+     "material": "Nio",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 9.8,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 9.8 in ? 6 mm"
+     },
+     "psf": 103,
+     "perPanel": 800,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841914585-e1f6fa.png",
+     "similarity": 75,
+     "isCheaper": false,
+     "diff": "= same price",
+     "scoreClass": "mid"
+    }
+   ]
+  },
+  {
+   "name": "EM02 Nio Plain Gold",
+   "code": "UC/P1/PPP/KEM02",
+   "material": "Nio",
+   "dims": {
+    "L_ft": 9.5,
+    "W_in": 9.8,
+    "T_mm": 6,
+    "raw": "9.5 ft ? 9.8 in ? 6 mm"
+   },
+   "psf": 103,
+   "perPanel": 800,
+   "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841903506-8fbee2.png",
+   "search": "uc/p1/ppp/kem02 kem02 em02 nio plain gold nio",
+   "unique": false,
+   "cheaperCount": 0,
+   "oos": false,
+   "alternatives": [
+    {
+     "name": "9204 Nio Plain Wood",
+     "code": "UC/P1/PPP/W9204",
+     "material": "Nio",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 9.8,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 9.8 in ? 6 mm"
+     },
+     "psf": 103,
+     "perPanel": 800,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1779087762255-5e6990.png",
+     "similarity": 85,
+     "isCheaper": false,
+     "diff": "= same price",
+     "scoreClass": "hi"
+    }
+   ]
+  },
+  {
+   "name": "EM54 Nio Plain Wood",
+   "code": "UC/P1/PPP/WEM54",
+   "material": "Nio",
+   "dims": {
+    "L_ft": 9.5,
+    "W_in": 9.8,
+    "T_mm": 6,
+    "raw": "9.5 ft ? 9.8 in ? 6 mm"
+   },
+   "psf": 103,
+   "perPanel": 800,
+   "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/customer-app-supply/1779351590314-392907.jpeg",
+   "search": "uc/p1/ppp/wem54 wem54 em54 nio plain wood nio",
+   "unique": false,
+   "cheaperCount": 1,
+   "oos": false,
+   "alternatives": [
+    {
+     "name": "S685 WPC Sheet Wood | 7 mm",
+     "code": "UC/I2/SPG/WS685",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.2,
+      "W_in": 23.48,
+      "T_mm": 7,
+      "raw": "9.2 ft ? 23.48 in ? 7 mm"
+     },
+     "psf": 197,
+     "perPanel": 3550,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1769519904603-e5c5e3.jpeg",
+     "similarity": 74,
+     "isCheaper": false,
+     "diff": "▲ ₹2,750 premium",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "7073 WPC Sheet Wood | 7 mm",
+     "code": "UC/I2/SPG/W7073",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.2,
+      "W_in": 23.48,
+      "T_mm": 7,
+      "raw": "9.2 ft ? 23.48 in ? 7 mm"
+     },
+     "psf": 197,
+     "perPanel": 3550,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1769519895453-9b29f2.jpeg",
+     "similarity": 73,
+     "isCheaper": false,
+     "diff": "▲ ₹2,750 premium",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "0414 PVC Plain Wood",
+     "code": "UC/D1/PPP/W0414",
+     "material": "PVC",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 9.8,
+      "T_mm": 5,
+      "raw": "9.5 ft ? 9.8 in ? 5 mm"
+     },
+     "psf": 84,
+     "perPanel": 650,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324390835-3d1eae.jpeg",
+     "similarity": 71,
+     "isCheaper": true,
+     "diff": "▼ Saves ₹150",
+     "scoreClass": "mid"
+    }
+   ]
+  },
+  {
+   "name": "ES84 Nio Plain Texture",
+   "code": "UC/P1/PPP/LES84",
+   "material": "Nio",
+   "dims": {
+    "L_ft": 9.5,
+    "W_in": 9.8,
+    "T_mm": 6,
+    "raw": "9.5 ft ? 9.8 in ? 6 mm"
+   },
+   "psf": 103,
+   "perPanel": 800,
+   "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1779090500773-920290.png",
+   "search": "uc/p1/ppp/les84 les84 es84 nio plain texture nio",
+   "unique": false,
+   "cheaperCount": 0,
+   "oos": false,
+   "alternatives": [
+    {
+     "name": "A235 WPC Sheet Texture | 7 mm",
+     "code": "UC/I2/SPH/LA235",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.2,
+      "W_in": 47.2,
+      "T_mm": 7,
+      "raw": "9.2 ft ? 47.2 in ? 7 mm"
+     },
+     "psf": 254,
+     "perPanel": 9200,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1769519862186-dd3a51.jpeg",
+     "similarity": 90,
+     "isCheaper": false,
+     "diff": "▲ ₹8,400 premium",
+     "scoreClass": "hi"
+    },
+    {
+     "name": "CZ08 WPC Sheet Texture | 7 mm",
+     "code": "UC/I2/SPH/LCZ08",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.2,
+      "W_in": 47.2,
+      "T_mm": 7,
+      "raw": "9.2 ft ? 47.2 in ? 7 mm"
+     },
+     "psf": 210,
+     "perPanel": 7599,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324304024-cd1b50.jpeg",
+     "similarity": 83,
+     "isCheaper": false,
+     "diff": "▲ ₹6,799 premium",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "D193 Nio Plain Texture",
+     "code": "UC/P1/PPP/LD193",
+     "material": "Nio",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 9.8,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 9.8 in ? 6 mm"
+     },
+     "psf": 103,
+     "perPanel": 800,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841910592-fd5787.png",
+     "similarity": 79,
+     "isCheaper": false,
+     "diff": "= same price",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "2203 WPC Sheet Texture | 7 mm",
+     "code": "UC/I2/SPH/L2203",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.2,
+      "W_in": 47.2,
+      "T_mm": 7,
+      "raw": "9.2 ft ? 47.2 in ? 7 mm"
+     },
+     "psf": 210,
+     "perPanel": 7599,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323547875-39e8d6.jpeg",
+     "similarity": 73,
+     "isCheaper": false,
+     "diff": "▲ ₹6,799 premium",
      "scoreClass": "mid"
     }
    ]
@@ -5998,7 +7286,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1769519904603-e5c5e3.jpeg",
    "search": "uc/i2/spg/ws685 ws685 s685 wpc sheet wood | 7 mm wpc",
    "unique": false,
-   "cheaperCount": 1,
+   "cheaperCount": 2,
    "oos": false,
    "alternatives": [
     {
@@ -6051,6 +7339,80 @@
      "perPanel": 3550,
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770139922872-895de7.jpeg",
      "similarity": 76,
+     "isCheaper": false,
+     "diff": "= same price",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "EM54 Nio Plain Wood",
+     "code": "UC/P1/PPP/WEM54",
+     "material": "Nio",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 9.8,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 9.8 in ? 6 mm"
+     },
+     "psf": 103,
+     "perPanel": 800,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/customer-app-supply/1779351590314-392907.jpeg",
+     "similarity": 74,
+     "isCheaper": true,
+     "diff": "▼ Saves ₹2,750",
+     "scoreClass": "mid"
+    }
+   ]
+  },
+  {
+   "name": "X903 Nio Plain Fabric",
+   "code": "UC/P1/PPP/FX903",
+   "material": "Nio",
+   "dims": {
+    "L_ft": 9.5,
+    "W_in": 9.8,
+    "T_mm": 6,
+    "raw": "9.5 ft ? 9.8 in ? 6 mm"
+   },
+   "psf": 103,
+   "perPanel": 800,
+   "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841884626-165b97.png",
+   "search": "uc/p1/ppp/fx903 fx903 x903 nio plain fabric nio",
+   "unique": false,
+   "cheaperCount": 0,
+   "oos": false,
+   "alternatives": [
+    {
+     "name": "0112 WPC Sheet Neutral | 7 mm",
+     "code": "UC/I2/SPG/N0112",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.2,
+      "W_in": 23.48,
+      "T_mm": 7,
+      "raw": "9.2 ft ? 23.48 in ? 7 mm"
+     },
+     "psf": 197,
+     "perPanel": 3550,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140975392-9c1d57.jpeg",
+     "similarity": 72,
+     "isCheaper": false,
+     "diff": "▲ ₹2,750 premium",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "7695 Nio Plain Fabric",
+     "code": "UC/P1/PPP/F7695",
+     "material": "Nio",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 9.8,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 9.8 in ? 6 mm"
+     },
+     "psf": 103,
+     "perPanel": 800,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841881054-68a537.png",
+     "similarity": 72,
      "isCheaper": false,
      "diff": "= same price",
      "scoreClass": "mid"
@@ -6584,7 +7946,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770139929544-3f2a49.jpeg",
    "search": "uc/i2/spg/wx913 wx913 x913 wpc sheet wood | 7 mm wpc",
    "unique": false,
-   "cheaperCount": 1,
+   "cheaperCount": 2,
    "oos": false,
    "alternatives": [
     {
@@ -6603,6 +7965,24 @@
      "similarity": 80,
      "isCheaper": true,
      "diff": "▼ Saves ₹2,050",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "1456 Nio Plain Traditional",
+     "code": "UC/P1/PPP/T1456",
+     "material": "Nio",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 9.8,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 9.8 in ? 6 mm"
+     },
+     "psf": 103,
+     "perPanel": 800,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841925919-74d19f.png",
+     "similarity": 75,
+     "isCheaper": true,
+     "diff": "▼ Saves ₹2,750",
      "scoreClass": "mid"
     }
    ]
@@ -6788,7 +8168,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140294615-99bfdb.jpeg",
    "search": "uc/i2/spg/wx921 wx921 x921 wpc sheet wood | 7 mm wpc",
    "unique": false,
-   "cheaperCount": 2,
+   "cheaperCount": 4,
    "oos": true,
    "alternatives": [
     {
@@ -6810,6 +8190,24 @@
      "scoreClass": "hi"
     },
     {
+     "name": "9204 Nio Plain Wood",
+     "code": "UC/P1/PPP/W9204",
+     "material": "Nio",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 9.8,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 9.8 in ? 6 mm"
+     },
+     "psf": 103,
+     "perPanel": 800,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1779087762255-5e6990.png",
+     "similarity": 81,
+     "isCheaper": true,
+     "diff": "▼ Saves ₹2,750",
+     "scoreClass": "mid"
+    },
+    {
      "name": "X921 WPC Small square Wood",
      "code": "UC/I2/PPE/WX921",
      "material": "WPC",
@@ -6825,6 +8223,24 @@
      "similarity": 80,
      "isCheaper": true,
      "diff": "▼ Saves ₹2,100",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "EM02 Nio Plain Gold",
+     "code": "UC/P1/PPP/KEM02",
+     "material": "Nio",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 9.8,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 9.8 in ? 6 mm"
+     },
+     "psf": 103,
+     "perPanel": 800,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841903506-8fbee2.png",
+     "similarity": 78,
+     "isCheaper": true,
+     "diff": "▼ Saves ₹2,750",
      "scoreClass": "mid"
     }
    ]
