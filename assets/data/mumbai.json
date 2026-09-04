@@ -851,7 +851,7 @@
    "search": "uc/d1/ppp/g0273 g0273 0273 pvc plain abstract pvc",
    "unique": true,
    "cheaperCount": 0,
-   "oos": false,
+   "oos": true,
    "alternatives": []
   },
   {
@@ -966,6 +966,24 @@
      "scoreClass": "hi"
     },
     {
+     "name": "0643 Charcoal Mini rectangle Stone",
+     "code": "UC/I2/PCR/S0643",
+     "material": "Charcoal",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 11.6,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 11.6 in ? 6 mm"
+     },
+     "psf": 152,
+     "perPanel": 1399,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323867089-cf5dc8.jpeg",
+     "similarity": 87,
+     "isCheaper": false,
+     "diff": "= same price",
+     "scoreClass": "hi"
+    },
+    {
      "name": "S061 Charcoal Slats Stone",
      "code": "UC/I2/PCV/SS061",
      "material": "Charcoal",
@@ -1054,7 +1072,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1769519883323-31626e.jpeg",
    "search": "uc/i2/pcv/s0519 s0519 0519 charcoal slats stone charcoal",
    "unique": false,
-   "cheaperCount": 3,
+   "cheaperCount": 4,
    "oos": false,
    "alternatives": [
     {
@@ -1127,6 +1145,24 @@
      "similarity": 80,
      "isCheaper": true,
      "diff": "▼ Saves ₹150",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "0643 Charcoal Mini rectangle Stone",
+     "code": "UC/I2/PCR/S0643",
+     "material": "Charcoal",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 11.6,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 11.6 in ? 6 mm"
+     },
+     "psf": 152,
+     "perPanel": 1399,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323867089-cf5dc8.jpeg",
+     "similarity": 77,
+     "isCheaper": true,
+     "diff": "▼ Saves ₹801",
      "scoreClass": "mid"
     }
    ]
@@ -1203,7 +1239,7 @@
    "search": "uc/i2/pcr/s0643 s0643 0643 charcoal mini rectangle stone charcoal",
    "unique": false,
    "cheaperCount": 0,
-   "oos": true,
+   "oos": false,
    "alternatives": [
     {
      "name": "0519 Charcoal Mini rectangle Stone",
@@ -1334,24 +1370,6 @@
    "oos": true,
    "alternatives": [
     {
-     "name": "2208 SPC Sheet Marble | 3 mm",
-     "code": "UC/M2/SS0/M2208",
-     "material": "SPC",
-     "dims": {
-      "L_ft": 9.2,
-      "W_in": 48,
-      "T_mm": 3,
-      "raw": "9.2 ft ? 48 in ? 3 mm"
-     },
-     "psf": 245,
-     "perPanel": 9000,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323656946-04cef4.jpeg",
-     "similarity": 78,
-     "isCheaper": false,
-     "diff": "▲ ₹8,350 premium",
-     "scoreClass": "mid"
-    },
-    {
      "name": "0HXL SPC Sheet Marble | 3 mm",
      "code": "UC/M2/SS0/M0HXL",
      "material": "SPC",
@@ -1420,24 +1438,6 @@
      "psf": 245,
      "perPanel": 9000,
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323930350-5811eb.jpeg",
-     "similarity": 88,
-     "isCheaper": false,
-     "diff": "= same price",
-     "scoreClass": "hi"
-    },
-    {
-     "name": "2208 SPC Sheet Marble | 3 mm",
-     "code": "UC/M2/SS0/M2208",
-     "material": "SPC",
-     "dims": {
-      "L_ft": 9.2,
-      "W_in": 48,
-      "T_mm": 3,
-      "raw": "9.2 ft ? 48 in ? 3 mm"
-     },
-     "psf": 245,
-     "perPanel": 9000,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323656946-04cef4.jpeg",
      "similarity": 88,
      "isCheaper": false,
      "diff": "= same price",
@@ -1797,24 +1797,6 @@
    "oos": true,
    "alternatives": [
     {
-     "name": "2208 SPC Sheet Marble | 3 mm",
-     "code": "UC/M2/SS0/M2208",
-     "material": "SPC",
-     "dims": {
-      "L_ft": 9.2,
-      "W_in": 48,
-      "T_mm": 3,
-      "raw": "9.2 ft ? 48 in ? 3 mm"
-     },
-     "psf": 245,
-     "perPanel": 9000,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323656946-04cef4.jpeg",
-     "similarity": 90,
-     "isCheaper": false,
-     "diff": "= same price",
-     "scoreClass": "hi"
-    },
-    {
      "name": "0703 SPC Sheet Marble | 3 mm",
      "code": "UC/M2/SS0/M0703",
      "material": "SPC",
@@ -1903,7 +1885,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1769519998448-d01be7.jpeg",
    "search": "uc/i2/pcc/s0g29 s0g29 0g29 charcoal ceramic stone charcoal",
    "unique": false,
-   "cheaperCount": 1,
+   "cheaperCount": 2,
    "oos": false,
    "alternatives": [
     {
@@ -1959,6 +1941,24 @@
      "isCheaper": false,
      "diff": "▲ ₹150 premium",
      "scoreClass": "mid"
+    },
+    {
+     "name": "0643 Charcoal Mini rectangle Stone",
+     "code": "UC/I2/PCR/S0643",
+     "material": "Charcoal",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 11.6,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 11.6 in ? 6 mm"
+     },
+     "psf": 152,
+     "perPanel": 1399,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323867089-cf5dc8.jpeg",
+     "similarity": 78,
+     "isCheaper": true,
+     "diff": "▼ Saves ₹651",
+     "scoreClass": "mid"
     }
    ]
   },
@@ -2012,24 +2012,6 @@
      "perPanel": 9000,
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323686269-5822f7.jpeg",
      "similarity": 84,
-     "isCheaper": false,
-     "diff": "▲ ₹3,000 premium",
-     "scoreClass": "mid"
-    },
-    {
-     "name": "2208 SPC Sheet Marble | 3 mm",
-     "code": "UC/M2/SS0/M2208",
-     "material": "SPC",
-     "dims": {
-      "L_ft": 9.2,
-      "W_in": 48,
-      "T_mm": 3,
-      "raw": "9.2 ft ? 48 in ? 3 mm"
-     },
-     "psf": 245,
-     "perPanel": 9000,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323656946-04cef4.jpeg",
-     "similarity": 83,
      "isCheaper": false,
      "diff": "▲ ₹3,000 premium",
      "scoreClass": "mid"
@@ -2940,7 +2922,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323562400-eaf1f0.jpeg",
    "search": "uc/i2/sph/f2025 f2025 2025 wpc sheet fabric | 7 mm wpc",
    "unique": false,
-   "cheaperCount": 1,
+   "cheaperCount": 2,
    "oos": false,
    "alternatives": [
     {
@@ -2993,6 +2975,24 @@
      "perPanel": 1399,
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323882160-384437.jpeg",
      "similarity": 75,
+     "isCheaper": true,
+     "diff": "▼ Saves ₹5,101",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "0643 Charcoal Mini rectangle Stone",
+     "code": "UC/I2/PCR/S0643",
+     "material": "Charcoal",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 11.6,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 11.6 in ? 6 mm"
+     },
+     "psf": 152,
+     "perPanel": 1399,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323867089-cf5dc8.jpeg",
+     "similarity": 73,
      "isCheaper": true,
      "diff": "▼ Saves ₹5,101",
      "scoreClass": "mid"
@@ -3070,7 +3070,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323416216-e1657f.jpeg",
    "search": "uc/i2/sph/f2027 f2027 2027 wpc sheet fabric | 7 mm wpc",
    "unique": false,
-   "cheaperCount": 3,
+   "cheaperCount": 4,
    "oos": false,
    "alternatives": [
     {
@@ -3143,6 +3143,24 @@
      "similarity": 75,
      "isCheaper": true,
      "diff": "▼ Saves ₹5,700",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "0643 Charcoal Mini rectangle Stone",
+     "code": "UC/I2/PCR/S0643",
+     "material": "Charcoal",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 11.6,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 11.6 in ? 6 mm"
+     },
+     "psf": 152,
+     "perPanel": 1399,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323867089-cf5dc8.jpeg",
+     "similarity": 72,
+     "isCheaper": true,
+     "diff": "▼ Saves ₹5,101",
      "scoreClass": "mid"
     },
     {
@@ -3311,7 +3329,7 @@
    "search": "uc/m2/ss0/m2208 m2208 2208 spc sheet marble | 3 mm spc",
    "unique": false,
    "cheaperCount": 2,
-   "oos": false,
+   "oos": true,
    "alternatives": [
     {
      "name": "0703 SPC Sheet Marble | 3 mm",
@@ -4419,24 +4437,6 @@
      "perPanel": 9000,
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323686269-5822f7.jpeg",
      "similarity": 88,
-     "isCheaper": false,
-     "diff": "= same price",
-     "scoreClass": "hi"
-    },
-    {
-     "name": "2208 SPC Sheet Marble | 3 mm",
-     "code": "UC/M2/SS0/M2208",
-     "material": "SPC",
-     "dims": {
-      "L_ft": 9.2,
-      "W_in": 48,
-      "T_mm": 3,
-      "raw": "9.2 ft ? 48 in ? 3 mm"
-     },
-     "psf": 245,
-     "perPanel": 9000,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323656946-04cef4.jpeg",
-     "similarity": 86,
      "isCheaper": false,
      "diff": "= same price",
      "scoreClass": "hi"
@@ -5766,24 +5766,6 @@
      "similarity": 75,
      "isCheaper": false,
      "diff": "▲ ₹5,200 premium",
-     "scoreClass": "mid"
-    },
-    {
-     "name": "2208 SPC Sheet Marble | 3 mm",
-     "code": "UC/M2/SS0/M2208",
-     "material": "SPC",
-     "dims": {
-      "L_ft": 9.2,
-      "W_in": 48,
-      "T_mm": 3,
-      "raw": "9.2 ft ? 48 in ? 3 mm"
-     },
-     "psf": 245,
-     "perPanel": 9000,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323656946-04cef4.jpeg",
-     "similarity": 74,
-     "isCheaper": false,
-     "diff": "▲ ₹8,200 premium",
      "scoreClass": "mid"
     }
    ]
@@ -7138,7 +7120,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1769519873285-729933.jpeg",
    "search": "uc/i2/pcv/ss061 ss061 s061 charcoal slats stone charcoal",
    "unique": false,
-   "cheaperCount": 2,
+   "cheaperCount": 3,
    "oos": false,
    "alternatives": [
     {
@@ -7173,6 +7155,24 @@
      "perPanel": 1399,
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323882160-384437.jpeg",
      "similarity": 82,
+     "isCheaper": true,
+     "diff": "▼ Saves ₹801",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "0643 Charcoal Mini rectangle Stone",
+     "code": "UC/I2/PCR/S0643",
+     "material": "Charcoal",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 11.6,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 11.6 in ? 6 mm"
+     },
+     "psf": 152,
+     "perPanel": 1399,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323867089-cf5dc8.jpeg",
+     "similarity": 80,
      "isCheaper": true,
      "diff": "▼ Saves ₹801",
      "scoreClass": "mid"
