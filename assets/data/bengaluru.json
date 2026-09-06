@@ -220,7 +220,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140323168-5f6835.jpeg",
    "search": "uc/i2/ppc/n0112 n0112 0112 wpc ceramic neutral wpc",
    "unique": false,
-   "cheaperCount": 1,
+   "cheaperCount": 0,
    "oos": false,
    "alternatives": [
     {
@@ -239,24 +239,6 @@
      "similarity": 84,
      "isCheaper": false,
      "diff": "▲ ₹1,350 premium",
-     "scoreClass": "mid"
-    },
-    {
-     "name": "X913 WPC Classic Wood",
-     "code": "UC/I2/PPD/WX913",
-     "material": "WPC",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 7.68,
-      "T_mm": 12,
-      "raw": "9.5 ft ? 7.68 in ? 12 mm"
-     },
-     "psf": 263,
-     "perPanel": 1600,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770141006815-be0c05.jpeg",
-     "similarity": 79,
-     "isCheaper": true,
-     "diff": "▼ Saves ₹50",
      "scoreClass": "mid"
     },
     {
@@ -330,7 +312,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323973227-5c8e8d.jpeg",
    "search": "uc/m2/sp0/n0112 n0112 0112 wpc sheet neutral | 5 mm wpc",
    "unique": false,
-   "cheaperCount": 2,
+   "cheaperCount": 1,
    "oos": false,
    "alternatives": [
     {
@@ -349,24 +331,6 @@
      "similarity": 73,
      "isCheaper": true,
      "diff": "▼ Saves ₹1,600",
-     "scoreClass": "mid"
-    },
-    {
-     "name": "X903 Nio Plain Fabric",
-     "code": "UC/P1/PPP/FX903",
-     "material": "Nio",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 9.8,
-      "T_mm": 6,
-      "raw": "9.5 ft ? 9.8 in ? 6 mm"
-     },
-     "psf": 103,
-     "perPanel": 800,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841884626-165b97.png",
-     "similarity": 72,
-     "isCheaper": true,
-     "diff": "▼ Saves ₹2,450",
      "scoreClass": "mid"
     },
     {
@@ -571,29 +535,10 @@
    "perPanel": 800,
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324490809-f4922b.jpeg",
    "search": "uc/d1/ppp/f0150 f0150 0150 pvc plain floral pvc",
-   "unique": false,
+   "unique": true,
    "cheaperCount": 0,
    "oos": false,
-   "alternatives": [
-    {
-     "name": "0156 Nio Plain Traditional",
-     "code": "UC/P1/PPP/T0156",
-     "material": "Nio",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 9.8,
-      "T_mm": 6,
-      "raw": "9.5 ft ? 9.8 in ? 6 mm"
-     },
-     "psf": 103,
-     "perPanel": 800,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841922384-542dc6.png",
-     "similarity": 77,
-     "isCheaper": false,
-     "diff": "= same price",
-     "scoreClass": "mid"
-    }
-   ]
+   "alternatives": []
   },
   {
    "name": "0156 Nio Plain Traditional",
@@ -611,7 +556,7 @@
    "search": "uc/p1/ppp/t0156 t0156 0156 nio plain traditional nio",
    "unique": false,
    "cheaperCount": 0,
-   "oos": false,
+   "oos": true,
    "alternatives": [
     {
      "name": "1455 Nio Plain Gold",
@@ -856,24 +801,6 @@
    "oos": false,
    "alternatives": [
     {
-     "name": "X913 WPC Classic Wood",
-     "code": "UC/I2/PPD/WX913",
-     "material": "WPC",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 7.68,
-      "T_mm": 12,
-      "raw": "9.5 ft ? 7.68 in ? 12 mm"
-     },
-     "psf": 263,
-     "perPanel": 1600,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770141006815-be0c05.jpeg",
-     "similarity": 77,
-     "isCheaper": false,
-     "diff": "▲ ₹50 premium",
-     "scoreClass": "mid"
-    },
-    {
      "name": "183S Charcoal Flat rib Wood",
      "code": "UC/I2/PCM/W183S",
      "material": "Charcoal",
@@ -927,7 +854,7 @@
    "search": "uc/d1/ppp/w0414 w0414 0414 pvc plain wood pvc",
    "unique": false,
    "cheaperCount": 0,
-   "oos": true,
+   "oos": false,
    "alternatives": [
     {
      "name": "S685 WPC Sheet Wood | 7 mm",
@@ -945,6 +872,42 @@
      "similarity": 78,
      "isCheaper": false,
      "diff": "▲ ₹2,750 premium",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "0952/0414 PVC Grooved Wood",
+     "code": "UC/D1/PPG/W0414",
+     "material": "PVC",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 9.5,
+      "T_mm": 8,
+      "raw": "9.5 ft ? 9.5 in ? 8 mm"
+     },
+     "psf": 106,
+     "perPanel": 800,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324511998-07f41c.jpeg",
+     "similarity": 75,
+     "isCheaper": false,
+     "diff": "= same price",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "0952/0414* PVC Grooved Wood",
+     "code": "UC/D1/PPG/W0952",
+     "material": "PVC",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 9.5,
+      "T_mm": 8,
+      "raw": "9.5 ft ? 9.5 in ? 8 mm"
+     },
+     "psf": 106,
+     "perPanel": 800,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324511998-07f41c.jpeg",
+     "similarity": 75,
+     "isCheaper": false,
+     "diff": "= same price",
      "scoreClass": "mid"
     },
     {
@@ -1682,8 +1645,26 @@
    "search": "uc/d1/ppg/w0414 w0414 0952/0414 pvc grooved wood pvc",
    "unique": false,
    "cheaperCount": 0,
-   "oos": true,
+   "oos": false,
    "alternatives": [
+    {
+     "name": "0952/0414* PVC Grooved Wood",
+     "code": "UC/D1/PPG/W0952",
+     "material": "PVC",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 9.5,
+      "T_mm": 8,
+      "raw": "9.5 ft ? 9.5 in ? 8 mm"
+     },
+     "psf": 106,
+     "perPanel": 800,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324511998-07f41c.jpeg",
+     "similarity": 100,
+     "isCheaper": false,
+     "diff": "= same price",
+     "scoreClass": "hi"
+    },
     {
      "name": "7073 WPC Classic Wood",
      "code": "UC/I2/PPD/W7073",
@@ -1700,6 +1681,24 @@
      "similarity": 77,
      "isCheaper": false,
      "diff": "▲ ₹800 premium",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "0414 PVC Plain Wood",
+     "code": "UC/D1/PPP/W0414",
+     "material": "PVC",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 9.8,
+      "T_mm": 5,
+      "raw": "9.5 ft ? 9.8 in ? 5 mm"
+     },
+     "psf": 103,
+     "perPanel": 800,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324390835-3d1eae.jpeg",
+     "similarity": 75,
+     "isCheaper": false,
+     "diff": "= same price",
      "scoreClass": "mid"
     },
     {
@@ -1738,8 +1737,26 @@
    "search": "uc/d1/ppg/w0952 w0952 0952/0414* pvc grooved wood pvc",
    "unique": false,
    "cheaperCount": 0,
-   "oos": true,
+   "oos": false,
    "alternatives": [
+    {
+     "name": "0952/0414 PVC Grooved Wood",
+     "code": "UC/D1/PPG/W0414",
+     "material": "PVC",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 9.5,
+      "T_mm": 8,
+      "raw": "9.5 ft ? 9.5 in ? 8 mm"
+     },
+     "psf": 106,
+     "perPanel": 800,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324511998-07f41c.jpeg",
+     "similarity": 100,
+     "isCheaper": false,
+     "diff": "= same price",
+     "scoreClass": "hi"
+    },
     {
      "name": "7073 WPC Classic Wood",
      "code": "UC/I2/PPD/W7073",
@@ -1756,6 +1773,24 @@
      "similarity": 76,
      "isCheaper": false,
      "diff": "▲ ₹800 premium",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "0414 PVC Plain Wood",
+     "code": "UC/D1/PPP/W0414",
+     "material": "PVC",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 9.8,
+      "T_mm": 5,
+      "raw": "9.5 ft ? 9.8 in ? 5 mm"
+     },
+     "psf": 103,
+     "perPanel": 800,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324390835-3d1eae.jpeg",
+     "similarity": 75,
+     "isCheaper": false,
+     "diff": "= same price",
      "scoreClass": "mid"
     },
     {
@@ -1794,7 +1829,7 @@
    "search": "uc/d1/ppg/w0953 w0953 0953 pvc grooved wood pvc",
    "unique": false,
    "cheaperCount": 0,
-   "oos": true,
+   "oos": false,
    "alternatives": [
     {
      "name": "9371 PVC Plain Wood",
@@ -2419,24 +2454,6 @@
      "isCheaper": false,
      "diff": "= same price",
      "scoreClass": "mid"
-    },
-    {
-     "name": "0156 Nio Plain Traditional",
-     "code": "UC/P1/PPP/T0156",
-     "material": "Nio",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 9.8,
-      "T_mm": 6,
-      "raw": "9.5 ft ? 9.8 in ? 6 mm"
-     },
-     "psf": 103,
-     "perPanel": 800,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841922384-542dc6.png",
-     "similarity": 74,
-     "isCheaper": false,
-     "diff": "= same price",
-     "scoreClass": "mid"
     }
    ]
   },
@@ -2458,24 +2475,6 @@
    "cheaperCount": 0,
    "oos": false,
    "alternatives": [
-    {
-     "name": "0156 Nio Plain Traditional",
-     "code": "UC/P1/PPP/T0156",
-     "material": "Nio",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 9.8,
-      "T_mm": 6,
-      "raw": "9.5 ft ? 9.8 in ? 6 mm"
-     },
-     "psf": 103,
-     "perPanel": 800,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841922384-542dc6.png",
-     "similarity": 81,
-     "isCheaper": false,
-     "diff": "= same price",
-     "scoreClass": "mid"
-    },
     {
      "name": "0195 Nio Plain Gold",
      "code": "UC/P1/PPP/K0195",
@@ -2623,7 +2622,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1769519933324-7b17e1.jpeg",
    "search": "uc/i2/pcm/w183s w183s 183s charcoal flat rib wood charcoal",
    "unique": false,
-   "cheaperCount": 3,
+   "cheaperCount": 2,
    "oos": false,
    "alternatives": [
     {
@@ -2660,24 +2659,6 @@
      "similarity": 78,
      "isCheaper": true,
      "diff": "▼ Saves ₹1,350",
-     "scoreClass": "mid"
-    },
-    {
-     "name": "X913 WPC Classic Wood",
-     "code": "UC/I2/PPD/WX913",
-     "material": "WPC",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 7.68,
-      "T_mm": 12,
-      "raw": "9.5 ft ? 7.68 in ? 12 mm"
-     },
-     "psf": 263,
-     "perPanel": 1600,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770141006815-be0c05.jpeg",
-     "similarity": 77,
-     "isCheaper": true,
-     "diff": "▼ Saves ₹1,400",
      "scoreClass": "mid"
     },
     {
@@ -4671,7 +4652,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1769519923238-ba70ca.jpeg",
    "search": "uc/i2/pcm/w5249 w5249 5249 charcoal flat rib wood charcoal",
    "unique": false,
-   "cheaperCount": 2,
+   "cheaperCount": 1,
    "oos": false,
    "alternatives": [
     {
@@ -4708,24 +4689,6 @@
      "similarity": 83,
      "isCheaper": false,
      "diff": "= same price",
-     "scoreClass": "mid"
-    },
-    {
-     "name": "X913 WPC Classic Wood",
-     "code": "UC/I2/PPD/WX913",
-     "material": "WPC",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 7.68,
-      "T_mm": 12,
-      "raw": "9.5 ft ? 7.68 in ? 12 mm"
-     },
-     "psf": 263,
-     "perPanel": 1600,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770141006815-be0c05.jpeg",
-     "similarity": 81,
-     "isCheaper": true,
-     "diff": "▼ Saves ₹1,400",
      "scoreClass": "mid"
     },
     {
@@ -5037,7 +5000,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770141128636-cea391.jpeg",
    "search": "uc/i2/ppd/w7073 w7073 7073 wpc classic wood wpc",
    "unique": false,
-   "cheaperCount": 0,
+   "cheaperCount": 2,
    "oos": false,
    "alternatives": [
     {
@@ -5092,6 +5055,42 @@
      "similarity": 80,
      "isCheaper": false,
      "diff": "▲ ₹1,950 premium",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "0952/0414 PVC Grooved Wood",
+     "code": "UC/D1/PPG/W0414",
+     "material": "PVC",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 9.5,
+      "T_mm": 8,
+      "raw": "9.5 ft ? 9.5 in ? 8 mm"
+     },
+     "psf": 106,
+     "perPanel": 800,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324511998-07f41c.jpeg",
+     "similarity": 77,
+     "isCheaper": true,
+     "diff": "▼ Saves ₹800",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "0952/0414* PVC Grooved Wood",
+     "code": "UC/D1/PPG/W0952",
+     "material": "PVC",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 9.5,
+      "T_mm": 8,
+      "raw": "9.5 ft ? 9.5 in ? 8 mm"
+     },
+     "psf": 106,
+     "perPanel": 800,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324511998-07f41c.jpeg",
+     "similarity": 76,
+     "isCheaper": true,
+     "diff": "▼ Saves ₹800",
      "scoreClass": "mid"
     }
    ]
@@ -5500,24 +5499,6 @@
      "isCheaper": false,
      "diff": "▲ ₹5,700 premium",
      "scoreClass": "mid"
-    },
-    {
-     "name": "X903 Nio Plain Fabric",
-     "code": "UC/P1/PPP/FX903",
-     "material": "Nio",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 9.8,
-      "T_mm": 6,
-      "raw": "9.5 ft ? 9.8 in ? 6 mm"
-     },
-     "psf": 103,
-     "perPanel": 800,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841884626-165b97.png",
-     "similarity": 72,
-     "isCheaper": false,
-     "diff": "= same price",
-     "scoreClass": "mid"
     }
    ]
   },
@@ -5794,7 +5775,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770139916980-ca6381.jpeg",
    "search": "uc/i2/spg/w8360 w8360 8360 wpc sheet wood | 7 mm wpc",
    "unique": false,
-   "cheaperCount": 3,
+   "cheaperCount": 4,
    "oos": false,
    "alternatives": [
     {
@@ -5867,6 +5848,24 @@
      "similarity": 76,
      "isCheaper": true,
      "diff": "▼ Saves ₹2,000",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "0953 PVC Grooved Wood",
+     "code": "UC/D1/PPG/W0953",
+     "material": "PVC",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 9.5,
+      "T_mm": 8,
+      "raw": "9.5 ft ? 9.5 in ? 8 mm"
+     },
+     "psf": 106,
+     "perPanel": 800,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324501235-cc9776.jpeg",
+     "similarity": 74,
+     "isCheaper": true,
+     "diff": "▼ Saves ₹2,750",
      "scoreClass": "mid"
     },
     {
@@ -6370,6 +6369,24 @@
    "oos": false,
    "alternatives": [
     {
+     "name": "0953 PVC Grooved Wood",
+     "code": "UC/D1/PPG/W0953",
+     "material": "PVC",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 9.5,
+      "T_mm": 8,
+      "raw": "9.5 ft ? 9.5 in ? 8 mm"
+     },
+     "psf": 106,
+     "perPanel": 800,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324501235-cc9776.jpeg",
+     "similarity": 82,
+     "isCheaper": false,
+     "diff": "= same price",
+     "scoreClass": "mid"
+    },
+    {
      "name": "X905 WPC Sheet Wood | 5 mm",
      "code": "UC/M2/SP0/WX905",
      "material": "WPC",
@@ -6826,29 +6843,10 @@
    "perPanel": 1550,
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324072204-1ab777.jpeg",
    "search": "uc/m2/pps/ra209 ra209 a209 wpc concave neutral wpc",
-   "unique": false,
+   "unique": true,
    "cheaperCount": 0,
    "oos": false,
-   "alternatives": [
-    {
-     "name": "X913 WPC Classic Wood",
-     "code": "UC/I2/PPD/WX913",
-     "material": "WPC",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 7.68,
-      "T_mm": 12,
-      "raw": "9.5 ft ? 7.68 in ? 12 mm"
-     },
-     "psf": 263,
-     "perPanel": 1600,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770141006815-be0c05.jpeg",
-     "similarity": 71,
-     "isCheaper": false,
-     "diff": "▲ ₹50 premium",
-     "scoreClass": "mid"
-    }
-   ]
+   "alternatives": []
   },
   {
    "name": "A235 WPC Concave Texture",
@@ -7551,6 +7549,24 @@
      "isCheaper": false,
      "diff": "▲ ₹2,750 premium",
      "scoreClass": "mid"
+    },
+    {
+     "name": "0414 PVC Plain Wood",
+     "code": "UC/D1/PPP/W0414",
+     "material": "PVC",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 9.8,
+      "T_mm": 5,
+      "raw": "9.5 ft ? 9.8 in ? 5 mm"
+     },
+     "psf": 103,
+     "perPanel": 800,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324390835-3d1eae.jpeg",
+     "similarity": 71,
+     "isCheaper": false,
+     "diff": "= same price",
+     "scoreClass": "mid"
     }
    ]
   },
@@ -7901,7 +7917,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1769519904603-e5c5e3.jpeg",
    "search": "uc/i2/spg/ws685 ws685 s685 wpc sheet wood | 7 mm wpc",
    "unique": false,
-   "cheaperCount": 2,
+   "cheaperCount": 5,
    "oos": false,
    "alternatives": [
     {
@@ -7923,6 +7939,24 @@
      "scoreClass": "mid"
     },
     {
+     "name": "0414 PVC Plain Wood",
+     "code": "UC/D1/PPP/W0414",
+     "material": "PVC",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 9.8,
+      "T_mm": 5,
+      "raw": "9.5 ft ? 9.8 in ? 5 mm"
+     },
+     "psf": 103,
+     "perPanel": 800,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324390835-3d1eae.jpeg",
+     "similarity": 78,
+     "isCheaper": true,
+     "diff": "▼ Saves ₹2,750",
+     "scoreClass": "mid"
+    },
+    {
      "name": "X905 WPC Sheet Wood | 5 mm",
      "code": "UC/M2/SP0/WX905",
      "material": "WPC",
@@ -7938,6 +7972,42 @@
      "similarity": 77,
      "isCheaper": true,
      "diff": "▼ Saves ₹300",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "0952/0414 PVC Grooved Wood",
+     "code": "UC/D1/PPG/W0414",
+     "material": "PVC",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 9.5,
+      "T_mm": 8,
+      "raw": "9.5 ft ? 9.5 in ? 8 mm"
+     },
+     "psf": 106,
+     "perPanel": 800,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324511998-07f41c.jpeg",
+     "similarity": 74,
+     "isCheaper": true,
+     "diff": "▼ Saves ₹2,750",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "0952/0414* PVC Grooved Wood",
+     "code": "UC/D1/PPG/W0952",
+     "material": "PVC",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 9.5,
+      "T_mm": 8,
+      "raw": "9.5 ft ? 9.5 in ? 8 mm"
+     },
+     "psf": 106,
+     "perPanel": 800,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324511998-07f41c.jpeg",
+     "similarity": 74,
+     "isCheaper": true,
+     "diff": "▼ Saves ₹2,750",
      "scoreClass": "mid"
     },
     {
@@ -7976,7 +8046,7 @@
    "search": "uc/p1/ppp/fx903 fx903 x903 nio plain fabric nio",
    "unique": false,
    "cheaperCount": 0,
-   "oos": false,
+   "oos": true,
    "alternatives": [
     {
      "name": "7695 Nio Plain Fabric",
@@ -8177,7 +8247,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323509340-81fb63.jpeg",
    "search": "uc/m2/sp0/wx905 wx905 x905 wpc sheet wood | 5 mm wpc",
    "unique": false,
-   "cheaperCount": 3,
+   "cheaperCount": 4,
    "oos": false,
    "alternatives": [
     {
@@ -8232,6 +8302,24 @@
      "similarity": 80,
      "isCheaper": false,
      "diff": "▲ ₹300 premium",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "0953 PVC Grooved Wood",
+     "code": "UC/D1/PPG/W0953",
+     "material": "PVC",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 9.5,
+      "T_mm": 8,
+      "raw": "9.5 ft ? 9.5 in ? 8 mm"
+     },
+     "psf": 106,
+     "perPanel": 800,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324501235-cc9776.jpeg",
+     "similarity": 78,
+     "isCheaper": true,
+     "diff": "▼ Saves ₹2,450",
      "scoreClass": "mid"
     },
     {
@@ -8452,7 +8540,7 @@
    "search": "uc/i2/ppd/wx913 wx913 x913 wpc classic wood wpc",
    "unique": false,
    "cheaperCount": 2,
-   "oos": false,
+   "oos": true,
    "alternatives": [
     {
      "name": "5249 Charcoal Flat rib Wood",
@@ -8579,27 +8667,9 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770139929544-3f2a49.jpeg",
    "search": "uc/i2/spg/wx913 wx913 x913 wpc sheet wood | 7 mm wpc",
    "unique": false,
-   "cheaperCount": 2,
+   "cheaperCount": 1,
    "oos": false,
    "alternatives": [
-    {
-     "name": "X913 WPC Classic Wood",
-     "code": "UC/I2/PPD/WX913",
-     "material": "WPC",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 7.68,
-      "T_mm": 12,
-      "raw": "9.5 ft ? 7.68 in ? 12 mm"
-     },
-     "psf": 263,
-     "perPanel": 1600,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770141006815-be0c05.jpeg",
-     "similarity": 80,
-     "isCheaper": true,
-     "diff": "▼ Saves ₹1,950",
-     "scoreClass": "mid"
-    },
     {
      "name": "1456 Nio Plain Traditional",
      "code": "UC/P1/PPP/T1456",
