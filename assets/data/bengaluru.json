@@ -220,7 +220,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140323168-5f6835.jpeg",
    "search": "uc/i2/ppc/n0112 n0112 0112 wpc ceramic neutral wpc",
    "unique": false,
-   "cheaperCount": 0,
+   "cheaperCount": 1,
    "oos": false,
    "alternatives": [
     {
@@ -239,6 +239,24 @@
      "similarity": 84,
      "isCheaper": false,
      "diff": "▲ ₹1,350 premium",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "X913 WPC Classic Wood",
+     "code": "UC/I2/PPD/WX913",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 7.68,
+      "T_mm": 12,
+      "raw": "9.5 ft ? 7.68 in ? 12 mm"
+     },
+     "psf": 263,
+     "perPanel": 1600,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770141006815-be0c05.jpeg",
+     "similarity": 79,
+     "isCheaper": true,
+     "diff": "▼ Saves ₹50",
      "scoreClass": "mid"
     },
     {
@@ -535,10 +553,29 @@
    "perPanel": 800,
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324490809-f4922b.jpeg",
    "search": "uc/d1/ppp/f0150 f0150 0150 pvc plain floral pvc",
-   "unique": true,
+   "unique": false,
    "cheaperCount": 0,
    "oos": false,
-   "alternatives": []
+   "alternatives": [
+    {
+     "name": "1218 PVC Plain Floral",
+     "code": "UC/R1/PPP/T1218",
+     "material": "PVC",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 9.8,
+      "T_mm": 5,
+      "raw": "9.5 ft ? 9.8 in ? 5 mm"
+     },
+     "psf": 103,
+     "perPanel": 800,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324400818-85e760.jpeg",
+     "similarity": 71,
+     "isCheaper": false,
+     "diff": "= same price",
+     "scoreClass": "mid"
+    }
+   ]
   },
   {
    "name": "0156 Nio Plain Traditional",
@@ -800,6 +837,24 @@
    "cheaperCount": 1,
    "oos": false,
    "alternatives": [
+    {
+     "name": "X913 WPC Classic Wood",
+     "code": "UC/I2/PPD/WX913",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 7.68,
+      "T_mm": 12,
+      "raw": "9.5 ft ? 7.68 in ? 12 mm"
+     },
+     "psf": 263,
+     "perPanel": 1600,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770141006815-be0c05.jpeg",
+     "similarity": 77,
+     "isCheaper": false,
+     "diff": "▲ ₹50 premium",
+     "scoreClass": "mid"
+    },
     {
      "name": "183S Charcoal Flat rib Wood",
      "code": "UC/I2/PCM/W183S",
@@ -1610,6 +1665,24 @@
    "oos": false,
    "alternatives": [
     {
+     "name": "1218 PVC Plain Floral",
+     "code": "UC/R1/PPP/T1218",
+     "material": "PVC",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 9.8,
+      "T_mm": 5,
+      "raw": "9.5 ft ? 9.8 in ? 5 mm"
+     },
+     "psf": 103,
+     "perPanel": 800,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324400818-85e760.jpeg",
+     "similarity": 79,
+     "isCheaper": false,
+     "diff": "= same price",
+     "scoreClass": "mid"
+    },
+    {
      "name": "9380 Nio Plain Gold",
      "code": "UC/P1/PPP/K9380",
      "material": "Nio",
@@ -2343,7 +2416,7 @@
    "search": "uc/r1/ppp/t1218 t1218 1218 pvc plain floral pvc",
    "unique": false,
    "cheaperCount": 0,
-   "oos": true,
+   "oos": false,
    "alternatives": [
     {
      "name": "0818 PVC Plain Gold",
@@ -2622,7 +2695,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1769519933324-7b17e1.jpeg",
    "search": "uc/i2/pcm/w183s w183s 183s charcoal flat rib wood charcoal",
    "unique": false,
-   "cheaperCount": 2,
+   "cheaperCount": 3,
    "oos": false,
    "alternatives": [
     {
@@ -2659,6 +2732,24 @@
      "similarity": 78,
      "isCheaper": true,
      "diff": "▼ Saves ₹1,350",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "X913 WPC Classic Wood",
+     "code": "UC/I2/PPD/WX913",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 7.68,
+      "T_mm": 12,
+      "raw": "9.5 ft ? 7.68 in ? 12 mm"
+     },
+     "psf": 263,
+     "perPanel": 1600,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770141006815-be0c05.jpeg",
+     "similarity": 77,
+     "isCheaper": true,
+     "diff": "▼ Saves ₹1,400",
      "scoreClass": "mid"
     },
     {
@@ -3654,7 +3745,7 @@
    "search": "uc/m2/pcr/w3621 w3621 3621 charcoal mini rectangle wood charcoal",
    "unique": false,
    "cheaperCount": 2,
-   "oos": true,
+   "oos": false,
    "alternatives": [
     {
      "name": "3622* Charcoal Mini rectangle Wood",
@@ -3745,7 +3836,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324245463-5602e5.jpeg",
    "search": "uc/m2/pcr/w3622 w3622 3622* charcoal mini rectangle wood charcoal",
    "unique": false,
-   "cheaperCount": 0,
+   "cheaperCount": 1,
    "oos": false,
    "alternatives": [
     {
@@ -3764,6 +3855,24 @@
      "similarity": 87,
      "isCheaper": false,
      "diff": "= same price",
+     "scoreClass": "hi"
+    },
+    {
+     "name": "3621 Charcoal Mini rectangle Wood",
+     "code": "UC/M2/PCR/W3621",
+     "material": "Charcoal",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 11.6,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 11.6 in ? 6 mm"
+     },
+     "psf": 218,
+     "perPanel": 2000,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324254770-c71488.jpeg",
+     "similarity": 85,
+     "isCheaper": true,
+     "diff": "▼ Saves ₹1,000",
      "scoreClass": "hi"
     },
     {
@@ -3801,7 +3910,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323763523-c95780.jpeg",
    "search": "uc/m2/pcr/w3623 w3623 3623 charcoal mini rectangle wood charcoal",
    "unique": false,
-   "cheaperCount": 3,
+   "cheaperCount": 4,
    "oos": false,
    "alternatives": [
     {
@@ -3857,6 +3966,24 @@
      "isCheaper": true,
      "diff": "▼ Saves ₹1,400",
      "scoreClass": "hi"
+    },
+    {
+     "name": "3621 Charcoal Mini rectangle Wood",
+     "code": "UC/M2/PCR/W3621",
+     "material": "Charcoal",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 11.6,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 11.6 in ? 6 mm"
+     },
+     "psf": 218,
+     "perPanel": 2000,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324254770-c71488.jpeg",
+     "similarity": 83,
+     "isCheaper": true,
+     "diff": "▼ Saves ₹1,000",
+     "scoreClass": "mid"
     },
     {
      "name": "S685 WPC Classic Wood",
@@ -4652,7 +4779,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1769519923238-ba70ca.jpeg",
    "search": "uc/i2/pcm/w5249 w5249 5249 charcoal flat rib wood charcoal",
    "unique": false,
-   "cheaperCount": 1,
+   "cheaperCount": 2,
    "oos": false,
    "alternatives": [
     {
@@ -4689,6 +4816,24 @@
      "similarity": 83,
      "isCheaper": false,
      "diff": "= same price",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "X913 WPC Classic Wood",
+     "code": "UC/I2/PPD/WX913",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 7.68,
+      "T_mm": 12,
+      "raw": "9.5 ft ? 7.68 in ? 12 mm"
+     },
+     "psf": 263,
+     "perPanel": 1600,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770141006815-be0c05.jpeg",
+     "similarity": 81,
+     "isCheaper": true,
+     "diff": "▼ Saves ₹1,400",
      "scoreClass": "mid"
     },
     {
@@ -5332,6 +5477,24 @@
      "isCheaper": false,
      "diff": "= same price",
      "scoreClass": "hi"
+    },
+    {
+     "name": "3621 Charcoal Mini rectangle Wood",
+     "code": "UC/M2/PCR/W3621",
+     "material": "Charcoal",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 11.6,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 11.6 in ? 6 mm"
+     },
+     "psf": 218,
+     "perPanel": 2000,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324254770-c71488.jpeg",
+     "similarity": 82,
+     "isCheaper": false,
+     "diff": "▲ ₹400 premium",
+     "scoreClass": "mid"
     },
     {
      "name": "D164 Nio Fluted Neutral",
@@ -6645,6 +6808,24 @@
    "oos": false,
    "alternatives": [
     {
+     "name": "1218 PVC Plain Floral",
+     "code": "UC/R1/PPP/T1218",
+     "material": "PVC",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 9.8,
+      "T_mm": 5,
+      "raw": "9.5 ft ? 9.8 in ? 5 mm"
+     },
+     "psf": 103,
+     "perPanel": 800,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324400818-85e760.jpeg",
+     "similarity": 78,
+     "isCheaper": false,
+     "diff": "= same price",
+     "scoreClass": "mid"
+    },
+    {
      "name": "1449 PVC Plain Floral",
      "code": "UC/R1/PPP/F1449",
      "material": "PVC",
@@ -6843,10 +7024,29 @@
    "perPanel": 1550,
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324072204-1ab777.jpeg",
    "search": "uc/m2/pps/ra209 ra209 a209 wpc concave neutral wpc",
-   "unique": true,
+   "unique": false,
    "cheaperCount": 0,
    "oos": false,
-   "alternatives": []
+   "alternatives": [
+    {
+     "name": "X913 WPC Classic Wood",
+     "code": "UC/I2/PPD/WX913",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 7.68,
+      "T_mm": 12,
+      "raw": "9.5 ft ? 7.68 in ? 12 mm"
+     },
+     "psf": 263,
+     "perPanel": 1600,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770141006815-be0c05.jpeg",
+     "similarity": 71,
+     "isCheaper": false,
+     "diff": "▲ ₹50 premium",
+     "scoreClass": "mid"
+    }
+   ]
   },
   {
    "name": "A235 WPC Concave Texture",
@@ -7344,6 +7544,24 @@
      "similarity": 82,
      "isCheaper": false,
      "diff": "▲ ₹50 premium",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "3621 Charcoal Mini rectangle Wood",
+     "code": "UC/M2/PCR/W3621",
+     "material": "Charcoal",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 11.6,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 11.6 in ? 6 mm"
+     },
+     "psf": 218,
+     "perPanel": 2000,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324254770-c71488.jpeg",
+     "similarity": 76,
+     "isCheaper": false,
+     "diff": "▲ ₹450 premium",
      "scoreClass": "mid"
     }
    ]
@@ -8540,7 +8758,7 @@
    "search": "uc/i2/ppd/wx913 wx913 x913 wpc classic wood wpc",
    "unique": false,
    "cheaperCount": 2,
-   "oos": true,
+   "oos": false,
    "alternatives": [
     {
      "name": "5249 Charcoal Flat rib Wood",
@@ -8667,9 +8885,27 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770139929544-3f2a49.jpeg",
    "search": "uc/i2/spg/wx913 wx913 x913 wpc sheet wood | 7 mm wpc",
    "unique": false,
-   "cheaperCount": 1,
+   "cheaperCount": 2,
    "oos": false,
    "alternatives": [
+    {
+     "name": "X913 WPC Classic Wood",
+     "code": "UC/I2/PPD/WX913",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 7.68,
+      "T_mm": 12,
+      "raw": "9.5 ft ? 7.68 in ? 12 mm"
+     },
+     "psf": 263,
+     "perPanel": 1600,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770141006815-be0c05.jpeg",
+     "similarity": 80,
+     "isCheaper": true,
+     "diff": "▼ Saves ₹1,950",
+     "scoreClass": "mid"
+    },
     {
      "name": "1456 Nio Plain Traditional",
      "code": "UC/P1/PPP/T1456",

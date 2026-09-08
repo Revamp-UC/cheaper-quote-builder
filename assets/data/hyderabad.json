@@ -3824,6 +3824,24 @@
      "isCheaper": true,
      "diff": "▼ Saves ₹790",
      "scoreClass": "mid"
+    },
+    {
+     "name": "X905 WPC Classic Wood",
+     "code": "UC/I2/PPD/WX905",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 7.68,
+      "T_mm": 12,
+      "raw": "9.5 ft ? 7.68 in ? 12 mm"
+     },
+     "psf": 263,
+     "perPanel": 1600,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140362352-3302d2.jpeg",
+     "similarity": 73,
+     "isCheaper": false,
+     "diff": "= same price",
+     "scoreClass": "mid"
     }
    ]
   },
@@ -4934,6 +4952,24 @@
      "scoreClass": "mid"
     },
     {
+     "name": "X905 WPC Classic Wood",
+     "code": "UC/I2/PPD/WX905",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 7.68,
+      "T_mm": 12,
+      "raw": "9.5 ft ? 7.68 in ? 12 mm"
+     },
+     "psf": 263,
+     "perPanel": 1600,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140362352-3302d2.jpeg",
+     "similarity": 82,
+     "isCheaper": false,
+     "diff": "= same price",
+     "scoreClass": "mid"
+    },
+    {
      "name": "7073 WPC Sheet Wood | 7 mm",
      "code": "UC/I2/SPG/W7073",
      "material": "WPC",
@@ -5390,7 +5426,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323774170-af8a9c.jpeg",
    "search": "uc/i2/pcf/w7334 w7334 7334 charcoal fluted wood charcoal",
    "unique": false,
-   "cheaperCount": 3,
+   "cheaperCount": 4,
    "oos": false,
    "alternatives": [
     {
@@ -5427,6 +5463,24 @@
      "similarity": 82,
      "isCheaper": true,
      "diff": "▼ Saves ₹1,200",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "X905 WPC Classic Wood",
+     "code": "UC/I2/PPD/WX905",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 7.68,
+      "T_mm": 12,
+      "raw": "9.5 ft ? 7.68 in ? 12 mm"
+     },
+     "psf": 263,
+     "perPanel": 1600,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140362352-3302d2.jpeg",
+     "similarity": 81,
+     "isCheaper": true,
+     "diff": "▼ Saves ₹1,100",
      "scoreClass": "mid"
     },
     {
@@ -5705,6 +5759,24 @@
      "similarity": 82,
      "isCheaper": false,
      "diff": "▲ ₹1,200 premium",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "X905 WPC Classic Wood",
+     "code": "UC/I2/PPD/WX905",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 7.68,
+      "T_mm": 12,
+      "raw": "9.5 ft ? 7.68 in ? 12 mm"
+     },
+     "psf": 263,
+     "perPanel": 1600,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140362352-3302d2.jpeg",
+     "similarity": 81,
+     "isCheaper": false,
+     "diff": "▲ ₹100 premium",
      "scoreClass": "mid"
     },
     {
@@ -7942,7 +8014,7 @@
    "search": "uc/i2/ppd/wx905 wx905 x905 wpc classic wood wpc",
    "unique": false,
    "cheaperCount": 2,
-   "oos": true,
+   "oos": false,
    "alternatives": [
     {
      "name": "X905* WPC Small square Wood",
@@ -8087,7 +8159,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323509340-81fb63.jpeg",
    "search": "uc/m2/sp0/wx905 wx905 x905 wpc sheet wood | 5 mm wpc",
    "unique": false,
-   "cheaperCount": 3,
+   "cheaperCount": 4,
    "oos": false,
    "alternatives": [
     {
@@ -8181,6 +8253,24 @@
      "scoreClass": "mid"
     },
     {
+     "name": "X905 WPC Classic Wood",
+     "code": "UC/I2/PPD/WX905",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 7.68,
+      "T_mm": 12,
+      "raw": "9.5 ft ? 7.68 in ? 12 mm"
+     },
+     "psf": 263,
+     "perPanel": 1600,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140362352-3302d2.jpeg",
+     "similarity": 76,
+     "isCheaper": true,
+     "diff": "▼ Saves ₹1,650",
+     "scoreClass": "mid"
+    },
+    {
      "name": "X905* WPC Small square Wood",
      "code": "UC/M2/PPE/WX905",
      "material": "WPC",
@@ -8218,6 +8308,24 @@
    "cheaperCount": 1,
    "oos": false,
    "alternatives": [
+    {
+     "name": "X905 WPC Classic Wood",
+     "code": "UC/I2/PPD/WX905",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 7.68,
+      "T_mm": 12,
+      "raw": "9.5 ft ? 7.68 in ? 12 mm"
+     },
+     "psf": 263,
+     "perPanel": 1600,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140362352-3302d2.jpeg",
+     "similarity": 90,
+     "isCheaper": false,
+     "diff": "▲ ₹790 premium",
+     "scoreClass": "hi"
+    },
     {
      "name": "8360* WPC Small square Wood",
      "code": "UC/M2/PPE/W8360",
@@ -8546,6 +8654,24 @@
      "similarity": 81,
      "isCheaper": true,
      "diff": "▼ Saves ₹790",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "X905 WPC Classic Wood",
+     "code": "UC/I2/PPD/WX905",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 7.68,
+      "T_mm": 12,
+      "raw": "9.5 ft ? 7.68 in ? 12 mm"
+     },
+     "psf": 263,
+     "perPanel": 1600,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140362352-3302d2.jpeg",
+     "similarity": 81,
+     "isCheaper": false,
+     "diff": "= same price",
      "scoreClass": "mid"
     },
     {

@@ -1254,10 +1254,29 @@
    "perPanel": 650,
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324468549-07209b.jpeg",
    "search": "uc/r1/ppp/g0818 g0818 0818 pvc plain gold pvc",
-   "unique": true,
+   "unique": false,
    "cheaperCount": 0,
    "oos": false,
-   "alternatives": []
+   "alternatives": [
+    {
+     "name": "9380 Nio Plain Gold",
+     "code": "UC/P1/PPP/K9380",
+     "material": "Nio",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 9.8,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 9.8 in ? 6 mm"
+     },
+     "psf": 98,
+     "perPanel": 760,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841896094-b08b38.png",
+     "similarity": 72,
+     "isCheaper": false,
+     "diff": "▲ ₹110 premium",
+     "scoreClass": "mid"
+    }
+   ]
   },
   {
    "name": "09U2 SPC Sheet Marble | 3 mm",
@@ -2439,7 +2458,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323416216-e1657f.jpeg",
    "search": "uc/i2/sph/f2027 f2027 2027 wpc sheet fabric | 7 mm wpc",
    "unique": false,
-   "cheaperCount": 4,
+   "cheaperCount": 5,
    "oos": false,
    "alternatives": [
     {
@@ -2549,6 +2568,24 @@
      "isCheaper": true,
      "diff": "▼ Saves ₹5,101",
      "scoreClass": "mid"
+    },
+    {
+     "name": "9380 Nio Plain Gold",
+     "code": "UC/P1/PPP/K9380",
+     "material": "Nio",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 9.8,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 9.8 in ? 6 mm"
+     },
+     "psf": 98,
+     "perPanel": 760,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841896094-b08b38.png",
+     "similarity": 70,
+     "isCheaper": true,
+     "diff": "▼ Saves ₹5,740",
+     "scoreClass": "mid"
     }
    ]
   },
@@ -2567,7 +2604,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323547875-39e8d6.jpeg",
    "search": "uc/i2/sph/l2203 l2203 2203 wpc sheet texture | 7 mm wpc",
    "unique": false,
-   "cheaperCount": 2,
+   "cheaperCount": 3,
    "oos": false,
    "alternatives": [
     {
@@ -2640,6 +2677,24 @@
      "similarity": 72,
      "isCheaper": true,
      "diff": "▼ Saves ₹6,449",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "9380 Nio Plain Gold",
+     "code": "UC/P1/PPP/K9380",
+     "material": "Nio",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 9.8,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 9.8 in ? 6 mm"
+     },
+     "psf": 98,
+     "perPanel": 760,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841896094-b08b38.png",
+     "similarity": 71,
+     "isCheaper": true,
+     "diff": "▼ Saves ₹6,839",
      "scoreClass": "mid"
     }
    ]
@@ -5867,7 +5922,7 @@
    "search": "uc/p1/ppp/k9380 k9380 9380 nio plain gold nio",
    "unique": false,
    "cheaperCount": 1,
-   "oos": true,
+   "oos": false,
    "alternatives": [
     {
      "name": "0818 PVC Plain Gold",
