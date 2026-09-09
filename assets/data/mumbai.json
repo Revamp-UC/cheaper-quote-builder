@@ -390,6 +390,22 @@
    ]
   },
   {
+   "name": "0126 WPC Mini concave Gold",
+   "code": "UC/I2/PPU/P0126",
+   "material": "WPC",
+   "dims": {
+    "raw": ""
+   },
+   "psf": 0,
+   "perPanel": 0,
+   "image": "",
+   "search": "uc/i2/ppu/p0126 p0126 0126 wpc mini concave gold wpc",
+   "unique": true,
+   "cheaperCount": 0,
+   "oos": false,
+   "alternatives": []
+  },
+  {
    "name": "0129 Nio Plain Traditional",
    "code": "UC/P1/PPP/T0129",
    "material": "Nio",
@@ -574,6 +590,22 @@
      "scoreClass": "mid"
     }
    ]
+  },
+  {
+   "name": "0138 WPC Mini concave Pastel",
+   "code": "UC/I2/PPU/P0138",
+   "material": "WPC",
+   "dims": {
+    "raw": ""
+   },
+   "psf": 0,
+   "perPanel": 0,
+   "image": "",
+   "search": "uc/i2/ppu/p0138 p0138 0138 wpc mini concave pastel wpc",
+   "unique": true,
+   "cheaperCount": 0,
+   "oos": false,
+   "alternatives": []
   },
   {
    "name": "0156 Nio Plain Traditional",
@@ -1406,6 +1438,24 @@
    "oos": false,
    "alternatives": [
     {
+     "name": "2208 SPC Sheet Marble | 3 mm",
+     "code": "UC/M2/SS0/M2208",
+     "material": "SPC",
+     "dims": {
+      "L_ft": 9.2,
+      "W_in": 48,
+      "T_mm": 3,
+      "raw": "9.2 ft ? 48 in ? 3 mm"
+     },
+     "psf": 245,
+     "perPanel": 9000,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323656946-04cef4.jpeg",
+     "similarity": 78,
+     "isCheaper": false,
+     "diff": "▲ ₹8,350 premium",
+     "scoreClass": "mid"
+    },
+    {
      "name": "0HXL SPC Sheet Marble | 3 mm",
      "code": "UC/M2/SS0/M0HXL",
      "material": "SPC",
@@ -1439,6 +1489,24 @@
      "similarity": 73,
      "isCheaper": false,
      "diff": "▲ ₹6,949 premium",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "9952 WPC Sheet Texture | 7 mm",
+     "code": "UC/I2/SPH/L9952",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.2,
+      "W_in": 47.2,
+      "T_mm": 7,
+      "raw": "9.2 ft ? 47.2 in ? 7 mm"
+     },
+     "psf": 254,
+     "perPanel": 9200,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323533569-762729.jpeg",
+     "similarity": 72,
+     "isCheaper": false,
+     "diff": "▲ ₹8,550 premium",
      "scoreClass": "mid"
     }
    ]
@@ -1474,6 +1542,42 @@
      "psf": 245,
      "perPanel": 9000,
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323930350-5811eb.jpeg",
+     "similarity": 88,
+     "isCheaper": false,
+     "diff": "= same price",
+     "scoreClass": "hi"
+    },
+    {
+     "name": "09U2 SPC Sheet Marble | 3 mm",
+     "code": "UC/M2/SS0/M09U2",
+     "material": "SPC",
+     "dims": {
+      "L_ft": 9.2,
+      "W_in": 48,
+      "T_mm": 3,
+      "raw": "9.2 ft ? 48 in ? 3 mm"
+     },
+     "psf": 245,
+     "perPanel": 9000,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323468383-4a7d75.jpeg",
+     "similarity": 88,
+     "isCheaper": false,
+     "diff": "= same price",
+     "scoreClass": "hi"
+    },
+    {
+     "name": "2208 SPC Sheet Marble | 3 mm",
+     "code": "UC/M2/SS0/M2208",
+     "material": "SPC",
+     "dims": {
+      "L_ft": 9.2,
+      "W_in": 48,
+      "T_mm": 3,
+      "raw": "9.2 ft ? 48 in ? 3 mm"
+     },
+     "psf": 245,
+     "perPanel": 9000,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323656946-04cef4.jpeg",
      "similarity": 88,
      "isCheaper": false,
      "diff": "= same price",
@@ -1567,6 +1671,22 @@
    "perPanel": 9000,
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323666702-8fbe8c.jpeg",
    "search": "uc/m2/ss0/m0705 m0705 0705 spc sheet marble | 3 mm spc",
+   "unique": true,
+   "cheaperCount": 0,
+   "oos": false,
+   "alternatives": []
+  },
+  {
+   "name": "0777 WPC Mini concave Pastel",
+   "code": "UC/I2/PPU/P0777",
+   "material": "WPC",
+   "dims": {
+    "raw": ""
+   },
+   "psf": 0,
+   "perPanel": 0,
+   "image": "",
+   "search": "uc/i2/ppu/p0777 p0777 0777 wpc mini concave pastel wpc",
    "unique": true,
    "cheaperCount": 0,
    "oos": false,
@@ -1884,8 +2004,26 @@
    "search": "uc/m2/ss0/m09u2 m09u2 09u2 spc sheet marble | 3 mm spc",
    "unique": false,
    "cheaperCount": 3,
-   "oos": true,
+   "oos": false,
    "alternatives": [
+    {
+     "name": "2208 SPC Sheet Marble | 3 mm",
+     "code": "UC/M2/SS0/M2208",
+     "material": "SPC",
+     "dims": {
+      "L_ft": 9.2,
+      "W_in": 48,
+      "T_mm": 3,
+      "raw": "9.2 ft ? 48 in ? 3 mm"
+     },
+     "psf": 245,
+     "perPanel": 9000,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323656946-04cef4.jpeg",
+     "similarity": 90,
+     "isCheaper": false,
+     "diff": "= same price",
+     "scoreClass": "hi"
+    },
     {
      "name": "0703 SPC Sheet Marble | 3 mm",
      "code": "UC/M2/SS0/M0703",
@@ -2122,6 +2260,60 @@
      "similarity": 84,
      "isCheaper": false,
      "diff": "▲ ₹3,000 premium",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "2208 SPC Sheet Marble | 3 mm",
+     "code": "UC/M2/SS0/M2208",
+     "material": "SPC",
+     "dims": {
+      "L_ft": 9.2,
+      "W_in": 48,
+      "T_mm": 3,
+      "raw": "9.2 ft ? 48 in ? 3 mm"
+     },
+     "psf": 245,
+     "perPanel": 9000,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323656946-04cef4.jpeg",
+     "similarity": 83,
+     "isCheaper": false,
+     "diff": "▲ ₹3,000 premium",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "09U2 SPC Sheet Marble | 3 mm",
+     "code": "UC/M2/SS0/M09U2",
+     "material": "SPC",
+     "dims": {
+      "L_ft": 9.2,
+      "W_in": 48,
+      "T_mm": 3,
+      "raw": "9.2 ft ? 48 in ? 3 mm"
+     },
+     "psf": 245,
+     "perPanel": 9000,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323468383-4a7d75.jpeg",
+     "similarity": 83,
+     "isCheaper": false,
+     "diff": "▲ ₹3,000 premium",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "9952 WPC Sheet Texture | 7 mm",
+     "code": "UC/I2/SPH/L9952",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.2,
+      "W_in": 47.2,
+      "T_mm": 7,
+      "raw": "9.2 ft ? 47.2 in ? 7 mm"
+     },
+     "psf": 254,
+     "perPanel": 9200,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323533569-762729.jpeg",
+     "similarity": 82,
+     "isCheaper": false,
+     "diff": "▲ ₹3,200 premium",
      "scoreClass": "mid"
     },
     {
@@ -2720,6 +2912,25 @@
    ]
   },
   {
+   "name": "2008 WPC Sheet Stone | 7 mm",
+   "code": "UC/I2/SPG/M2008",
+   "material": "WPC",
+   "dims": {
+    "L_ft": 9.2,
+    "W_in": 23.6,
+    "T_mm": 7,
+    "raw": "9.2 ft ? 23.6 in ? 7 mm"
+   },
+   "psf": 196,
+   "perPanel": 3550,
+   "image": "",
+   "search": "uc/i2/spg/m2008 m2008 2008 wpc sheet stone | 7 mm wpc",
+   "unique": true,
+   "cheaperCount": 0,
+   "oos": false,
+   "alternatives": []
+  },
+  {
    "name": "2022 WPC Ceramic White",
    "code": "UC/I2/PPC/H2022",
    "material": "WPC",
@@ -2771,6 +2982,24 @@
      "similarity": 81,
      "isCheaper": false,
      "diff": "= same price",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "2022 WPC Sheet White | 7 mm",
+     "code": "UC/I2/SPG/H2022",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.2,
+      "W_in": 23.48,
+      "T_mm": 7,
+      "raw": "9.2 ft ? 23.48 in ? 7 mm"
+     },
+     "psf": 197,
+     "perPanel": 3550,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140966166-e373e9.jpeg",
+     "similarity": 71,
+     "isCheaper": false,
+     "diff": "▲ ₹1,900 premium",
      "scoreClass": "mid"
     }
    ]
@@ -2919,7 +3148,7 @@
    "search": "uc/i2/spg/h2022 h2022 2022 wpc sheet white | 7 mm wpc",
    "unique": false,
    "cheaperCount": 1,
-   "oos": true,
+   "oos": false,
    "alternatives": [
     {
      "name": "2025 WPC Sheet Neutral | 7 mm",
@@ -3144,6 +3373,24 @@
    "oos": false,
    "alternatives": [
     {
+     "name": "2022 WPC Sheet White | 7 mm",
+     "code": "UC/I2/SPG/H2022",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.2,
+      "W_in": 23.48,
+      "T_mm": 7,
+      "raw": "9.2 ft ? 23.48 in ? 7 mm"
+     },
+     "psf": 197,
+     "perPanel": 3550,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140966166-e373e9.jpeg",
+     "similarity": 83,
+     "isCheaper": false,
+     "diff": "= same price",
+     "scoreClass": "mid"
+    },
+    {
      "name": "0112 WPC Sheet Neutral | 7 mm",
      "code": "UC/I2/SPG/N0112",
      "material": "WPC",
@@ -3330,6 +3577,24 @@
    "oos": false,
    "alternatives": [
     {
+     "name": "9952 WPC Sheet Texture | 7 mm",
+     "code": "UC/I2/SPH/L9952",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.2,
+      "W_in": 47.2,
+      "T_mm": 7,
+      "raw": "9.2 ft ? 47.2 in ? 7 mm"
+     },
+     "psf": 254,
+     "perPanel": 9200,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323533569-762729.jpeg",
+     "similarity": 82,
+     "isCheaper": false,
+     "diff": "▲ ₹1,601 premium",
+     "scoreClass": "mid"
+    },
+    {
      "name": "ES84 Nio Plain Texture",
      "code": "UC/P1/PPP/LES84",
      "material": "Nio",
@@ -3419,8 +3684,26 @@
    "search": "uc/m2/ss0/m2208 m2208 2208 spc sheet marble | 3 mm spc",
    "unique": false,
    "cheaperCount": 3,
-   "oos": true,
+   "oos": false,
    "alternatives": [
+    {
+     "name": "09U2 SPC Sheet Marble | 3 mm",
+     "code": "UC/M2/SS0/M09U2",
+     "material": "SPC",
+     "dims": {
+      "L_ft": 9.2,
+      "W_in": 48,
+      "T_mm": 3,
+      "raw": "9.2 ft ? 48 in ? 3 mm"
+     },
+     "psf": 245,
+     "perPanel": 9000,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323468383-4a7d75.jpeg",
+     "similarity": 90,
+     "isCheaper": false,
+     "diff": "= same price",
+     "scoreClass": "hi"
+    },
     {
      "name": "0703 SPC Sheet Marble | 3 mm",
      "code": "UC/M2/SS0/M0703",
@@ -3512,6 +3795,60 @@
      "scoreClass": "mid"
     }
    ]
+  },
+  {
+   "name": "2281 WPC Mini concave Wood",
+   "code": "UC/I2/PPU/W2281",
+   "material": "WPC",
+   "dims": {
+    "raw": ""
+   },
+   "psf": 0,
+   "perPanel": 0,
+   "image": "",
+   "search": "uc/i2/ppu/w2281 w2281 2281 wpc mini concave wood wpc",
+   "unique": true,
+   "cheaperCount": 0,
+   "oos": false,
+   "alternatives": []
+  },
+  {
+   "name": "2281 WPC Sheet Wood | 7 mm",
+   "code": "UC/I2/SPG/W2281",
+   "material": "WPC",
+   "dims": {
+    "L_ft": 9.2,
+    "W_in": 23.6,
+    "T_mm": 7,
+    "raw": "9.2 ft ? 23.6 in ? 7 mm"
+   },
+   "psf": 196,
+   "perPanel": 3550,
+   "image": "",
+   "search": "uc/i2/spg/w2281 w2281 2281 wpc sheet wood | 7 mm wpc",
+   "unique": true,
+   "cheaperCount": 0,
+   "oos": false,
+   "alternatives": []
+  },
+  {
+   "name": "3100 Charcoal Concave Gold",
+   "code": "UC/I2/PCZ/K3100",
+   "material": "Charcoal",
+   "dims": {
+    "L_ft": 9.5,
+    "W_in": 11.8,
+    "T_mm": 11,
+    "raw": "9.5 ft ? 11.8 in ? 11 mm"
+   },
+   "psf": 0,
+   "perPanel": 0,
+   "image": "",
+   "search": "uc/i2/pcz/k3100 k3100 3100 charcoal concave gold charcoal",
+   "unique": true,
+   "cheaperCount": 0,
+   "oos": false,
+   "alternatives": []
   },
   {
    "name": "3621 Charcoal Mini rectangle Wood",
@@ -3918,6 +4255,25 @@
      "scoreClass": "mid"
     }
    ]
+  },
+  {
+   "name": "4022 Charcoal Concave Gold",
+   "code": "UC/I2/PCZ/K4022",
+   "material": "Charcoal",
+   "dims": {
+    "L_ft": 9.5,
+    "W_in": 11.8,
+    "T_mm": 11,
+    "raw": "9.5 ft ? 11.8 in ? 11 mm"
+   },
+   "psf": 0,
+   "perPanel": 0,
+   "image": "",
+   "search": "uc/i2/pcz/k4022 k4022 4022 charcoal concave gold charcoal",
+   "unique": true,
+   "cheaperCount": 0,
+   "oos": false,
+   "alternatives": []
   },
   {
    "name": "4501 SPC Sheet Marble | 3 mm",
@@ -4694,6 +5050,24 @@
      "scoreClass": "hi"
     },
     {
+     "name": "2208 SPC Sheet Marble | 3 mm",
+     "code": "UC/M2/SS0/M2208",
+     "material": "SPC",
+     "dims": {
+      "L_ft": 9.2,
+      "W_in": 48,
+      "T_mm": 3,
+      "raw": "9.2 ft ? 48 in ? 3 mm"
+     },
+     "psf": 245,
+     "perPanel": 9000,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323656946-04cef4.jpeg",
+     "similarity": 86,
+     "isCheaper": false,
+     "diff": "= same price",
+     "scoreClass": "hi"
+    },
+    {
      "name": "8083 SPC Sheet Gold | 3 mm",
      "code": "UC/M2/SS0/M8083",
      "material": "SPC",
@@ -4706,6 +5080,24 @@
      "psf": 245,
      "perPanel": 9000,
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323939936-9eb8d8.jpeg",
+     "similarity": 86,
+     "isCheaper": false,
+     "diff": "= same price",
+     "scoreClass": "hi"
+    },
+    {
+     "name": "09U2 SPC Sheet Marble | 3 mm",
+     "code": "UC/M2/SS0/M09U2",
+     "material": "SPC",
+     "dims": {
+      "L_ft": 9.2,
+      "W_in": 48,
+      "T_mm": 3,
+      "raw": "9.2 ft ? 48 in ? 3 mm"
+     },
+     "psf": 245,
+     "perPanel": 9000,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323468383-4a7d75.jpeg",
      "similarity": 86,
      "isCheaper": false,
      "diff": "= same price",
@@ -4784,6 +5176,25 @@
      "scoreClass": "mid"
     }
    ]
+  },
+  {
+   "name": "5537 Charcoal Concave Stone",
+   "code": "UC/I2/PCZ/K5537",
+   "material": "Charcoal",
+   "dims": {
+    "L_ft": 9.5,
+    "W_in": 11.8,
+    "T_mm": 11,
+    "raw": "9.5 ft ? 11.8 in ? 11 mm"
+   },
+   "psf": 0,
+   "perPanel": 0,
+   "image": "",
+   "search": "uc/i2/pcz/k5537 k5537 5537 charcoal concave stone charcoal",
+   "unique": true,
+   "cheaperCount": 0,
+   "oos": false,
+   "alternatives": []
   },
   {
    "name": "5537 Charcoal Mini concave Gold",
@@ -6111,6 +6522,25 @@
    ]
   },
   {
+   "name": "8943 WPC Sheet Pastel | 7 mm",
+   "code": "UC/I2/SPG/M8943",
+   "material": "WPC",
+   "dims": {
+    "L_ft": 9.2,
+    "W_in": 23.6,
+    "T_mm": 7,
+    "raw": "9.2 ft ? 23.6 in ? 7 mm"
+   },
+   "psf": 196,
+   "perPanel": 3550,
+   "image": "",
+   "search": "uc/i2/spg/m8943 m8943 8943 wpc sheet pastel | 7 mm wpc",
+   "unique": true,
+   "cheaperCount": 0,
+   "oos": false,
+   "alternatives": []
+  },
+  {
    "name": "9001 Nio Plain Stone",
    "code": "UC/P1/PPP/S9001",
    "material": "Nio",
@@ -6129,6 +6559,24 @@
    "oos": false,
    "alternatives": [
     {
+     "name": "9952 WPC Sheet Texture | 7 mm",
+     "code": "UC/I2/SPH/L9952",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.2,
+      "W_in": 47.2,
+      "T_mm": 7,
+      "raw": "9.2 ft ? 47.2 in ? 7 mm"
+     },
+     "psf": 254,
+     "perPanel": 9200,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323533569-762729.jpeg",
+     "similarity": 76,
+     "isCheaper": false,
+     "diff": "▲ ₹8,400 premium",
+     "scoreClass": "mid"
+    },
+    {
      "name": "0HXL SPC Sheet Marble | 3 mm",
      "code": "UC/M2/SS0/M0HXL",
      "material": "SPC",
@@ -6144,6 +6592,42 @@
      "similarity": 75,
      "isCheaper": false,
      "diff": "▲ ₹5,200 premium",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "2208 SPC Sheet Marble | 3 mm",
+     "code": "UC/M2/SS0/M2208",
+     "material": "SPC",
+     "dims": {
+      "L_ft": 9.2,
+      "W_in": 48,
+      "T_mm": 3,
+      "raw": "9.2 ft ? 48 in ? 3 mm"
+     },
+     "psf": 245,
+     "perPanel": 9000,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323656946-04cef4.jpeg",
+     "similarity": 74,
+     "isCheaper": false,
+     "diff": "▲ ₹8,200 premium",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "09U2 SPC Sheet Marble | 3 mm",
+     "code": "UC/M2/SS0/M09U2",
+     "material": "SPC",
+     "dims": {
+      "L_ft": 9.2,
+      "W_in": 48,
+      "T_mm": 3,
+      "raw": "9.2 ft ? 48 in ? 3 mm"
+     },
+     "psf": 245,
+     "perPanel": 9000,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323468383-4a7d75.jpeg",
+     "similarity": 74,
+     "isCheaper": false,
+     "diff": "▲ ₹8,200 premium",
      "scoreClass": "mid"
     }
    ]
@@ -6257,6 +6741,24 @@
      "isCheaper": false,
      "diff": "= same price",
      "scoreClass": "hi"
+    },
+    {
+     "name": "X921 WPC Sheet Wood | 7 mm",
+     "code": "UC/I2/SPG/WX921",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.2,
+      "W_in": 23.48,
+      "T_mm": 7,
+      "raw": "9.2 ft ? 23.48 in ? 7 mm"
+     },
+     "psf": 197,
+     "perPanel": 3550,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140294615-99bfdb.jpeg",
+     "similarity": 81,
+     "isCheaper": false,
+     "diff": "▲ ₹2,750 premium",
+     "scoreClass": "mid"
     },
     {
      "name": "9204 Nio Fluted Wood",
@@ -6481,6 +6983,24 @@
      "scoreClass": "mid"
     },
     {
+     "name": "09U2 SPC Sheet Marble | 3 mm",
+     "code": "UC/M2/SS0/M09U2",
+     "material": "SPC",
+     "dims": {
+      "L_ft": 9.2,
+      "W_in": 48,
+      "T_mm": 3,
+      "raw": "9.2 ft ? 48 in ? 3 mm"
+     },
+     "psf": 245,
+     "perPanel": 9000,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323468383-4a7d75.jpeg",
+     "similarity": 80,
+     "isCheaper": false,
+     "diff": "▲ ₹8,350 premium",
+     "scoreClass": "mid"
+    },
+    {
      "name": "0703 SPC Sheet Marble | 3 mm",
      "code": "UC/M2/SS0/M0703",
      "material": "SPC",
@@ -6662,7 +7182,7 @@
    "search": "uc/i2/sph/l9952 l9952 9952 wpc sheet texture | 7 mm wpc",
    "unique": false,
    "cheaperCount": 5,
-   "oos": true,
+   "oos": false,
    "alternatives": [
     {
      "name": "CZ07 WPC Sheet Texture | 7 mm",
@@ -7054,6 +7574,117 @@
    ]
   },
   {
+   "name": "B010 WPC Classic Wood",
+   "code": "UC/I2/PPD/WB010",
+   "material": "WPC",
+   "dims": {
+    "L_ft": 9.5,
+    "W_in": 7.9,
+    "T_mm": 12,
+    "raw": "9.5 ft ? 7.9 in ? 12 mm"
+   },
+   "psf": 240,
+   "perPanel": 1500,
+   "image": "",
+   "search": "uc/i2/ppd/wb010 wb010 b010 wpc classic wood wpc",
+   "unique": true,
+   "cheaperCount": 0,
+   "oos": false,
+   "alternatives": []
+  },
+  {
+   "name": "B010 WPC Sheet Wood | 7 mm",
+   "code": "UC/I2/SPG/WB010",
+   "material": "WPC",
+   "dims": {
+    "L_ft": 9.2,
+    "W_in": 23.6,
+    "T_mm": 7,
+    "raw": "9.2 ft ? 23.6 in ? 7 mm"
+   },
+   "psf": 196,
+   "perPanel": 3550,
+   "image": "",
+   "search": "uc/i2/spg/wb010 wb010 b010 wpc sheet wood | 7 mm wpc",
+   "unique": true,
+   "cheaperCount": 0,
+   "oos": false,
+   "alternatives": []
+  },
+  {
+   "name": "B016 WPC Classic Wood",
+   "code": "UC/I2/PPD/WB016",
+   "material": "WPC",
+   "dims": {
+    "L_ft": 9.5,
+    "W_in": 7.9,
+    "T_mm": 12,
+    "raw": "9.5 ft ? 7.9 in ? 12 mm"
+   },
+   "psf": 240,
+   "perPanel": 1500,
+   "image": "",
+   "search": "uc/i2/ppd/wb016 wb016 b016 wpc classic wood wpc",
+   "unique": true,
+   "cheaperCount": 0,
+   "oos": false,
+   "alternatives": []
+  },
+  {
+   "name": "B016 WPC Sheet Wood | 7 mm",
+   "code": "UC/I2/SPG/WB016",
+   "material": "WPC",
+   "dims": {
+    "L_ft": 9.2,
+    "W_in": 23.6,
+    "T_mm": 7,
+    "raw": "9.2 ft ? 23.6 in ? 7 mm"
+   },
+   "psf": 196,
+   "perPanel": 3550,
+   "image": "",
+   "search": "uc/i2/spg/wb016 wb016 b016 wpc sheet wood | 7 mm wpc",
+   "unique": true,
+   "cheaperCount": 0,
+   "oos": false,
+   "alternatives": []
+  },
+  {
+   "name": "B018 WPC Mini concave Wood",
+   "code": "UC/I2/PPU/WB018",
+   "material": "WPC",
+   "dims": {
+    "raw": ""
+   },
+   "psf": 0,
+   "perPanel": 0,
+   "image": "",
+   "search": "uc/i2/ppu/wb018 wb018 b018 wpc mini concave wood wpc",
+   "unique": true,
+   "cheaperCount": 0,
+   "oos": false,
+   "alternatives": []
+  },
+  {
+   "name": "B018 WPC Sheet Wood | 7 mm",
+   "code": "UC/I2/SPG/WB018",
+   "material": "WPC",
+   "dims": {
+    "L_ft": 9.2,
+    "W_in": 23.6,
+    "T_mm": 7,
+    "raw": "9.2 ft ? 23.6 in ? 7 mm"
+   },
+   "psf": 196,
+   "perPanel": 3550,
+   "image": "",
+   "search": "uc/i2/spg/wb018 wb018 b018 wpc sheet wood | 7 mm wpc",
+   "unique": true,
+   "cheaperCount": 0,
+   "oos": false,
+   "alternatives": []
+  },
+  {
    "name": "B232 Charcoal Embossed Rattan",
    "code": "UC/I2/PCI/RB232",
    "material": "Charcoal",
@@ -7127,6 +7758,24 @@
    "cheaperCount": 1,
    "oos": false,
    "alternatives": [
+    {
+     "name": "9952 WPC Sheet Texture | 7 mm",
+     "code": "UC/I2/SPH/L9952",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.2,
+      "W_in": 47.2,
+      "T_mm": 7,
+      "raw": "9.2 ft ? 47.2 in ? 7 mm"
+     },
+     "psf": 254,
+     "perPanel": 9200,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323533569-762729.jpeg",
+     "similarity": 85,
+     "isCheaper": false,
+     "diff": "▲ ₹1,601 premium",
+     "scoreClass": "hi"
+    },
     {
      "name": "0HXL SPC Sheet Marble | 3 mm",
      "code": "UC/M2/SS0/M0HXL",
@@ -7422,6 +8071,24 @@
      "isCheaper": false,
      "diff": "= same price",
      "scoreClass": "hi"
+    },
+    {
+     "name": "X921 WPC Sheet Wood | 7 mm",
+     "code": "UC/I2/SPG/WX921",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.2,
+      "W_in": 23.48,
+      "T_mm": 7,
+      "raw": "9.2 ft ? 23.48 in ? 7 mm"
+     },
+     "psf": 197,
+     "perPanel": 3550,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140294615-99bfdb.jpeg",
+     "similarity": 78,
+     "isCheaper": false,
+     "diff": "▲ ₹2,750 premium",
+     "scoreClass": "mid"
     }
    ]
   },
@@ -8782,6 +9449,24 @@
      "isCheaper": false,
      "diff": "= same price",
      "scoreClass": "hi"
+    },
+    {
+     "name": "X921 WPC Sheet Wood | 7 mm",
+     "code": "UC/I2/SPG/WX921",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.2,
+      "W_in": 23.48,
+      "T_mm": 7,
+      "raw": "9.2 ft ? 23.48 in ? 7 mm"
+     },
+     "psf": 197,
+     "perPanel": 3550,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140294615-99bfdb.jpeg",
+     "similarity": 85,
+     "isCheaper": false,
+     "diff": "▲ ₹2,050 premium",
+     "scoreClass": "hi"
     }
    ]
   },
@@ -8801,7 +9486,7 @@
    "search": "uc/i2/spg/wx921 wx921 x921 wpc sheet wood | 7 mm wpc",
    "unique": false,
    "cheaperCount": 4,
-   "oos": true,
+   "oos": false,
    "alternatives": [
     {
      "name": "X921 WPC Classic Wood",
@@ -8948,8 +9633,64 @@
      "isCheaper": false,
      "diff": "▲ ₹50 premium",
      "scoreClass": "hi"
+    },
+    {
+     "name": "X921 WPC Sheet Wood | 7 mm",
+     "code": "UC/I2/SPG/WX921",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.2,
+      "W_in": 23.48,
+      "T_mm": 7,
+      "raw": "9.2 ft ? 23.48 in ? 7 mm"
+     },
+     "psf": 197,
+     "perPanel": 3550,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140294615-99bfdb.jpeg",
+     "similarity": 80,
+     "isCheaper": false,
+     "diff": "▲ ₹2,100 premium",
+     "scoreClass": "mid"
     }
    ]
+  },
+  {
+   "name": "Y008 SPC Sheet Marble | 3 mm",
+   "code": "UC/I2/SS0/SY008",
+   "material": "SPC",
+   "dims": {
+    "L_ft": 9.2,
+    "W_in": 48,
+    "T_mm": 3,
+    "raw": "9.2 ft ? 48 in ? 3 mm"
+   },
+   "psf": 245,
+   "perPanel": 9000,
+   "image": "",
+   "search": "uc/i2/ss0/sy008 sy008 y008 spc sheet marble | 3 mm spc",
+   "unique": true,
+   "cheaperCount": 0,
+   "oos": false,
+   "alternatives": []
+  },
+  {
+   "name": "Y130 SPC Sheet Marble | 3 mm",
+   "code": "UC/I2/SS0/SY130",
+   "material": "SPC",
+   "dims": {
+    "L_ft": 9.2,
+    "W_in": 48,
+    "T_mm": 3,
+    "raw": "9.2 ft ? 48 in ? 3 mm"
+   },
+   "psf": 245,
+   "perPanel": 9000,
+   "image": "",
+   "search": "uc/i2/ss0/sy130 sy130 y130 spc sheet marble | 3 mm spc",
+   "unique": true,
+   "cheaperCount": 0,
+   "oos": false,
+   "alternatives": []
   }
  ]
 }
