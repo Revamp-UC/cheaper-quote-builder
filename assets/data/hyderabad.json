@@ -77,25 +77,6 @@
    ]
   },
   {
-   "name": "0037 Charcoal Embossed White",
-   "code": "UC/I2/PCI/G0037",
-   "material": "Charcoal",
-   "dims": {
-    "L_ft": 9.5,
-    "W_in": 11.9,
-    "T_mm": 7,
-    "raw": "9.5 ft ? 11.9 in ? 7 mm"
-   },
-   "psf": 414,
-   "perPanel": 3900,
-   "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1775052864020-8b2640.png",
-   "search": "uc/i2/pci/g0037 g0037 0037 charcoal embossed white charcoal",
-   "unique": true,
-   "cheaperCount": 0,
-   "oos": false,
-   "alternatives": []
-  },
-  {
    "name": "0066 Charcoal Embossed Pastel",
    "code": "UC/I2/PCI/G0066",
    "material": "Charcoal",
@@ -522,6 +503,22 @@
    ]
   },
   {
+   "name": "0126 WPC Mini concave Gold",
+   "code": "UC/I2/PPU/P0126",
+   "material": "WPC",
+   "dims": {
+    "raw": ""
+   },
+   "psf": 0,
+   "perPanel": 0,
+   "image": "",
+   "search": "uc/i2/ppu/p0126 p0126 0126 wpc mini concave gold wpc",
+   "unique": true,
+   "cheaperCount": 0,
+   "oos": false,
+   "alternatives": []
+  },
+  {
    "name": "0129 Nio Plain Traditional",
    "code": "UC/P1/PPP/T0129",
    "material": "Nio",
@@ -670,6 +667,22 @@
      "scoreClass": "hi"
     }
    ]
+  },
+  {
+   "name": "0138 WPC Mini concave Pastel",
+   "code": "UC/I2/PPU/P0138",
+   "material": "WPC",
+   "dims": {
+    "raw": ""
+   },
+   "psf": 0,
+   "perPanel": 0,
+   "image": "",
+   "search": "uc/i2/ppu/p0138 p0138 0138 wpc mini concave pastel wpc",
+   "unique": true,
+   "cheaperCount": 0,
+   "oos": false,
+   "alternatives": []
   },
   {
    "name": "0156 Nio Plain Traditional",
@@ -1533,6 +1546,22 @@
    "perPanel": 9000,
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323666702-8fbe8c.jpeg",
    "search": "uc/m2/ss0/m0705 m0705 0705 spc sheet marble | 3 mm spc",
+   "unique": true,
+   "cheaperCount": 0,
+   "oos": false,
+   "alternatives": []
+  },
+  {
+   "name": "0777 WPC Mini concave Pastel",
+   "code": "UC/I2/PPU/P0777",
+   "material": "WPC",
+   "dims": {
+    "raw": ""
+   },
+   "psf": 0,
+   "perPanel": 0,
+   "image": "",
+   "search": "uc/i2/ppu/p0777 p0777 0777 wpc mini concave pastel wpc",
    "unique": true,
    "cheaperCount": 0,
    "oos": false,
@@ -2630,6 +2659,25 @@
    ]
   },
   {
+   "name": "2008 WPC Sheet Stone | 7 mm",
+   "code": "UC/I2/SPG/M2008",
+   "material": "WPC",
+   "dims": {
+    "L_ft": 9.2,
+    "W_in": 23.6,
+    "T_mm": 7,
+    "raw": "9.2 ft ? 23.6 in ? 7 mm"
+   },
+   "psf": 196,
+   "perPanel": 3550,
+   "image": "",
+   "search": "uc/i2/spg/m2008 m2008 2008 wpc sheet stone | 7 mm wpc",
+   "unique": true,
+   "cheaperCount": 0,
+   "oos": false,
+   "alternatives": []
+  },
+  {
    "name": "2022 WPC Ceramic White",
    "code": "UC/I2/PPC/H2022",
    "material": "WPC",
@@ -3512,6 +3560,60 @@
    ]
   },
   {
+   "name": "2281 WPC Mini concave Wood",
+   "code": "UC/I2/PPU/W2281",
+   "material": "WPC",
+   "dims": {
+    "raw": ""
+   },
+   "psf": 0,
+   "perPanel": 0,
+   "image": "",
+   "search": "uc/i2/ppu/w2281 w2281 2281 wpc mini concave wood wpc",
+   "unique": true,
+   "cheaperCount": 0,
+   "oos": false,
+   "alternatives": []
+  },
+  {
+   "name": "2281 WPC Sheet Wood | 7 mm",
+   "code": "UC/I2/SPG/W2281",
+   "material": "WPC",
+   "dims": {
+    "L_ft": 9.2,
+    "W_in": 23.6,
+    "T_mm": 7,
+    "raw": "9.2 ft ? 23.6 in ? 7 mm"
+   },
+   "psf": 196,
+   "perPanel": 3550,
+   "image": "",
+   "search": "uc/i2/spg/w2281 w2281 2281 wpc sheet wood | 7 mm wpc",
+   "unique": true,
+   "cheaperCount": 0,
+   "oos": false,
+   "alternatives": []
+  },
+  {
+   "name": "3100 Charcoal Concave Gold",
+   "code": "UC/I2/PCZ/K3100",
+   "material": "Charcoal",
+   "dims": {
+    "L_ft": 9.5,
+    "W_in": 11.8,
+    "T_mm": 11,
+    "raw": "9.5 ft ? 11.8 in ? 11 mm"
+   },
+   "psf": 0,
+   "perPanel": 0,
+   "image": "",
+   "search": "uc/i2/pcz/k3100 k3100 3100 charcoal concave gold charcoal",
+   "unique": true,
+   "cheaperCount": 0,
+   "oos": false,
+   "alternatives": []
+  },
+  {
    "name": "3621 Charcoal Mini rectangle Wood",
    "code": "UC/M2/PCR/W3621",
    "material": "Charcoal",
@@ -3916,6 +4018,25 @@
      "scoreClass": "mid"
     }
    ]
+  },
+  {
+   "name": "4022 Charcoal Concave Gold",
+   "code": "UC/I2/PCZ/K4022",
+   "material": "Charcoal",
+   "dims": {
+    "L_ft": 9.5,
+    "W_in": 11.8,
+    "T_mm": 11,
+    "raw": "9.5 ft ? 11.8 in ? 11 mm"
+   },
+   "psf": 0,
+   "perPanel": 0,
+   "image": "",
+   "search": "uc/i2/pcz/k4022 k4022 4022 charcoal concave gold charcoal",
+   "unique": true,
+   "cheaperCount": 0,
+   "oos": false,
+   "alternatives": []
   },
   {
    "name": "4501 SPC Sheet Marble | 3 mm",
@@ -4876,6 +4997,25 @@
      "scoreClass": "mid"
     }
    ]
+  },
+  {
+   "name": "5537 Charcoal Concave Stone",
+   "code": "UC/I2/PCZ/K5537",
+   "material": "Charcoal",
+   "dims": {
+    "L_ft": 9.5,
+    "W_in": 11.8,
+    "T_mm": 11,
+    "raw": "9.5 ft ? 11.8 in ? 11 mm"
+   },
+   "psf": 0,
+   "perPanel": 0,
+   "image": "",
+   "search": "uc/i2/pcz/k5537 k5537 5537 charcoal concave stone charcoal",
+   "unique": true,
+   "cheaperCount": 0,
+   "oos": false,
+   "alternatives": []
   },
   {
    "name": "5537 Charcoal Mini concave Gold",
@@ -6276,6 +6416,25 @@
    ]
   },
   {
+   "name": "8943 WPC Sheet Pastel | 7 mm",
+   "code": "UC/I2/SPG/M8943",
+   "material": "WPC",
+   "dims": {
+    "L_ft": 9.2,
+    "W_in": 23.6,
+    "T_mm": 7,
+    "raw": "9.2 ft ? 23.6 in ? 7 mm"
+   },
+   "psf": 196,
+   "perPanel": 3550,
+   "image": "",
+   "search": "uc/i2/spg/m8943 m8943 8943 wpc sheet pastel | 7 mm wpc",
+   "unique": true,
+   "cheaperCount": 0,
+   "oos": false,
+   "alternatives": []
+  },
+  {
    "name": "9001 Nio Plain Stone",
    "code": "UC/P1/PPP/S9001",
    "material": "Nio",
@@ -7125,6 +7284,117 @@
      "scoreClass": "mid"
     }
    ]
+  },
+  {
+   "name": "B010 WPC Classic Wood",
+   "code": "UC/I2/PPD/WB010",
+   "material": "WPC",
+   "dims": {
+    "L_ft": 9.5,
+    "W_in": 7.9,
+    "T_mm": 12,
+    "raw": "9.5 ft ? 7.9 in ? 12 mm"
+   },
+   "psf": 256,
+   "perPanel": 1600,
+   "image": "",
+   "search": "uc/i2/ppd/wb010 wb010 b010 wpc classic wood wpc",
+   "unique": true,
+   "cheaperCount": 0,
+   "oos": false,
+   "alternatives": []
+  },
+  {
+   "name": "B010 WPC Sheet Wood | 7 mm",
+   "code": "UC/I2/SPG/WB010",
+   "material": "WPC",
+   "dims": {
+    "L_ft": 9.2,
+    "W_in": 23.6,
+    "T_mm": 7,
+    "raw": "9.2 ft ? 23.6 in ? 7 mm"
+   },
+   "psf": 196,
+   "perPanel": 3550,
+   "image": "",
+   "search": "uc/i2/spg/wb010 wb010 b010 wpc sheet wood | 7 mm wpc",
+   "unique": true,
+   "cheaperCount": 0,
+   "oos": false,
+   "alternatives": []
+  },
+  {
+   "name": "B016 WPC Classic Wood",
+   "code": "UC/I2/PPD/WB016",
+   "material": "WPC",
+   "dims": {
+    "L_ft": 9.5,
+    "W_in": 7.9,
+    "T_mm": 12,
+    "raw": "9.5 ft ? 7.9 in ? 12 mm"
+   },
+   "psf": 256,
+   "perPanel": 1600,
+   "image": "",
+   "search": "uc/i2/ppd/wb016 wb016 b016 wpc classic wood wpc",
+   "unique": true,
+   "cheaperCount": 0,
+   "oos": false,
+   "alternatives": []
+  },
+  {
+   "name": "B016 WPC Sheet Wood | 7 mm",
+   "code": "UC/I2/SPG/WB016",
+   "material": "WPC",
+   "dims": {
+    "L_ft": 9.2,
+    "W_in": 23.6,
+    "T_mm": 7,
+    "raw": "9.2 ft ? 23.6 in ? 7 mm"
+   },
+   "psf": 196,
+   "perPanel": 3550,
+   "image": "",
+   "search": "uc/i2/spg/wb016 wb016 b016 wpc sheet wood | 7 mm wpc",
+   "unique": true,
+   "cheaperCount": 0,
+   "oos": false,
+   "alternatives": []
+  },
+  {
+   "name": "B018 WPC Mini concave Wood",
+   "code": "UC/I2/PPU/WB018",
+   "material": "WPC",
+   "dims": {
+    "raw": ""
+   },
+   "psf": 0,
+   "perPanel": 0,
+   "image": "",
+   "search": "uc/i2/ppu/wb018 wb018 b018 wpc mini concave wood wpc",
+   "unique": true,
+   "cheaperCount": 0,
+   "oos": false,
+   "alternatives": []
+  },
+  {
+   "name": "B018 WPC Sheet Wood | 7 mm",
+   "code": "UC/I2/SPG/WB018",
+   "material": "WPC",
+   "dims": {
+    "L_ft": 9.2,
+    "W_in": 23.6,
+    "T_mm": 7,
+    "raw": "9.2 ft ? 23.6 in ? 7 mm"
+   },
+   "psf": 196,
+   "perPanel": 3550,
+   "image": "",
+   "search": "uc/i2/spg/wb018 wb018 b018 wpc sheet wood | 7 mm wpc",
+   "unique": true,
+   "cheaperCount": 0,
+   "oos": false,
+   "alternatives": []
   },
   {
    "name": "B232 Charcoal Embossed Rattan",

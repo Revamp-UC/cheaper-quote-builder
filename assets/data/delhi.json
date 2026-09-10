@@ -58,25 +58,6 @@
    ]
   },
   {
-   "name": "0037 Charcoal Embossed White",
-   "code": "UC/I2/PCI/G0037",
-   "material": "Charcoal",
-   "dims": {
-    "L_ft": 9.5,
-    "W_in": 11.9,
-    "T_mm": 7,
-    "raw": "9.5 ft ? 11.9 in ? 7 mm"
-   },
-   "psf": 356,
-   "perPanel": 3350,
-   "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1775052864020-8b2640.png",
-   "search": "uc/i2/pci/g0037 g0037 0037 charcoal embossed white charcoal",
-   "unique": true,
-   "cheaperCount": 0,
-   "oos": false,
-   "alternatives": []
-  },
-  {
    "name": "0066 Charcoal Embossed Pastel",
    "code": "UC/I2/PCI/G0066",
    "material": "Charcoal",
@@ -447,6 +428,22 @@
    ]
   },
   {
+   "name": "0126 WPC Mini concave Gold",
+   "code": "UC/I2/PPU/P0126",
+   "material": "WPC",
+   "dims": {
+    "raw": ""
+   },
+   "psf": 0,
+   "perPanel": 0,
+   "image": "",
+   "search": "uc/i2/ppu/p0126 p0126 0126 wpc mini concave gold wpc",
+   "unique": true,
+   "cheaperCount": 0,
+   "oos": false,
+   "alternatives": []
+  },
+  {
    "name": "0129* Nio Plain Traditional",
    "code": "UC/P1/PPN/T0129",
    "material": "Nio",
@@ -633,6 +630,22 @@
    ]
   },
   {
+   "name": "0138 WPC Mini concave Pastel",
+   "code": "UC/I2/PPU/P0138",
+   "material": "WPC",
+   "dims": {
+    "raw": ""
+   },
+   "psf": 0,
+   "perPanel": 0,
+   "image": "",
+   "search": "uc/i2/ppu/p0138 p0138 0138 wpc mini concave pastel wpc",
+   "unique": true,
+   "cheaperCount": 0,
+   "oos": false,
+   "alternatives": []
+  },
+  {
    "name": "0156* Nio Plain Traditional",
    "code": "UC/P1/PPN/T0156",
    "material": "Nio",
@@ -685,7 +698,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841888427-f94e08.png",
    "search": "uc/p1/ppn/k0195 k0195 0195* nio plain gold nio",
    "unique": false,
-   "cheaperCount": 1,
+   "cheaperCount": 2,
    "oos": false,
    "alternatives": [
     {
@@ -702,6 +715,24 @@
      "perPanel": 760,
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841892728-ff625b.png",
      "similarity": 79,
+     "isCheaper": true,
+     "diff": "▼ Saves ₹390",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "9472 Nio Plain Gold",
+     "code": "UC/P1/PPP/K9472",
+     "material": "Nio",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 9.8,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 9.8 in ? 6 mm"
+     },
+     "psf": 98,
+     "perPanel": 760,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841899274-b00d62.png",
+     "similarity": 74,
      "isCheaper": true,
      "diff": "▼ Saves ₹390",
      "scoreClass": "mid"
@@ -743,7 +774,7 @@
    "search": "uc/i2/pci/r02qy r02qy 02qy charcoal embossed rattan charcoal",
    "unique": true,
    "cheaperCount": 0,
-   "oos": true,
+   "oos": false,
    "alternatives": []
   },
   {
@@ -1260,6 +1291,22 @@
    "alternatives": []
   },
   {
+   "name": "0777 WPC Mini concave Pastel",
+   "code": "UC/I2/PPU/P0777",
+   "material": "WPC",
+   "dims": {
+    "raw": ""
+   },
+   "psf": 0,
+   "perPanel": 0,
+   "image": "",
+   "search": "uc/i2/ppu/p0777 p0777 0777 wpc mini concave pastel wpc",
+   "unique": true,
+   "cheaperCount": 0,
+   "oos": false,
+   "alternatives": []
+  },
+  {
    "name": "0818 PVC Plain Gold",
    "code": "UC/R1/PPP/G0818",
    "material": "PVC",
@@ -1736,6 +1783,24 @@
      "isCheaper": false,
      "diff": "▲ ₹390 premium",
      "scoreClass": "mid"
+    },
+    {
+     "name": "9472 Nio Plain Gold",
+     "code": "UC/P1/PPP/K9472",
+     "material": "Nio",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 9.8,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 9.8 in ? 6 mm"
+     },
+     "psf": 98,
+     "perPanel": 760,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841899274-b00d62.png",
+     "similarity": 75,
+     "isCheaper": false,
+     "diff": "= same price",
+     "scoreClass": "mid"
     }
    ]
   },
@@ -1981,6 +2046,25 @@
      "scoreClass": "mid"
     }
    ]
+  },
+  {
+   "name": "2008 WPC Sheet Stone | 7 mm",
+   "code": "UC/I2/SPG/M2008",
+   "material": "WPC",
+   "dims": {
+    "L_ft": 9.2,
+    "W_in": 23.6,
+    "T_mm": 7,
+    "raw": "9.2 ft ? 23.6 in ? 7 mm"
+   },
+   "psf": 166,
+   "perPanel": 3000,
+   "image": "",
+   "search": "uc/i2/spg/m2008 m2008 2008 wpc sheet stone | 7 mm wpc",
+   "unique": true,
+   "cheaperCount": 0,
+   "oos": false,
+   "alternatives": []
   },
   {
    "name": "2022 WPC Ceramic White",
@@ -3216,6 +3300,25 @@
      "scoreClass": "mid"
     }
    ]
+  },
+  {
+   "name": "4022 Charcoal Concave Gold",
+   "code": "UC/I2/PCZ/K4022",
+   "material": "Charcoal",
+   "dims": {
+    "L_ft": 9.5,
+    "W_in": 11.8,
+    "T_mm": 11,
+    "raw": "9.5 ft ? 11.8 in ? 11 mm"
+   },
+   "psf": 0,
+   "perPanel": 0,
+   "image": "",
+   "search": "uc/i2/pcz/k4022 k4022 4022 charcoal concave gold charcoal",
+   "unique": true,
+   "cheaperCount": 0,
+   "oos": false,
+   "alternatives": []
   },
   {
    "name": "4501 SPC Sheet Marble | 3 mm",
@@ -5502,6 +5605,25 @@
    ]
   },
   {
+   "name": "8943 WPC Sheet Pastel | 7 mm",
+   "code": "UC/I2/SPG/M8943",
+   "material": "WPC",
+   "dims": {
+    "L_ft": 9.2,
+    "W_in": 23.6,
+    "T_mm": 7,
+    "raw": "9.2 ft ? 23.6 in ? 7 mm"
+   },
+   "psf": 166,
+   "perPanel": 3000,
+   "image": "",
+   "search": "uc/i2/spg/m8943 m8943 8943 wpc sheet pastel | 7 mm wpc",
+   "unique": true,
+   "cheaperCount": 0,
+   "oos": false,
+   "alternatives": []
+  },
+  {
    "name": "9001 Nio Plain Stone",
    "code": "UC/P1/PPP/S9001",
    "material": "Nio",
@@ -5869,7 +5991,7 @@
    "search": "uc/p1/ppp/k9472 k9472 9472 nio plain gold nio",
    "unique": false,
    "cheaperCount": 0,
-   "oos": true,
+   "oos": false,
    "alternatives": [
     {
      "name": "1455 Nio Plain Gold",
@@ -6333,6 +6455,25 @@
      "scoreClass": "mid"
     }
    ]
+  },
+  {
+   "name": "B018 WPC Sheet Wood | 7 mm",
+   "code": "UC/I2/SPG/WB018",
+   "material": "WPC",
+   "dims": {
+    "L_ft": 9.2,
+    "W_in": 23.6,
+    "T_mm": 7,
+    "raw": "9.2 ft ? 23.6 in ? 7 mm"
+   },
+   "psf": 166,
+   "perPanel": 3000,
+   "image": "",
+   "search": "uc/i2/spg/wb018 wb018 b018 wpc sheet wood | 7 mm wpc",
+   "unique": true,
+   "cheaperCount": 0,
+   "oos": false,
+   "alternatives": []
   },
   {
    "name": "B232 Charcoal Embossed Rattan",
