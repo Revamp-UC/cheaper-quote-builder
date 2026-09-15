@@ -604,7 +604,7 @@
    "search": "uc/p1/ppp/t0156 t0156 0156 nio plain traditional nio",
    "unique": false,
    "cheaperCount": 1,
-   "oos": true,
+   "oos": false,
    "alternatives": [
     {
      "name": "1455 Nio Plain Gold",
@@ -992,6 +992,24 @@
      "similarity": 75,
      "isCheaper": false,
      "diff": "= same price",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "EM54 Nio Plain Wood",
+     "code": "UC/P1/PPP/WEM54",
+     "material": "Nio",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 9.8,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 9.8 in ? 6 mm"
+     },
+     "psf": 103,
+     "perPanel": 800,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/customer-app-supply/1779351590314-392907.jpeg",
+     "similarity": 71,
+     "isCheaper": false,
+     "diff": "▲ ₹150 premium",
      "scoreClass": "mid"
     }
    ]
@@ -2608,6 +2626,24 @@
      "isCheaper": false,
      "diff": "= same price",
      "scoreClass": "mid"
+    },
+    {
+     "name": "0156 Nio Plain Traditional",
+     "code": "UC/P1/PPP/T0156",
+     "material": "Nio",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 9.8,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 9.8 in ? 6 mm"
+     },
+     "psf": 103,
+     "perPanel": 800,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841922384-542dc6.png",
+     "similarity": 74,
+     "isCheaper": false,
+     "diff": "▲ ₹150 premium",
+     "scoreClass": "mid"
     }
    ]
   },
@@ -2629,6 +2665,24 @@
    "cheaperCount": 2,
    "oos": false,
    "alternatives": [
+    {
+     "name": "0156 Nio Plain Traditional",
+     "code": "UC/P1/PPP/T0156",
+     "material": "Nio",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 9.8,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 9.8 in ? 6 mm"
+     },
+     "psf": 103,
+     "perPanel": 800,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841922384-542dc6.png",
+     "similarity": 81,
+     "isCheaper": false,
+     "diff": "= same price",
+     "scoreClass": "mid"
+    },
     {
      "name": "0195 Nio Plain Gold",
      "code": "UC/P1/PPP/K0195",
@@ -5556,7 +5610,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1769519895453-9b29f2.jpeg",
    "search": "uc/i2/spg/w7073 w7073 7073 wpc sheet wood | 7 mm wpc",
    "unique": false,
-   "cheaperCount": 1,
+   "cheaperCount": 2,
    "oos": false,
    "alternatives": [
     {
@@ -5629,6 +5683,24 @@
      "similarity": 76,
      "isCheaper": false,
      "diff": "= same price",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "EM54 Nio Plain Wood",
+     "code": "UC/P1/PPP/WEM54",
+     "material": "Nio",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 9.8,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 9.8 in ? 6 mm"
+     },
+     "psf": 103,
+     "perPanel": 800,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/customer-app-supply/1779351590314-392907.jpeg",
+     "similarity": 73,
+     "isCheaper": true,
+     "diff": "▼ Saves ₹2,750",
      "scoreClass": "mid"
     }
    ]
@@ -8251,7 +8323,7 @@
    "search": "uc/p1/ppp/wem54 wem54 em54 nio plain wood nio",
    "unique": false,
    "cheaperCount": 1,
-   "oos": true,
+   "oos": false,
    "alternatives": [
     {
      "name": "S685 WPC Sheet Wood | 7 mm",
@@ -8674,7 +8746,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1769519904603-e5c5e3.jpeg",
    "search": "uc/i2/spg/ws685 ws685 s685 wpc sheet wood | 7 mm wpc",
    "unique": false,
-   "cheaperCount": 3,
+   "cheaperCount": 4,
    "oos": false,
    "alternatives": [
     {
@@ -8765,6 +8837,24 @@
      "similarity": 74,
      "isCheaper": true,
      "diff": "▼ Saves ₹2,900",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "EM54 Nio Plain Wood",
+     "code": "UC/P1/PPP/WEM54",
+     "material": "Nio",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 9.8,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 9.8 in ? 6 mm"
+     },
+     "psf": 103,
+     "perPanel": 800,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/customer-app-supply/1779351590314-392907.jpeg",
+     "similarity": 74,
+     "isCheaper": true,
+     "diff": "▼ Saves ₹2,750",
      "scoreClass": "mid"
     }
    ]
