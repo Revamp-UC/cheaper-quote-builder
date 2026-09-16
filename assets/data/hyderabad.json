@@ -700,7 +700,7 @@
    "search": "uc/p1/ppp/t0156 t0156 0156 nio plain traditional nio",
    "unique": false,
    "cheaperCount": 0,
-   "oos": true,
+   "oos": false,
    "alternatives": [
     {
      "name": "1455 Nio Plain Gold",
@@ -812,6 +812,24 @@
      "similarity": 76,
      "isCheaper": false,
      "diff": "▲ ₹5,200 premium",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "5508 SPC Sheet Marble | 3 mm",
+     "code": "UC/M2/SS0/M5508",
+     "material": "SPC",
+     "dims": {
+      "L_ft": 9.2,
+      "W_in": 48,
+      "T_mm": 3,
+      "raw": "9.2 ft ? 48 in ? 3 mm"
+     },
+     "psf": 245,
+     "perPanel": 9000,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323930350-5811eb.jpeg",
+     "similarity": 75,
+     "isCheaper": false,
+     "diff": "▲ ₹8,200 premium",
      "scoreClass": "mid"
     },
     {
@@ -1405,6 +1423,24 @@
    "oos": false,
    "alternatives": [
     {
+     "name": "5508 SPC Sheet Marble | 3 mm",
+     "code": "UC/M2/SS0/M5508",
+     "material": "SPC",
+     "dims": {
+      "L_ft": 9.2,
+      "W_in": 48,
+      "T_mm": 3,
+      "raw": "9.2 ft ? 48 in ? 3 mm"
+     },
+     "psf": 245,
+     "perPanel": 9000,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323930350-5811eb.jpeg",
+     "similarity": 88,
+     "isCheaper": false,
+     "diff": "= same price",
+     "scoreClass": "hi"
+    },
+    {
      "name": "09U2 SPC Sheet Marble | 3 mm",
      "code": "UC/M2/SS0/M09U2",
      "material": "SPC",
@@ -1864,6 +1900,24 @@
      "scoreClass": "hi"
     },
     {
+     "name": "5508 SPC Sheet Marble | 3 mm",
+     "code": "UC/M2/SS0/M5508",
+     "material": "SPC",
+     "dims": {
+      "L_ft": 9.2,
+      "W_in": 48,
+      "T_mm": 3,
+      "raw": "9.2 ft ? 48 in ? 3 mm"
+     },
+     "psf": 245,
+     "perPanel": 9000,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323930350-5811eb.jpeg",
+     "similarity": 86,
+     "isCheaper": false,
+     "diff": "= same price",
+     "scoreClass": "hi"
+    },
+    {
      "name": "0HXL SPC Sheet Marble | 3 mm",
      "code": "UC/M2/SS0/M0HXL",
      "material": "SPC",
@@ -2011,6 +2065,24 @@
    "cheaperCount": 3,
    "oos": false,
    "alternatives": [
+    {
+     "name": "5508 SPC Sheet Marble | 3 mm",
+     "code": "UC/M2/SS0/M5508",
+     "material": "SPC",
+     "dims": {
+      "L_ft": 9.2,
+      "W_in": 48,
+      "T_mm": 3,
+      "raw": "9.2 ft ? 48 in ? 3 mm"
+     },
+     "psf": 245,
+     "perPanel": 9000,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323930350-5811eb.jpeg",
+     "similarity": 84,
+     "isCheaper": false,
+     "diff": "▲ ₹3,000 premium",
+     "scoreClass": "mid"
+    },
     {
      "name": "0703 SPC Sheet Marble | 3 mm",
      "code": "UC/M2/SS0/M0703",
@@ -2305,6 +2377,24 @@
    "cheaperCount": 0,
    "oos": false,
    "alternatives": [
+    {
+     "name": "0156 Nio Plain Traditional",
+     "code": "UC/P1/PPP/T0156",
+     "material": "Nio",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 9.8,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 9.8 in ? 6 mm"
+     },
+     "psf": 103,
+     "perPanel": 800,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841922384-542dc6.png",
+     "similarity": 81,
+     "isCheaper": false,
+     "diff": "= same price",
+     "scoreClass": "mid"
+    },
     {
      "name": "0195 Nio Plain Gold",
      "code": "UC/P1/PPP/K0195",
@@ -3414,6 +3504,24 @@
      "scoreClass": "hi"
     },
     {
+     "name": "5508 SPC Sheet Marble | 3 mm",
+     "code": "UC/M2/SS0/M5508",
+     "material": "SPC",
+     "dims": {
+      "L_ft": 9.2,
+      "W_in": 48,
+      "T_mm": 3,
+      "raw": "9.2 ft ? 48 in ? 3 mm"
+     },
+     "psf": 245,
+     "perPanel": 9000,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323930350-5811eb.jpeg",
+     "similarity": 86,
+     "isCheaper": false,
+     "diff": "= same price",
+     "scoreClass": "hi"
+    },
+    {
      "name": "0HXL SPC Sheet Marble | 3 mm",
      "code": "UC/M2/SS0/M0HXL",
      "material": "SPC",
@@ -3983,6 +4091,24 @@
      "isCheaper": false,
      "diff": "= same price",
      "scoreClass": "hi"
+    },
+    {
+     "name": "5508 SPC Sheet Marble | 3 mm",
+     "code": "UC/M2/SS0/M5508",
+     "material": "SPC",
+     "dims": {
+      "L_ft": 9.2,
+      "W_in": 48,
+      "T_mm": 3,
+      "raw": "9.2 ft ? 48 in ? 3 mm"
+     },
+     "psf": 245,
+     "perPanel": 9000,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323930350-5811eb.jpeg",
+     "similarity": 84,
+     "isCheaper": false,
+     "diff": "= same price",
+     "scoreClass": "mid"
     },
     {
      "name": "0703 SPC Sheet Marble | 3 mm",
@@ -4760,7 +4886,7 @@
    "search": "uc/m2/ss0/m5508 m5508 5508 spc sheet marble | 3 mm spc",
    "unique": false,
    "cheaperCount": 2,
-   "oos": true,
+   "oos": false,
    "alternatives": [
     {
      "name": "0703 SPC Sheet Marble | 3 mm",
@@ -5769,6 +5895,24 @@
      "perPanel": 9000,
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323951757-fa5431.jpeg",
      "similarity": 90,
+     "isCheaper": false,
+     "diff": "= same price",
+     "scoreClass": "hi"
+    },
+    {
+     "name": "5508 SPC Sheet Marble | 3 mm",
+     "code": "UC/M2/SS0/M5508",
+     "material": "SPC",
+     "dims": {
+      "L_ft": 9.2,
+      "W_in": 48,
+      "T_mm": 3,
+      "raw": "9.2 ft ? 48 in ? 3 mm"
+     },
+     "psf": 245,
+     "perPanel": 9000,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323930350-5811eb.jpeg",
+     "similarity": 86,
      "isCheaper": false,
      "diff": "= same price",
      "scoreClass": "hi"
