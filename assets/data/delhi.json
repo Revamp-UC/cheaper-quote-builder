@@ -20,25 +20,6 @@
    "alternatives": []
   },
   {
-   "name": "0037 Charcoal Embossed White",
-   "code": "UC/I2/PCI/G0037",
-   "material": "Charcoal",
-   "dims": {
-    "L_ft": 9.5,
-    "W_in": 11.9,
-    "T_mm": 7,
-    "raw": "9.5 ft ? 11.9 in ? 7 mm"
-   },
-   "psf": 356,
-   "perPanel": 3350,
-   "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1775052864020-8b2640.png",
-   "search": "uc/i2/pci/g0037 g0037 0037 charcoal embossed white charcoal",
-   "unique": true,
-   "cheaperCount": 0,
-   "oos": false,
-   "alternatives": []
-  },
-  {
    "name": "0066 Charcoal Embossed Pastel",
    "code": "UC/I2/PCI/G0066",
    "material": "Charcoal",

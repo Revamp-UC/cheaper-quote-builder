@@ -1,6 +1,25 @@
 {
  "panels": [
   {
+   "name": "0037 Charcoal Embossed White",
+   "code": "UC/I2/PCI/G0037",
+   "material": "Charcoal",
+   "dims": {
+    "L_ft": 9.5,
+    "W_in": 11.9,
+    "T_mm": 7,
+    "raw": "9.5 ft ? 11.9 in ? 7 mm"
+   },
+   "psf": 414,
+   "perPanel": 3900,
+   "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1775052864020-8b2640.png",
+   "search": "uc/i2/pci/g0037 g0037 0037 charcoal embossed white charcoal",
+   "unique": true,
+   "cheaperCount": 0,
+   "oos": false,
+   "alternatives": []
+  },
+  {
    "name": "0066 Charcoal Embossed Pastel",
    "code": "UC/I2/PCI/G0066",
    "material": "Charcoal",
@@ -4048,6 +4067,24 @@
      "scoreClass": "mid"
     },
     {
+     "name": "7333* Charcoal Fluted Wood",
+     "code": "UC/M2/PCF/W7333",
+     "material": "Charcoal",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 11.3,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 11.3 in ? 6 mm"
+     },
+     "psf": 302,
+     "perPanel": 2700,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324263537-a3c2ea.jpeg",
+     "similarity": 77,
+     "isCheaper": false,
+     "diff": "▲ ₹700 premium",
+     "scoreClass": "mid"
+    },
+    {
      "name": "D164 Nio Fluted Neutral",
      "code": "UC/P1/PPF/RD164",
      "material": "Nio",
@@ -4082,7 +4119,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324245463-5602e5.jpeg",
    "search": "uc/m2/pcr/w3622 w3622 3622* charcoal mini rectangle wood charcoal",
    "unique": false,
-   "cheaperCount": 1,
+   "cheaperCount": 2,
    "oos": false,
    "alternatives": [
     {
@@ -4101,6 +4138,24 @@
      "similarity": 87,
      "isCheaper": false,
      "diff": "= same price",
+     "scoreClass": "hi"
+    },
+    {
+     "name": "7333* Charcoal Fluted Wood",
+     "code": "UC/M2/PCF/W7333",
+     "material": "Charcoal",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 11.3,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 11.3 in ? 6 mm"
+     },
+     "psf": 302,
+     "perPanel": 2700,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324263537-a3c2ea.jpeg",
+     "similarity": 85,
+     "isCheaper": true,
+     "diff": "▼ Saves ₹300",
      "scoreClass": "hi"
     },
     {
@@ -4618,6 +4673,24 @@
      "similarity": 80,
      "isCheaper": false,
      "diff": "▲ ₹1,950 premium",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "7333* Charcoal Fluted Wood",
+     "code": "UC/M2/PCF/W7333",
+     "material": "Charcoal",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 11.3,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 11.3 in ? 6 mm"
+     },
+     "psf": 302,
+     "perPanel": 2700,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324263537-a3c2ea.jpeg",
+     "similarity": 71,
+     "isCheaper": false,
+     "diff": "▲ ₹1,100 premium",
      "scoreClass": "mid"
     }
    ]
@@ -5689,6 +5762,24 @@
      "scoreClass": "hi"
     },
     {
+     "name": "7333* Charcoal Fluted Wood",
+     "code": "UC/M2/PCF/W7333",
+     "material": "Charcoal",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 11.3,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 11.3 in ? 6 mm"
+     },
+     "psf": 302,
+     "perPanel": 2700,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324263537-a3c2ea.jpeg",
+     "similarity": 87,
+     "isCheaper": false,
+     "diff": "▲ ₹1,100 premium",
+     "scoreClass": "hi"
+    },
+    {
      "name": "X921 WPC Small square Wood",
      "code": "UC/I2/PPE/WX921",
      "material": "WPC",
@@ -5801,8 +5892,8 @@
    ]
   },
   {
-   "name": "7333 Charcoal Fluted Wood",
-   "code": "UC/I2/PCF/W7333",
+   "name": "7333* Charcoal Fluted Wood",
+   "code": "UC/M2/PCF/W7333",
    "material": "Charcoal",
    "dims": {
     "L_ft": 9.5,
@@ -5813,11 +5904,84 @@
    "psf": 302,
    "perPanel": 2700,
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324263537-a3c2ea.jpeg",
-   "search": "uc/i2/pcf/w7333 w7333 7333 charcoal fluted wood charcoal",
-   "unique": true,
-   "cheaperCount": 0,
+   "search": "uc/m2/pcf/w7333 w7333 7333* charcoal fluted wood charcoal",
+   "unique": false,
+   "cheaperCount": 3,
    "oos": false,
-   "alternatives": []
+   "alternatives": [
+    {
+     "name": "3622* Charcoal Mini rectangle Wood",
+     "code": "UC/M2/PCR/W3622",
+     "material": "Charcoal",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 11.6,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 11.6 in ? 6 mm"
+     },
+     "psf": 327,
+     "perPanel": 3000,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324245463-5602e5.jpeg",
+     "similarity": 85,
+     "isCheaper": false,
+     "diff": "▲ ₹300 premium",
+     "scoreClass": "hi"
+    },
+    {
+     "name": "X921 WPC Classic Wood",
+     "code": "UC/I2/PPD/WX921",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 7.68,
+      "T_mm": 12,
+      "raw": "9.5 ft ? 7.68 in ? 12 mm"
+     },
+     "psf": 263,
+     "perPanel": 1600,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140375832-702c05.jpeg",
+     "similarity": 85,
+     "isCheaper": true,
+     "diff": "▼ Saves ₹1,100",
+     "scoreClass": "hi"
+    },
+    {
+     "name": "3621 Charcoal Mini rectangle Wood",
+     "code": "UC/M2/PCR/W3621",
+     "material": "Charcoal",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 11.6,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 11.6 in ? 6 mm"
+     },
+     "psf": 218,
+     "perPanel": 2000,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324254770-c71488.jpeg",
+     "similarity": 77,
+     "isCheaper": true,
+     "diff": "▼ Saves ₹700",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "4P03 WPC Small square Wood",
+     "code": "UC/I2/PPE/W4P03",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 7.35,
+      "T_mm": 19.5,
+      "raw": "9.5 ft ? 7.35 in ? 19.5 mm"
+     },
+     "psf": 275,
+     "perPanel": 1600,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140907844-d18dab.jpeg",
+     "similarity": 71,
+     "isCheaper": true,
+     "diff": "▼ Saves ₹1,100",
+     "scoreClass": "mid"
+    }
+   ]
   },
   {
    "name": "7334 Charcoal Fluted Wood",
@@ -9520,6 +9684,24 @@
      "similarity": 95,
      "isCheaper": false,
      "diff": "= same price",
+     "scoreClass": "hi"
+    },
+    {
+     "name": "7333* Charcoal Fluted Wood",
+     "code": "UC/M2/PCF/W7333",
+     "material": "Charcoal",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 11.3,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 11.3 in ? 6 mm"
+     },
+     "psf": 302,
+     "perPanel": 2700,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324263537-a3c2ea.jpeg",
+     "similarity": 85,
+     "isCheaper": false,
+     "diff": "▲ ₹1,100 premium",
      "scoreClass": "hi"
     },
     {
