@@ -2252,7 +2252,7 @@
   "live": {
    "delhi": true,
    "mumbai": false,
-   "bangalore": false,
+   "bangalore": true,
    "hyderabad": true
   },
   "oos": {
@@ -4823,9 +4823,9 @@
   "material": "Charcoal",
   "sub": "Panel",
   "live": {
-   "delhi": true,
+   "delhi": false,
    "mumbai": false,
-   "bangalore": false,
+   "bangalore": true,
    "hyderabad": false
   },
   "oos": {
@@ -5047,9 +5047,9 @@
   },
   "oos": {
    "delhi": false,
-   "mumbai": false,
-   "bangalore": false,
-   "hyderabad": false
+   "mumbai": true,
+   "bangalore": true,
+   "hyderabad": true
   }
  },
  {
@@ -5729,9 +5729,9 @@
   },
   "oos": {
    "delhi": false,
-   "mumbai": false,
-   "bangalore": false,
-   "hyderabad": false
+   "mumbai": true,
+   "bangalore": true,
+   "hyderabad": true
   }
  },
  {
@@ -6220,7 +6220,7 @@
   "live": {
    "delhi": false,
    "mumbai": true,
-   "bangalore": true,
+   "bangalore": false,
    "hyderabad": false
   },
   "oos": {
@@ -6736,10 +6736,10 @@
    "hyderabad": false
   },
   "oos": {
-   "delhi": false,
-   "mumbai": false,
-   "bangalore": false,
-   "hyderabad": false
+   "delhi": true,
+   "mumbai": true,
+   "bangalore": true,
+   "hyderabad": true
   }
  },
  {
@@ -6767,10 +6767,10 @@
    "hyderabad": false
   },
   "oos": {
-   "delhi": false,
-   "mumbai": false,
-   "bangalore": false,
-   "hyderabad": false
+   "delhi": true,
+   "mumbai": true,
+   "bangalore": true,
+   "hyderabad": true
   }
  }
 ]
