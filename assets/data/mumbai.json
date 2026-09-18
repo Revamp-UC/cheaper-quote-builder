@@ -1,6 +1,25 @@
 {
  "panels": [
   {
+   "name": "0037 Charcoal Embossed White",
+   "code": "UC/I2/PCI/G0037",
+   "material": "Charcoal",
+   "dims": {
+    "L_ft": 9.5,
+    "W_in": 11.9,
+    "T_mm": 7,
+    "raw": "9.5 ft ? 11.9 in ? 7 mm"
+   },
+   "psf": 393,
+   "perPanel": 3700,
+   "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1775052864020-8b2640.png",
+   "search": "uc/i2/pci/g0037 g0037 0037 charcoal embossed white charcoal",
+   "unique": true,
+   "cheaperCount": 0,
+   "oos": false,
+   "alternatives": []
+  },
+  {
    "name": "0066 Charcoal Embossed Pastel",
    "code": "UC/I2/PCI/G0066",
    "material": "Charcoal",
@@ -551,24 +570,6 @@
      "isCheaper": true,
      "diff": "▼ Saves ₹50",
      "scoreClass": "hi"
-    },
-    {
-     "name": "7331 Charcoal Fluted Wood",
-     "code": "UC/M2/PCF/W7331",
-     "material": "Charcoal",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 11.3,
-      "T_mm": 6,
-      "raw": "9.5 ft ? 11.3 in ? 6 mm"
-     },
-     "psf": 179,
-     "perPanel": 1600,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324271389-8e9997.jpeg",
-     "similarity": 82,
-     "isCheaper": false,
-     "diff": "▲ ₹100 premium",
-     "scoreClass": "mid"
     }
    ]
   },
@@ -4693,6 +4694,24 @@
      "isCheaper": true,
      "diff": "▼ Saves ₹150",
      "scoreClass": "mid"
+    },
+    {
+     "name": "D193 Nio Plain Texture",
+     "code": "UC/P1/PPP/LD193",
+     "material": "Nio",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 9.8,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 9.8 in ? 6 mm"
+     },
+     "psf": 103,
+     "perPanel": 800,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841910592-fd5787.png",
+     "similarity": 75,
+     "isCheaper": false,
+     "diff": "= same price",
+     "scoreClass": "mid"
     }
    ]
   },
@@ -5649,7 +5668,7 @@
    "search": "uc/m2/pcf/w7331 w7331 7331 charcoal fluted wood charcoal",
    "unique": false,
    "cheaperCount": 4,
-   "oos": false,
+   "oos": true,
    "alternatives": [
     {
      "name": "X921 WPC Classic Wood",
@@ -6776,24 +6795,6 @@
      "scoreClass": "hi"
     },
     {
-     "name": "7331 Charcoal Fluted Wood",
-     "code": "UC/M2/PCF/W7331",
-     "material": "Charcoal",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 11.3,
-      "T_mm": 6,
-      "raw": "9.5 ft ? 11.3 in ? 6 mm"
-     },
-     "psf": 179,
-     "perPanel": 1600,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324271389-8e9997.jpeg",
-     "similarity": 85,
-     "isCheaper": false,
-     "diff": "▲ ₹100 premium",
-     "scoreClass": "hi"
-    },
-    {
      "name": "9204 Nio Plain Wood",
      "code": "UC/P1/PPP/W9204",
      "material": "Nio",
@@ -7511,7 +7512,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1769519862186-dd3a51.jpeg",
    "search": "uc/i2/sph/la235 la235 a235 wpc sheet texture | 7 mm wpc",
    "unique": false,
-   "cheaperCount": 5,
+   "cheaperCount": 6,
    "oos": false,
    "alternatives": [
     {
@@ -7548,6 +7549,24 @@
      "similarity": 81,
      "isCheaper": true,
      "diff": "▼ Saves ₹1,601",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "D193 Nio Plain Texture",
+     "code": "UC/P1/PPP/LD193",
+     "material": "Nio",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 9.8,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 9.8 in ? 6 mm"
+     },
+     "psf": 103,
+     "perPanel": 800,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841910592-fd5787.png",
+     "similarity": 80,
+     "isCheaper": true,
+     "diff": "▼ Saves ₹8,400",
      "scoreClass": "mid"
     },
     {
@@ -7936,7 +7955,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324304024-cd1b50.jpeg",
    "search": "uc/i2/sph/lcz08 lcz08 cz08 wpc sheet texture | 7 mm wpc",
    "unique": false,
-   "cheaperCount": 1,
+   "cheaperCount": 2,
    "oos": false,
    "alternatives": [
     {
@@ -7973,6 +7992,24 @@
      "similarity": 81,
      "isCheaper": false,
      "diff": "▲ ₹1,601 premium",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "D193 Nio Plain Texture",
+     "code": "UC/P1/PPP/LD193",
+     "material": "Nio",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 9.8,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 9.8 in ? 6 mm"
+     },
+     "psf": 103,
+     "perPanel": 800,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841910592-fd5787.png",
+     "similarity": 81,
+     "isCheaper": true,
+     "diff": "▼ Saves ₹6,799",
      "scoreClass": "mid"
     },
     {
@@ -8067,7 +8104,7 @@
    "search": "uc/p1/ppp/ld193 ld193 d193 nio plain texture nio",
    "unique": false,
    "cheaperCount": 0,
-   "oos": true,
+   "oos": false,
    "alternatives": [
     {
      "name": "CZ08 WPC Sheet Texture | 7 mm",
@@ -8325,6 +8362,24 @@
      "similarity": 83,
      "isCheaper": false,
      "diff": "▲ ₹6,799 premium",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "D193 Nio Plain Texture",
+     "code": "UC/P1/PPP/LD193",
+     "material": "Nio",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 9.8,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 9.8 in ? 6 mm"
+     },
+     "psf": 103,
+     "perPanel": 800,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841910592-fd5787.png",
+     "similarity": 79,
+     "isCheaper": false,
+     "diff": "= same price",
      "scoreClass": "mid"
     },
     {
@@ -9558,24 +9613,6 @@
      "scoreClass": "hi"
     },
     {
-     "name": "7331 Charcoal Fluted Wood",
-     "code": "UC/M2/PCF/W7331",
-     "material": "Charcoal",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 11.3,
-      "T_mm": 6,
-      "raw": "9.5 ft ? 11.3 in ? 6 mm"
-     },
-     "psf": 179,
-     "perPanel": 1600,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324271389-8e9997.jpeg",
-     "similarity": 89,
-     "isCheaper": false,
-     "diff": "▲ ₹100 premium",
-     "scoreClass": "hi"
-    },
-    {
      "name": "9204 Nio Fluted Wood",
      "code": "UC/P1/PPF/W9204",
      "material": "Nio",
@@ -9739,24 +9776,6 @@
      "similarity": 95,
      "isCheaper": false,
      "diff": "▲ ₹50 premium",
-     "scoreClass": "hi"
-    },
-    {
-     "name": "7331 Charcoal Fluted Wood",
-     "code": "UC/M2/PCF/W7331",
-     "material": "Charcoal",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 11.3,
-      "T_mm": 6,
-      "raw": "9.5 ft ? 11.3 in ? 6 mm"
-     },
-     "psf": 179,
-     "perPanel": 1600,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324271389-8e9997.jpeg",
-     "similarity": 87,
-     "isCheaper": false,
-     "diff": "▲ ₹150 premium",
      "scoreClass": "hi"
     },
     {

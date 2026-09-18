@@ -846,24 +846,6 @@
      "isCheaper": false,
      "diff": "▲ ₹8,200 premium",
      "scoreClass": "mid"
-    },
-    {
-     "name": "8083 SPC Sheet Gold | 3 mm",
-     "code": "UC/M2/SS0/M8083",
-     "material": "SPC",
-     "dims": {
-      "L_ft": 9.2,
-      "W_in": 48,
-      "T_mm": 3,
-      "raw": "9.2 ft ? 48 in ? 3 mm"
-     },
-     "psf": 245,
-     "perPanel": 9000,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323939936-9eb8d8.jpeg",
-     "similarity": 73,
-     "isCheaper": false,
-     "diff": "▲ ₹8,200 premium",
-     "scoreClass": "mid"
     }
    ]
   },
@@ -1709,24 +1691,6 @@
      "similarity": 80,
      "isCheaper": true,
      "diff": "▼ Saves ₹8,200",
-     "scoreClass": "mid"
-    },
-    {
-     "name": "8083 SPC Sheet Gold | 3 mm",
-     "code": "UC/M2/SS0/M8083",
-     "material": "SPC",
-     "dims": {
-      "L_ft": 9.2,
-      "W_in": 48,
-      "T_mm": 3,
-      "raw": "9.2 ft ? 48 in ? 3 mm"
-     },
-     "psf": 245,
-     "perPanel": 9000,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323939936-9eb8d8.jpeg",
-     "similarity": 78,
-     "isCheaper": false,
-     "diff": "= same price",
      "scoreClass": "mid"
     }
    ]
@@ -4438,24 +4402,6 @@
    "oos": false,
    "alternatives": [
     {
-     "name": "8083 SPC Sheet Gold | 3 mm",
-     "code": "UC/M2/SS0/M8083",
-     "material": "SPC",
-     "dims": {
-      "L_ft": 9.2,
-      "W_in": 48,
-      "T_mm": 3,
-      "raw": "9.2 ft ? 48 in ? 3 mm"
-     },
-     "psf": 245,
-     "perPanel": 9000,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323939936-9eb8d8.jpeg",
-     "similarity": 90,
-     "isCheaper": false,
-     "diff": "= same price",
-     "scoreClass": "hi"
-    },
-    {
      "name": "5508 SPC Sheet Marble | 3 mm",
      "code": "UC/M2/SS0/M5508",
      "material": "SPC",
@@ -5261,24 +5207,6 @@
      "psf": 245,
      "perPanel": 9000,
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323656946-04cef4.jpeg",
-     "similarity": 86,
-     "isCheaper": false,
-     "diff": "= same price",
-     "scoreClass": "hi"
-    },
-    {
-     "name": "8083 SPC Sheet Gold | 3 mm",
-     "code": "UC/M2/SS0/M8083",
-     "material": "SPC",
-     "dims": {
-      "L_ft": 9.2,
-      "W_in": 48,
-      "T_mm": 3,
-      "raw": "9.2 ft ? 48 in ? 3 mm"
-     },
-     "psf": 245,
-     "perPanel": 9000,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323939936-9eb8d8.jpeg",
      "similarity": 86,
      "isCheaper": false,
      "diff": "= same price",
@@ -6203,7 +6131,7 @@
    "search": "uc/m2/ss0/m8083 m8083 8083 spc sheet gold | 3 mm spc",
    "unique": false,
    "cheaperCount": 2,
-   "oos": false,
+   "oos": true,
    "alternatives": [
     {
      "name": "4501 SPC Sheet Marble | 3 mm",
@@ -6901,7 +6829,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/customer-app-supply/1779351763768-9e46e6.jpeg",
    "search": "uc/p1/ppf/w9204 w9204 9204 nio fluted wood nio",
    "unique": false,
-   "cheaperCount": 1,
+   "cheaperCount": 0,
    "oos": true,
    "alternatives": [
     {
@@ -6921,24 +6849,6 @@
      "isCheaper": false,
      "diff": "▲ ₹50 premium",
      "scoreClass": "hi"
-    },
-    {
-     "name": "9204 Nio Plain Wood",
-     "code": "UC/P1/PPP/W9204",
-     "material": "Nio",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 9.8,
-      "T_mm": 6,
-      "raw": "9.5 ft ? 9.8 in ? 6 mm"
-     },
-     "psf": 103,
-     "perPanel": 800,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1779087762255-5e6990.png",
-     "similarity": 78,
-     "isCheaper": true,
-     "diff": "▼ Saves ₹750",
-     "scoreClass": "mid"
     }
    ]
   },
@@ -6958,7 +6868,7 @@
    "search": "uc/p1/ppp/w9204 w9204 9204 nio plain wood nio",
    "unique": false,
    "cheaperCount": 0,
-   "oos": false,
+   "oos": true,
    "alternatives": [
     {
      "name": "EM02 Nio Plain Gold",
@@ -7178,24 +7088,6 @@
      "perPanel": 9000,
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323930350-5811eb.jpeg",
      "similarity": 82,
-     "isCheaper": false,
-     "diff": "▲ ₹8,200 premium",
-     "scoreClass": "mid"
-    },
-    {
-     "name": "8083 SPC Sheet Gold | 3 mm",
-     "code": "UC/M2/SS0/M8083",
-     "material": "SPC",
-     "dims": {
-      "L_ft": 9.2,
-      "W_in": 48,
-      "T_mm": 3,
-      "raw": "9.2 ft ? 48 in ? 3 mm"
-     },
-     "psf": 245,
-     "perPanel": 9000,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323939936-9eb8d8.jpeg",
-     "similarity": 81,
      "isCheaper": false,
      "diff": "▲ ₹8,200 premium",
      "scoreClass": "mid"
@@ -8290,24 +8182,6 @@
    "cheaperCount": 0,
    "oos": false,
    "alternatives": [
-    {
-     "name": "9204 Nio Plain Wood",
-     "code": "UC/P1/PPP/W9204",
-     "material": "Nio",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 9.8,
-      "T_mm": 6,
-      "raw": "9.5 ft ? 9.8 in ? 6 mm"
-     },
-     "psf": 103,
-     "perPanel": 800,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1779087762255-5e6990.png",
-     "similarity": 85,
-     "isCheaper": false,
-     "diff": "= same price",
-     "scoreClass": "hi"
-    },
     {
      "name": "X921 WPC Sheet Wood | 7 mm",
      "code": "UC/I2/SPG/WX921",
@@ -9739,7 +9613,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140294615-99bfdb.jpeg",
    "search": "uc/i2/spg/wx921 wx921 x921 wpc sheet wood | 7 mm wpc",
    "unique": false,
-   "cheaperCount": 4,
+   "cheaperCount": 3,
    "oos": false,
    "alternatives": [
     {
@@ -9759,24 +9633,6 @@
      "isCheaper": true,
      "diff": "▼ Saves ₹1,950",
      "scoreClass": "hi"
-    },
-    {
-     "name": "9204 Nio Plain Wood",
-     "code": "UC/P1/PPP/W9204",
-     "material": "Nio",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 9.8,
-      "T_mm": 6,
-      "raw": "9.5 ft ? 9.8 in ? 6 mm"
-     },
-     "psf": 103,
-     "perPanel": 800,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1779087762255-5e6990.png",
-     "similarity": 81,
-     "isCheaper": true,
-     "diff": "▼ Saves ₹2,750",
-     "scoreClass": "mid"
     },
     {
      "name": "X921 WPC Small square Wood",
