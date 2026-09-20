@@ -221,7 +221,7 @@
    "search": "uc/i2/ppc/n0112 n0112 0112 wpc ceramic neutral wpc",
    "unique": false,
    "cheaperCount": 0,
-   "oos": true,
+   "oos": false,
    "alternatives": [
     {
      "name": "5249 Charcoal Flat rib Wood",
@@ -312,9 +312,27 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140975392-9c1d57.jpeg",
    "search": "uc/i2/spg/n0112 n0112 0112 wpc sheet neutral | 7 mm wpc",
    "unique": false,
-   "cheaperCount": 2,
+   "cheaperCount": 3,
    "oos": false,
    "alternatives": [
+    {
+     "name": "0112 WPC Ceramic Neutral",
+     "code": "UC/I2/PPC/N0112",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 7.68,
+      "T_mm": 7.5,
+      "raw": "9.5 ft ? 7.68 in ? 7.5 mm"
+     },
+     "psf": 238,
+     "perPanel": 1450,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140323168-5f6835.jpeg",
+     "similarity": 73,
+     "isCheaper": true,
+     "diff": "▼ Saves ₹1,550",
+     "scoreClass": "mid"
+    },
     {
      "name": "X903* Nio Plain Fabric",
      "code": "UC/P1/PPN/FX903",
@@ -2047,7 +2065,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1769519933324-7b17e1.jpeg",
    "search": "uc/i2/pcm/w183s w183s 183s charcoal flat rib wood charcoal",
    "unique": false,
-   "cheaperCount": 0,
+   "cheaperCount": 1,
    "oos": false,
    "alternatives": [
     {
@@ -2066,6 +2084,24 @@
      "similarity": 83,
      "isCheaper": false,
      "diff": "= same price",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "0112 WPC Ceramic Neutral",
+     "code": "UC/I2/PPC/N0112",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 7.68,
+      "T_mm": 7.5,
+      "raw": "9.5 ft ? 7.68 in ? 7.5 mm"
+     },
+     "psf": 238,
+     "perPanel": 1450,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140323168-5f6835.jpeg",
+     "similarity": 78,
+     "isCheaper": true,
+     "diff": "▼ Saves ₹1,150",
      "scoreClass": "mid"
     },
     {
@@ -4148,9 +4184,27 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1769519923238-ba70ca.jpeg",
    "search": "uc/i2/pcm/w5249 w5249 5249 charcoal flat rib wood charcoal",
    "unique": false,
-   "cheaperCount": 0,
+   "cheaperCount": 1,
    "oos": false,
    "alternatives": [
+    {
+     "name": "0112 WPC Ceramic Neutral",
+     "code": "UC/I2/PPC/N0112",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 7.68,
+      "T_mm": 7.5,
+      "raw": "9.5 ft ? 7.68 in ? 7.5 mm"
+     },
+     "psf": 238,
+     "perPanel": 1450,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140323168-5f6835.jpeg",
+     "similarity": 84,
+     "isCheaper": true,
+     "diff": "▼ Saves ₹1,150",
+     "scoreClass": "mid"
+    },
     {
      "name": "183S Charcoal Flat rib Wood",
      "code": "UC/I2/PCM/W183S",
@@ -8071,7 +8125,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324320114-5e2316.jpeg",
    "search": "uc/i2/pcu/pm090 pm090 m090 charcoal mini concave pastel charcoal",
    "unique": false,
-   "cheaperCount": 0,
+   "cheaperCount": 1,
    "oos": false,
    "alternatives": [
     {
@@ -8091,6 +8145,24 @@
      "isCheaper": false,
      "diff": "▲ ₹730 premium",
      "scoreClass": "hi"
+    },
+    {
+     "name": "0112 WPC Ceramic Neutral",
+     "code": "UC/I2/PPC/N0112",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 7.68,
+      "T_mm": 7.5,
+      "raw": "9.5 ft ? 7.68 in ? 7.5 mm"
+     },
+     "psf": 238,
+     "perPanel": 1450,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140323168-5f6835.jpeg",
+     "similarity": 75,
+     "isCheaper": true,
+     "diff": "▼ Saves ₹520",
+     "scoreClass": "mid"
     }
    ]
   },
@@ -9008,6 +9080,24 @@
      "similarity": 80,
      "isCheaper": false,
      "diff": "▲ ₹1,700 premium",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "0112 WPC Ceramic Neutral",
+     "code": "UC/I2/PPC/N0112",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 7.68,
+      "T_mm": 7.5,
+      "raw": "9.5 ft ? 7.68 in ? 7.5 mm"
+     },
+     "psf": 238,
+     "perPanel": 1450,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140323168-5f6835.jpeg",
+     "similarity": 79,
+     "isCheaper": false,
+     "diff": "▲ ₹150 premium",
      "scoreClass": "mid"
     },
     {
