@@ -2971,7 +2971,7 @@
   "oos": {
    "delhi": false,
    "mumbai": false,
-   "bangalore": false,
+   "bangalore": true,
    "hyderabad": false
   }
  },
@@ -5077,9 +5077,9 @@
    "hyderabad": false
   },
   "oos": {
-   "delhi": false,
+   "delhi": true,
    "mumbai": false,
-   "bangalore": false,
+   "bangalore": true,
    "hyderabad": false
   }
  },
@@ -5481,7 +5481,7 @@
   },
   "oos": {
    "delhi": true,
-   "mumbai": false,
+   "mumbai": true,
    "bangalore": false,
    "hyderabad": false
   }
@@ -5636,8 +5636,8 @@
   },
   "oos": {
    "delhi": false,
-   "mumbai": false,
-   "bangalore": false,
+   "mumbai": true,
+   "bangalore": true,
    "hyderabad": false
   }
  },
@@ -5759,9 +5759,9 @@
    "hyderabad": true
   },
   "oos": {
-   "delhi": false,
+   "delhi": true,
    "mumbai": false,
-   "bangalore": false,
+   "bangalore": true,
    "hyderabad": false
   }
  },
@@ -6008,7 +6008,7 @@
   },
   "oos": {
    "delhi": true,
-   "mumbai": false,
+   "mumbai": true,
    "bangalore": false,
    "hyderabad": false
   }
