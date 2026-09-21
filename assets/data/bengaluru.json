@@ -5800,7 +5800,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323774170-af8a9c.jpeg",
    "search": "uc/i2/pcf/w7334 w7334 7334 charcoal fluted wood charcoal",
    "unique": false,
-   "cheaperCount": 3,
+   "cheaperCount": 2,
    "oos": false,
    "alternatives": [
     {
@@ -5819,24 +5819,6 @@
      "similarity": 84,
      "isCheaper": true,
      "diff": "▼ Saves ₹1,100",
-     "scoreClass": "mid"
-    },
-    {
-     "name": "8360 Nio Fluted Wood",
-     "code": "UC/P1/PPF/W8360",
-     "material": "Nio",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 11.6,
-      "T_mm": 10,
-      "raw": "9.5 ft ? 11.6 in ? 10 mm"
-     },
-     "psf": 169,
-     "perPanel": 1550,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/customer-app-supply/1779351754052-51ca8f.jpeg",
-     "similarity": 82,
-     "isCheaper": true,
-     "diff": "▼ Saves ₹1,150",
      "scoreClass": "mid"
     },
     {
@@ -6097,7 +6079,7 @@
    "search": "uc/p1/ppf/w8360 w8360 8360 nio fluted wood nio",
    "unique": false,
    "cheaperCount": 1,
-   "oos": false,
+   "oos": true,
    "alternatives": [
     {
      "name": "8360 WPC Small square Wood",
@@ -6206,7 +6188,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770139916980-ca6381.jpeg",
    "search": "uc/i2/spg/w8360 w8360 8360 wpc sheet wood | 7 mm wpc",
    "unique": false,
-   "cheaperCount": 4,
+   "cheaperCount": 3,
    "oos": false,
    "alternatives": [
     {
@@ -6261,24 +6243,6 @@
      "similarity": 76,
      "isCheaper": false,
      "diff": "= same price",
-     "scoreClass": "mid"
-    },
-    {
-     "name": "8360 Nio Fluted Wood",
-     "code": "UC/P1/PPF/W8360",
-     "material": "Nio",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 11.6,
-      "T_mm": 10,
-      "raw": "9.5 ft ? 11.6 in ? 10 mm"
-     },
-     "psf": 169,
-     "perPanel": 1550,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/customer-app-supply/1779351754052-51ca8f.jpeg",
-     "similarity": 76,
-     "isCheaper": true,
-     "diff": "▼ Saves ₹2,000",
      "scoreClass": "mid"
     },
     {
@@ -6352,7 +6316,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140897812-4b4203.jpeg",
    "search": "uc/i2/ppe/w8360 w8360 8360 wpc small square wood wpc",
    "unique": false,
-   "cheaperCount": 4,
+   "cheaperCount": 3,
    "oos": false,
    "alternatives": [
     {
@@ -6371,24 +6335,6 @@
      "similarity": 84,
      "isCheaper": true,
      "diff": "▼ Saves ₹790",
-     "scoreClass": "mid"
-    },
-    {
-     "name": "8360 Nio Fluted Wood",
-     "code": "UC/P1/PPF/W8360",
-     "material": "Nio",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 11.6,
-      "T_mm": 10,
-      "raw": "9.5 ft ? 11.6 in ? 10 mm"
-     },
-     "psf": 169,
-     "perPanel": 1550,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/customer-app-supply/1779351754052-51ca8f.jpeg",
-     "similarity": 83,
-     "isCheaper": true,
-     "diff": "▼ Saves ₹50",
      "scoreClass": "mid"
     },
     {
@@ -6685,7 +6631,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/customer-app-supply/1779351763768-9e46e6.jpeg",
    "search": "uc/p1/ppf/w9204 w9204 9204 nio fluted wood nio",
    "unique": false,
-   "cheaperCount": 1,
+   "cheaperCount": 0,
    "oos": false,
    "alternatives": [
     {
@@ -6705,24 +6651,6 @@
      "isCheaper": false,
      "diff": "▲ ₹50 premium",
      "scoreClass": "hi"
-    },
-    {
-     "name": "9204 Nio Plain Wood",
-     "code": "UC/P1/PPP/W9204",
-     "material": "Nio",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 9.8,
-      "T_mm": 6,
-      "raw": "9.5 ft ? 9.8 in ? 6 mm"
-     },
-     "psf": 103,
-     "perPanel": 800,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1779087762255-5e6990.png",
-     "similarity": 78,
-     "isCheaper": true,
-     "diff": "▼ Saves ₹750",
-     "scoreClass": "mid"
     }
    ]
   },
@@ -6742,7 +6670,7 @@
    "search": "uc/p1/ppp/w9204 w9204 9204 nio plain wood nio",
    "unique": false,
    "cheaperCount": 0,
-   "oos": false,
+   "oos": true,
    "alternatives": [
     {
      "name": "EM02 Nio Plain Gold",
@@ -8039,24 +7967,6 @@
    "oos": false,
    "alternatives": [
     {
-     "name": "9204 Nio Plain Wood",
-     "code": "UC/P1/PPP/W9204",
-     "material": "Nio",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 9.8,
-      "T_mm": 6,
-      "raw": "9.5 ft ? 9.8 in ? 6 mm"
-     },
-     "psf": 103,
-     "perPanel": 800,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1779087762255-5e6990.png",
-     "similarity": 85,
-     "isCheaper": false,
-     "diff": "= same price",
-     "scoreClass": "hi"
-    },
-    {
      "name": "X921 WPC Sheet Wood | 7 mm",
      "code": "UC/I2/SPG/WX921",
      "material": "WPC",
@@ -8681,7 +8591,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140362352-3302d2.jpeg",
    "search": "uc/i2/ppd/wx905 wx905 x905 wpc classic wood wpc",
    "unique": false,
-   "cheaperCount": 2,
+   "cheaperCount": 1,
    "oos": false,
    "alternatives": [
     {
@@ -8736,24 +8646,6 @@
      "similarity": 81,
      "isCheaper": false,
      "diff": "= same price",
-     "scoreClass": "mid"
-    },
-    {
-     "name": "8360 Nio Fluted Wood",
-     "code": "UC/P1/PPF/W8360",
-     "material": "Nio",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 11.6,
-      "T_mm": 10,
-      "raw": "9.5 ft ? 11.6 in ? 10 mm"
-     },
-     "psf": 169,
-     "perPanel": 1550,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/customer-app-supply/1779351754052-51ca8f.jpeg",
-     "similarity": 81,
-     "isCheaper": true,
-     "diff": "▼ Saves ₹50",
      "scoreClass": "mid"
     },
     {
@@ -9028,24 +8920,6 @@
      "similarity": 81,
      "isCheaper": false,
      "diff": "▲ ₹790 premium",
-     "scoreClass": "mid"
-    },
-    {
-     "name": "8360 Nio Fluted Wood",
-     "code": "UC/P1/PPF/W8360",
-     "material": "Nio",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 11.6,
-      "T_mm": 10,
-      "raw": "9.5 ft ? 11.6 in ? 10 mm"
-     },
-     "psf": 169,
-     "perPanel": 1550,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/customer-app-supply/1779351754052-51ca8f.jpeg",
-     "similarity": 80,
-     "isCheaper": false,
-     "diff": "▲ ₹740 premium",
      "scoreClass": "mid"
     },
     {
@@ -9505,7 +9379,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140294615-99bfdb.jpeg",
    "search": "uc/i2/spg/wx921 wx921 x921 wpc sheet wood | 7 mm wpc",
    "unique": false,
-   "cheaperCount": 4,
+   "cheaperCount": 3,
    "oos": false,
    "alternatives": [
     {
@@ -9525,24 +9399,6 @@
      "isCheaper": true,
      "diff": "▼ Saves ₹1,950",
      "scoreClass": "hi"
-    },
-    {
-     "name": "9204 Nio Plain Wood",
-     "code": "UC/P1/PPP/W9204",
-     "material": "Nio",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 9.8,
-      "T_mm": 6,
-      "raw": "9.5 ft ? 9.8 in ? 6 mm"
-     },
-     "psf": 103,
-     "perPanel": 800,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1779087762255-5e6990.png",
-     "similarity": 81,
-     "isCheaper": true,
-     "diff": "▼ Saves ₹2,750",
-     "scoreClass": "mid"
     },
     {
      "name": "X921 WPC Small square Wood",
