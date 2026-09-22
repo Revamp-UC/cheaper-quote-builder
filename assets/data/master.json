@@ -2282,7 +2282,7 @@
   "sub": "Panel",
   "live": {
    "delhi": false,
-   "mumbai": true,
+   "mumbai": false,
    "bangalore": false,
    "hyderabad": false
   },
@@ -4979,7 +4979,7 @@
   "sub": "Panel",
   "live": {
    "delhi": true,
-   "mumbai": false,
+   "mumbai": true,
    "bangalore": true,
    "hyderabad": true
   },
@@ -5723,9 +5723,9 @@
   "sub": "Panel",
   "live": {
    "delhi": true,
-   "mumbai": false,
-   "bangalore": false,
-   "hyderabad": false
+   "mumbai": true,
+   "bangalore": true,
+   "hyderabad": true
   },
   "oos": {
    "delhi": false,
