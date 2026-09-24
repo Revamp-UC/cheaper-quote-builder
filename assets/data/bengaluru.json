@@ -296,39 +296,39 @@
      "scoreClass": "mid"
     },
     {
-     "name": "0112 WPC Sheet Neutral | 5 mm",
-     "code": "UC/M2/SP0/N0112",
+     "name": "0112 WPC Sheet Neutral | 7 mm",
+     "code": "UC/I2/SPG/N0112",
      "material": "WPC",
      "dims": {
       "L_ft": 9.2,
       "W_in": 23.48,
-      "T_mm": 5,
-      "raw": "9.2 ft ? 23.48 in ? 5 mm"
+      "T_mm": 7,
+      "raw": "9.2 ft ? 23.48 in ? 7 mm"
      },
-     "psf": 181,
-     "perPanel": 3250,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323973227-5c8e8d.jpeg",
+     "psf": 197,
+     "perPanel": 3550,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140975392-9c1d57.jpeg",
      "similarity": 73,
      "isCheaper": false,
-     "diff": "▲ ₹1,600 premium",
+     "diff": "▲ ₹1,900 premium",
      "scoreClass": "mid"
     }
    ]
   },
   {
-   "name": "0112 WPC Sheet Neutral | 5 mm",
-   "code": "UC/M2/SP0/N0112",
+   "name": "0112 WPC Sheet Neutral | 7 mm",
+   "code": "UC/I2/SPG/N0112",
    "material": "WPC",
    "dims": {
     "L_ft": 9.2,
     "W_in": 23.48,
-    "T_mm": 5,
-    "raw": "9.2 ft ? 23.48 in ? 5 mm"
+    "T_mm": 7,
+    "raw": "9.2 ft ? 23.48 in ? 7 mm"
    },
-   "psf": 181,
-   "perPanel": 3250,
-   "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323973227-5c8e8d.jpeg",
-   "search": "uc/m2/sp0/n0112 n0112 0112 wpc sheet neutral | 5 mm wpc",
+   "psf": 197,
+   "perPanel": 3550,
+   "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140975392-9c1d57.jpeg",
+   "search": "uc/i2/spg/n0112 n0112 0112 wpc sheet neutral | 7 mm wpc",
    "unique": false,
    "cheaperCount": 2,
    "oos": false,
@@ -348,7 +348,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140323168-5f6835.jpeg",
      "similarity": 73,
      "isCheaper": true,
-     "diff": "▼ Saves ₹1,600",
+     "diff": "▼ Saves ₹1,900",
      "scoreClass": "mid"
     },
     {
@@ -366,7 +366,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841884626-165b97.png",
      "similarity": 72,
      "isCheaper": true,
-     "diff": "▼ Saves ₹2,450",
+     "diff": "▼ Saves ₹2,750",
      "scoreClass": "mid"
     },
     {
@@ -384,7 +384,7 @@
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140915864-968177.jpeg",
      "similarity": 71,
      "isCheaper": false,
-     "diff": "▲ ₹300 premium",
+     "diff": "= same price",
      "scoreClass": "mid"
     }
    ]
@@ -664,24 +664,6 @@
    "oos": false,
    "alternatives": [
     {
-     "name": "1455 Nio Plain Gold",
-     "code": "UC/P1/PPP/K1455",
-     "material": "Nio",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 9.8,
-      "T_mm": 6,
-      "raw": "9.5 ft ? 9.8 in ? 6 mm"
-     },
-     "psf": 103,
-     "perPanel": 800,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841892728-ff625b.png",
-     "similarity": 81,
-     "isCheaper": false,
-     "diff": "= same price",
-     "scoreClass": "mid"
-    },
-    {
      "name": "0150 PVC Plain Floral",
      "code": "UC/D1/PPP/F0150",
      "material": "PVC",
@@ -737,24 +719,6 @@
    "cheaperCount": 0,
    "oos": false,
    "alternatives": [
-    {
-     "name": "1455 Nio Plain Gold",
-     "code": "UC/P1/PPP/K1455",
-     "material": "Nio",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 9.8,
-      "T_mm": 6,
-      "raw": "9.5 ft ? 9.8 in ? 6 mm"
-     },
-     "psf": 103,
-     "perPanel": 800,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841892728-ff625b.png",
-     "similarity": 78,
-     "isCheaper": false,
-     "diff": "= same price",
-     "scoreClass": "mid"
-    },
     {
      "name": "9472 Nio Plain Gold",
      "code": "UC/P1/PPP/K9472",
@@ -2577,24 +2541,6 @@
    "oos": false,
    "alternatives": [
     {
-     "name": "1455 Nio Plain Gold",
-     "code": "UC/P1/PPP/K1455",
-     "material": "Nio",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 9.8,
-      "T_mm": 6,
-      "raw": "9.5 ft ? 9.8 in ? 6 mm"
-     },
-     "psf": 103,
-     "perPanel": 800,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841892728-ff625b.png",
-     "similarity": 77,
-     "isCheaper": false,
-     "diff": "= same price",
-     "scoreClass": "mid"
-    },
-    {
      "name": "9472 Nio Plain Gold",
      "code": "UC/P1/PPP/K9472",
      "material": "Nio",
@@ -2648,7 +2594,7 @@
    "search": "uc/p1/ppp/k1455 k1455 1455 nio plain gold nio",
    "unique": false,
    "cheaperCount": 0,
-   "oos": false,
+   "oos": true,
    "alternatives": [
     {
      "name": "0156 Nio Plain Traditional",
@@ -3425,25 +3371,25 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140915864-968177.jpeg",
    "search": "uc/i2/spg/n2025 n2025 2025 wpc sheet neutral | 7 mm wpc",
    "unique": false,
-   "cheaperCount": 2,
+   "cheaperCount": 1,
    "oos": false,
    "alternatives": [
     {
-     "name": "0112 WPC Sheet Neutral | 5 mm",
-     "code": "UC/M2/SP0/N0112",
+     "name": "0112 WPC Sheet Neutral | 7 mm",
+     "code": "UC/I2/SPG/N0112",
      "material": "WPC",
      "dims": {
       "L_ft": 9.2,
       "W_in": 23.48,
-      "T_mm": 5,
-      "raw": "9.2 ft ? 23.48 in ? 5 mm"
+      "T_mm": 7,
+      "raw": "9.2 ft ? 23.48 in ? 7 mm"
      },
-     "psf": 181,
-     "perPanel": 3250,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323973227-5c8e8d.jpeg",
+     "psf": 197,
+     "perPanel": 3550,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140975392-9c1d57.jpeg",
      "similarity": 71,
-     "isCheaper": true,
-     "diff": "▼ Saves ₹300",
+     "isCheaper": false,
+     "diff": "= same price",
      "scoreClass": "mid"
     },
     {
@@ -7223,24 +7169,6 @@
      "scoreClass": "mid"
     },
     {
-     "name": "1455 Nio Plain Gold",
-     "code": "UC/P1/PPP/K1455",
-     "material": "Nio",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 9.8,
-      "T_mm": 6,
-      "raw": "9.5 ft ? 9.8 in ? 6 mm"
-     },
-     "psf": 103,
-     "perPanel": 800,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841892728-ff625b.png",
-     "similarity": 75,
-     "isCheaper": false,
-     "diff": "= same price",
-     "scoreClass": "mid"
-    },
-    {
      "name": "0195 Nio Plain Gold",
      "code": "UC/P1/PPP/K0195",
      "material": "Nio",
@@ -8739,6 +8667,24 @@
    "oos": false,
    "alternatives": [
     {
+     "name": "0112 WPC Sheet Neutral | 7 mm",
+     "code": "UC/I2/SPG/N0112",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.2,
+      "W_in": 23.48,
+      "T_mm": 7,
+      "raw": "9.2 ft ? 23.48 in ? 7 mm"
+     },
+     "psf": 197,
+     "perPanel": 3550,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140975392-9c1d57.jpeg",
+     "similarity": 72,
+     "isCheaper": false,
+     "diff": "▲ ₹2,750 premium",
+     "scoreClass": "mid"
+    },
+    {
      "name": "7695 Nio Plain Fabric",
      "code": "UC/P1/PPP/F7695",
      "material": "Nio",
@@ -8754,24 +8700,6 @@
      "similarity": 72,
      "isCheaper": false,
      "diff": "= same price",
-     "scoreClass": "mid"
-    },
-    {
-     "name": "0112 WPC Sheet Neutral | 5 mm",
-     "code": "UC/M2/SP0/N0112",
-     "material": "WPC",
-     "dims": {
-      "L_ft": 9.2,
-      "W_in": 23.48,
-      "T_mm": 5,
-      "raw": "9.2 ft ? 23.48 in ? 5 mm"
-     },
-     "psf": 181,
-     "perPanel": 3250,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323973227-5c8e8d.jpeg",
-     "similarity": 72,
-     "isCheaper": false,
-     "diff": "▲ ₹2,450 premium",
      "scoreClass": "mid"
     }
    ]

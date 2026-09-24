@@ -3813,10 +3813,29 @@
    "perPanel": 760,
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841914585-e1f6fa.png",
    "search": "uc/p1/ppp/s5021 s5021 5021 nio plain stone nio",
-   "unique": true,
+   "unique": false,
    "cheaperCount": 0,
-   "oos": true,
-   "alternatives": []
+   "oos": false,
+   "alternatives": [
+    {
+     "name": "5021* Nio Plain Stone",
+     "code": "UC/P1/PPN/S5021",
+     "material": "Nio",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 11.8,
+      "T_mm": 7.5,
+      "raw": "9.5 ft ? 11.8 in ? 7.5 mm"
+     },
+     "psf": 123,
+     "perPanel": 1150,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841914585-e1f6fa.png",
+     "similarity": 100,
+     "isCheaper": false,
+     "diff": "▲ ₹390 premium",
+     "scoreClass": "hi"
+    }
+   ]
   },
   {
    "name": "5021* Nio Plain Stone",
@@ -3832,10 +3851,29 @@
    "perPanel": 1150,
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841914585-e1f6fa.png",
    "search": "uc/p1/ppn/s5021 s5021 5021* nio plain stone nio",
-   "unique": true,
-   "cheaperCount": 0,
-   "oos": true,
-   "alternatives": []
+   "unique": false,
+   "cheaperCount": 1,
+   "oos": false,
+   "alternatives": [
+    {
+     "name": "5021 Nio Plain Stone",
+     "code": "UC/P1/PPP/S5021",
+     "material": "Nio",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 9.8,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 9.8 in ? 6 mm"
+     },
+     "psf": 98,
+     "perPanel": 760,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841914585-e1f6fa.png",
+     "similarity": 100,
+     "isCheaper": true,
+     "diff": "▼ Saves ₹390",
+     "scoreClass": "hi"
+    }
+   ]
   },
   {
    "name": "5081 Charcoal Concave Gold",
@@ -7552,6 +7590,42 @@
      "perPanel": 760,
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1779090500773-920290.png",
      "similarity": 79,
+     "isCheaper": false,
+     "diff": "= same price",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "5021* Nio Plain Stone",
+     "code": "UC/P1/PPN/S5021",
+     "material": "Nio",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 11.8,
+      "T_mm": 7.5,
+      "raw": "9.5 ft ? 11.8 in ? 7.5 mm"
+     },
+     "psf": 123,
+     "perPanel": 1150,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841914585-e1f6fa.png",
+     "similarity": 75,
+     "isCheaper": false,
+     "diff": "▲ ₹390 premium",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "5021 Nio Plain Stone",
+     "code": "UC/P1/PPP/S5021",
+     "material": "Nio",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 9.8,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 9.8 in ? 6 mm"
+     },
+     "psf": 98,
+     "perPanel": 760,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841914585-e1f6fa.png",
+     "similarity": 75,
      "isCheaper": false,
      "diff": "= same price",
      "scoreClass": "mid"
