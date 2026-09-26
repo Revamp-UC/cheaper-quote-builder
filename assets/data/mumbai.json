@@ -1,6 +1,82 @@
 {
  "panels": [
   {
+   "name": "0001 WPC Sheet Metallic gold | 7 mm",
+   "code": "UC/I2/SPK/K0001",
+   "material": "WPC",
+   "dims": {
+    "L_ft": 9.2,
+    "W_in": 15.6,
+    "T_mm": 7,
+    "raw": "9.2 ft ? 15.6 in ? 7 mm"
+   },
+   "psf": 380,
+   "perPanel": 4550,
+   "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324613238-3e41e4.jpeg",
+   "search": "uc/i2/spk/k0001 k0001 0001 wpc sheet metallic gold | 7 mm wpc",
+   "unique": false,
+   "cheaperCount": 0,
+   "oos": false,
+   "alternatives": [
+    {
+     "name": "0002 WPC Sheet Metallic bronze | 7 mm",
+     "code": "UC/I2/SPK/Q0002",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.2,
+      "W_in": 15.6,
+      "T_mm": 7,
+      "raw": "9.2 ft ? 15.6 in ? 7 mm"
+     },
+     "psf": 380,
+     "perPanel": 4550,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324605262-9ebabb.jpeg",
+     "similarity": 74,
+     "isCheaper": false,
+     "diff": "= same price",
+     "scoreClass": "mid"
+    }
+   ]
+  },
+  {
+   "name": "0002 WPC Sheet Metallic bronze | 7 mm",
+   "code": "UC/I2/SPK/Q0002",
+   "material": "WPC",
+   "dims": {
+    "L_ft": 9.2,
+    "W_in": 15.6,
+    "T_mm": 7,
+    "raw": "9.2 ft ? 15.6 in ? 7 mm"
+   },
+   "psf": 380,
+   "perPanel": 4550,
+   "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324605262-9ebabb.jpeg",
+   "search": "uc/i2/spk/q0002 q0002 0002 wpc sheet metallic bronze | 7 mm wpc",
+   "unique": false,
+   "cheaperCount": 0,
+   "oos": false,
+   "alternatives": [
+    {
+     "name": "0001 WPC Sheet Metallic gold | 7 mm",
+     "code": "UC/I2/SPK/K0001",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.2,
+      "W_in": 15.6,
+      "T_mm": 7,
+      "raw": "9.2 ft ? 15.6 in ? 7 mm"
+     },
+     "psf": 380,
+     "perPanel": 4550,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324613238-3e41e4.jpeg",
+     "similarity": 74,
+     "isCheaper": false,
+     "diff": "= same price",
+     "scoreClass": "mid"
+    }
+   ]
+  },
+  {
    "name": "0037 Charcoal Embossed White",
    "code": "UC/I2/PCI/G0037",
    "material": "Charcoal",
@@ -1968,24 +2044,6 @@
    "cheaperCount": 0,
    "oos": false,
    "alternatives": [
-    {
-     "name": "A901 Charcoal Classic Rattan",
-     "code": "UC/I2/PCD/RA901",
-     "material": "Charcoal",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 4.5,
-      "T_mm": 11,
-      "raw": "9.5 ft ? 4.5 in ? 11 mm"
-     },
-     "psf": 180,
-     "perPanel": 640,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323821766-ea02d1.jpeg",
-     "similarity": 89,
-     "isCheaper": false,
-     "diff": "= same price",
-     "scoreClass": "hi"
-    },
     {
      "name": "X919 WPC Classic Wood",
      "code": "UC/I2/PPD/WX919",
@@ -5300,7 +5358,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140897812-4b4203.jpeg",
    "search": "uc/i2/ppe/w8360 w8360 8360 wpc small square wood wpc",
    "unique": false,
-   "cheaperCount": 4,
+   "cheaperCount": 3,
    "oos": false,
    "alternatives": [
     {
@@ -5391,24 +5449,6 @@
      "similarity": 75,
      "isCheaper": false,
      "diff": "▲ ₹50 premium",
-     "scoreClass": "mid"
-    },
-    {
-     "name": "A901 Charcoal Classic Rattan",
-     "code": "UC/I2/PCD/RA901",
-     "material": "Charcoal",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 4.5,
-      "T_mm": 11,
-      "raw": "9.5 ft ? 4.5 in ? 11 mm"
-     },
-     "psf": 180,
-     "perPanel": 640,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323821766-ea02d1.jpeg",
-     "similarity": 73,
-     "isCheaper": true,
-     "diff": "▼ Saves ₹810",
      "scoreClass": "mid"
     },
     {
@@ -6191,7 +6231,7 @@
    "search": "uc/i2/pcd/ra901 ra901 a901 charcoal classic rattan charcoal",
    "unique": false,
    "cheaperCount": 0,
-   "oos": false,
+   "oos": true,
    "alternatives": [
     {
      "name": "1987 Charcoal Classic Rattan",
@@ -7557,7 +7597,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324093359-1440b0.jpeg",
    "search": "uc/m2/ppe/wx905 wx905 x905* wpc small square wood wpc",
    "unique": false,
-   "cheaperCount": 1,
+   "cheaperCount": 0,
    "oos": false,
    "alternatives": [
     {
@@ -7666,24 +7706,6 @@
      "similarity": 73,
      "isCheaper": false,
      "diff": "▲ ₹2,740 premium",
-     "scoreClass": "mid"
-    },
-    {
-     "name": "A901 Charcoal Classic Rattan",
-     "code": "UC/I2/PCD/RA901",
-     "material": "Charcoal",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 4.5,
-      "T_mm": 11,
-      "raw": "9.5 ft ? 4.5 in ? 11 mm"
-     },
-     "psf": 180,
-     "perPanel": 640,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323821766-ea02d1.jpeg",
-     "similarity": 71,
-     "isCheaper": true,
-     "diff": "▼ Saves ₹170",
      "scoreClass": "mid"
     }
    ]
