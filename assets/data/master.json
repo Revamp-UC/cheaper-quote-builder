@@ -5009,7 +5009,7 @@
   "material": "Nio",
   "sub": "Panel",
   "live": {
-   "delhi": true,
+   "delhi": false,
    "mumbai": false,
    "bangalore": false,
    "hyderabad": false
@@ -5071,7 +5071,7 @@
   "material": "Nio",
   "sub": "Panel",
   "live": {
-   "delhi": true,
+   "delhi": false,
    "mumbai": false,
    "bangalore": false,
    "hyderabad": false
@@ -5102,7 +5102,7 @@
   "material": "Nio",
   "sub": "Panel",
   "live": {
-   "delhi": true,
+   "delhi": false,
    "mumbai": false,
    "bangalore": false,
    "hyderabad": false
@@ -5226,7 +5226,7 @@
   "material": "Nio",
   "sub": "Panel",
   "live": {
-   "delhi": true,
+   "delhi": false,
    "mumbai": false,
    "bangalore": false,
    "hyderabad": false
@@ -5257,7 +5257,7 @@
   "material": "Nio",
   "sub": "Panel",
   "live": {
-   "delhi": true,
+   "delhi": false,
    "mumbai": false,
    "bangalore": false,
    "hyderabad": false
@@ -5319,7 +5319,7 @@
   "material": "Nio",
   "sub": "Panel",
   "live": {
-   "delhi": true,
+   "delhi": false,
    "mumbai": false,
    "bangalore": false,
    "hyderabad": false
@@ -5412,7 +5412,7 @@
   "material": "Nio",
   "sub": "Panel",
   "live": {
-   "delhi": true,
+   "delhi": false,
    "mumbai": false,
    "bangalore": false,
    "hyderabad": false
@@ -5443,7 +5443,7 @@
   "material": "Nio",
   "sub": "Panel",
   "live": {
-   "delhi": true,
+   "delhi": false,
    "mumbai": false,
    "bangalore": false,
    "hyderabad": false
@@ -5505,7 +5505,7 @@
   "material": "Nio",
   "sub": "Panel",
   "live": {
-   "delhi": true,
+   "delhi": false,
    "mumbai": false,
    "bangalore": false,
    "hyderabad": false
@@ -5542,7 +5542,7 @@
    "hyderabad": true
   },
   "oos": {
-   "delhi": false,
+   "delhi": true,
    "mumbai": false,
    "bangalore": false,
    "hyderabad": false
