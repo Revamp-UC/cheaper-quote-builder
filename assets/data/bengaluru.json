@@ -92,7 +92,7 @@
    "search": "uc/i2/pci/g0037 g0037 0037 charcoal embossed white charcoal",
    "unique": true,
    "cheaperCount": 0,
-   "oos": true,
+   "oos": false,
    "alternatives": []
   },
   {
@@ -494,10 +494,29 @@
    "perPanel": 800,
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841922384-542dc6.png",
    "search": "uc/p1/ppp/t0156 t0156 0156 nio plain traditional nio",
-   "unique": true,
+   "unique": false,
    "cheaperCount": 0,
    "oos": false,
-   "alternatives": []
+   "alternatives": [
+    {
+     "name": "1455 Nio Plain Gold",
+     "code": "UC/P1/PPP/K1455",
+     "material": "Nio",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 9.8,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 9.8 in ? 6 mm"
+     },
+     "psf": 103,
+     "perPanel": 800,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841892728-ff625b.png",
+     "similarity": 81,
+     "isCheaper": false,
+     "diff": "= same price",
+     "scoreClass": "mid"
+    }
+   ]
   },
   {
    "name": "0195 Nio Plain Gold",
@@ -517,6 +536,24 @@
    "cheaperCount": 0,
    "oos": false,
    "alternatives": [
+    {
+     "name": "1455 Nio Plain Gold",
+     "code": "UC/P1/PPP/K1455",
+     "material": "Nio",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 9.8,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 9.8 in ? 6 mm"
+     },
+     "psf": 103,
+     "perPanel": 800,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841892728-ff625b.png",
+     "similarity": 78,
+     "isCheaper": false,
+     "diff": "= same price",
+     "scoreClass": "mid"
+    },
     {
      "name": "9472 Nio Plain Gold",
      "code": "UC/P1/PPP/K9472",
@@ -644,24 +681,6 @@
      "similarity": 80,
      "isCheaper": false,
      "diff": "▲ ₹651 premium",
-     "scoreClass": "mid"
-    },
-    {
-     "name": "2027 WPC Sheet Fabric | 7 mm",
-     "code": "UC/I2/SPH/F2027",
-     "material": "WPC",
-     "dims": {
-      "L_ft": 9.2,
-      "W_in": 47.2,
-      "T_mm": 7,
-      "raw": "9.2 ft ? 47.2 in ? 7 mm"
-     },
-     "psf": 180,
-     "perPanel": 6500,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323416216-e1657f.jpeg",
-     "similarity": 78,
-     "isCheaper": false,
-     "diff": "▲ ₹5,101 premium",
      "scoreClass": "mid"
     },
     {
@@ -880,24 +899,6 @@
      "perPanel": 6500,
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323562400-eaf1f0.jpeg",
      "similarity": 73,
-     "isCheaper": false,
-     "diff": "▲ ₹5,101 premium",
-     "scoreClass": "mid"
-    },
-    {
-     "name": "2027 WPC Sheet Fabric | 7 mm",
-     "code": "UC/I2/SPH/F2027",
-     "material": "WPC",
-     "dims": {
-      "L_ft": 9.2,
-      "W_in": 47.2,
-      "T_mm": 7,
-      "raw": "9.2 ft ? 47.2 in ? 7 mm"
-     },
-     "psf": 180,
-     "perPanel": 6500,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323416216-e1657f.jpeg",
-     "similarity": 72,
      "isCheaper": false,
      "diff": "▲ ₹5,101 premium",
      "scoreClass": "mid"
@@ -1376,27 +1377,9 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323434574-ee15c0.jpeg",
    "search": "uc/i2/sph/f0z18 f0z18 0z18 wpc sheet fabric | 7 mm wpc",
    "unique": false,
-   "cheaperCount": 3,
+   "cheaperCount": 2,
    "oos": false,
    "alternatives": [
-    {
-     "name": "2027 WPC Sheet Fabric | 7 mm",
-     "code": "UC/I2/SPH/F2027",
-     "material": "WPC",
-     "dims": {
-      "L_ft": 9.2,
-      "W_in": 47.2,
-      "T_mm": 7,
-      "raw": "9.2 ft ? 47.2 in ? 7 mm"
-     },
-     "psf": 180,
-     "perPanel": 6500,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323416216-e1657f.jpeg",
-     "similarity": 85,
-     "isCheaper": true,
-     "diff": "▼ Saves ₹3,200",
-     "scoreClass": "hi"
-    },
     {
      "name": "7695 Nio Plain Fabric",
      "code": "UC/P1/PPP/F7695",
@@ -1451,7 +1434,7 @@
    "search": "uc/p1/ppp/k1455 k1455 1455 nio plain gold nio",
    "unique": false,
    "cheaperCount": 0,
-   "oos": true,
+   "oos": false,
    "alternatives": [
     {
      "name": "0156 Nio Plain Traditional",
@@ -1848,24 +1831,6 @@
    "oos": false,
    "alternatives": [
     {
-     "name": "2027 WPC Sheet Fabric | 7 mm",
-     "code": "UC/I2/SPH/F2027",
-     "material": "WPC",
-     "dims": {
-      "L_ft": 9.2,
-      "W_in": 47.2,
-      "T_mm": 7,
-      "raw": "9.2 ft ? 47.2 in ? 7 mm"
-     },
-     "psf": 180,
-     "perPanel": 6500,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323416216-e1657f.jpeg",
-     "similarity": 87,
-     "isCheaper": false,
-     "diff": "= same price",
-     "scoreClass": "hi"
-    },
-    {
      "name": "0Z18 WPC Sheet Fabric | 7 mm",
      "code": "UC/I2/SPH/F0Z18",
      "material": "WPC",
@@ -1937,7 +1902,7 @@
    "search": "uc/i2/sph/f2027 f2027 2027 wpc sheet fabric | 7 mm wpc",
    "unique": false,
    "cheaperCount": 4,
-   "oos": false,
+   "oos": true,
    "alternatives": [
     {
      "name": "2025 WPC Sheet Fabric | 7 mm",
@@ -3344,24 +3309,6 @@
      "scoreClass": "mid"
     },
     {
-     "name": "2027 WPC Sheet Fabric | 7 mm",
-     "code": "UC/I2/SPH/F2027",
-     "material": "WPC",
-     "dims": {
-      "L_ft": 9.2,
-      "W_in": 47.2,
-      "T_mm": 7,
-      "raw": "9.2 ft ? 47.2 in ? 7 mm"
-     },
-     "psf": 180,
-     "perPanel": 6500,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323416216-e1657f.jpeg",
-     "similarity": 75,
-     "isCheaper": false,
-     "diff": "▲ ₹5,700 premium",
-     "scoreClass": "mid"
-    },
-    {
      "name": "X903 Nio Plain Fabric",
      "code": "UC/P1/PPP/FX903",
      "material": "Nio",
@@ -3919,24 +3866,6 @@
      "isCheaper": false,
      "diff": "▲ ₹6,799 premium",
      "scoreClass": "mid"
-    },
-    {
-     "name": "2027 WPC Sheet Fabric | 7 mm",
-     "code": "UC/I2/SPH/F2027",
-     "material": "WPC",
-     "dims": {
-      "L_ft": 9.2,
-      "W_in": 47.2,
-      "T_mm": 7,
-      "raw": "9.2 ft ? 47.2 in ? 7 mm"
-     },
-     "psf": 180,
-     "perPanel": 6500,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323416216-e1657f.jpeg",
-     "similarity": 70,
-     "isCheaper": false,
-     "diff": "▲ ₹5,700 premium",
-     "scoreClass": "mid"
     }
    ]
   },
@@ -3958,6 +3887,24 @@
    "cheaperCount": 0,
    "oos": false,
    "alternatives": [
+    {
+     "name": "1455 Nio Plain Gold",
+     "code": "UC/P1/PPP/K1455",
+     "material": "Nio",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 9.8,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 9.8 in ? 6 mm"
+     },
+     "psf": 103,
+     "perPanel": 800,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841892728-ff625b.png",
+     "similarity": 75,
+     "isCheaper": false,
+     "diff": "= same price",
+     "scoreClass": "mid"
+    },
     {
      "name": "0195 Nio Plain Gold",
      "code": "UC/P1/PPP/K0195",
@@ -4365,7 +4312,7 @@
    "search": "uc/i2/ppd/wb016 wb016 b016 wpc classic wood wpc",
    "unique": true,
    "cheaperCount": 0,
-   "oos": true,
+   "oos": false,
    "alternatives": []
   },
   {

@@ -350,7 +350,7 @@
    "search": "uc/p1/ppp/t0129 t0129 0129 nio plain traditional nio",
    "unique": false,
    "cheaperCount": 0,
-   "oos": false,
+   "oos": true,
    "alternatives": [
     {
      "name": "2203 WPC Sheet Texture | 7 mm",
@@ -459,7 +459,7 @@
    "search": "uc/i2/ppu/p0138 p0138 0138 wpc mini concave pastel wpc",
    "unique": true,
    "cheaperCount": 0,
-   "oos": false,
+   "oos": true,
    "alternatives": []
   },
   {
@@ -2065,7 +2065,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323547875-39e8d6.jpeg",
    "search": "uc/i2/sph/l2203 l2203 2203 wpc sheet texture | 7 mm wpc",
    "unique": false,
-   "cheaperCount": 3,
+   "cheaperCount": 2,
    "oos": false,
    "alternatives": [
     {
@@ -2120,24 +2120,6 @@
      "similarity": 73,
      "isCheaper": false,
      "diff": "▲ ₹1,601 premium",
-     "scoreClass": "mid"
-    },
-    {
-     "name": "0129 Nio Plain Traditional",
-     "code": "UC/P1/PPP/T0129",
-     "material": "Nio",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 9.8,
-      "T_mm": 6,
-      "raw": "9.5 ft ? 9.8 in ? 6 mm"
-     },
-     "psf": 103,
-     "perPanel": 800,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1779087080405-a72db3.png",
-     "similarity": 72,
-     "isCheaper": true,
-     "diff": "▼ Saves ₹6,799",
      "scoreClass": "mid"
     },
     {
@@ -4015,7 +3997,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1769519862186-dd3a51.jpeg",
    "search": "uc/i2/sph/la235 la235 a235 wpc sheet texture | 7 mm wpc",
    "unique": false,
-   "cheaperCount": 5,
+   "cheaperCount": 4,
    "oos": false,
    "alternatives": [
     {
@@ -4070,24 +4052,6 @@
      "similarity": 73,
      "isCheaper": true,
      "diff": "▼ Saves ₹1,601",
-     "scoreClass": "mid"
-    },
-    {
-     "name": "0129 Nio Plain Traditional",
-     "code": "UC/P1/PPP/T0129",
-     "material": "Nio",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 9.8,
-      "T_mm": 6,
-      "raw": "9.5 ft ? 9.8 in ? 6 mm"
-     },
-     "psf": 103,
-     "perPanel": 800,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1779087080405-a72db3.png",
-     "similarity": 71,
-     "isCheaper": true,
-     "diff": "▼ Saves ₹8,400",
      "scoreClass": "mid"
     },
     {
