@@ -590,7 +590,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140975392-9c1d57.jpeg",
    "search": "uc/i2/spg/n0112 n0112 0112 wpc sheet neutral | 7 mm wpc",
    "unique": false,
-   "cheaperCount": 1,
+   "cheaperCount": 2,
    "oos": false,
    "alternatives": [
     {
@@ -627,6 +627,24 @@
      "similarity": 73,
      "isCheaper": true,
      "diff": "▼ Saves ₹1,550",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "X903 Nio Plain Fabric",
+     "code": "UC/P1/PPP/FX903",
+     "material": "Nio",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 9.8,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 9.8 in ? 6 mm"
+     },
+     "psf": 98,
+     "perPanel": 760,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841884626-165b97.png",
+     "similarity": 72,
+     "isCheaper": true,
+     "diff": "▼ Saves ₹2,240",
      "scoreClass": "mid"
     }
    ]
@@ -1697,6 +1715,24 @@
      "similarity": 82,
      "isCheaper": false,
      "diff": "▲ ₹2,650 premium",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "CZ07 WPC Sheet Texture | 7 mm",
+     "code": "UC/I2/SPH/LCZ07",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.2,
+      "W_in": 47.2,
+      "T_mm": 7,
+      "raw": "9.2 ft ? 47.2 in ? 7 mm"
+     },
+     "psf": 210,
+     "perPanel": 7599,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323798165-013e8d.jpeg",
+     "similarity": 80,
+     "isCheaper": false,
+     "diff": "▲ ₹1,599 premium",
      "scoreClass": "mid"
     },
     {
@@ -3682,6 +3718,24 @@
      "scoreClass": "hi"
     },
     {
+     "name": "9204 Nio Fluted Wood",
+     "code": "UC/P1/PPF/W9204",
+     "material": "Nio",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 11.6,
+      "T_mm": 10,
+      "raw": "9.5 ft ? 11.6 in ? 10 mm"
+     },
+     "psf": 174,
+     "perPanel": 1600,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/customer-app-supply/1779351763768-9e46e6.jpeg",
+     "similarity": 85,
+     "isCheaper": false,
+     "diff": "= same price",
+     "scoreClass": "hi"
+    },
+    {
      "name": "0132 WPC Classic Neutral",
      "code": "UC/I2/PPD/R0132",
      "material": "WPC",
@@ -3921,6 +3975,24 @@
      "similarity": 80,
      "isCheaper": false,
      "diff": "▲ ₹8,440 premium",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "X903 Nio Plain Fabric",
+     "code": "UC/P1/PPP/FX903",
+     "material": "Nio",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 9.8,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 9.8 in ? 6 mm"
+     },
+     "psf": 98,
+     "perPanel": 760,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841884626-165b97.png",
+     "similarity": 72,
+     "isCheaper": false,
+     "diff": "= same price",
      "scoreClass": "mid"
     }
    ]
@@ -4462,7 +4534,7 @@
    "search": "uc/p1/ppf/w9204 w9204 9204 nio fluted wood nio",
    "unique": false,
    "cheaperCount": 2,
-   "oos": true,
+   "oos": false,
    "alternatives": [
     {
      "name": "X921 WPC Classic Wood",
@@ -4572,6 +4644,24 @@
      "similarity": 81,
      "isCheaper": false,
      "diff": "▲ ₹2,240 premium",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "9204 Nio Fluted Wood",
+     "code": "UC/P1/PPF/W9204",
+     "material": "Nio",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 11.6,
+      "T_mm": 10,
+      "raw": "9.5 ft ? 11.6 in ? 10 mm"
+     },
+     "psf": 174,
+     "perPanel": 1600,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/customer-app-supply/1779351763768-9e46e6.jpeg",
+     "similarity": 78,
+     "isCheaper": false,
+     "diff": "▲ ₹840 premium",
      "scoreClass": "mid"
     }
    ]
@@ -4685,9 +4775,27 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323533569-762729.jpeg",
    "search": "uc/i2/sph/l9952 l9952 9952 wpc sheet texture | 7 mm wpc",
    "unique": false,
-   "cheaperCount": 3,
+   "cheaperCount": 4,
    "oos": false,
    "alternatives": [
+    {
+     "name": "CZ07 WPC Sheet Texture | 7 mm",
+     "code": "UC/I2/SPH/LCZ07",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.2,
+      "W_in": 47.2,
+      "T_mm": 7,
+      "raw": "9.2 ft ? 47.2 in ? 7 mm"
+     },
+     "psf": 210,
+     "perPanel": 7599,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323798165-013e8d.jpeg",
+     "similarity": 85,
+     "isCheaper": true,
+     "diff": "▼ Saves ₹1,051",
+     "scoreClass": "hi"
+    },
     {
      "name": "2203 WPC Sheet Texture | 7 mm",
      "code": "UC/I2/SPH/L2203",
@@ -5187,7 +5295,7 @@
    "search": "uc/i2/sph/lcz07 lcz07 cz07 wpc sheet texture | 7 mm wpc",
    "unique": false,
    "cheaperCount": 1,
-   "oos": true,
+   "oos": false,
    "alternatives": [
     {
      "name": "9952 WPC Sheet Texture | 7 mm",
@@ -5315,6 +5423,24 @@
      "similarity": 81,
      "isCheaper": true,
      "diff": "▼ Saves ₹6,839",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "CZ07 WPC Sheet Texture | 7 mm",
+     "code": "UC/I2/SPH/LCZ07",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.2,
+      "W_in": 47.2,
+      "T_mm": 7,
+      "raw": "9.2 ft ? 47.2 in ? 7 mm"
+     },
+     "psf": 210,
+     "perPanel": 7599,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323798165-013e8d.jpeg",
+     "similarity": 79,
+     "isCheaper": false,
+     "diff": "= same price",
      "scoreClass": "mid"
     }
    ]
@@ -5836,7 +5962,7 @@
    "search": "uc/p1/ppp/fx903 fx903 x903 nio plain fabric nio",
    "unique": false,
    "cheaperCount": 0,
-   "oos": true,
+   "oos": false,
    "alternatives": [
     {
      "name": "0112 WPC Sheet Neutral | 7 mm",
@@ -6222,6 +6348,24 @@
      "perPanel": 1600,
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324271389-8e9997.jpeg",
      "similarity": 89,
+     "isCheaper": false,
+     "diff": "▲ ₹300 premium",
+     "scoreClass": "hi"
+    },
+    {
+     "name": "9204 Nio Fluted Wood",
+     "code": "UC/P1/PPF/W9204",
+     "material": "Nio",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 11.6,
+      "T_mm": 10,
+      "raw": "9.5 ft ? 11.6 in ? 10 mm"
+     },
+     "psf": 174,
+     "perPanel": 1600,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/customer-app-supply/1779351763768-9e46e6.jpeg",
+     "similarity": 85,
      "isCheaper": false,
      "diff": "▲ ₹300 premium",
      "scoreClass": "hi"
