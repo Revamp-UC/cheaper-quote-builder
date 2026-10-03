@@ -684,6 +684,24 @@
      "scoreClass": "mid"
     },
     {
+     "name": "2027 WPC Sheet Fabric | 7 mm",
+     "code": "UC/I2/SPH/F2027",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.2,
+      "W_in": 47.2,
+      "T_mm": 7,
+      "raw": "9.2 ft ? 47.2 in ? 7 mm"
+     },
+     "psf": 180,
+     "perPanel": 6500,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323416216-e1657f.jpeg",
+     "similarity": 78,
+     "isCheaper": false,
+     "diff": "▲ ₹5,101 premium",
+     "scoreClass": "mid"
+    },
+    {
      "name": "2025 WPC Sheet Fabric | 7 mm",
      "code": "UC/I2/SPH/F2025",
      "material": "WPC",
@@ -899,6 +917,24 @@
      "perPanel": 6500,
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323562400-eaf1f0.jpeg",
      "similarity": 73,
+     "isCheaper": false,
+     "diff": "▲ ₹5,101 premium",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "2027 WPC Sheet Fabric | 7 mm",
+     "code": "UC/I2/SPH/F2027",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.2,
+      "W_in": 47.2,
+      "T_mm": 7,
+      "raw": "9.2 ft ? 47.2 in ? 7 mm"
+     },
+     "psf": 180,
+     "perPanel": 6500,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323416216-e1657f.jpeg",
+     "similarity": 72,
      "isCheaper": false,
      "diff": "▲ ₹5,101 premium",
      "scoreClass": "mid"
@@ -1377,9 +1413,27 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323434574-ee15c0.jpeg",
    "search": "uc/i2/sph/f0z18 f0z18 0z18 wpc sheet fabric | 7 mm wpc",
    "unique": false,
-   "cheaperCount": 2,
+   "cheaperCount": 3,
    "oos": false,
    "alternatives": [
+    {
+     "name": "2027 WPC Sheet Fabric | 7 mm",
+     "code": "UC/I2/SPH/F2027",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.2,
+      "W_in": 47.2,
+      "T_mm": 7,
+      "raw": "9.2 ft ? 47.2 in ? 7 mm"
+     },
+     "psf": 180,
+     "perPanel": 6500,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323416216-e1657f.jpeg",
+     "similarity": 85,
+     "isCheaper": true,
+     "diff": "▼ Saves ₹3,200",
+     "scoreClass": "hi"
+    },
     {
      "name": "7695 Nio Plain Fabric",
      "code": "UC/P1/PPP/F7695",
@@ -1831,6 +1885,24 @@
    "oos": false,
    "alternatives": [
     {
+     "name": "2027 WPC Sheet Fabric | 7 mm",
+     "code": "UC/I2/SPH/F2027",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.2,
+      "W_in": 47.2,
+      "T_mm": 7,
+      "raw": "9.2 ft ? 47.2 in ? 7 mm"
+     },
+     "psf": 180,
+     "perPanel": 6500,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323416216-e1657f.jpeg",
+     "similarity": 87,
+     "isCheaper": false,
+     "diff": "= same price",
+     "scoreClass": "hi"
+    },
+    {
      "name": "0Z18 WPC Sheet Fabric | 7 mm",
      "code": "UC/I2/SPH/F0Z18",
      "material": "WPC",
@@ -1902,7 +1974,7 @@
    "search": "uc/i2/sph/f2027 f2027 2027 wpc sheet fabric | 7 mm wpc",
    "unique": false,
    "cheaperCount": 4,
-   "oos": true,
+   "oos": false,
    "alternatives": [
     {
      "name": "2025 WPC Sheet Fabric | 7 mm",
@@ -2286,7 +2358,7 @@
    "search": "uc/m2/pcr/w3621 w3621 3621 charcoal mini rectangle wood charcoal",
    "unique": false,
    "cheaperCount": 2,
-   "oos": true,
+   "oos": false,
    "alternatives": [
     {
      "name": "3622* Charcoal Mini rectangle Wood",
@@ -2395,7 +2467,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324245463-5602e5.jpeg",
    "search": "uc/m2/pcr/w3622 w3622 3622* charcoal mini rectangle wood charcoal",
    "unique": false,
-   "cheaperCount": 1,
+   "cheaperCount": 2,
    "oos": false,
    "alternatives": [
     {
@@ -2435,6 +2507,24 @@
      "scoreClass": "hi"
     },
     {
+     "name": "3621 Charcoal Mini rectangle Wood",
+     "code": "UC/M2/PCR/W3621",
+     "material": "Charcoal",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 11.6,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 11.6 in ? 6 mm"
+     },
+     "psf": 218,
+     "perPanel": 2000,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324254770-c71488.jpeg",
+     "similarity": 85,
+     "isCheaper": true,
+     "diff": "▼ Saves ₹1,000",
+     "scoreClass": "hi"
+    },
+    {
      "name": "1831 Charcoal Embossed Geometric",
      "code": "UC/I2/PCI/G1831",
      "material": "Charcoal",
@@ -2469,7 +2559,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323763523-c95780.jpeg",
    "search": "uc/m2/pcr/w3623 w3623 3623 charcoal mini rectangle wood charcoal",
    "unique": false,
-   "cheaperCount": 2,
+   "cheaperCount": 3,
    "oos": false,
    "alternatives": [
     {
@@ -2507,6 +2597,24 @@
      "isCheaper": false,
      "diff": "= same price",
      "scoreClass": "hi"
+    },
+    {
+     "name": "3621 Charcoal Mini rectangle Wood",
+     "code": "UC/M2/PCR/W3621",
+     "material": "Charcoal",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 11.6,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 11.6 in ? 6 mm"
+     },
+     "psf": 218,
+     "perPanel": 2000,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324254770-c71488.jpeg",
+     "similarity": 83,
+     "isCheaper": true,
+     "diff": "▼ Saves ₹1,000",
+     "scoreClass": "mid"
     },
     {
      "name": "S685 WPC Classic Wood",
@@ -3123,6 +3231,24 @@
      "scoreClass": "hi"
     },
     {
+     "name": "3621 Charcoal Mini rectangle Wood",
+     "code": "UC/M2/PCR/W3621",
+     "material": "Charcoal",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 11.6,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 11.6 in ? 6 mm"
+     },
+     "psf": 218,
+     "perPanel": 2000,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324254770-c71488.jpeg",
+     "similarity": 82,
+     "isCheaper": false,
+     "diff": "▲ ₹400 premium",
+     "scoreClass": "mid"
+    },
+    {
      "name": "D164 Nio Fluted Neutral",
      "code": "UC/P1/PPF/RD164",
      "material": "Nio",
@@ -3157,7 +3283,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324263537-a3c2ea.jpeg",
    "search": "uc/m2/pcf/w7333 w7333 7333* charcoal fluted wood charcoal",
    "unique": false,
-   "cheaperCount": 2,
+   "cheaperCount": 3,
    "oos": false,
    "alternatives": [
     {
@@ -3213,6 +3339,24 @@
      "isCheaper": true,
      "diff": "▼ Saves ₹1,100",
      "scoreClass": "hi"
+    },
+    {
+     "name": "3621 Charcoal Mini rectangle Wood",
+     "code": "UC/M2/PCR/W3621",
+     "material": "Charcoal",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 11.6,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 11.6 in ? 6 mm"
+     },
+     "psf": 218,
+     "perPanel": 2000,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324254770-c71488.jpeg",
+     "similarity": 77,
+     "isCheaper": true,
+     "diff": "▼ Saves ₹700",
+     "scoreClass": "mid"
     }
    ]
   },
@@ -3306,6 +3450,24 @@
      "similarity": 80,
      "isCheaper": false,
      "diff": "▲ ₹8,900 premium",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "2027 WPC Sheet Fabric | 7 mm",
+     "code": "UC/I2/SPH/F2027",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.2,
+      "W_in": 47.2,
+      "T_mm": 7,
+      "raw": "9.2 ft ? 47.2 in ? 7 mm"
+     },
+     "psf": 180,
+     "perPanel": 6500,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323416216-e1657f.jpeg",
+     "similarity": 75,
+     "isCheaper": false,
+     "diff": "▲ ₹5,700 premium",
      "scoreClass": "mid"
     },
     {
@@ -3865,6 +4027,24 @@
      "similarity": 71,
      "isCheaper": false,
      "diff": "▲ ₹6,799 premium",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "2027 WPC Sheet Fabric | 7 mm",
+     "code": "UC/I2/SPH/F2027",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.2,
+      "W_in": 47.2,
+      "T_mm": 7,
+      "raw": "9.2 ft ? 47.2 in ? 7 mm"
+     },
+     "psf": 180,
+     "perPanel": 6500,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323416216-e1657f.jpeg",
+     "similarity": 70,
+     "isCheaper": false,
+     "diff": "▲ ₹5,700 premium",
      "scoreClass": "mid"
     }
    ]
@@ -4607,6 +4787,24 @@
      "similarity": 82,
      "isCheaper": false,
      "diff": "▲ ₹50 premium",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "3621 Charcoal Mini rectangle Wood",
+     "code": "UC/M2/PCR/W3621",
+     "material": "Charcoal",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 11.6,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 11.6 in ? 6 mm"
+     },
+     "psf": 218,
+     "perPanel": 2000,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324254770-c71488.jpeg",
+     "similarity": 76,
+     "isCheaper": false,
+     "diff": "▲ ₹450 premium",
      "scoreClass": "mid"
     }
    ]
