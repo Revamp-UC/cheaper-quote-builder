@@ -92,7 +92,7 @@
    "search": "uc/i2/pci/g0037 g0037 0037 charcoal embossed white charcoal",
    "unique": true,
    "cheaperCount": 0,
-   "oos": true,
+   "oos": false,
    "alternatives": []
   },
   {
@@ -166,9 +166,27 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324344895-417fbd.jpeg",
    "search": "uc/i2/pcu/h006g h006g 006g charcoal mini concave white charcoal",
    "unique": false,
-   "cheaperCount": 0,
+   "cheaperCount": 1,
    "oos": false,
    "alternatives": [
+    {
+     "name": "0072 WPC Ceramic Neutral",
+     "code": "UC/I2/PPC/N0072",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 7.68,
+      "T_mm": 7.5,
+      "raw": "9.5 ft ? 7.68 in ? 7.5 mm"
+     },
+     "psf": 238,
+     "perPanel": 1450,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140299454-7350a9.jpeg",
+     "similarity": 88,
+     "isCheaper": true,
+     "diff": "▼ Saves ₹520",
+     "scoreClass": "hi"
+    },
     {
      "name": "8461 Charcoal Mini concave Pastel",
      "code": "UC/I2/PCU/P8461",
@@ -223,7 +241,7 @@
    "search": "uc/i2/ppc/n0072 n0072 0072 wpc ceramic neutral wpc",
    "unique": false,
    "cheaperCount": 0,
-   "oos": true,
+   "oos": false,
    "alternatives": [
     {
      "name": "006G Charcoal Mini concave White",
@@ -315,6 +333,24 @@
      "similarity": 80,
      "isCheaper": true,
      "diff": "▼ Saves ₹250",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "0072 WPC Ceramic Neutral",
+     "code": "UC/I2/PPC/N0072",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 7.68,
+      "T_mm": 7.5,
+      "raw": "9.5 ft ? 7.68 in ? 7.5 mm"
+     },
+     "psf": 238,
+     "perPanel": 1450,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140299454-7350a9.jpeg",
+     "similarity": 79,
+     "isCheaper": false,
+     "diff": "= same price",
      "scoreClass": "mid"
     },
     {
@@ -2569,9 +2605,27 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323763523-c95780.jpeg",
    "search": "uc/m2/pcr/w3623 w3623 3623 charcoal mini rectangle wood charcoal",
    "unique": false,
-   "cheaperCount": 0,
+   "cheaperCount": 2,
    "oos": false,
    "alternatives": [
+    {
+     "name": "3624 Charcoal Mini rectangle Wood",
+     "code": "UC/M2/PCR/W3624",
+     "material": "Charcoal",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 11.6,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 11.6 in ? 6 mm"
+     },
+     "psf": 218,
+     "perPanel": 2000,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323747075-a04ac2.jpeg",
+     "similarity": 90,
+     "isCheaper": true,
+     "diff": "▼ Saves ₹800",
+     "scoreClass": "hi"
+    },
     {
      "name": "3622* Charcoal Mini rectangle Wood",
      "code": "UC/M2/PCR/W3622",
@@ -2589,6 +2643,24 @@
      "isCheaper": false,
      "diff": "= same price",
      "scoreClass": "hi"
+    },
+    {
+     "name": "S685 WPC Classic Wood",
+     "code": "UC/I2/PPD/WS685",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 7.68,
+      "T_mm": 12,
+      "raw": "9.5 ft ? 7.68 in ? 12 mm"
+     },
+     "psf": 214,
+     "perPanel": 1300,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778752706158-35d49e.png",
+     "similarity": 82,
+     "isCheaper": true,
+     "diff": "▼ Saves ₹1,500",
+     "scoreClass": "mid"
     }
    ]
   },
@@ -2608,7 +2680,7 @@
    "search": "uc/m2/pcr/w3624 w3624 3624 charcoal mini rectangle wood charcoal",
    "unique": false,
    "cheaperCount": 0,
-   "oos": true,
+   "oos": false,
    "alternatives": [
     {
      "name": "3623 Charcoal Mini rectangle Wood",
@@ -3426,6 +3498,24 @@
      "scoreClass": "hi"
     },
     {
+     "name": "9204 Nio Fluted Wood",
+     "code": "UC/P1/PPF/W9204",
+     "material": "Nio",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 11.6,
+      "T_mm": 10,
+      "raw": "9.5 ft ? 11.6 in ? 10 mm"
+     },
+     "psf": 174,
+     "perPanel": 1600,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/customer-app-supply/1779351763768-9e46e6.jpeg",
+     "similarity": 85,
+     "isCheaper": false,
+     "diff": "= same price",
+     "scoreClass": "hi"
+    },
+    {
      "name": "0132 WPC Classic Neutral",
      "code": "UC/I2/PPD/R0132",
      "material": "WPC",
@@ -3850,7 +3940,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/customer-app-supply/1779351754052-51ca8f.jpeg",
    "search": "uc/p1/ppf/w8360 w8360 8360 nio fluted wood nio",
    "unique": false,
-   "cheaperCount": 1,
+   "cheaperCount": 2,
    "oos": false,
    "alternatives": [
     {
@@ -3869,6 +3959,24 @@
      "similarity": 82,
      "isCheaper": false,
      "diff": "▲ ₹900 premium",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "8360 Nio Plain Wood",
+     "code": "UC/P1/PPP/W8360",
+     "material": "Nio",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 9.8,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 9.8 in ? 6 mm"
+     },
+     "psf": 98,
+     "perPanel": 760,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841873660-c8e668.png",
+     "similarity": 80,
+     "isCheaper": true,
+     "diff": "▼ Saves ₹840",
      "scoreClass": "mid"
     },
     {
@@ -3907,7 +4015,7 @@
    "search": "uc/p1/ppp/w8360 w8360 8360 nio plain wood nio",
    "unique": false,
    "cheaperCount": 0,
-   "oos": true,
+   "oos": false,
    "alternatives": [
     {
      "name": "8360 Nio Fluted Wood",
@@ -3982,7 +4090,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324327693-e2ce85.jpeg",
    "search": "uc/i2/pcu/p8461 p8461 8461 charcoal mini concave pastel charcoal",
    "unique": false,
-   "cheaperCount": 0,
+   "cheaperCount": 1,
    "oos": false,
    "alternatives": [
     {
@@ -4001,6 +4109,24 @@
      "similarity": 83,
      "isCheaper": false,
      "diff": "= same price",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "0072 WPC Ceramic Neutral",
+     "code": "UC/I2/PPC/N0072",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 7.68,
+      "T_mm": 7.5,
+      "raw": "9.5 ft ? 7.68 in ? 7.5 mm"
+     },
+     "psf": 238,
+     "perPanel": 1450,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140299454-7350a9.jpeg",
+     "similarity": 78,
+     "isCheaper": true,
+     "diff": "▼ Saves ₹520",
      "scoreClass": "mid"
     }
    ]
@@ -4206,7 +4332,7 @@
    "search": "uc/p1/ppf/w9204 w9204 9204 nio fluted wood nio",
    "unique": false,
    "cheaperCount": 2,
-   "oos": true,
+   "oos": false,
    "alternatives": [
     {
      "name": "X921 WPC Classic Wood",
@@ -4316,6 +4442,24 @@
      "similarity": 81,
      "isCheaper": false,
      "diff": "▲ ₹2,240 premium",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "9204 Nio Fluted Wood",
+     "code": "UC/P1/PPF/W9204",
+     "material": "Nio",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 11.6,
+      "T_mm": 10,
+      "raw": "9.5 ft ? 11.6 in ? 10 mm"
+     },
+     "psf": 174,
+     "perPanel": 1600,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/customer-app-supply/1779351763768-9e46e6.jpeg",
+     "similarity": 78,
+     "isCheaper": false,
+     "diff": "▲ ₹840 premium",
      "scoreClass": "mid"
     }
    ]
@@ -5525,7 +5669,7 @@
    "search": "uc/i2/ppd/ws685 ws685 s685 wpc classic wood wpc",
    "unique": false,
    "cheaperCount": 0,
-   "oos": true,
+   "oos": false,
    "alternatives": [
     {
      "name": "3623 Charcoal Mini rectangle Wood",
@@ -5967,6 +6111,24 @@
      "perPanel": 1600,
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324271389-8e9997.jpeg",
      "similarity": 89,
+     "isCheaper": false,
+     "diff": "▲ ₹300 premium",
+     "scoreClass": "hi"
+    },
+    {
+     "name": "9204 Nio Fluted Wood",
+     "code": "UC/P1/PPF/W9204",
+     "material": "Nio",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 11.6,
+      "T_mm": 10,
+      "raw": "9.5 ft ? 11.6 in ? 10 mm"
+     },
+     "psf": 174,
+     "perPanel": 1600,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/customer-app-supply/1779351763768-9e46e6.jpeg",
+     "similarity": 85,
      "isCheaper": false,
      "diff": "▲ ₹300 premium",
      "scoreClass": "hi"
