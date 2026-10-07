@@ -314,9 +314,27 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140303807-76ae4c.jpeg",
    "search": "uc/i2/ppc/n0102 n0102 0102 wpc ceramic neutral wpc",
    "unique": false,
-   "cheaperCount": 1,
+   "cheaperCount": 2,
    "oos": false,
    "alternatives": [
+    {
+     "name": "2022 WPC Classic White",
+     "code": "UC/I2/PPD/H2022",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 7.68,
+      "T_mm": 12,
+      "raw": "9.5 ft ? 7.68 in ? 12 mm"
+     },
+     "psf": 214,
+     "perPanel": 1300,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140386280-c49004.jpeg",
+     "similarity": 84,
+     "isCheaper": true,
+     "diff": "▼ Saves ₹150",
+     "scoreClass": "mid"
+    },
     {
      "name": "5081 Charcoal Concave Gold",
      "code": "UC/M2/PCS/K5081",
@@ -1073,7 +1091,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1769519883323-31626e.jpeg",
    "search": "uc/i2/pcv/s0519 s0519 0519 charcoal slats stone charcoal",
    "unique": false,
-   "cheaperCount": 3,
+   "cheaperCount": 4,
    "oos": false,
    "alternatives": [
     {
@@ -1111,6 +1129,24 @@
      "isCheaper": false,
      "diff": "= same price",
      "scoreClass": "hi"
+    },
+    {
+     "name": "2022 WPC Classic White",
+     "code": "UC/I2/PPD/H2022",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 7.68,
+      "T_mm": 12,
+      "raw": "9.5 ft ? 7.68 in ? 12 mm"
+     },
+     "psf": 214,
+     "perPanel": 1300,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140386280-c49004.jpeg",
+     "similarity": 80,
+     "isCheaper": true,
+     "diff": "▼ Saves ₹900",
+     "scoreClass": "mid"
     },
     {
      "name": "0G29 Charcoal Ceramic Stone",
@@ -2054,9 +2090,27 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140331001-b79537.jpeg",
    "search": "uc/i2/ppc/h2022 h2022 2022 wpc ceramic white wpc",
    "unique": false,
-   "cheaperCount": 1,
+   "cheaperCount": 2,
    "oos": false,
    "alternatives": [
+    {
+     "name": "2022 WPC Classic White",
+     "code": "UC/I2/PPD/H2022",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 7.68,
+      "T_mm": 12,
+      "raw": "9.5 ft ? 7.68 in ? 12 mm"
+     },
+     "psf": 214,
+     "perPanel": 1300,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140386280-c49004.jpeg",
+     "similarity": 90,
+     "isCheaper": true,
+     "diff": "▼ Saves ₹150",
+     "scoreClass": "hi"
+    },
     {
      "name": "0102 WPC Ceramic Neutral",
      "code": "UC/I2/PPC/N0102",
@@ -2109,6 +2163,116 @@
      "similarity": 71,
      "isCheaper": false,
      "diff": "▲ ₹1,550 premium",
+     "scoreClass": "mid"
+    }
+   ]
+  },
+  {
+   "name": "2022 WPC Classic White",
+   "code": "UC/I2/PPD/H2022",
+   "material": "WPC",
+   "dims": {
+    "L_ft": 9.5,
+    "W_in": 7.68,
+    "T_mm": 12,
+    "raw": "9.5 ft ? 7.68 in ? 12 mm"
+   },
+   "psf": 214,
+   "perPanel": 1300,
+   "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140386280-c49004.jpeg",
+   "search": "uc/i2/ppd/h2022 h2022 2022 wpc classic white wpc",
+   "unique": false,
+   "cheaperCount": 2,
+   "oos": false,
+   "alternatives": [
+    {
+     "name": "2022 WPC Ceramic White",
+     "code": "UC/I2/PPC/H2022",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 7.68,
+      "T_mm": 7.5,
+      "raw": "9.5 ft ? 7.68 in ? 7.5 mm"
+     },
+     "psf": 238,
+     "perPanel": 1450,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140331001-b79537.jpeg",
+     "similarity": 90,
+     "isCheaper": false,
+     "diff": "▲ ₹150 premium",
+     "scoreClass": "hi"
+    },
+    {
+     "name": "5081 Charcoal Concave Gold",
+     "code": "UC/M2/PCS/K5081",
+     "material": "Charcoal",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 5.5,
+      "T_mm": 11,
+      "raw": "9.5 ft ? 5.5 in ? 11 mm"
+     },
+     "psf": 276,
+     "perPanel": 1200,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324236440-f726c2.jpeg",
+     "similarity": 85,
+     "isCheaper": true,
+     "diff": "▼ Saves ₹100",
+     "scoreClass": "hi"
+    },
+    {
+     "name": "0102 WPC Ceramic Neutral",
+     "code": "UC/I2/PPC/N0102",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 7.68,
+      "T_mm": 7.5,
+      "raw": "9.5 ft ? 7.68 in ? 7.5 mm"
+     },
+     "psf": 238,
+     "perPanel": 1450,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140303807-76ae4c.jpeg",
+     "similarity": 84,
+     "isCheaper": false,
+     "diff": "▲ ₹150 premium",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "5084 Charcoal Concave Gold",
+     "code": "UC/M2/PCS/K5084",
+     "material": "Charcoal",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 5.5,
+      "T_mm": 11,
+      "raw": "9.5 ft ? 5.5 in ? 11 mm"
+     },
+     "psf": 276,
+     "perPanel": 1200,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324209974-0313bc.jpeg",
+     "similarity": 82,
+     "isCheaper": true,
+     "diff": "▼ Saves ₹100",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "0519 Charcoal Slats Stone",
+     "code": "UC/I2/PCV/S0519",
+     "material": "Charcoal",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 9.64,
+      "T_mm": 10.2,
+      "raw": "9.5 ft ? 9.64 in ? 10.2 mm"
+     },
+     "psf": 288,
+     "perPanel": 2200,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1769519883323-31626e.jpeg",
+     "similarity": 80,
+     "isCheaper": false,
+     "diff": "▲ ₹900 premium",
      "scoreClass": "mid"
     }
    ]
@@ -2667,8 +2831,8 @@
    ]
   },
   {
-   "name": "3731 WPC Classic Gold",
-   "code": "UC/I2/PPD/K3731",
+   "name": "3731* WPC Classic Gold",
+   "code": "UC/M2/PPD/K3731",
    "material": "WPC",
    "dims": {
     "L_ft": 9.5,
@@ -2678,8 +2842,8 @@
    },
    "psf": 278,
    "perPanel": 1300,
-   "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140038825-037e2e.jpeg",
-   "search": "uc/i2/ppd/k3731 k3731 3731 wpc classic gold wpc",
+   "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324152426-20f472.jpeg",
+   "search": "uc/m2/ppd/k3731 k3731 3731* wpc classic gold wpc",
    "unique": false,
    "cheaperCount": 1,
    "oos": false,
@@ -2697,9 +2861,27 @@
      "psf": 160,
      "perPanel": 810,
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324093359-1440b0.jpeg",
-     "similarity": 77,
+     "similarity": 76,
      "isCheaper": true,
      "diff": "▼ Saves ₹490",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "8360 Nio Fluted Wood",
+     "code": "UC/P1/PPF/W8360",
+     "material": "Nio",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 11.6,
+      "T_mm": 10,
+      "raw": "9.5 ft ? 11.6 in ? 10 mm"
+     },
+     "psf": 174,
+     "perPanel": 1600,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/customer-app-supply/1779351754052-51ca8f.jpeg",
+     "similarity": 75,
+     "isCheaper": false,
+     "diff": "▲ ₹300 premium",
      "scoreClass": "mid"
     }
    ]
@@ -2852,6 +3034,24 @@
    "cheaperCount": 0,
    "oos": false,
    "alternatives": [
+    {
+     "name": "2022 WPC Classic White",
+     "code": "UC/I2/PPD/H2022",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 7.68,
+      "T_mm": 12,
+      "raw": "9.5 ft ? 7.68 in ? 12 mm"
+     },
+     "psf": 214,
+     "perPanel": 1300,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140386280-c49004.jpeg",
+     "similarity": 85,
+     "isCheaper": false,
+     "diff": "▲ ₹100 premium",
+     "scoreClass": "hi"
+    },
     {
      "name": "5083 Charcoal Concave Gold",
      "code": "UC/M2/PCS/K5083",
@@ -3091,6 +3291,24 @@
      "isCheaper": false,
      "diff": "= same price",
      "scoreClass": "hi"
+    },
+    {
+     "name": "2022 WPC Classic White",
+     "code": "UC/I2/PPD/H2022",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 7.68,
+      "T_mm": 12,
+      "raw": "9.5 ft ? 7.68 in ? 12 mm"
+     },
+     "psf": 214,
+     "perPanel": 1300,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140386280-c49004.jpeg",
+     "similarity": 82,
+     "isCheaper": false,
+     "diff": "▲ ₹100 premium",
+     "scoreClass": "mid"
     },
     {
      "name": "5082 Charcoal Concave Gold",
@@ -3886,7 +4104,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/customer-app-supply/1779351754052-51ca8f.jpeg",
    "search": "uc/p1/ppf/w8360 w8360 8360 nio fluted wood nio",
    "unique": false,
-   "cheaperCount": 2,
+   "cheaperCount": 3,
    "oos": false,
    "alternatives": [
     {
@@ -3941,6 +4159,24 @@
      "similarity": 80,
      "isCheaper": true,
      "diff": "▼ Saves ₹790",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "3731* WPC Classic Gold",
+     "code": "UC/M2/PPD/K3731",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 5.9,
+      "T_mm": 9,
+      "raw": "9.5 ft ? 5.9 in ? 9 mm"
+     },
+     "psf": 278,
+     "perPanel": 1300,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324152426-20f472.jpeg",
+     "similarity": 75,
+     "isCheaper": true,
+     "diff": "▼ Saves ₹300",
      "scoreClass": "mid"
     }
    ]
@@ -5801,8 +6037,8 @@
      "scoreClass": "mid"
     },
     {
-     "name": "3731 WPC Classic Gold",
-     "code": "UC/I2/PPD/K3731",
+     "name": "3731* WPC Classic Gold",
+     "code": "UC/M2/PPD/K3731",
      "material": "WPC",
      "dims": {
       "L_ft": 9.5,
@@ -5812,8 +6048,8 @@
      },
      "psf": 278,
      "perPanel": 1300,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140038825-037e2e.jpeg",
-     "similarity": 77,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324152426-20f472.jpeg",
+     "similarity": 76,
      "isCheaper": false,
      "diff": "▲ ₹490 premium",
      "scoreClass": "mid"
