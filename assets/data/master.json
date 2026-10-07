@@ -421,7 +421,7 @@
   "material": "WPC",
   "sub": "Panel",
   "live": {
-   "delhi": false,
+   "delhi": true,
    "mumbai": false,
    "bangalore": false,
    "hyderabad": false
@@ -4110,7 +4110,7 @@
   "material": "WPC",
   "sub": "Panel",
   "live": {
-   "delhi": false,
+   "delhi": true,
    "mumbai": false,
    "bangalore": false,
    "hyderabad": false
@@ -4389,7 +4389,7 @@
   "material": "WPC",
   "sub": "Panel",
   "live": {
-   "delhi": true,
+   "delhi": false,
    "mumbai": true,
    "bangalore": true,
    "hyderabad": true
