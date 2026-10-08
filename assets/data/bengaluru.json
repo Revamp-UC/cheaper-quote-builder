@@ -313,7 +313,7 @@
    "search": "uc/i2/ppu/p0126 p0126 0126 wpc mini concave gold wpc",
    "unique": true,
    "cheaperCount": 0,
-   "oos": false,
+   "oos": true,
    "alternatives": []
   },
   {
@@ -4455,7 +4455,7 @@
    "search": "uc/i2/ppu/wb018 wb018 b018 wpc mini concave wood wpc",
    "unique": true,
    "cheaperCount": 0,
-   "oos": false,
+   "oos": true,
    "alternatives": []
   },
   {
