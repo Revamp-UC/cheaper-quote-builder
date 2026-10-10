@@ -867,29 +867,10 @@
    "perPanel": 760,
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841922384-542dc6.png",
    "search": "uc/p1/ppp/t0156 t0156 0156 nio plain traditional nio",
-   "unique": false,
+   "unique": true,
    "cheaperCount": 0,
    "oos": true,
-   "alternatives": [
-    {
-     "name": "1455 Nio Plain Gold",
-     "code": "UC/P1/PPP/K1455",
-     "material": "Nio",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 9.8,
-      "T_mm": 6,
-      "raw": "9.5 ft ? 9.8 in ? 6 mm"
-     },
-     "psf": 98,
-     "perPanel": 760,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841892728-ff625b.png",
-     "similarity": 81,
-     "isCheaper": false,
-     "diff": "= same price",
-     "scoreClass": "mid"
-    }
-   ]
+   "alternatives": []
   },
   {
    "name": "0195 Nio Plain Gold",
@@ -909,24 +890,6 @@
    "cheaperCount": 0,
    "oos": false,
    "alternatives": [
-    {
-     "name": "1455 Nio Plain Gold",
-     "code": "UC/P1/PPP/K1455",
-     "material": "Nio",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 9.8,
-      "T_mm": 6,
-      "raw": "9.5 ft ? 9.8 in ? 6 mm"
-     },
-     "psf": 98,
-     "perPanel": 760,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841892728-ff625b.png",
-     "similarity": 78,
-     "isCheaper": false,
-     "diff": "= same price",
-     "scoreClass": "mid"
-    },
     {
      "name": "9472 Nio Plain Gold",
      "code": "UC/P1/PPP/K9472",
@@ -1458,7 +1421,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323468383-4a7d75.jpeg",
    "search": "uc/m2/ss0/m09u2 m09u2 09u2 spc sheet marble | 3 mm spc",
    "unique": false,
-   "cheaperCount": 1,
+   "cheaperCount": 2,
    "oos": false,
    "alternatives": [
     {
@@ -1531,6 +1494,24 @@
      "similarity": 83,
      "isCheaper": true,
      "diff": "▼ Saves ₹3,000",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "9001 Nio Plain Stone",
+     "code": "UC/P1/PPP/S9001",
+     "material": "Nio",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 9.8,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 9.8 in ? 6 mm"
+     },
+     "psf": 98,
+     "perPanel": 760,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841918427-b2385a.png",
+     "similarity": 74,
+     "isCheaper": true,
+     "diff": "▼ Saves ₹8,240",
      "scoreClass": "mid"
     }
    ]
@@ -1642,7 +1623,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323482814-f22070.jpeg",
    "search": "uc/m2/ss0/m0hxl m0hxl 0hxl spc sheet marble | 3 mm spc",
    "unique": false,
-   "cheaperCount": 0,
+   "cheaperCount": 1,
    "oos": false,
    "alternatives": [
     {
@@ -1752,6 +1733,24 @@
      "isCheaper": false,
      "diff": "▲ ₹1,599 premium",
      "scoreClass": "mid"
+    },
+    {
+     "name": "9001 Nio Plain Stone",
+     "code": "UC/P1/PPP/S9001",
+     "material": "Nio",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 9.8,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 9.8 in ? 6 mm"
+     },
+     "psf": 98,
+     "perPanel": 760,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841918427-b2385a.png",
+     "similarity": 75,
+     "isCheaper": true,
+     "diff": "▼ Saves ₹5,240",
+     "scoreClass": "mid"
     }
    ]
   },
@@ -1827,7 +1826,7 @@
    "search": "uc/p1/ppp/k1455 k1455 1455 nio plain gold nio",
    "unique": false,
    "cheaperCount": 0,
-   "oos": false,
+   "oos": true,
    "alternatives": [
     {
      "name": "0195 Nio Plain Gold",
@@ -2568,7 +2567,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323656946-04cef4.jpeg",
    "search": "uc/m2/ss0/m2208 m2208 2208 spc sheet marble | 3 mm spc",
    "unique": false,
-   "cheaperCount": 1,
+   "cheaperCount": 2,
    "oos": false,
    "alternatives": [
     {
@@ -2641,6 +2640,24 @@
      "similarity": 83,
      "isCheaper": true,
      "diff": "▼ Saves ₹3,000",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "9001 Nio Plain Stone",
+     "code": "UC/P1/PPP/S9001",
+     "material": "Nio",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 9.8,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 9.8 in ? 6 mm"
+     },
+     "psf": 98,
+     "perPanel": 760,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841918427-b2385a.png",
+     "similarity": 74,
+     "isCheaper": true,
+     "diff": "▼ Saves ₹8,240",
      "scoreClass": "mid"
     }
    ]
@@ -4348,7 +4365,7 @@
    "search": "uc/p1/ppp/s9001 s9001 9001 nio plain stone nio",
    "unique": false,
    "cheaperCount": 0,
-   "oos": true,
+   "oos": false,
    "alternatives": [
     {
      "name": "9952 WPC Sheet Texture | 7 mm",
@@ -4721,24 +4738,6 @@
    "oos": false,
    "alternatives": [
     {
-     "name": "1455 Nio Plain Gold",
-     "code": "UC/P1/PPP/K1455",
-     "material": "Nio",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 9.8,
-      "T_mm": 6,
-      "raw": "9.5 ft ? 9.8 in ? 6 mm"
-     },
-     "psf": 98,
-     "perPanel": 760,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841892728-ff625b.png",
-     "similarity": 75,
-     "isCheaper": false,
-     "diff": "= same price",
-     "scoreClass": "mid"
-    },
-    {
      "name": "0195 Nio Plain Gold",
      "code": "UC/P1/PPP/K0195",
      "material": "Nio",
@@ -4773,7 +4772,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323533569-762729.jpeg",
    "search": "uc/i2/sph/l9952 l9952 9952 wpc sheet texture | 7 mm wpc",
    "unique": false,
-   "cheaperCount": 3,
+   "cheaperCount": 4,
    "oos": false,
    "alternatives": [
     {
@@ -4828,6 +4827,24 @@
      "similarity": 82,
      "isCheaper": true,
      "diff": "▼ Saves ₹2,650",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "9001 Nio Plain Stone",
+     "code": "UC/P1/PPP/S9001",
+     "material": "Nio",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 9.8,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 9.8 in ? 6 mm"
+     },
+     "psf": 98,
+     "perPanel": 760,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841918427-b2385a.png",
+     "similarity": 76,
+     "isCheaper": true,
+     "diff": "▼ Saves ₹7,890",
      "scoreClass": "mid"
     }
    ]

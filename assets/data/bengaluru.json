@@ -3866,24 +3866,6 @@
    "oos": false,
    "alternatives": [
     {
-     "name": "EM02 Nio Plain Gold",
-     "code": "UC/P1/PPP/KEM02",
-     "material": "Nio",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 9.8,
-      "T_mm": 6,
-      "raw": "9.5 ft ? 9.8 in ? 6 mm"
-     },
-     "psf": 103,
-     "perPanel": 800,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841903506-8fbee2.png",
-     "similarity": 85,
-     "isCheaper": false,
-     "diff": "= same price",
-     "scoreClass": "hi"
-    },
-    {
      "name": "X921 WPC Sheet Wood | 7 mm",
      "code": "UC/I2/SPG/WX921",
      "material": "WPC",
@@ -4455,7 +4437,7 @@
    "search": "uc/i2/ppu/wb018 wb018 b018 wpc mini concave wood wpc",
    "unique": true,
    "cheaperCount": 0,
-   "oos": true,
+   "oos": false,
    "alternatives": []
   },
   {
@@ -4827,7 +4809,7 @@
    "search": "uc/p1/ppp/kem02 kem02 em02 nio plain gold nio",
    "unique": false,
    "cheaperCount": 0,
-   "oos": false,
+   "oos": true,
    "alternatives": [
     {
      "name": "9204 Nio Plain Wood",
@@ -5493,7 +5475,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140294615-99bfdb.jpeg",
    "search": "uc/i2/spg/wx921 wx921 x921 wpc sheet wood | 7 mm wpc",
    "unique": false,
-   "cheaperCount": 4,
+   "cheaperCount": 3,
    "oos": false,
    "alternatives": [
     {
@@ -5548,24 +5530,6 @@
      "similarity": 80,
      "isCheaper": true,
      "diff": "▼ Saves ₹1,950",
-     "scoreClass": "mid"
-    },
-    {
-     "name": "EM02 Nio Plain Gold",
-     "code": "UC/P1/PPP/KEM02",
-     "material": "Nio",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 9.8,
-      "T_mm": 6,
-      "raw": "9.5 ft ? 9.8 in ? 6 mm"
-     },
-     "psf": 103,
-     "perPanel": 800,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841903506-8fbee2.png",
-     "similarity": 78,
-     "isCheaper": true,
-     "diff": "▼ Saves ₹2,750",
      "scoreClass": "mid"
     }
    ]
