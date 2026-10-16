@@ -313,7 +313,7 @@
    "search": "uc/i2/ppu/p0126 p0126 0126 wpc mini concave gold wpc",
    "unique": true,
    "cheaperCount": 0,
-   "oos": true,
+   "oos": false,
    "alternatives": []
   },
   {
@@ -994,6 +994,24 @@
      "isCheaper": false,
      "diff": "= same price",
      "scoreClass": "mid"
+    },
+    {
+     "name": "8083 SPC Sheet Gold | 3 mm",
+     "code": "UC/M2/SS0/M8083",
+     "material": "SPC",
+     "dims": {
+      "L_ft": 9.2,
+      "W_in": 48,
+      "T_mm": 3,
+      "raw": "9.2 ft ? 48 in ? 3 mm"
+     },
+     "psf": 245,
+     "perPanel": 9000,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323939936-9eb8d8.jpeg",
+     "similarity": 78,
+     "isCheaper": false,
+     "diff": "= same price",
+     "scoreClass": "mid"
     }
    ]
   },
@@ -1659,6 +1677,24 @@
      "isCheaper": false,
      "diff": "= same price",
      "scoreClass": "hi"
+    },
+    {
+     "name": "X919 WPC Classic Wood",
+     "code": "UC/I2/PPD/WX919",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 7.68,
+      "T_mm": 12,
+      "raw": "9.5 ft ? 7.68 in ? 12 mm"
+     },
+     "psf": 263,
+     "perPanel": 1600,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140043893-a972de.jpeg",
+     "similarity": 72,
+     "isCheaper": false,
+     "diff": "▲ ₹960 premium",
+     "scoreClass": "mid"
     }
    ]
   },
@@ -2622,6 +2658,24 @@
    "oos": false,
    "alternatives": [
     {
+     "name": "8083 SPC Sheet Gold | 3 mm",
+     "code": "UC/M2/SS0/M8083",
+     "material": "SPC",
+     "dims": {
+      "L_ft": 9.2,
+      "W_in": 48,
+      "T_mm": 3,
+      "raw": "9.2 ft ? 48 in ? 3 mm"
+     },
+     "psf": 245,
+     "perPanel": 9000,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323939936-9eb8d8.jpeg",
+     "similarity": 90,
+     "isCheaper": false,
+     "diff": "= same price",
+     "scoreClass": "hi"
+    },
+    {
      "name": "5508 SPC Sheet Marble | 3 mm",
      "code": "UC/M2/SS0/M5508",
      "material": "SPC",
@@ -2802,6 +2856,24 @@
      "psf": 245,
      "perPanel": 9000,
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323656946-04cef4.jpeg",
+     "similarity": 86,
+     "isCheaper": false,
+     "diff": "= same price",
+     "scoreClass": "hi"
+    },
+    {
+     "name": "8083 SPC Sheet Gold | 3 mm",
+     "code": "UC/M2/SS0/M8083",
+     "material": "SPC",
+     "dims": {
+      "L_ft": 9.2,
+      "W_in": 48,
+      "T_mm": 3,
+      "raw": "9.2 ft ? 48 in ? 3 mm"
+     },
+     "psf": 245,
+     "perPanel": 9000,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323939936-9eb8d8.jpeg",
      "similarity": 86,
      "isCheaper": false,
      "diff": "= same price",
@@ -3380,7 +3452,7 @@
    "search": "uc/m2/ss0/m8083 m8083 8083 spc sheet gold | 3 mm spc",
    "unique": false,
    "cheaperCount": 0,
-   "oos": true,
+   "oos": false,
    "alternatives": [
     {
      "name": "4501 SPC Sheet Marble | 3 mm",
@@ -5109,6 +5181,24 @@
    "oos": false,
    "alternatives": [
     {
+     "name": "X919 WPC Classic Wood",
+     "code": "UC/I2/PPD/WX919",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 7.68,
+      "T_mm": 12,
+      "raw": "9.5 ft ? 7.68 in ? 12 mm"
+     },
+     "psf": 263,
+     "perPanel": 1600,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140043893-a972de.jpeg",
+     "similarity": 81,
+     "isCheaper": false,
+     "diff": "▲ ₹790 premium",
+     "scoreClass": "mid"
+    },
+    {
      "name": "8360 Nio Fluted Wood",
      "code": "UC/P1/PPF/W8360",
      "material": "Nio",
@@ -5218,7 +5308,7 @@
    "search": "uc/i2/ppd/wx919 wx919 x919 wpc classic wood wpc",
    "unique": false,
    "cheaperCount": 2,
-   "oos": true,
+   "oos": false,
    "alternatives": [
     {
      "name": "X905* WPC Small square Wood",
