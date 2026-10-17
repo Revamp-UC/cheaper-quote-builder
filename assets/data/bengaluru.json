@@ -2505,7 +2505,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323763523-c95780.jpeg",
    "search": "uc/m2/pcr/w3623 w3623 3623 charcoal mini rectangle wood charcoal",
    "unique": false,
-   "cheaperCount": 2,
+   "cheaperCount": 3,
    "oos": false,
    "alternatives": [
     {
@@ -2560,6 +2560,24 @@
      "similarity": 83,
      "isCheaper": true,
      "diff": "▼ Saves ₹1,000",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "S685 WPC Classic Wood",
+     "code": "UC/I2/PPD/WS685",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 7.68,
+      "T_mm": 12,
+      "raw": "9.5 ft ? 7.68 in ? 12 mm"
+     },
+     "psf": 263,
+     "perPanel": 1600,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778752706158-35d49e.png",
+     "similarity": 82,
+     "isCheaper": true,
+     "diff": "▼ Saves ₹1,400",
      "scoreClass": "mid"
     }
    ]
@@ -5032,7 +5050,7 @@
    "search": "uc/i2/ppd/ws685 ws685 s685 wpc classic wood wpc",
    "unique": false,
    "cheaperCount": 0,
-   "oos": true,
+   "oos": false,
    "alternatives": [
     {
      "name": "3623 Charcoal Mini rectangle Wood",
@@ -5535,6 +5553,44 @@
      "scoreClass": "mid"
     }
    ]
+  },
+  {
+   "name": "Y008 SPC Sheet Marble | 3 mm",
+   "code": "UC/I2/SS0/SY008",
+   "material": "SPC",
+   "dims": {
+    "L_ft": 9.2,
+    "W_in": 48,
+    "T_mm": 3,
+    "raw": "9.2 ft ? 48 in ? 3 mm"
+   },
+   "psf": 245,
+   "perPanel": 9000,
+   "image": "",
+   "search": "uc/i2/ss0/sy008 sy008 y008 spc sheet marble | 3 mm spc",
+   "unique": true,
+   "cheaperCount": 0,
+   "oos": false,
+   "alternatives": []
+  },
+  {
+   "name": "Y130 SPC Sheet Marble | 3 mm",
+   "code": "UC/I2/SS0/SY130",
+   "material": "SPC",
+   "dims": {
+    "L_ft": 9.2,
+    "W_in": 48,
+    "T_mm": 3,
+    "raw": "9.2 ft ? 48 in ? 3 mm"
+   },
+   "psf": 245,
+   "perPanel": 9000,
+   "image": "",
+   "search": "uc/i2/ss0/sy130 sy130 y130 spc sheet marble | 3 mm spc",
+   "unique": true,
+   "cheaperCount": 0,
+   "oos": false,
+   "alternatives": []
   }
  ]
 }
