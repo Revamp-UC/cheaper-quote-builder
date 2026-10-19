@@ -409,22 +409,22 @@
      "scoreClass": "hi"
     },
     {
-     "name": "X921 WPC Small square Wood",
-     "code": "UC/I2/PPE/WX921",
-     "material": "WPC",
+     "name": "7331 Charcoal Fluted Wood",
+     "code": "UC/M2/PCF/W7331",
+     "material": "Charcoal",
      "dims": {
       "L_ft": 9.5,
-      "W_in": 7.35,
-      "T_mm": 19.5,
-      "raw": "9.5 ft ? 7.35 in ? 19.5 mm"
+      "W_in": 11.3,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 11.3 in ? 6 mm"
      },
-     "psf": 275,
+     "psf": 179,
      "perPanel": 1600,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140984357-dacfa2.jpeg",
-     "similarity": 86,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324271389-8e9997.jpeg",
+     "similarity": 82,
      "isCheaper": false,
      "diff": "= same price",
-     "scoreClass": "hi"
+     "scoreClass": "mid"
     }
    ]
   },
@@ -2749,7 +2749,7 @@
    "search": "uc/p1/ppp/s5021 s5021 5021 nio plain stone nio",
    "unique": false,
    "cheaperCount": 0,
-   "oos": true,
+   "oos": false,
    "alternatives": [
     {
      "name": "D193 Nio Plain Texture",
@@ -3028,7 +3028,7 @@
    "search": "uc/m2/pcf/w7331 w7331 7331 charcoal fluted wood charcoal",
    "unique": false,
    "cheaperCount": 1,
-   "oos": true,
+   "oos": false,
    "alternatives": [
     {
      "name": "X921 WPC Classic Wood",
@@ -3064,24 +3064,6 @@
      "similarity": 87,
      "isCheaper": false,
      "diff": "▲ ₹1,100 premium",
-     "scoreClass": "hi"
-    },
-    {
-     "name": "X921 WPC Small square Wood",
-     "code": "UC/I2/PPE/WX921",
-     "material": "WPC",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 7.35,
-      "T_mm": 19.5,
-      "raw": "9.5 ft ? 7.35 in ? 19.5 mm"
-     },
-     "psf": 275,
-     "perPanel": 1600,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140984357-dacfa2.jpeg",
-     "similarity": 87,
-     "isCheaper": false,
-     "diff": "= same price",
      "scoreClass": "hi"
     },
     {
@@ -3211,9 +3193,27 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324263537-a3c2ea.jpeg",
    "search": "uc/m2/pcf/w7333 w7333 7333* charcoal fluted wood charcoal",
    "unique": false,
-   "cheaperCount": 2,
+   "cheaperCount": 3,
    "oos": false,
    "alternatives": [
+    {
+     "name": "7331 Charcoal Fluted Wood",
+     "code": "UC/M2/PCF/W7331",
+     "material": "Charcoal",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 11.3,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 11.3 in ? 6 mm"
+     },
+     "psf": 179,
+     "perPanel": 1600,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324271389-8e9997.jpeg",
+     "similarity": 87,
+     "isCheaper": true,
+     "diff": "▼ Saves ₹1,100",
+     "scoreClass": "hi"
+    },
     {
      "name": "3622* Charcoal Mini rectangle Wood",
      "code": "UC/M2/PCR/W3622",
@@ -3792,6 +3792,24 @@
      "scoreClass": "hi"
     },
     {
+     "name": "7331 Charcoal Fluted Wood",
+     "code": "UC/M2/PCF/W7331",
+     "material": "Charcoal",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 11.3,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 11.3 in ? 6 mm"
+     },
+     "psf": 179,
+     "perPanel": 1600,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324271389-8e9997.jpeg",
+     "similarity": 85,
+     "isCheaper": false,
+     "diff": "▲ ₹50 premium",
+     "scoreClass": "hi"
+    },
+    {
      "name": "9204 Nio Plain Wood",
      "code": "UC/P1/PPP/W9204",
      "material": "Nio",
@@ -3829,6 +3847,24 @@
    "cheaperCount": 0,
    "oos": false,
    "alternatives": [
+    {
+     "name": "EM02 Nio Plain Gold",
+     "code": "UC/P1/PPP/KEM02",
+     "material": "Nio",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 9.8,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 9.8 in ? 6 mm"
+     },
+     "psf": 103,
+     "perPanel": 800,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841903506-8fbee2.png",
+     "similarity": 85,
+     "isCheaper": false,
+     "diff": "= same price",
+     "scoreClass": "hi"
+    },
     {
      "name": "X921 WPC Sheet Wood | 7 mm",
      "code": "UC/I2/SPG/WX921",
@@ -4754,6 +4790,24 @@
      "isCheaper": false,
      "diff": "= same price",
      "scoreClass": "mid"
+    },
+    {
+     "name": "5021 Nio Plain Stone",
+     "code": "UC/P1/PPP/S5021",
+     "material": "Nio",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 9.8,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 9.8 in ? 6 mm"
+     },
+     "psf": 103,
+     "perPanel": 800,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841914585-e1f6fa.png",
+     "similarity": 75,
+     "isCheaper": false,
+     "diff": "= same price",
+     "scoreClass": "mid"
     }
    ]
   },
@@ -4773,7 +4827,7 @@
    "search": "uc/p1/ppp/kem02 kem02 em02 nio plain gold nio",
    "unique": false,
    "cheaperCount": 0,
-   "oos": true,
+   "oos": false,
    "alternatives": [
     {
      "name": "9204 Nio Plain Wood",
@@ -5333,19 +5387,19 @@
    "oos": false,
    "alternatives": [
     {
-     "name": "X921 WPC Small square Wood",
-     "code": "UC/I2/PPE/WX921",
-     "material": "WPC",
+     "name": "7331 Charcoal Fluted Wood",
+     "code": "UC/M2/PCF/W7331",
+     "material": "Charcoal",
      "dims": {
       "L_ft": 9.5,
-      "W_in": 7.35,
-      "T_mm": 19.5,
-      "raw": "9.5 ft ? 7.35 in ? 19.5 mm"
+      "W_in": 11.3,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 11.3 in ? 6 mm"
      },
-     "psf": 275,
+     "psf": 179,
      "perPanel": 1600,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140984357-dacfa2.jpeg",
-     "similarity": 95,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324271389-8e9997.jpeg",
+     "similarity": 89,
      "isCheaper": false,
      "diff": "= same price",
      "scoreClass": "hi"
@@ -5461,21 +5515,21 @@
      "scoreClass": "mid"
     },
     {
-     "name": "X921 WPC Small square Wood",
-     "code": "UC/I2/PPE/WX921",
-     "material": "WPC",
+     "name": "EM02 Nio Plain Gold",
+     "code": "UC/P1/PPP/KEM02",
+     "material": "Nio",
      "dims": {
       "L_ft": 9.5,
-      "W_in": 7.35,
-      "T_mm": 19.5,
-      "raw": "9.5 ft ? 7.35 in ? 19.5 mm"
+      "W_in": 9.8,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 9.8 in ? 6 mm"
      },
-     "psf": 275,
-     "perPanel": 1600,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140984357-dacfa2.jpeg",
-     "similarity": 80,
+     "psf": 103,
+     "perPanel": 800,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841903506-8fbee2.png",
+     "similarity": 78,
      "isCheaper": true,
-     "diff": "▼ Saves ₹1,950",
+     "diff": "▼ Saves ₹2,750",
      "scoreClass": "mid"
     }
    ]
@@ -5496,7 +5550,7 @@
    "search": "uc/i2/ppe/wx921 wx921 x921 wpc small square wood wpc",
    "unique": false,
    "cheaperCount": 0,
-   "oos": false,
+   "oos": true,
    "alternatives": [
     {
      "name": "X921 WPC Classic Wood",
@@ -5512,6 +5566,24 @@
      "perPanel": 1600,
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140375832-702c05.jpeg",
      "similarity": 95,
+     "isCheaper": false,
+     "diff": "= same price",
+     "scoreClass": "hi"
+    },
+    {
+     "name": "7331 Charcoal Fluted Wood",
+     "code": "UC/M2/PCF/W7331",
+     "material": "Charcoal",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 11.3,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 11.3 in ? 6 mm"
+     },
+     "psf": 179,
+     "perPanel": 1600,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324271389-8e9997.jpeg",
+     "similarity": 87,
      "isCheaper": false,
      "diff": "= same price",
      "scoreClass": "hi"
