@@ -917,7 +917,7 @@
   "material": "SPC",
   "sub": "Sheet",
   "live": {
-   "delhi": true,
+   "delhi": false,
    "mumbai": true,
    "bangalore": true,
    "hyderabad": true
@@ -1047,7 +1047,7 @@
    "hyderabad": true
   },
   "oos": {
-   "delhi": false,
+   "delhi": true,
    "mumbai": false,
    "bangalore": false,
    "hyderabad": false
@@ -2225,7 +2225,7 @@
    "hyderabad": true
   },
   "oos": {
-   "delhi": false,
+   "delhi": true,
    "mumbai": false,
    "bangalore": false,
    "hyderabad": false
@@ -4829,7 +4829,7 @@
    "hyderabad": true
   },
   "oos": {
-   "delhi": true,
+   "delhi": false,
    "mumbai": false,
    "bangalore": false,
    "hyderabad": false
