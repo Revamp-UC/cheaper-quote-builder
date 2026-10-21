@@ -2286,7 +2286,7 @@
    "search": "uc/m2/pcr/w3621 w3621 3621 charcoal mini rectangle wood charcoal",
    "unique": false,
    "cheaperCount": 2,
-   "oos": true,
+   "oos": false,
    "alternatives": [
     {
      "name": "3622* Charcoal Mini rectangle Wood",
@@ -2377,7 +2377,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324245463-5602e5.jpeg",
    "search": "uc/m2/pcr/w3622 w3622 3622* charcoal mini rectangle wood charcoal",
    "unique": false,
-   "cheaperCount": 0,
+   "cheaperCount": 1,
    "oos": false,
    "alternatives": [
     {
@@ -2396,6 +2396,24 @@
      "similarity": 87,
      "isCheaper": false,
      "diff": "= same price",
+     "scoreClass": "hi"
+    },
+    {
+     "name": "3621 Charcoal Mini rectangle Wood",
+     "code": "UC/M2/PCR/W3621",
+     "material": "Charcoal",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 11.6,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 11.6 in ? 6 mm"
+     },
+     "psf": 218,
+     "perPanel": 2000,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324254770-c71488.jpeg",
+     "similarity": 85,
+     "isCheaper": true,
+     "diff": "▼ Saves ₹1,000",
      "scoreClass": "hi"
     },
     {
@@ -2433,7 +2451,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323763523-c95780.jpeg",
    "search": "uc/m2/pcr/w3623 w3623 3623 charcoal mini rectangle wood charcoal",
    "unique": false,
-   "cheaperCount": 1,
+   "cheaperCount": 2,
    "oos": false,
    "alternatives": [
     {
@@ -2453,6 +2471,24 @@
      "isCheaper": false,
      "diff": "= same price",
      "scoreClass": "hi"
+    },
+    {
+     "name": "3621 Charcoal Mini rectangle Wood",
+     "code": "UC/M2/PCR/W3621",
+     "material": "Charcoal",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 11.6,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 11.6 in ? 6 mm"
+     },
+     "psf": 218,
+     "perPanel": 2000,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324254770-c71488.jpeg",
+     "similarity": 83,
+     "isCheaper": true,
+     "diff": "▼ Saves ₹1,000",
+     "scoreClass": "mid"
     },
     {
      "name": "S685 WPC Classic Wood",
@@ -2621,7 +2657,7 @@
    "search": "uc/p1/ppp/s5021 s5021 5021 nio plain stone nio",
    "unique": false,
    "cheaperCount": 0,
-   "oos": false,
+   "oos": true,
    "alternatives": [
     {
      "name": "D193 Nio Plain Texture",
@@ -2919,6 +2955,24 @@
      "isCheaper": true,
      "diff": "▼ Saves ₹100",
      "scoreClass": "hi"
+    },
+    {
+     "name": "3621 Charcoal Mini rectangle Wood",
+     "code": "UC/M2/PCR/W3621",
+     "material": "Charcoal",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 11.6,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 11.6 in ? 6 mm"
+     },
+     "psf": 218,
+     "perPanel": 2000,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324254770-c71488.jpeg",
+     "similarity": 82,
+     "isCheaper": false,
+     "diff": "▲ ₹400 premium",
+     "scoreClass": "mid"
     },
     {
      "name": "D164 Nio Fluted Neutral",
@@ -4387,6 +4441,24 @@
      "isCheaper": false,
      "diff": "▲ ₹100 premium",
      "scoreClass": "mid"
+    },
+    {
+     "name": "3621 Charcoal Mini rectangle Wood",
+     "code": "UC/M2/PCR/W3621",
+     "material": "Charcoal",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 11.6,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 11.6 in ? 6 mm"
+     },
+     "psf": 218,
+     "perPanel": 2000,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324254770-c71488.jpeg",
+     "similarity": 76,
+     "isCheaper": false,
+     "diff": "▲ ₹500 premium",
+     "scoreClass": "mid"
     }
    ]
   },
@@ -4458,24 +4530,6 @@
      "perPanel": 800,
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1779090500773-920290.png",
      "similarity": 79,
-     "isCheaper": false,
-     "diff": "= same price",
-     "scoreClass": "mid"
-    },
-    {
-     "name": "5021 Nio Plain Stone",
-     "code": "UC/P1/PPP/S5021",
-     "material": "Nio",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 9.8,
-      "T_mm": 6,
-      "raw": "9.5 ft ? 9.8 in ? 6 mm"
-     },
-     "psf": 103,
-     "perPanel": 800,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841914585-e1f6fa.png",
-     "similarity": 75,
      "isCheaper": false,
      "diff": "= same price",
      "scoreClass": "mid"

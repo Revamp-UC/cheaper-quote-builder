@@ -16,7 +16,7 @@
    "search": "uc/i2/spk/k0001 k0001 0001 wpc sheet metallic gold | 7 mm wpc",
    "unique": false,
    "cheaperCount": 0,
-   "oos": false,
+   "oos": true,
    "alternatives": [
     {
      "name": "0002 WPC Sheet Metallic bronze | 7 mm",
@@ -52,29 +52,10 @@
    "perPanel": 4750,
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324605262-9ebabb.jpeg",
    "search": "uc/i2/spk/q0002 q0002 0002 wpc sheet metallic bronze | 7 mm wpc",
-   "unique": false,
+   "unique": true,
    "cheaperCount": 0,
    "oos": false,
-   "alternatives": [
-    {
-     "name": "0001 WPC Sheet Metallic gold | 7 mm",
-     "code": "UC/I2/SPK/K0001",
-     "material": "WPC",
-     "dims": {
-      "L_ft": 9.2,
-      "W_in": 15.6,
-      "T_mm": 7,
-      "raw": "9.2 ft ? 15.6 in ? 7 mm"
-     },
-     "psf": 397,
-     "perPanel": 4750,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324613238-3e41e4.jpeg",
-     "similarity": 74,
-     "isCheaper": false,
-     "diff": "= same price",
-     "scoreClass": "mid"
-    }
-   ]
+   "alternatives": []
   },
   {
    "name": "0037 Charcoal Embossed White",
@@ -409,22 +390,22 @@
      "scoreClass": "hi"
     },
     {
-     "name": "7331 Charcoal Fluted Wood",
-     "code": "UC/M2/PCF/W7331",
-     "material": "Charcoal",
+     "name": "X921 WPC Small square Wood",
+     "code": "UC/I2/PPE/WX921",
+     "material": "WPC",
      "dims": {
       "L_ft": 9.5,
-      "W_in": 11.3,
-      "T_mm": 6,
-      "raw": "9.5 ft ? 11.3 in ? 6 mm"
+      "W_in": 7.35,
+      "T_mm": 19.5,
+      "raw": "9.5 ft ? 7.35 in ? 19.5 mm"
      },
-     "psf": 179,
+     "psf": 275,
      "perPanel": 1600,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324271389-8e9997.jpeg",
-     "similarity": 82,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140984357-dacfa2.jpeg",
+     "similarity": 86,
      "isCheaper": false,
      "diff": "= same price",
-     "scoreClass": "mid"
+     "scoreClass": "hi"
     }
    ]
   },
@@ -924,6 +905,24 @@
    "oos": false,
    "alternatives": [
     {
+     "name": "5508 SPC Sheet Marble | 3 mm",
+     "code": "UC/M2/SS0/M5508",
+     "material": "SPC",
+     "dims": {
+      "L_ft": 9.2,
+      "W_in": 48,
+      "T_mm": 3,
+      "raw": "9.2 ft ? 48 in ? 3 mm"
+     },
+     "psf": 245,
+     "perPanel": 9000,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323930350-5811eb.jpeg",
+     "similarity": 88,
+     "isCheaper": false,
+     "diff": "= same price",
+     "scoreClass": "hi"
+    },
+    {
      "name": "09U2 SPC Sheet Marble | 3 mm",
      "code": "UC/M2/SS0/M09U2",
      "material": "SPC",
@@ -1105,6 +1104,24 @@
      "scoreClass": "hi"
     },
     {
+     "name": "5508 SPC Sheet Marble | 3 mm",
+     "code": "UC/M2/SS0/M5508",
+     "material": "SPC",
+     "dims": {
+      "L_ft": 9.2,
+      "W_in": 48,
+      "T_mm": 3,
+      "raw": "9.2 ft ? 48 in ? 3 mm"
+     },
+     "psf": 245,
+     "perPanel": 9000,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323930350-5811eb.jpeg",
+     "similarity": 86,
+     "isCheaper": false,
+     "diff": "= same price",
+     "scoreClass": "hi"
+    },
+    {
      "name": "0HXL SPC Sheet Marble | 3 mm",
      "code": "UC/M2/SS0/M0HXL",
      "material": "SPC",
@@ -1252,6 +1269,24 @@
    "cheaperCount": 1,
    "oos": false,
    "alternatives": [
+    {
+     "name": "5508 SPC Sheet Marble | 3 mm",
+     "code": "UC/M2/SS0/M5508",
+     "material": "SPC",
+     "dims": {
+      "L_ft": 9.2,
+      "W_in": 48,
+      "T_mm": 3,
+      "raw": "9.2 ft ? 48 in ? 3 mm"
+     },
+     "psf": 245,
+     "perPanel": 9000,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323930350-5811eb.jpeg",
+     "similarity": 84,
+     "isCheaper": false,
+     "diff": "▲ ₹3,000 premium",
+     "scoreClass": "mid"
+    },
     {
      "name": "0703 SPC Sheet Marble | 3 mm",
      "code": "UC/M2/SS0/M0703",
@@ -2197,6 +2232,24 @@
      "scoreClass": "hi"
     },
     {
+     "name": "5508 SPC Sheet Marble | 3 mm",
+     "code": "UC/M2/SS0/M5508",
+     "material": "SPC",
+     "dims": {
+      "L_ft": 9.2,
+      "W_in": 48,
+      "T_mm": 3,
+      "raw": "9.2 ft ? 48 in ? 3 mm"
+     },
+     "psf": 245,
+     "perPanel": 9000,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323930350-5811eb.jpeg",
+     "similarity": 86,
+     "isCheaper": false,
+     "diff": "= same price",
+     "scoreClass": "hi"
+    },
+    {
      "name": "0HXL SPC Sheet Marble | 3 mm",
      "code": "UC/M2/SS0/M0HXL",
      "material": "SPC",
@@ -2505,7 +2558,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323763523-c95780.jpeg",
    "search": "uc/m2/pcr/w3623 w3623 3623 charcoal mini rectangle wood charcoal",
    "unique": false,
-   "cheaperCount": 3,
+   "cheaperCount": 2,
    "oos": false,
    "alternatives": [
     {
@@ -2560,24 +2613,6 @@
      "similarity": 83,
      "isCheaper": true,
      "diff": "▼ Saves ₹1,000",
-     "scoreClass": "mid"
-    },
-    {
-     "name": "S685 WPC Classic Wood",
-     "code": "UC/I2/PPD/WS685",
-     "material": "WPC",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 7.68,
-      "T_mm": 12,
-      "raw": "9.5 ft ? 7.68 in ? 12 mm"
-     },
-     "psf": 263,
-     "perPanel": 1600,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778752706158-35d49e.png",
-     "similarity": 82,
-     "isCheaper": true,
-     "diff": "▼ Saves ₹1,400",
      "scoreClass": "mid"
     }
    ]
@@ -2714,6 +2749,24 @@
      "scoreClass": "hi"
     },
     {
+     "name": "5508 SPC Sheet Marble | 3 mm",
+     "code": "UC/M2/SS0/M5508",
+     "material": "SPC",
+     "dims": {
+      "L_ft": 9.2,
+      "W_in": 48,
+      "T_mm": 3,
+      "raw": "9.2 ft ? 48 in ? 3 mm"
+     },
+     "psf": 245,
+     "perPanel": 9000,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323930350-5811eb.jpeg",
+     "similarity": 84,
+     "isCheaper": false,
+     "diff": "= same price",
+     "scoreClass": "mid"
+    },
+    {
      "name": "0703 SPC Sheet Marble | 3 mm",
      "code": "UC/M2/SS0/M0703",
      "material": "SPC",
@@ -2843,7 +2896,7 @@
    "search": "uc/m2/ss0/m5508 m5508 5508 spc sheet marble | 3 mm spc",
    "unique": false,
    "cheaperCount": 1,
-   "oos": true,
+   "oos": false,
    "alternatives": [
     {
      "name": "0703 SPC Sheet Marble | 3 mm",
@@ -3028,7 +3081,7 @@
    "search": "uc/m2/pcf/w7331 w7331 7331 charcoal fluted wood charcoal",
    "unique": false,
    "cheaperCount": 1,
-   "oos": false,
+   "oos": true,
    "alternatives": [
     {
      "name": "X921 WPC Classic Wood",
@@ -3064,6 +3117,24 @@
      "similarity": 87,
      "isCheaper": false,
      "diff": "▲ ₹1,100 premium",
+     "scoreClass": "hi"
+    },
+    {
+     "name": "X921 WPC Small square Wood",
+     "code": "UC/I2/PPE/WX921",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 7.35,
+      "T_mm": 19.5,
+      "raw": "9.5 ft ? 7.35 in ? 19.5 mm"
+     },
+     "psf": 275,
+     "perPanel": 1600,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140984357-dacfa2.jpeg",
+     "similarity": 87,
+     "isCheaper": false,
+     "diff": "= same price",
      "scoreClass": "hi"
     },
     {
@@ -3193,27 +3264,9 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324263537-a3c2ea.jpeg",
    "search": "uc/m2/pcf/w7333 w7333 7333* charcoal fluted wood charcoal",
    "unique": false,
-   "cheaperCount": 3,
+   "cheaperCount": 2,
    "oos": false,
    "alternatives": [
-    {
-     "name": "7331 Charcoal Fluted Wood",
-     "code": "UC/M2/PCF/W7331",
-     "material": "Charcoal",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 11.3,
-      "T_mm": 6,
-      "raw": "9.5 ft ? 11.3 in ? 6 mm"
-     },
-     "psf": 179,
-     "perPanel": 1600,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324271389-8e9997.jpeg",
-     "similarity": 87,
-     "isCheaper": true,
-     "diff": "▼ Saves ₹1,100",
-     "scoreClass": "hi"
-    },
     {
      "name": "3622* Charcoal Mini rectangle Wood",
      "code": "UC/M2/PCR/W3622",
@@ -3470,6 +3523,24 @@
      "perPanel": 9000,
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323951757-fa5431.jpeg",
      "similarity": 90,
+     "isCheaper": false,
+     "diff": "= same price",
+     "scoreClass": "hi"
+    },
+    {
+     "name": "5508 SPC Sheet Marble | 3 mm",
+     "code": "UC/M2/SS0/M5508",
+     "material": "SPC",
+     "dims": {
+      "L_ft": 9.2,
+      "W_in": 48,
+      "T_mm": 3,
+      "raw": "9.2 ft ? 48 in ? 3 mm"
+     },
+     "psf": 245,
+     "perPanel": 9000,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323930350-5811eb.jpeg",
+     "similarity": 86,
      "isCheaper": false,
      "diff": "= same price",
      "scoreClass": "hi"
@@ -3786,24 +3857,6 @@
      "psf": 263,
      "perPanel": 1600,
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140375832-702c05.jpeg",
-     "similarity": 85,
-     "isCheaper": false,
-     "diff": "▲ ₹50 premium",
-     "scoreClass": "hi"
-    },
-    {
-     "name": "7331 Charcoal Fluted Wood",
-     "code": "UC/M2/PCF/W7331",
-     "material": "Charcoal",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 11.3,
-      "T_mm": 6,
-      "raw": "9.5 ft ? 11.3 in ? 6 mm"
-     },
-     "psf": 179,
-     "perPanel": 1600,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324271389-8e9997.jpeg",
      "similarity": 85,
      "isCheaper": false,
      "diff": "▲ ₹50 premium",
@@ -5104,7 +5157,7 @@
    "search": "uc/i2/ppd/ws685 ws685 s685 wpc classic wood wpc",
    "unique": false,
    "cheaperCount": 0,
-   "oos": false,
+   "oos": true,
    "alternatives": [
     {
      "name": "3623 Charcoal Mini rectangle Wood",
@@ -5387,19 +5440,19 @@
    "oos": false,
    "alternatives": [
     {
-     "name": "7331 Charcoal Fluted Wood",
-     "code": "UC/M2/PCF/W7331",
-     "material": "Charcoal",
+     "name": "X921 WPC Small square Wood",
+     "code": "UC/I2/PPE/WX921",
+     "material": "WPC",
      "dims": {
       "L_ft": 9.5,
-      "W_in": 11.3,
-      "T_mm": 6,
-      "raw": "9.5 ft ? 11.3 in ? 6 mm"
+      "W_in": 7.35,
+      "T_mm": 19.5,
+      "raw": "9.5 ft ? 7.35 in ? 19.5 mm"
      },
-     "psf": 179,
+     "psf": 275,
      "perPanel": 1600,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324271389-8e9997.jpeg",
-     "similarity": 89,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140984357-dacfa2.jpeg",
+     "similarity": 95,
      "isCheaper": false,
      "diff": "= same price",
      "scoreClass": "hi"
@@ -5475,7 +5528,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140294615-99bfdb.jpeg",
    "search": "uc/i2/spg/wx921 wx921 x921 wpc sheet wood | 7 mm wpc",
    "unique": false,
-   "cheaperCount": 3,
+   "cheaperCount": 4,
    "oos": false,
    "alternatives": [
     {
@@ -5515,6 +5568,24 @@
      "scoreClass": "mid"
     },
     {
+     "name": "X921 WPC Small square Wood",
+     "code": "UC/I2/PPE/WX921",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 7.35,
+      "T_mm": 19.5,
+      "raw": "9.5 ft ? 7.35 in ? 19.5 mm"
+     },
+     "psf": 275,
+     "perPanel": 1600,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140984357-dacfa2.jpeg",
+     "similarity": 80,
+     "isCheaper": true,
+     "diff": "▼ Saves ₹1,950",
+     "scoreClass": "mid"
+    },
+    {
      "name": "EM02 Nio Plain Gold",
      "code": "UC/P1/PPP/KEM02",
      "material": "Nio",
@@ -5550,7 +5621,7 @@
    "search": "uc/i2/ppe/wx921 wx921 x921 wpc small square wood wpc",
    "unique": false,
    "cheaperCount": 0,
-   "oos": true,
+   "oos": false,
    "alternatives": [
     {
      "name": "X921 WPC Classic Wood",
@@ -5566,24 +5637,6 @@
      "perPanel": 1600,
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140375832-702c05.jpeg",
      "similarity": 95,
-     "isCheaper": false,
-     "diff": "= same price",
-     "scoreClass": "hi"
-    },
-    {
-     "name": "7331 Charcoal Fluted Wood",
-     "code": "UC/M2/PCF/W7331",
-     "material": "Charcoal",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 11.3,
-      "T_mm": 6,
-      "raw": "9.5 ft ? 11.3 in ? 6 mm"
-     },
-     "psf": 179,
-     "perPanel": 1600,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324271389-8e9997.jpeg",
-     "similarity": 87,
      "isCheaper": false,
      "diff": "= same price",
      "scoreClass": "hi"
