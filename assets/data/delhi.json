@@ -1888,10 +1888,29 @@
    "perPanel": 640,
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324354607-338548.jpeg",
    "search": "uc/i2/pcd/r1987 r1987 1987 charcoal classic rattan charcoal",
-   "unique": true,
+   "unique": false,
    "cheaperCount": 0,
    "oos": true,
-   "alternatives": []
+   "alternatives": [
+    {
+     "name": "X919 WPC Classic Wood",
+     "code": "UC/I2/PPD/WX919",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 7.68,
+      "T_mm": 12,
+      "raw": "9.5 ft ? 7.68 in ? 12 mm"
+     },
+     "psf": 214,
+     "perPanel": 1300,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140043893-a972de.jpeg",
+     "similarity": 72,
+     "isCheaper": false,
+     "diff": "▲ ₹660 premium",
+     "scoreClass": "mid"
+    }
+   ]
   },
   {
    "name": "2008 WPC Sheet Stone | 7 mm",
@@ -5348,6 +5367,24 @@
    "oos": false,
    "alternatives": [
     {
+     "name": "X919 WPC Classic Wood",
+     "code": "UC/I2/PPD/WX919",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 7.68,
+      "T_mm": 12,
+      "raw": "9.5 ft ? 7.68 in ? 12 mm"
+     },
+     "psf": 214,
+     "perPanel": 1300,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140043893-a972de.jpeg",
+     "similarity": 81,
+     "isCheaper": false,
+     "diff": "▲ ₹490 premium",
+     "scoreClass": "mid"
+    },
+    {
      "name": "8360 Nio Fluted Wood",
      "code": "UC/P1/PPF/W8360",
      "material": "Nio",
@@ -5424,8 +5461,8 @@
    ]
   },
   {
-   "name": "X919* WPC Classic Wood",
-   "code": "UC/M2/PPD/WX919",
+   "name": "X919 WPC Classic Wood",
+   "code": "UC/I2/PPD/WX919",
    "material": "WPC",
    "dims": {
     "L_ft": 9.5,
@@ -5435,11 +5472,11 @@
    },
    "psf": 214,
    "perPanel": 1300,
-   "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323723526-953d46.jpeg",
-   "search": "uc/m2/ppd/wx919 wx919 x919* wpc classic wood wpc",
+   "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140043893-a972de.jpeg",
+   "search": "uc/i2/ppd/wx919 wx919 x919 wpc classic wood wpc",
    "unique": false,
    "cheaperCount": 1,
-   "oos": true,
+   "oos": false,
    "alternatives": [
     {
      "name": "X905* WPC Small square Wood",
@@ -5457,24 +5494,6 @@
      "similarity": 81,
      "isCheaper": true,
      "diff": "▼ Saves ₹490",
-     "scoreClass": "mid"
-    },
-    {
-     "name": "7073 WPC Classic Wood",
-     "code": "UC/I2/PPD/W7073",
-     "material": "WPC",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 7.68,
-      "T_mm": 12,
-      "raw": "9.5 ft ? 7.68 in ? 12 mm"
-     },
-     "psf": 214,
-     "perPanel": 1300,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770141128636-cea391.jpeg",
-     "similarity": 80,
-     "isCheaper": false,
-     "diff": "= same price",
      "scoreClass": "mid"
     }
    ]
