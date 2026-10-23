@@ -871,7 +871,7 @@
    "search": "uc/p1/ppp/k0195 k0195 0195 nio plain gold nio",
    "unique": false,
    "cheaperCount": 0,
-   "oos": true,
+   "oos": false,
    "alternatives": [
     {
      "name": "1455 Nio Plain Gold",
@@ -1239,7 +1239,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323686269-5822f7.jpeg",
    "search": "uc/m2/ss0/m0703 m0703 0703 spc sheet marble | 3 mm spc",
    "unique": false,
-   "cheaperCount": 0,
+   "cheaperCount": 1,
    "oos": false,
    "alternatives": [
     {
@@ -1277,6 +1277,24 @@
      "isCheaper": false,
      "diff": "= same price",
      "scoreClass": "hi"
+    },
+    {
+     "name": "0HXL SPC Sheet Marble | 3 mm",
+     "code": "UC/M2/SS0/M0HXL",
+     "material": "SPC",
+     "dims": {
+      "L_ft": 9.2,
+      "W_in": 48,
+      "T_mm": 3,
+      "raw": "9.2 ft ? 48 in ? 3 mm"
+     },
+     "psf": 163,
+     "perPanel": 6000,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323482814-f22070.jpeg",
+     "similarity": 84,
+     "isCheaper": true,
+     "diff": "▼ Saves ₹3,000",
+     "scoreClass": "mid"
     },
     {
      "name": "4501 SPC Sheet Marble | 3 mm",
@@ -1350,7 +1368,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323468383-4a7d75.jpeg",
    "search": "uc/m2/ss0/m09u2 m09u2 09u2 spc sheet marble | 3 mm spc",
    "unique": false,
-   "cheaperCount": 1,
+   "cheaperCount": 2,
    "oos": false,
    "alternatives": [
     {
@@ -1388,6 +1406,24 @@
      "isCheaper": false,
      "diff": "= same price",
      "scoreClass": "hi"
+    },
+    {
+     "name": "0HXL SPC Sheet Marble | 3 mm",
+     "code": "UC/M2/SS0/M0HXL",
+     "material": "SPC",
+     "dims": {
+      "L_ft": 9.2,
+      "W_in": 48,
+      "T_mm": 3,
+      "raw": "9.2 ft ? 48 in ? 3 mm"
+     },
+     "psf": 163,
+     "perPanel": 6000,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323482814-f22070.jpeg",
+     "similarity": 83,
+     "isCheaper": true,
+     "diff": "▼ Saves ₹3,000",
+     "scoreClass": "mid"
     },
     {
      "name": "9001 Nio Plain Stone",
@@ -1499,7 +1535,7 @@
    "search": "uc/m2/ss0/m0hxl m0hxl 0hxl spc sheet marble | 3 mm spc",
    "unique": false,
    "cheaperCount": 1,
-   "oos": true,
+   "oos": false,
    "alternatives": [
     {
      "name": "0703 SPC Sheet Marble | 3 mm",
@@ -1704,6 +1740,24 @@
      "scoreClass": "mid"
     },
     {
+     "name": "0195 Nio Plain Gold",
+     "code": "UC/P1/PPP/K0195",
+     "material": "Nio",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 9.8,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 9.8 in ? 6 mm"
+     },
+     "psf": 98,
+     "perPanel": 760,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841888427-f94e08.png",
+     "similarity": 78,
+     "isCheaper": false,
+     "diff": "= same price",
+     "scoreClass": "mid"
+    },
+    {
      "name": "9472 Nio Plain Gold",
      "code": "UC/P1/PPP/K9472",
      "material": "Nio",
@@ -1890,8 +1944,26 @@
    "search": "uc/i2/pcd/r1987 r1987 1987 charcoal classic rattan charcoal",
    "unique": false,
    "cheaperCount": 0,
-   "oos": true,
+   "oos": false,
    "alternatives": [
+    {
+     "name": "A901 Charcoal Classic Rattan",
+     "code": "UC/I2/PCD/RA901",
+     "material": "Charcoal",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 4.5,
+      "T_mm": 11,
+      "raw": "9.5 ft ? 4.5 in ? 11 mm"
+     },
+     "psf": 180,
+     "perPanel": 640,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323821766-ea02d1.jpeg",
+     "similarity": 89,
+     "isCheaper": false,
+     "diff": "= same price",
+     "scoreClass": "hi"
+    },
     {
      "name": "X919 WPC Classic Wood",
      "code": "UC/I2/PPD/WX919",
@@ -2388,7 +2460,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323656946-04cef4.jpeg",
    "search": "uc/m2/ss0/m2208 m2208 2208 spc sheet marble | 3 mm spc",
    "unique": false,
-   "cheaperCount": 1,
+   "cheaperCount": 2,
    "oos": false,
    "alternatives": [
     {
@@ -2426,6 +2498,24 @@
      "isCheaper": false,
      "diff": "= same price",
      "scoreClass": "hi"
+    },
+    {
+     "name": "0HXL SPC Sheet Marble | 3 mm",
+     "code": "UC/M2/SS0/M0HXL",
+     "material": "SPC",
+     "dims": {
+      "L_ft": 9.2,
+      "W_in": 48,
+      "T_mm": 3,
+      "raw": "9.2 ft ? 48 in ? 3 mm"
+     },
+     "psf": 163,
+     "perPanel": 6000,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323482814-f22070.jpeg",
+     "similarity": 83,
+     "isCheaper": true,
+     "diff": "▼ Saves ₹3,000",
+     "scoreClass": "mid"
     },
     {
      "name": "9001 Nio Plain Stone",
@@ -3223,27 +3313,9 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324271389-8e9997.jpeg",
    "search": "uc/m2/pcf/w7331 w7331 7331 charcoal fluted wood charcoal",
    "unique": false,
-   "cheaperCount": 2,
+   "cheaperCount": 1,
    "oos": false,
    "alternatives": [
-    {
-     "name": "X921 WPC Classic Wood",
-     "code": "UC/I2/PPD/WX921",
-     "material": "WPC",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 7.68,
-      "T_mm": 12,
-      "raw": "9.5 ft ? 7.68 in ? 12 mm"
-     },
-     "psf": 214,
-     "perPanel": 1300,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140375832-702c05.jpeg",
-     "similarity": 89,
-     "isCheaper": true,
-     "diff": "▼ Saves ₹300",
-     "scoreClass": "hi"
-    },
     {
      "name": "7333* Charcoal Fluted Wood",
      "code": "UC/M2/PCF/W7333",
@@ -3335,6 +3407,24 @@
      "isCheaper": true,
      "diff": "▼ Saves ₹300",
      "scoreClass": "hi"
+    },
+    {
+     "name": "D164 Nio Fluted Neutral",
+     "code": "UC/P1/PPF/RD164",
+     "material": "Nio",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 11.6,
+      "T_mm": 10,
+      "raw": "9.5 ft ? 11.6 in ? 10 mm"
+     },
+     "psf": 174,
+     "perPanel": 1600,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/customer-app-supply/1779351782073-31c62f.jpeg",
+     "similarity": 82,
+     "isCheaper": false,
+     "diff": "= same price",
+     "scoreClass": "mid"
     }
    ]
   },
@@ -3353,7 +3443,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324263537-a3c2ea.jpeg",
    "search": "uc/m2/pcf/w7333 w7333 7333* charcoal fluted wood charcoal",
    "unique": false,
-   "cheaperCount": 2,
+   "cheaperCount": 1,
    "oos": false,
    "alternatives": [
     {
@@ -3390,24 +3480,6 @@
      "similarity": 85,
      "isCheaper": false,
      "diff": "▲ ₹300 premium",
-     "scoreClass": "hi"
-    },
-    {
-     "name": "X921 WPC Classic Wood",
-     "code": "UC/I2/PPD/WX921",
-     "material": "WPC",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 7.68,
-      "T_mm": 12,
-      "raw": "9.5 ft ? 7.68 in ? 12 mm"
-     },
-     "psf": 214,
-     "perPanel": 1300,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140375832-702c05.jpeg",
-     "similarity": 85,
-     "isCheaper": true,
-     "diff": "▼ Saves ₹1,200",
      "scoreClass": "hi"
     }
    ]
@@ -3916,6 +3988,24 @@
      "scoreClass": "mid"
     },
     {
+     "name": "0HXL SPC Sheet Marble | 3 mm",
+     "code": "UC/M2/SS0/M0HXL",
+     "material": "SPC",
+     "dims": {
+      "L_ft": 9.2,
+      "W_in": 48,
+      "T_mm": 3,
+      "raw": "9.2 ft ? 48 in ? 3 mm"
+     },
+     "psf": 163,
+     "perPanel": 6000,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323482814-f22070.jpeg",
+     "similarity": 75,
+     "isCheaper": false,
+     "diff": "▲ ₹5,240 premium",
+     "scoreClass": "mid"
+    },
+    {
      "name": "2208 SPC Sheet Marble | 3 mm",
      "code": "UC/M2/SS0/M2208",
      "material": "SPC",
@@ -4042,27 +4132,9 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/customer-app-supply/1779351763768-9e46e6.jpeg",
    "search": "uc/p1/ppf/w9204 w9204 9204 nio fluted wood nio",
    "unique": false,
-   "cheaperCount": 2,
+   "cheaperCount": 1,
    "oos": false,
    "alternatives": [
-    {
-     "name": "X921 WPC Classic Wood",
-     "code": "UC/I2/PPD/WX921",
-     "material": "WPC",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 7.68,
-      "T_mm": 12,
-      "raw": "9.5 ft ? 7.68 in ? 12 mm"
-     },
-     "psf": 214,
-     "perPanel": 1300,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140375832-702c05.jpeg",
-     "similarity": 85,
-     "isCheaper": true,
-     "diff": "▼ Saves ₹300",
-     "scoreClass": "hi"
-    },
     {
      "name": "7331 Charcoal Fluted Wood",
      "code": "UC/M2/PCF/W7331",
@@ -4266,6 +4338,24 @@
      "isCheaper": false,
      "diff": "= same price",
      "scoreClass": "mid"
+    },
+    {
+     "name": "0195 Nio Plain Gold",
+     "code": "UC/P1/PPP/K0195",
+     "material": "Nio",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 9.8,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 9.8 in ? 6 mm"
+     },
+     "psf": 98,
+     "perPanel": 760,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841888427-f94e08.png",
+     "similarity": 75,
+     "isCheaper": false,
+     "diff": "= same price",
+     "scoreClass": "mid"
     }
    ]
   },
@@ -4284,7 +4374,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323533569-762729.jpeg",
    "search": "uc/i2/sph/l9952 l9952 9952 wpc sheet texture | 7 mm wpc",
    "unique": false,
-   "cheaperCount": 3,
+   "cheaperCount": 4,
    "oos": false,
    "alternatives": [
     {
@@ -4321,6 +4411,24 @@
      "similarity": 82,
      "isCheaper": true,
      "diff": "▼ Saves ₹1,051",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "0HXL SPC Sheet Marble | 3 mm",
+     "code": "UC/M2/SS0/M0HXL",
+     "material": "SPC",
+     "dims": {
+      "L_ft": 9.2,
+      "W_in": 48,
+      "T_mm": 3,
+      "raw": "9.2 ft ? 48 in ? 3 mm"
+     },
+     "psf": 163,
+     "perPanel": 6000,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323482814-f22070.jpeg",
+     "similarity": 82,
+     "isCheaper": true,
+     "diff": "▼ Saves ₹2,650",
      "scoreClass": "mid"
     },
     {
@@ -4563,8 +4671,26 @@
    "search": "uc/i2/pcd/ra901 ra901 a901 charcoal classic rattan charcoal",
    "unique": false,
    "cheaperCount": 0,
-   "oos": true,
+   "oos": false,
    "alternatives": [
+    {
+     "name": "1987 Charcoal Classic Rattan",
+     "code": "UC/I2/PCD/R1987",
+     "material": "Charcoal",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 4.5,
+      "T_mm": 11,
+      "raw": "9.5 ft ? 4.5 in ? 11 mm"
+     },
+     "psf": 180,
+     "perPanel": 640,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324354607-338548.jpeg",
+     "similarity": 89,
+     "isCheaper": false,
+     "diff": "= same price",
+     "scoreClass": "hi"
+    },
     {
      "name": "X905* WPC Small square Wood",
      "code": "UC/M2/PPE/WX905",
@@ -4749,7 +4875,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323798165-013e8d.jpeg",
    "search": "uc/i2/sph/lcz07 lcz07 cz07 wpc sheet texture | 7 mm wpc",
    "unique": false,
-   "cheaperCount": 0,
+   "cheaperCount": 1,
    "oos": false,
    "alternatives": [
     {
@@ -4769,6 +4895,24 @@
      "isCheaper": false,
      "diff": "▲ ₹1,051 premium",
      "scoreClass": "hi"
+    },
+    {
+     "name": "0HXL SPC Sheet Marble | 3 mm",
+     "code": "UC/M2/SS0/M0HXL",
+     "material": "SPC",
+     "dims": {
+      "L_ft": 9.2,
+      "W_in": 48,
+      "T_mm": 3,
+      "raw": "9.2 ft ? 48 in ? 3 mm"
+     },
+     "psf": 163,
+     "perPanel": 6000,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323482814-f22070.jpeg",
+     "similarity": 80,
+     "isCheaper": true,
+     "diff": "▼ Saves ₹1,599",
+     "scoreClass": "mid"
     },
     {
      "name": "CZ08 WPC Sheet Texture | 7 mm",
@@ -4880,7 +5024,7 @@
    "search": "uc/p1/ppf/rd164 rd164 d164 nio fluted neutral nio",
    "unique": false,
    "cheaperCount": 0,
-   "oos": true,
+   "oos": false,
    "alternatives": [
     {
      "name": "7332 Charcoal Fluted Neutral",
@@ -5363,7 +5507,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324093359-1440b0.jpeg",
    "search": "uc/m2/ppe/wx905 wx905 x905* wpc small square wood wpc",
    "unique": false,
-   "cheaperCount": 0,
+   "cheaperCount": 1,
    "oos": false,
    "alternatives": [
     {
@@ -5418,6 +5562,24 @@
      "similarity": 77,
      "isCheaper": false,
      "diff": "▲ ₹490 premium",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "A901 Charcoal Classic Rattan",
+     "code": "UC/I2/PCD/RA901",
+     "material": "Charcoal",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 4.5,
+      "T_mm": 11,
+      "raw": "9.5 ft ? 4.5 in ? 11 mm"
+     },
+     "psf": 180,
+     "perPanel": 640,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323821766-ea02d1.jpeg",
+     "similarity": 71,
+     "isCheaper": true,
+     "diff": "▼ Saves ₹170",
      "scoreClass": "mid"
     }
    ]
@@ -5475,7 +5637,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140043893-a972de.jpeg",
    "search": "uc/i2/ppd/wx919 wx919 x919 wpc classic wood wpc",
    "unique": false,
-   "cheaperCount": 1,
+   "cheaperCount": 2,
    "oos": false,
    "alternatives": [
     {
@@ -5494,6 +5656,24 @@
      "similarity": 81,
      "isCheaper": true,
      "diff": "▼ Saves ₹490",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "1987 Charcoal Classic Rattan",
+     "code": "UC/I2/PCD/R1987",
+     "material": "Charcoal",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 4.5,
+      "T_mm": 11,
+      "raw": "9.5 ft ? 4.5 in ? 11 mm"
+     },
+     "psf": 180,
+     "perPanel": 640,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324354607-338548.jpeg",
+     "similarity": 72,
+     "isCheaper": true,
+     "diff": "▼ Saves ₹660",
      "scoreClass": "mid"
     }
    ]
@@ -5514,7 +5694,7 @@
    "search": "uc/i2/ppd/wx921 wx921 x921 wpc classic wood wpc",
    "unique": false,
    "cheaperCount": 0,
-   "oos": false,
+   "oos": true,
    "alternatives": [
     {
      "name": "7331 Charcoal Fluted Wood",
@@ -5605,27 +5785,9 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140294615-99bfdb.jpeg",
    "search": "uc/i2/spg/wx921 wx921 x921 wpc sheet wood | 7 mm wpc",
    "unique": false,
-   "cheaperCount": 3,
+   "cheaperCount": 2,
    "oos": false,
    "alternatives": [
-    {
-     "name": "X921 WPC Classic Wood",
-     "code": "UC/I2/PPD/WX921",
-     "material": "WPC",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 7.68,
-      "T_mm": 12,
-      "raw": "9.5 ft ? 7.68 in ? 12 mm"
-     },
-     "psf": 214,
-     "perPanel": 1300,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140375832-702c05.jpeg",
-     "similarity": 85,
-     "isCheaper": true,
-     "diff": "▼ Saves ₹1,700",
-     "scoreClass": "hi"
-    },
     {
      "name": "9204 Nio Plain Wood",
      "code": "UC/P1/PPP/W9204",
