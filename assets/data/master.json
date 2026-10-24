@@ -2783,7 +2783,7 @@
    "hyderabad": true
   },
   "oos": {
-   "delhi": true,
+   "delhi": false,
    "mumbai": false,
    "bangalore": false,
    "hyderabad": false
@@ -3900,7 +3900,7 @@
   },
   "oos": {
    "delhi": true,
-   "mumbai": false,
+   "mumbai": true,
    "bangalore": false,
    "hyderabad": false
   }
