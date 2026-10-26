@@ -1065,7 +1065,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323468383-4a7d75.jpeg",
    "search": "uc/m2/ss0/m09u2 m09u2 09u2 spc sheet marble | 3 mm spc",
    "unique": false,
-   "cheaperCount": 2,
+   "cheaperCount": 1,
    "oos": false,
    "alternatives": [
     {
@@ -1138,24 +1138,6 @@
      "similarity": 83,
      "isCheaper": true,
      "diff": "▼ Saves ₹3,000",
-     "scoreClass": "mid"
-    },
-    {
-     "name": "9001 Nio Plain Stone",
-     "code": "UC/P1/PPP/S9001",
-     "material": "Nio",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 9.8,
-      "T_mm": 6,
-      "raw": "9.5 ft ? 9.8 in ? 6 mm"
-     },
-     "psf": 103,
-     "perPanel": 800,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841918427-b2385a.png",
-     "similarity": 74,
-     "isCheaper": true,
-     "diff": "▼ Saves ₹8,200",
      "scoreClass": "mid"
     }
    ]
@@ -1267,7 +1249,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323482814-f22070.jpeg",
    "search": "uc/m2/ss0/m0hxl m0hxl 0hxl spc sheet marble | 3 mm spc",
    "unique": false,
-   "cheaperCount": 1,
+   "cheaperCount": 0,
    "oos": false,
    "alternatives": [
     {
@@ -1376,24 +1358,6 @@
      "similarity": 80,
      "isCheaper": false,
      "diff": "▲ ₹1,599 premium",
-     "scoreClass": "mid"
-    },
-    {
-     "name": "9001 Nio Plain Stone",
-     "code": "UC/P1/PPP/S9001",
-     "material": "Nio",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 9.8,
-      "T_mm": 6,
-      "raw": "9.5 ft ? 9.8 in ? 6 mm"
-     },
-     "psf": 103,
-     "perPanel": 800,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841918427-b2385a.png",
-     "similarity": 75,
-     "isCheaper": true,
-     "diff": "▼ Saves ₹5,200",
      "scoreClass": "mid"
     }
    ]
@@ -2137,7 +2101,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323656946-04cef4.jpeg",
    "search": "uc/m2/ss0/m2208 m2208 2208 spc sheet marble | 3 mm spc",
    "unique": false,
-   "cheaperCount": 2,
+   "cheaperCount": 1,
    "oos": false,
    "alternatives": [
     {
@@ -2210,24 +2174,6 @@
      "similarity": 83,
      "isCheaper": true,
      "diff": "▼ Saves ₹3,000",
-     "scoreClass": "mid"
-    },
-    {
-     "name": "9001 Nio Plain Stone",
-     "code": "UC/P1/PPP/S9001",
-     "material": "Nio",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 9.8,
-      "T_mm": 6,
-      "raw": "9.5 ft ? 9.8 in ? 6 mm"
-     },
-     "psf": 103,
-     "perPanel": 800,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841918427-b2385a.png",
-     "similarity": 74,
-     "isCheaper": true,
-     "diff": "▼ Saves ₹8,200",
      "scoreClass": "mid"
     }
    ]
@@ -3659,7 +3605,7 @@
    "search": "uc/p1/ppp/s9001 s9001 9001 nio plain stone nio",
    "unique": false,
    "cheaperCount": 0,
-   "oos": false,
+   "oos": true,
    "alternatives": [
     {
      "name": "9952 WPC Sheet Texture | 7 mm",
@@ -3992,7 +3938,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323533569-762729.jpeg",
    "search": "uc/i2/sph/l9952 l9952 9952 wpc sheet texture | 7 mm wpc",
    "unique": false,
-   "cheaperCount": 4,
+   "cheaperCount": 3,
    "oos": false,
    "alternatives": [
     {
@@ -4047,24 +3993,6 @@
      "similarity": 82,
      "isCheaper": true,
      "diff": "▼ Saves ₹3,200",
-     "scoreClass": "mid"
-    },
-    {
-     "name": "9001 Nio Plain Stone",
-     "code": "UC/P1/PPP/S9001",
-     "material": "Nio",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 9.8,
-      "T_mm": 6,
-      "raw": "9.5 ft ? 9.8 in ? 6 mm"
-     },
-     "psf": 103,
-     "perPanel": 800,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841918427-b2385a.png",
-     "similarity": 76,
-     "isCheaper": true,
-     "diff": "▼ Saves ₹8,400",
      "scoreClass": "mid"
     }
    ]
