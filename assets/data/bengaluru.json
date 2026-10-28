@@ -16,7 +16,7 @@
    "search": "uc/i2/spk/k0001 k0001 0001 wpc sheet metallic gold | 7 mm wpc",
    "unique": false,
    "cheaperCount": 0,
-   "oos": true,
+   "oos": false,
    "alternatives": [
     {
      "name": "0002 WPC Sheet Metallic bronze | 7 mm",
@@ -52,10 +52,29 @@
    "perPanel": 4750,
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324605262-9ebabb.jpeg",
    "search": "uc/i2/spk/q0002 q0002 0002 wpc sheet metallic bronze | 7 mm wpc",
-   "unique": true,
+   "unique": false,
    "cheaperCount": 0,
    "oos": false,
-   "alternatives": []
+   "alternatives": [
+    {
+     "name": "0001 WPC Sheet Metallic gold | 7 mm",
+     "code": "UC/I2/SPK/K0001",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.2,
+      "W_in": 15.6,
+      "T_mm": 7,
+      "raw": "9.2 ft ? 15.6 in ? 7 mm"
+     },
+     "psf": 397,
+     "perPanel": 4750,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324613238-3e41e4.jpeg",
+     "similarity": 74,
+     "isCheaper": false,
+     "diff": "= same price",
+     "scoreClass": "mid"
+    }
+   ]
   },
   {
    "name": "0037 Charcoal Embossed White",
@@ -956,7 +975,7 @@
    "search": "uc/i2/ppu/p0777 p0777 0777 wpc mini concave pastel wpc",
    "unique": true,
    "cheaperCount": 0,
-   "oos": true,
+   "oos": false,
    "alternatives": []
   },
   {
@@ -2604,98 +2623,6 @@
      "perPanel": 3000,
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1769519933324-7b17e1.jpeg",
      "similarity": 83,
-     "isCheaper": false,
-     "diff": "= same price",
-     "scoreClass": "mid"
-    }
-   ]
-  },
-  {
-   "name": "5508 SPC Sheet Marble | 3 mm",
-   "code": "UC/M2/SS0/M5508",
-   "material": "SPC",
-   "dims": {
-    "L_ft": 9.2,
-    "W_in": 48,
-    "T_mm": 3,
-    "raw": "9.2 ft ? 48 in ? 3 mm"
-   },
-   "psf": 245,
-   "perPanel": 9000,
-   "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323930350-5811eb.jpeg",
-   "search": "uc/m2/ss0/m5508 m5508 5508 spc sheet marble | 3 mm spc",
-   "unique": false,
-   "cheaperCount": 0,
-   "oos": true,
-   "alternatives": [
-    {
-     "name": "0703 SPC Sheet Marble | 3 mm",
-     "code": "UC/M2/SS0/M0703",
-     "material": "SPC",
-     "dims": {
-      "L_ft": 9.2,
-      "W_in": 48,
-      "T_mm": 3,
-      "raw": "9.2 ft ? 48 in ? 3 mm"
-     },
-     "psf": 245,
-     "perPanel": 9000,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323686269-5822f7.jpeg",
-     "similarity": 88,
-     "isCheaper": false,
-     "diff": "= same price",
-     "scoreClass": "hi"
-    },
-    {
-     "name": "2208 SPC Sheet Marble | 3 mm",
-     "code": "UC/M2/SS0/M2208",
-     "material": "SPC",
-     "dims": {
-      "L_ft": 9.2,
-      "W_in": 48,
-      "T_mm": 3,
-      "raw": "9.2 ft ? 48 in ? 3 mm"
-     },
-     "psf": 245,
-     "perPanel": 9000,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323656946-04cef4.jpeg",
-     "similarity": 86,
-     "isCheaper": false,
-     "diff": "= same price",
-     "scoreClass": "hi"
-    },
-    {
-     "name": "09U2 SPC Sheet Marble | 3 mm",
-     "code": "UC/M2/SS0/M09U2",
-     "material": "SPC",
-     "dims": {
-      "L_ft": 9.2,
-      "W_in": 48,
-      "T_mm": 3,
-      "raw": "9.2 ft ? 48 in ? 3 mm"
-     },
-     "psf": 245,
-     "perPanel": 9000,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323468383-4a7d75.jpeg",
-     "similarity": 86,
-     "isCheaper": false,
-     "diff": "= same price",
-     "scoreClass": "hi"
-    },
-    {
-     "name": "4501 SPC Sheet Marble | 3 mm",
-     "code": "UC/M2/SS0/M4501",
-     "material": "SPC",
-     "dims": {
-      "L_ft": 9.2,
-      "W_in": 48,
-      "T_mm": 3,
-      "raw": "9.2 ft ? 48 in ? 3 mm"
-     },
-     "psf": 245,
-     "perPanel": 9000,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323951757-fa5431.jpeg",
-     "similarity": 84,
      "isCheaper": false,
      "diff": "= same price",
      "scoreClass": "mid"
