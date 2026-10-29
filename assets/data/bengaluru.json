@@ -1625,7 +1625,7 @@
    "search": "uc/i2/spg/m2008 m2008 2008 wpc sheet stone | 7 mm wpc",
    "unique": true,
    "cheaperCount": 0,
-   "oos": true,
+   "oos": false,
    "alternatives": []
   },
   {
