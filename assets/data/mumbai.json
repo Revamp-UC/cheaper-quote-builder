@@ -16,7 +16,7 @@
    "search": "uc/i2/spk/k0001 k0001 0001 wpc sheet metallic gold | 7 mm wpc",
    "unique": false,
    "cheaperCount": 0,
-   "oos": false,
+   "oos": true,
    "alternatives": [
     {
      "name": "0002 WPC Sheet Metallic bronze | 7 mm",
@@ -52,29 +52,10 @@
    "perPanel": 4550,
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324605262-9ebabb.jpeg",
    "search": "uc/i2/spk/q0002 q0002 0002 wpc sheet metallic bronze | 7 mm wpc",
-   "unique": false,
+   "unique": true,
    "cheaperCount": 0,
    "oos": false,
-   "alternatives": [
-    {
-     "name": "0001 WPC Sheet Metallic gold | 7 mm",
-     "code": "UC/I2/SPK/K0001",
-     "material": "WPC",
-     "dims": {
-      "L_ft": 9.2,
-      "W_in": 15.6,
-      "T_mm": 7,
-      "raw": "9.2 ft ? 15.6 in ? 7 mm"
-     },
-     "psf": 380,
-     "perPanel": 4550,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324613238-3e41e4.jpeg",
-     "similarity": 74,
-     "isCheaper": false,
-     "diff": "= same price",
-     "scoreClass": "mid"
-    }
-   ]
+   "alternatives": []
   },
   {
    "name": "0037 Charcoal Embossed White",
