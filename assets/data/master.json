@@ -925,7 +925,7 @@
   "oos": {
    "delhi": false,
    "mumbai": false,
-   "bangalore": true,
+   "bangalore": false,
    "hyderabad": false
   }
  },
@@ -1482,7 +1482,7 @@
   },
   "oos": {
    "delhi": false,
-   "mumbai": false,
+   "mumbai": true,
    "bangalore": true,
    "hyderabad": false
   }
