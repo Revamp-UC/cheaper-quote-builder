@@ -1980,7 +1980,7 @@
    "search": "uc/i2/pcd/r1987 r1987 1987 charcoal classic rattan charcoal",
    "unique": false,
    "cheaperCount": 0,
-   "oos": false,
+   "oos": true,
    "alternatives": [
     {
      "name": "A901 Charcoal Classic Rattan",
@@ -2146,7 +2146,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140386280-c49004.jpeg",
    "search": "uc/i2/ppd/h2022 h2022 2022 wpc classic white wpc",
    "unique": false,
-   "cheaperCount": 2,
+   "cheaperCount": 1,
    "oos": false,
    "alternatives": [
     {
@@ -2201,24 +2201,6 @@
      "similarity": 84,
      "isCheaper": false,
      "diff": "▲ ₹150 premium",
-     "scoreClass": "mid"
-    },
-    {
-     "name": "5084 Charcoal Concave Gold",
-     "code": "UC/M2/PCS/K5084",
-     "material": "Charcoal",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 5.5,
-      "T_mm": 11,
-      "raw": "9.5 ft ? 5.5 in ? 11 mm"
-     },
-     "psf": 276,
-     "perPanel": 1200,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324209974-0313bc.jpeg",
-     "similarity": 82,
-     "isCheaper": true,
-     "diff": "▼ Saves ₹100",
      "scoreClass": "mid"
     },
     {
@@ -2846,7 +2828,7 @@
    "search": "uc/i2/ppd/k3731 k3731 3731 wpc classic gold wpc",
    "unique": false,
    "cheaperCount": 1,
-   "oos": true,
+   "oos": false,
    "alternatives": [
     {
      "name": "X905* WPC Small square Wood",
@@ -2940,7 +2922,7 @@
    "search": "uc/p1/ppp/s5021 s5021 5021 nio plain stone nio",
    "unique": false,
    "cheaperCount": 0,
-   "oos": false,
+   "oos": true,
    "alternatives": [
     {
      "name": "D193 Nio Plain Texture",
@@ -3069,7 +3051,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324227958-666a55.jpeg",
    "search": "uc/m2/pcs/k5082 k5082 5082 charcoal concave gold charcoal",
    "unique": false,
-   "cheaperCount": 3,
+   "cheaperCount": 2,
    "oos": false,
    "alternatives": [
     {
@@ -3089,24 +3071,6 @@
      "isCheaper": true,
      "diff": "▼ Saves ₹300",
      "scoreClass": "hi"
-    },
-    {
-     "name": "5084 Charcoal Concave Gold",
-     "code": "UC/M2/PCS/K5084",
-     "material": "Charcoal",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 5.5,
-      "T_mm": 11,
-      "raw": "9.5 ft ? 5.5 in ? 11 mm"
-     },
-     "psf": 276,
-     "perPanel": 1200,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324209974-0313bc.jpeg",
-     "similarity": 80,
-     "isCheaper": true,
-     "diff": "▼ Saves ₹300",
-     "scoreClass": "mid"
     },
     {
      "name": "5081 Charcoal Concave Gold",
@@ -3146,24 +3110,6 @@
    "cheaperCount": 0,
    "oos": false,
    "alternatives": [
-    {
-     "name": "5084 Charcoal Concave Gold",
-     "code": "UC/M2/PCS/K5084",
-     "material": "Charcoal",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 5.5,
-      "T_mm": 11,
-      "raw": "9.5 ft ? 5.5 in ? 11 mm"
-     },
-     "psf": 276,
-     "perPanel": 1200,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324209974-0313bc.jpeg",
-     "similarity": 87,
-     "isCheaper": false,
-     "diff": "= same price",
-     "scoreClass": "hi"
-    },
     {
      "name": "5082 Charcoal Concave Gold",
      "code": "UC/M2/PCS/K5082",
@@ -3218,7 +3164,7 @@
    "search": "uc/m2/pcs/k5084 k5084 5084 charcoal concave gold charcoal",
    "unique": false,
    "cheaperCount": 0,
-   "oos": false,
+   "oos": true,
    "alternatives": [
     {
      "name": "5083 Charcoal Concave Gold",
@@ -4745,24 +4691,6 @@
    "oos": false,
    "alternatives": [
     {
-     "name": "1987 Charcoal Classic Rattan",
-     "code": "UC/I2/PCD/R1987",
-     "material": "Charcoal",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 4.5,
-      "T_mm": 11,
-      "raw": "9.5 ft ? 4.5 in ? 11 mm"
-     },
-     "psf": 180,
-     "perPanel": 640,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324354607-338548.jpeg",
-     "similarity": 89,
-     "isCheaper": false,
-     "diff": "= same price",
-     "scoreClass": "hi"
-    },
-    {
      "name": "X905* WPC Small square Wood",
      "code": "UC/M2/PPE/WX905",
      "material": "WPC",
@@ -5203,24 +5131,6 @@
      "perPanel": 760,
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1779090500773-920290.png",
      "similarity": 79,
-     "isCheaper": false,
-     "diff": "= same price",
-     "scoreClass": "mid"
-    },
-    {
-     "name": "5021 Nio Plain Stone",
-     "code": "UC/P1/PPP/S5021",
-     "material": "Nio",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 9.8,
-      "T_mm": 6,
-      "raw": "9.5 ft ? 9.8 in ? 6 mm"
-     },
-     "psf": 98,
-     "perPanel": 760,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841914585-e1f6fa.png",
-     "similarity": 75,
      "isCheaper": false,
      "diff": "= same price",
      "scoreClass": "mid"
@@ -5765,6 +5675,24 @@
      "scoreClass": "mid"
     },
     {
+     "name": "3731 WPC Classic Gold",
+     "code": "UC/I2/PPD/K3731",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 5.9,
+      "T_mm": 9,
+      "raw": "9.5 ft ? 5.9 in ? 9 mm"
+     },
+     "psf": 278,
+     "perPanel": 1300,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140038825-037e2e.jpeg",
+     "similarity": 77,
+     "isCheaper": false,
+     "diff": "▲ ₹490 premium",
+     "scoreClass": "mid"
+    },
+    {
      "name": "X905 WPC Sheet Wood | 7 mm",
      "code": "UC/I2/SPG/WX905",
      "material": "WPC",
@@ -5855,7 +5783,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140043893-a972de.jpeg",
    "search": "uc/i2/ppd/wx919 wx919 x919 wpc classic wood wpc",
    "unique": false,
-   "cheaperCount": 2,
+   "cheaperCount": 1,
    "oos": false,
    "alternatives": [
     {
@@ -5874,24 +5802,6 @@
      "similarity": 81,
      "isCheaper": true,
      "diff": "▼ Saves ₹490",
-     "scoreClass": "mid"
-    },
-    {
-     "name": "1987 Charcoal Classic Rattan",
-     "code": "UC/I2/PCD/R1987",
-     "material": "Charcoal",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 4.5,
-      "T_mm": 11,
-      "raw": "9.5 ft ? 4.5 in ? 11 mm"
-     },
-     "psf": 180,
-     "perPanel": 640,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324354607-338548.jpeg",
-     "similarity": 72,
-     "isCheaper": true,
-     "diff": "▼ Saves ₹660",
      "scoreClass": "mid"
     }
    ]
