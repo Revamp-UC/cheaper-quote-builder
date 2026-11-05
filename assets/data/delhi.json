@@ -908,6 +908,24 @@
      "isCheaper": false,
      "diff": "= same price",
      "scoreClass": "mid"
+    },
+    {
+     "name": "9472 Nio Plain Gold",
+     "code": "UC/P1/PPP/K9472",
+     "material": "Nio",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 9.8,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 9.8 in ? 6 mm"
+     },
+     "psf": 98,
+     "perPanel": 760,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841899274-b00d62.png",
+     "similarity": 75,
+     "isCheaper": false,
+     "diff": "= same price",
+     "scoreClass": "mid"
     }
    ]
   },
@@ -931,116 +949,6 @@
    "alternatives": []
   },
   {
-   "name": "0519 Charcoal Mini rectangle Stone",
-   "code": "UC/I2/PCR/S0519",
-   "material": "Charcoal",
-   "dims": {
-    "L_ft": 9.5,
-    "W_in": 11.6,
-    "T_mm": 6,
-    "raw": "9.5 ft ? 11.6 in ? 6 mm"
-   },
-   "psf": 152,
-   "perPanel": 1399,
-   "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323882160-384437.jpeg",
-   "search": "uc/i2/pcr/s0519 s0519 0519 charcoal mini rectangle stone charcoal",
-   "unique": false,
-   "cheaperCount": 0,
-   "oos": false,
-   "alternatives": [
-    {
-     "name": "0519 Charcoal Slats Stone",
-     "code": "UC/I2/PCV/S0519",
-     "material": "Charcoal",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 9.64,
-      "T_mm": 10.2,
-      "raw": "9.5 ft ? 9.64 in ? 10.2 mm"
-     },
-     "psf": 288,
-     "perPanel": 2200,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1769519883323-31626e.jpeg",
-     "similarity": 92,
-     "isCheaper": false,
-     "diff": "▲ ₹801 premium",
-     "scoreClass": "hi"
-    },
-    {
-     "name": "0643 Charcoal Mini rectangle Stone",
-     "code": "UC/I2/PCR/S0643",
-     "material": "Charcoal",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 11.6,
-      "T_mm": 6,
-      "raw": "9.5 ft ? 11.6 in ? 6 mm"
-     },
-     "psf": 152,
-     "perPanel": 1399,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323867089-cf5dc8.jpeg",
-     "similarity": 87,
-     "isCheaper": false,
-     "diff": "= same price",
-     "scoreClass": "hi"
-    },
-    {
-     "name": "S061 Charcoal Slats Stone",
-     "code": "UC/I2/PCV/SS061",
-     "material": "Charcoal",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 9.64,
-      "T_mm": 10.2,
-      "raw": "9.5 ft ? 9.64 in ? 10.2 mm"
-     },
-     "psf": 288,
-     "perPanel": 2200,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1769519873285-729933.jpeg",
-     "similarity": 82,
-     "isCheaper": false,
-     "diff": "▲ ₹801 premium",
-     "scoreClass": "mid"
-    },
-    {
-     "name": "0G29 Charcoal Ceramic Stone",
-     "code": "UC/I2/PCC/S0G29",
-     "material": "Charcoal",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 7.7,
-      "T_mm": 9,
-      "raw": "9.5 ft ? 7.7 in ? 9 mm"
-     },
-     "psf": 336,
-     "perPanel": 2050,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1769519998448-d01be7.jpeg",
-     "similarity": 80,
-     "isCheaper": false,
-     "diff": "▲ ₹651 premium",
-     "scoreClass": "mid"
-    },
-    {
-     "name": "2027 WPC Sheet Fabric | 7 mm",
-     "code": "UC/I2/SPH/F2027",
-     "material": "WPC",
-     "dims": {
-      "L_ft": 9.2,
-      "W_in": 47.2,
-      "T_mm": 7,
-      "raw": "9.2 ft ? 47.2 in ? 7 mm"
-     },
-     "psf": 180,
-     "perPanel": 6500,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323416216-e1657f.jpeg",
-     "similarity": 78,
-     "isCheaper": false,
-     "diff": "▲ ₹5,101 premium",
-     "scoreClass": "mid"
-    }
-   ]
-  },
-  {
    "name": "0519 Charcoal Slats Stone",
    "code": "UC/I2/PCV/S0519",
    "material": "Charcoal",
@@ -1055,27 +963,9 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1769519883323-31626e.jpeg",
    "search": "uc/i2/pcv/s0519 s0519 0519 charcoal slats stone charcoal",
    "unique": false,
-   "cheaperCount": 4,
+   "cheaperCount": 3,
    "oos": false,
    "alternatives": [
-    {
-     "name": "0519 Charcoal Mini rectangle Stone",
-     "code": "UC/I2/PCR/S0519",
-     "material": "Charcoal",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 11.6,
-      "T_mm": 6,
-      "raw": "9.5 ft ? 11.6 in ? 6 mm"
-     },
-     "psf": 152,
-     "perPanel": 1399,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323882160-384437.jpeg",
-     "similarity": 92,
-     "isCheaper": true,
-     "diff": "▼ Saves ₹801",
-     "scoreClass": "hi"
-    },
     {
      "name": "S061 Charcoal Slats Stone",
      "code": "UC/I2/PCV/SS061",
@@ -1168,24 +1058,6 @@
    "cheaperCount": 0,
    "oos": false,
    "alternatives": [
-    {
-     "name": "0519 Charcoal Mini rectangle Stone",
-     "code": "UC/I2/PCR/S0519",
-     "material": "Charcoal",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 11.6,
-      "T_mm": 6,
-      "raw": "9.5 ft ? 11.6 in ? 6 mm"
-     },
-     "psf": 152,
-     "perPanel": 1399,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323882160-384437.jpeg",
-     "similarity": 87,
-     "isCheaper": false,
-     "diff": "= same price",
-     "scoreClass": "hi"
-    },
     {
      "name": "S061 Charcoal Slats Stone",
      "code": "UC/I2/PCV/SS061",
@@ -1478,27 +1350,9 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1769519998448-d01be7.jpeg",
    "search": "uc/i2/pcc/s0g29 s0g29 0g29 charcoal ceramic stone charcoal",
    "unique": false,
-   "cheaperCount": 2,
+   "cheaperCount": 1,
    "oos": false,
    "alternatives": [
-    {
-     "name": "0519 Charcoal Mini rectangle Stone",
-     "code": "UC/I2/PCR/S0519",
-     "material": "Charcoal",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 11.6,
-      "T_mm": 6,
-      "raw": "9.5 ft ? 11.6 in ? 6 mm"
-     },
-     "psf": 152,
-     "perPanel": 1399,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323882160-384437.jpeg",
-     "similarity": 80,
-     "isCheaper": true,
-     "diff": "▼ Saves ₹651",
-     "scoreClass": "mid"
-    },
     {
      "name": "0519 Charcoal Slats Stone",
      "code": "UC/I2/PCV/S0519",
@@ -1698,7 +1552,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323434574-ee15c0.jpeg",
    "search": "uc/i2/sph/f0z18 f0z18 0z18 wpc sheet fabric | 7 mm wpc",
    "unique": false,
-   "cheaperCount": 2,
+   "cheaperCount": 1,
    "oos": false,
    "alternatives": [
     {
@@ -1718,24 +1572,6 @@
      "isCheaper": true,
      "diff": "▼ Saves ₹2,700",
      "scoreClass": "hi"
-    },
-    {
-     "name": "7695 Nio Plain Fabric",
-     "code": "UC/P1/PPP/F7695",
-     "material": "Nio",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 9.8,
-      "T_mm": 6,
-      "raw": "9.5 ft ? 9.8 in ? 6 mm"
-     },
-     "psf": 98,
-     "perPanel": 760,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841881054-68a537.png",
-     "similarity": 80,
-     "isCheaper": true,
-     "diff": "▼ Saves ₹8,440",
-     "scoreClass": "mid"
     }
    ]
   },
@@ -1789,6 +1625,24 @@
      "perPanel": 760,
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841888427-f94e08.png",
      "similarity": 78,
+     "isCheaper": false,
+     "diff": "= same price",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "9472 Nio Plain Gold",
+     "code": "UC/P1/PPP/K9472",
+     "material": "Nio",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 9.8,
+      "T_mm": 6,
+      "raw": "9.5 ft ? 9.8 in ? 6 mm"
+     },
+     "psf": 98,
+     "perPanel": 760,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841899274-b00d62.png",
+     "similarity": 75,
      "isCheaper": false,
      "diff": "= same price",
      "scoreClass": "mid"
@@ -1849,7 +1703,7 @@
    "search": "uc/i2/pci/g1831 g1831 1831 charcoal embossed geometric charcoal",
    "unique": false,
    "cheaperCount": 1,
-   "oos": true,
+   "oos": false,
    "alternatives": [
     {
      "name": "3622* Charcoal Mini rectangle Wood",
@@ -2276,7 +2130,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323416216-e1657f.jpeg",
    "search": "uc/i2/sph/f2027 f2027 2027 wpc sheet fabric | 7 mm wpc",
    "unique": false,
-   "cheaperCount": 4,
+   "cheaperCount": 2,
    "oos": false,
    "alternatives": [
     {
@@ -2296,42 +2150,6 @@
      "isCheaper": false,
      "diff": "▲ ₹2,700 premium",
      "scoreClass": "hi"
-    },
-    {
-     "name": "0519 Charcoal Mini rectangle Stone",
-     "code": "UC/I2/PCR/S0519",
-     "material": "Charcoal",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 11.6,
-      "T_mm": 6,
-      "raw": "9.5 ft ? 11.6 in ? 6 mm"
-     },
-     "psf": 152,
-     "perPanel": 1399,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323882160-384437.jpeg",
-     "similarity": 78,
-     "isCheaper": true,
-     "diff": "▼ Saves ₹5,101",
-     "scoreClass": "mid"
-    },
-    {
-     "name": "7695 Nio Plain Fabric",
-     "code": "UC/P1/PPP/F7695",
-     "material": "Nio",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 9.8,
-      "T_mm": 6,
-      "raw": "9.5 ft ? 9.8 in ? 6 mm"
-     },
-     "psf": 98,
-     "perPanel": 760,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841881054-68a537.png",
-     "similarity": 75,
-     "isCheaper": true,
-     "diff": "▼ Saves ₹5,740",
-     "scoreClass": "mid"
     },
     {
      "name": "0643 Charcoal Mini rectangle Stone",
@@ -2661,6 +2479,24 @@
      "isCheaper": true,
      "diff": "▼ Saves ₹300",
      "scoreClass": "hi"
+    },
+    {
+     "name": "1831 Charcoal Embossed Geometric",
+     "code": "UC/I2/PCI/G1831",
+     "material": "Charcoal",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 11.9,
+      "T_mm": 7,
+      "raw": "9.5 ft ? 11.9 in ? 7 mm"
+     },
+     "psf": 356,
+     "perPanel": 3350,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1769519944187-be2704.jpeg",
+     "similarity": 71,
+     "isCheaper": false,
+     "diff": "▲ ₹550 premium",
+     "scoreClass": "mid"
     }
    ]
   },
@@ -3332,9 +3168,27 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324271389-8e9997.jpeg",
    "search": "uc/m2/pcf/w7331 w7331 7331 charcoal fluted wood charcoal",
    "unique": false,
-   "cheaperCount": 1,
+   "cheaperCount": 2,
    "oos": false,
    "alternatives": [
+    {
+     "name": "X921 WPC Classic Wood",
+     "code": "UC/I2/PPD/WX921",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 7.68,
+      "T_mm": 12,
+      "raw": "9.5 ft ? 7.68 in ? 12 mm"
+     },
+     "psf": 214,
+     "perPanel": 1300,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140375832-702c05.jpeg",
+     "similarity": 89,
+     "isCheaper": true,
+     "diff": "▼ Saves ₹300",
+     "scoreClass": "hi"
+    },
     {
      "name": "7333* Charcoal Fluted Wood",
      "code": "UC/M2/PCF/W7333",
@@ -3462,7 +3316,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324263537-a3c2ea.jpeg",
    "search": "uc/m2/pcf/w7333 w7333 7333* charcoal fluted wood charcoal",
    "unique": false,
-   "cheaperCount": 1,
+   "cheaperCount": 2,
    "oos": false,
    "alternatives": [
     {
@@ -3499,6 +3353,24 @@
      "similarity": 85,
      "isCheaper": false,
      "diff": "▲ ₹300 premium",
+     "scoreClass": "hi"
+    },
+    {
+     "name": "X921 WPC Classic Wood",
+     "code": "UC/I2/PPD/WX921",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 7.68,
+      "T_mm": 12,
+      "raw": "9.5 ft ? 7.68 in ? 12 mm"
+     },
+     "psf": 214,
+     "perPanel": 1300,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140375832-702c05.jpeg",
+     "similarity": 85,
+     "isCheaper": true,
+     "diff": "▼ Saves ₹1,200",
      "scoreClass": "hi"
     }
    ]
@@ -3575,7 +3447,7 @@
    "search": "uc/p1/ppp/f7695 f7695 7695 nio plain fabric nio",
    "unique": false,
    "cheaperCount": 0,
-   "oos": false,
+   "oos": true,
    "alternatives": [
     {
      "name": "0Z18 WPC Sheet Fabric | 7 mm",
@@ -4077,9 +3949,27 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/customer-app-supply/1779351763768-9e46e6.jpeg",
    "search": "uc/p1/ppf/w9204 w9204 9204 nio fluted wood nio",
    "unique": false,
-   "cheaperCount": 1,
+   "cheaperCount": 2,
    "oos": false,
    "alternatives": [
+    {
+     "name": "X921 WPC Classic Wood",
+     "code": "UC/I2/PPD/WX921",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 7.68,
+      "T_mm": 12,
+      "raw": "9.5 ft ? 7.68 in ? 12 mm"
+     },
+     "psf": 214,
+     "perPanel": 1300,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140375832-702c05.jpeg",
+     "similarity": 85,
+     "isCheaper": true,
+     "diff": "▼ Saves ₹300",
+     "scoreClass": "hi"
+    },
     {
      "name": "7331 Charcoal Fluted Wood",
      "code": "UC/M2/PCF/W7331",
@@ -4264,7 +4154,7 @@
    "search": "uc/p1/ppp/k9472 k9472 9472 nio plain gold nio",
    "unique": false,
    "cheaperCount": 0,
-   "oos": true,
+   "oos": false,
    "alternatives": [
     {
      "name": "1455 Nio Plain Gold",
@@ -5357,7 +5247,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1769519873285-729933.jpeg",
    "search": "uc/i2/pcv/ss061 ss061 s061 charcoal slats stone charcoal",
    "unique": false,
-   "cheaperCount": 3,
+   "cheaperCount": 2,
    "oos": false,
    "alternatives": [
     {
@@ -5377,24 +5267,6 @@
      "isCheaper": false,
      "diff": "= same price",
      "scoreClass": "hi"
-    },
-    {
-     "name": "0519 Charcoal Mini rectangle Stone",
-     "code": "UC/I2/PCR/S0519",
-     "material": "Charcoal",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 11.6,
-      "T_mm": 6,
-      "raw": "9.5 ft ? 11.6 in ? 6 mm"
-     },
-     "psf": 152,
-     "perPanel": 1399,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771323882160-384437.jpeg",
-     "similarity": 82,
-     "isCheaper": true,
-     "diff": "▼ Saves ₹801",
-     "scoreClass": "mid"
     },
     {
      "name": "0643 Charcoal Mini rectangle Stone",
@@ -5524,24 +5396,6 @@
      "similarity": 72,
      "isCheaper": false,
      "diff": "▲ ₹2,240 premium",
-     "scoreClass": "mid"
-    },
-    {
-     "name": "7695 Nio Plain Fabric",
-     "code": "UC/P1/PPP/F7695",
-     "material": "Nio",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 9.8,
-      "T_mm": 6,
-      "raw": "9.5 ft ? 9.8 in ? 6 mm"
-     },
-     "psf": 98,
-     "perPanel": 760,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1778841881054-68a537.png",
-     "similarity": 72,
-     "isCheaper": false,
-     "diff": "= same price",
      "scoreClass": "mid"
     }
    ]
@@ -5822,7 +5676,7 @@
    "search": "uc/i2/ppd/wx921 wx921 x921 wpc classic wood wpc",
    "unique": false,
    "cheaperCount": 0,
-   "oos": true,
+   "oos": false,
    "alternatives": [
     {
      "name": "7331 Charcoal Fluted Wood",
@@ -5913,9 +5767,27 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140294615-99bfdb.jpeg",
    "search": "uc/i2/spg/wx921 wx921 x921 wpc sheet wood | 7 mm wpc",
    "unique": false,
-   "cheaperCount": 2,
+   "cheaperCount": 3,
    "oos": false,
    "alternatives": [
+    {
+     "name": "X921 WPC Classic Wood",
+     "code": "UC/I2/PPD/WX921",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 7.68,
+      "T_mm": 12,
+      "raw": "9.5 ft ? 7.68 in ? 12 mm"
+     },
+     "psf": 214,
+     "perPanel": 1300,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140375832-702c05.jpeg",
+     "similarity": 85,
+     "isCheaper": true,
+     "diff": "▼ Saves ₹1,700",
+     "scoreClass": "hi"
+    },
     {
      "name": "9204 Nio Plain Wood",
      "code": "UC/P1/PPP/W9204",
