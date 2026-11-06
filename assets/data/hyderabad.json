@@ -2454,7 +2454,7 @@
    "search": "uc/i2/ppd/k3731 k3731 3731 wpc classic gold wpc",
    "unique": false,
    "cheaperCount": 1,
-   "oos": false,
+   "oos": true,
    "alternatives": [
     {
      "name": "X905* WPC Small square Wood",
@@ -4704,24 +4704,6 @@
      "similarity": 80,
      "isCheaper": false,
      "diff": "▲ ₹690 premium",
-     "scoreClass": "mid"
-    },
-    {
-     "name": "3731 WPC Classic Gold",
-     "code": "UC/I2/PPD/K3731",
-     "material": "WPC",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 5.9,
-      "T_mm": 9,
-      "raw": "9.5 ft ? 5.9 in ? 9 mm"
-     },
-     "psf": 343,
-     "perPanel": 1600,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140038825-037e2e.jpeg",
-     "similarity": 77,
-     "isCheaper": false,
-     "diff": "▲ ₹790 premium",
      "scoreClass": "mid"
     },
     {
