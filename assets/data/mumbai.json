@@ -2256,44 +2256,6 @@
    ]
   },
   {
-   "name": "3731 WPC Classic Gold",
-   "code": "UC/I2/PPD/K3731",
-   "material": "WPC",
-   "dims": {
-    "L_ft": 9.5,
-    "W_in": 5.9,
-    "T_mm": 9,
-    "raw": "9.5 ft ? 5.9 in ? 9 mm"
-   },
-   "psf": 321,
-   "perPanel": 1500,
-   "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140038825-037e2e.jpeg",
-   "search": "uc/i2/ppd/k3731 k3731 3731 wpc classic gold wpc",
-   "unique": false,
-   "cheaperCount": 1,
-   "oos": false,
-   "alternatives": [
-    {
-     "name": "X905* WPC Small square Wood",
-     "code": "UC/M2/PPE/WX905",
-     "material": "WPC",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 6.4,
-      "T_mm": 19.5,
-      "raw": "9.5 ft ? 6.4 in ? 19.5 mm"
-     },
-     "psf": 160,
-     "perPanel": 810,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324093359-1440b0.jpeg",
-     "similarity": 77,
-     "isCheaper": true,
-     "diff": "▼ Saves ₹690",
-     "scoreClass": "mid"
-    }
-   ]
-  },
-  {
    "name": "4022 Charcoal Concave Gold",
    "code": "UC/I2/PCZ/K4022",
    "material": "Charcoal",
@@ -3742,7 +3704,7 @@
    "search": "uc/i2/ppd/wb010 wb010 b010 wpc classic wood wpc",
    "unique": true,
    "cheaperCount": 0,
-   "oos": false,
+   "oos": true,
    "alternatives": []
   },
   {
@@ -4538,24 +4500,6 @@
      "perPanel": 1500,
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/customer-app-supply/1779351754052-51ca8f.jpeg",
      "similarity": 80,
-     "isCheaper": false,
-     "diff": "▲ ₹690 premium",
-     "scoreClass": "mid"
-    },
-    {
-     "name": "3731 WPC Classic Gold",
-     "code": "UC/I2/PPD/K3731",
-     "material": "WPC",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 5.9,
-      "T_mm": 9,
-      "raw": "9.5 ft ? 5.9 in ? 9 mm"
-     },
-     "psf": 321,
-     "perPanel": 1500,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140038825-037e2e.jpeg",
-     "similarity": 77,
      "isCheaper": false,
      "diff": "▲ ₹690 premium",
      "scoreClass": "mid"

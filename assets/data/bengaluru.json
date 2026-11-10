@@ -3590,7 +3590,7 @@
    "search": "uc/i2/pps/la235 la235 a235 wpc concave texture wpc",
    "unique": false,
    "cheaperCount": 0,
-   "oos": true,
+   "oos": false,
    "alternatives": [
     {
      "name": "A235 WPC Sheet Texture | 7 mm",
@@ -3627,7 +3627,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1769519862186-dd3a51.jpeg",
    "search": "uc/i2/sph/la235 la235 a235 wpc sheet texture | 7 mm wpc",
    "unique": false,
-   "cheaperCount": 5,
+   "cheaperCount": 6,
    "oos": false,
    "alternatives": [
     {
@@ -3718,6 +3718,24 @@
      "similarity": 71,
      "isCheaper": true,
      "diff": "▼ Saves ₹8,400",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "A235 WPC Concave Texture",
+     "code": "UC/I2/PPS/LA235",
+     "material": "WPC",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 7.64,
+      "T_mm": 12,
+      "raw": "9.5 ft ? 7.64 in ? 12 mm"
+     },
+     "psf": 281,
+     "perPanel": 1700,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1769519914375-12e5b9.jpeg",
+     "similarity": 70,
+     "isCheaper": true,
+     "diff": "▼ Saves ₹7,500",
      "scoreClass": "mid"
     }
    ]
