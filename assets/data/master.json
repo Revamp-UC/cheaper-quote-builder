@@ -2251,7 +2251,7 @@
   "sub": "Panel",
   "live": {
    "delhi": true,
-   "mumbai": false,
+   "mumbai": true,
    "bangalore": true,
    "hyderabad": true
   },
@@ -6219,7 +6219,7 @@
   "sub": "Panel",
   "live": {
    "delhi": false,
-   "mumbai": true,
+   "mumbai": false,
    "bangalore": false,
    "hyderabad": false
   },
