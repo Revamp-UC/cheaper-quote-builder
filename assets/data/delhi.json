@@ -1781,24 +1781,6 @@
      "isCheaper": false,
      "diff": "= same price",
      "scoreClass": "hi"
-    },
-    {
-     "name": "X919 WPC Classic Wood",
-     "code": "UC/I2/PPD/WX919",
-     "material": "WPC",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 7.68,
-      "T_mm": 12,
-      "raw": "9.5 ft ? 7.68 in ? 12 mm"
-     },
-     "psf": 214,
-     "perPanel": 1300,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140043893-a972de.jpeg",
-     "similarity": 72,
-     "isCheaper": false,
-     "diff": "▲ ₹660 premium",
-     "scoreClass": "mid"
     }
    ]
   },
@@ -5275,24 +5257,6 @@
    "oos": false,
    "alternatives": [
     {
-     "name": "X919 WPC Classic Wood",
-     "code": "UC/I2/PPD/WX919",
-     "material": "WPC",
-     "dims": {
-      "L_ft": 9.5,
-      "W_in": 7.68,
-      "T_mm": 12,
-      "raw": "9.5 ft ? 7.68 in ? 12 mm"
-     },
-     "psf": 214,
-     "perPanel": 1300,
-     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140043893-a972de.jpeg",
-     "similarity": 81,
-     "isCheaper": false,
-     "diff": "▲ ₹490 premium",
-     "scoreClass": "mid"
-    },
-    {
      "name": "8360 Nio Fluted Wood",
      "code": "UC/P1/PPF/W8360",
      "material": "Nio",
@@ -5420,7 +5384,7 @@
    "search": "uc/i2/ppd/wx919 wx919 x919 wpc classic wood wpc",
    "unique": false,
    "cheaperCount": 2,
-   "oos": false,
+   "oos": true,
    "alternatives": [
     {
      "name": "X905* WPC Small square Wood",
