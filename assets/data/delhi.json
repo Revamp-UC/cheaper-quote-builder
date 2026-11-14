@@ -314,7 +314,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140303807-76ae4c.jpeg",
    "search": "uc/i2/ppc/n0102 n0102 0102 wpc ceramic neutral wpc",
    "unique": false,
-   "cheaperCount": 1,
+   "cheaperCount": 2,
    "oos": false,
    "alternatives": [
     {
@@ -333,6 +333,24 @@
      "similarity": 84,
      "isCheaper": true,
      "diff": "▼ Saves ₹150",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "5081 Charcoal Concave Gold",
+     "code": "UC/M2/PCS/K5081",
+     "material": "Charcoal",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 5.5,
+      "T_mm": 11,
+      "raw": "9.5 ft ? 5.5 in ? 11 mm"
+     },
+     "psf": 276,
+     "perPanel": 1200,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324236440-f726c2.jpeg",
+     "similarity": 80,
+     "isCheaper": true,
+     "diff": "▼ Saves ₹250",
      "scoreClass": "mid"
     },
     {
@@ -1892,7 +1910,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/partner-app-supply/1770140386280-c49004.jpeg",
    "search": "uc/i2/ppd/h2022 h2022 2022 wpc classic white wpc",
    "unique": false,
-   "cheaperCount": 1,
+   "cheaperCount": 2,
    "oos": false,
    "alternatives": [
     {
@@ -1911,6 +1929,24 @@
      "similarity": 90,
      "isCheaper": false,
      "diff": "▲ ₹150 premium",
+     "scoreClass": "hi"
+    },
+    {
+     "name": "5081 Charcoal Concave Gold",
+     "code": "UC/M2/PCS/K5081",
+     "material": "Charcoal",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 5.5,
+      "T_mm": 11,
+      "raw": "9.5 ft ? 5.5 in ? 11 mm"
+     },
+     "psf": 276,
+     "perPanel": 1200,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324236440-f726c2.jpeg",
+     "similarity": 85,
+     "isCheaper": true,
+     "diff": "▼ Saves ₹100",
      "scoreClass": "hi"
     },
     {
@@ -2578,7 +2614,7 @@
    "search": "uc/m2/pcs/k5081 k5081 5081 charcoal concave gold charcoal",
    "unique": false,
    "cheaperCount": 0,
-   "oos": true,
+   "oos": false,
    "alternatives": [
     {
      "name": "2022 WPC Classic White",
@@ -2669,7 +2705,7 @@
    "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324227958-666a55.jpeg",
    "search": "uc/m2/pcs/k5082 k5082 5082 charcoal concave gold charcoal",
    "unique": false,
-   "cheaperCount": 2,
+   "cheaperCount": 3,
    "oos": false,
    "alternatives": [
     {
@@ -2704,6 +2740,24 @@
      "perPanel": 1200,
      "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324209974-0313bc.jpeg",
      "similarity": 80,
+     "isCheaper": true,
+     "diff": "▼ Saves ₹300",
+     "scoreClass": "mid"
+    },
+    {
+     "name": "5081 Charcoal Concave Gold",
+     "code": "UC/M2/PCS/K5081",
+     "material": "Charcoal",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 5.5,
+      "T_mm": 11,
+      "raw": "9.5 ft ? 5.5 in ? 11 mm"
+     },
+     "psf": 276,
+     "perPanel": 1200,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324236440-f726c2.jpeg",
+     "similarity": 79,
      "isCheaper": true,
      "diff": "▼ Saves ₹300",
      "scoreClass": "mid"
@@ -2763,6 +2817,24 @@
      "isCheaper": false,
      "diff": "▲ ₹300 premium",
      "scoreClass": "hi"
+    },
+    {
+     "name": "5081 Charcoal Concave Gold",
+     "code": "UC/M2/PCS/K5081",
+     "material": "Charcoal",
+     "dims": {
+      "L_ft": 9.5,
+      "W_in": 5.5,
+      "T_mm": 11,
+      "raw": "9.5 ft ? 5.5 in ? 11 mm"
+     },
+     "psf": 276,
+     "perPanel": 1200,
+     "image": "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/growth/home-screen/1771324236440-f726c2.jpeg",
+     "similarity": 82,
+     "isCheaper": false,
+     "diff": "= same price",
+     "scoreClass": "mid"
     }
    ]
   },
